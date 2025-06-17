@@ -1,0 +1,40 @@
+{
+  "PLiQF5oAAAAJ": {
+    "Name": "Baofeng Jia",
+    "total_new": "3",
+    "publications": {
+      "YsMSGLbcyi4C": {
+        "title": "Advancing antimicrobial resistance (AMR) surveillance: Characterizing AMR mobility and improving AMR prediction from metagenomics data",
+        "year": 2022,
+        "publisher": "Simon Fraser University",
+        "author": [
+          "Baofeng Jia"
+        ],
+        "url": "https://summit.sfu.ca/_flysystem/fedora/2022-12/etd22229.pdf",
+        "firstOrLast": true
+      }
+    }
+  },
+  "eAHX0swAAAAJ": {
+    "Name": "Kristen L Gray",
+    "total_new": "1",
+    "publications": {
+      "eQOLeE2rZwMC": {
+        "title": "Curated Genomic Islands Database Supplementary Code Snapshot",
+        "year": 2023,
+        "publisher": null,
+        "author": [
+          "Kristen L Gray",
+          "Nolan Woods",
+          "Natalie Kumpula",
+          "Dante Wong",
+          "Margit Glashutter",
+          "Adrienne Kwan",
+          "Fiona SL Brinkman"
+        ],
+        "url": "https://scholar.google.com/scholar?cluster=15127058647015402996&hl=en&oi=scholarr",
+        "firstOrLast": true
+      }
+    }
+  }
+}
