@@ -13,3 +13,4 @@ scripts/.vscode
 .checkpoint
 .secret/*
 msg.md
+last_allpubs.json
