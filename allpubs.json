@@ -1794,5 +1794,1814 @@
         "firstOrLast": false
       }
     }
+  },
+  "YngkjFAAAAAJ": {
+    "Name": "Emma Griffiths",
+    "total_publications": "93",
+    "publications": {
+      "k_IJM867U9cC": {
+        "title": "CARD 2020: antibiotic resistome surveillance with the comprehensive antibiotic resistance database",
+        "year": 2020,
+        "publisher": "Oxford University Press",
+        "author": [
+          "Brian P Alcock",
+          "Amogelang R Raphenya",
+          "Tammy TY Lau",
+          "Kara K Tsang",
+          "M\u00e9gane Bouchard",
+          "Arman Edalatmand",
+          "William Huynh",
+          "Anna-Lisa V Nguyen",
+          "Annie A Cheng",
+          "Sihan Liu",
+          "Sally Y Min",
+          "Anatoly Miroshnichenko",
+          "Hiu-Ki Tran",
+          "Rafik E Werfalli",
+          "Jalees A Nasir",
+          "Martins Oloni",
+          "David J Speicher",
+          "Alexandra Florescu",
+          "Bhavya Singh",
+          "Mateusz Faltyn",
+          "Anastasia Hernandez-Koutoucheva",
+          "Arjun N Sharma",
+          "Emily Bordeleau",
+          "Andrew C Pawlowski",
+          "Haley L Zubyk",
+          "Damion Dooley",
+          "Emma Griffiths",
+          "Finlay Maguire",
+          "Geoff L Winsor",
+          "Robert G Beiko",
+          "Fiona SL Brinkman",
+          "William WL Hsiao",
+          "Gary V Domselaar",
+          "Andrew G McArthur"
+        ],
+        "url": "https://academic.oup.com/nar/article-abstract/48/D1/D517/5608993",
+        "firstOrLast": false
+      },
+      "KlAtU1dfN6UC": {
+        "title": "Enhanced annotations and features for comparing thousands of Pseudomonas genomes in the Pseudomonas genome database",
+        "year": 2016,
+        "publisher": "Oxford University Press",
+        "author": [
+          "Geoffrey L Winsor",
+          "Emma J Griffiths",
+          "Raymond Lo",
+          "Bhavjinder K Dhillon",
+          "Julie A Shay",
+          "Fiona SL Brinkman"
+        ],
+        "url": "https://academic.oup.com/nar/article-abstract/44/D1/D646/2502706",
+        "firstOrLast": false
+      },
+      "zA6iFVUQeVQC": {
+        "title": "CARD 2023: expanded curation, support for machine learning, and resistome prediction at the Comprehensive Antibiotic Resistance Database",
+        "year": 2023,
+        "publisher": "Oxford University Press",
+        "author": [
+          "Brian P Alcock",
+          "William Huynh",
+          "Romeo Chalil",
+          "Keaton W Smith",
+          "Amogelang R Raphenya",
+          "Mateusz A Wlodarski",
+          "Arman Edalatmand",
+          "Aaron Petkau",
+          "Sohaib A Syed",
+          "Kara K Tsang",
+          "Sheridan JC Baker",
+          "Mugdha Dave",
+          "Madeline C McCarthy",
+          "Karyn M Mukiri",
+          "Jalees A Nasir",
+          "Bahar Golbon",
+          "Hamna Imtiaz",
+          "Xingjian Jiang",
+          "Komal Kaur",
+          "Megan Kwong",
+          "Zi Cheng Liang",
+          "Keyu C Niu",
+          "Prabakar Shan",
+          "Jasmine YJ Yang",
+          "Kristen L Gray",
+          "Gemma R Hoad",
+          "Baofeng Jia",
+          "Timsy Bhando",
+          "Lindsey A Carfrae",
+          "Maya A Farha",
+          "Shawn French",
+          "Rodion Gordzevich",
+          "Kenneth Rachwalski",
+          "Megan M Tu",
+          "Emily Bordeleau",
+          "Damion Dooley",
+          "Emma Griffiths",
+          "Haley L Zubyk",
+          "Eric D Brown",
+          "Finlay Maguire",
+          "Robert G Beiko",
+          "William WL Hsiao",
+          "Fiona SL Brinkman",
+          "Gary Van Domselaar",
+          "Andrew G McArthur"
+        ],
+        "url": "https://academic.oup.com/nar/article-abstract/51/D1/D690/6764414",
+        "firstOrLast": false
+      },
+      "d1gkVwhDpl0C": {
+        "title": "Expanding fungal pathogenesis: Cryptococcus breaks out of the opportunistic box",
+        "year": 2011,
+        "publisher": "Nature Publishing Group UK",
+        "author": [
+          "James W Kronstad",
+          "Rodgoun Attarian",
+          "Brigitte Cadieux",
+          "Jaehyuk Choi",
+          "Cletus A D'souza",
+          "Emma J Griffiths",
+          "Jennifer MH Geddes",
+          "Guanggan Hu",
+          "Won Hee Jung",
+          "Matthias Kretschmer",
+          "Sanjay Saikia",
+          "Joyce Wang"
+        ],
+        "url": "https://www.nature.com/articles/nrmicro2522",
+        "firstOrLast": false
+      },
+      "u-x6o8ySG0sC": {
+        "title": "Expanding the soil antibiotic resistome: exploring environmental diversity",
+        "year": 2007,
+        "publisher": "Elsevier Current Trends",
+        "author": [
+          "Vanessa M D\u2019Costa",
+          "Emma Griffiths",
+          "Gerard D Wright"
+        ],
+        "url": "https://www.sciencedirect.com/science/article/pii/S136952740700121X",
+        "firstOrLast": false
+      },
+      "hC7cP41nSMkC": {
+        "title": "FoodOn: a harmonized food ontology to increase global food traceability, quality control and data integration",
+        "year": 2018,
+        "publisher": "Nature Publishing Group UK",
+        "author": [
+          "Damion M Dooley",
+          "Emma J Griffiths",
+          "Gurinder S Gosal",
+          "Pier L Buttigieg",
+          "Robert Hoehndorf",
+          "Matthew C Lange",
+          "Lynn M Schriml",
+          "Fiona SL Brinkman",
+          "William WL Hsiao"
+        ],
+        "url": "https://www.nature.com/articles/s41538-018-0032-6",
+        "firstOrLast": false
+      },
+      "IjCSPb-OGe4C": {
+        "title": "Rifamycin antibiotic resistance by ADP-ribosylation: structure and diversity of Arr",
+        "year": 2008,
+        "publisher": "National Academy of Sciences",
+        "author": [
+          "Jennifer Baysarowich",
+          "Kalinka Koteva",
+          "Donald W Hughes",
+          "Linda Ejim",
+          "Emma Griffiths",
+          "Kun Zhang",
+          "Murray Junop",
+          "Gerard D Wright"
+        ],
+        "url": "https://www.pnas.org/doi/abs/10.1073/pnas.0711939105",
+        "firstOrLast": false
+      },
+      "u5HHmVD_uO8C": {
+        "title": "Critical issues in bacterial phylogeny",
+        "year": 2002,
+        "publisher": "Academic Press",
+        "author": [
+          "Radhey S Gupta",
+          "Emma Griffiths"
+        ],
+        "url": "https://www.sciencedirect.com/science/article/pii/S0040580902915893",
+        "firstOrLast": true
+      },
+      "Y0pCki6q_DkC": {
+        "title": "Cross\u2010species discovery of syncretic drug combinations that potentiate the antifungal fluconazole",
+        "year": 2011,
+        "publisher": "John Wiley & Sons, Ltd",
+        "author": [
+          "Michaela Spitzer",
+          "Emma Griffiths",
+          "Kim M Blakely",
+          "Jan Wildenhain",
+          "Linda Ejim",
+          "Laura Rossi",
+          "Gianfranco De Pascale",
+          "Jasna Curak",
+          "Eric Brown",
+          "Mike Tyers",
+          "Gerard D Wright"
+        ],
+        "url": "https://www.embopress.org/doi/abs/10.1038/msb.2011.31",
+        "firstOrLast": false
+      },
+      "ULOm3_A8WrAC": {
+        "title": "Prediction of synergism from chemical-genetic interactions by machine learning",
+        "year": 2015,
+        "publisher": "Elsevier",
+        "author": [
+          "Jan Wildenhain",
+          "Michaela Spitzer",
+          "Sonam Dolma",
+          "Nick Jarvik",
+          "Rachel White",
+          "Marcia Roy",
+          "Emma Griffiths",
+          "David S Bellows",
+          "Gerard D Wright",
+          "Mike Tyers"
+        ],
+        "url": "https://www.cell.com/fulltext/S2405-4712(15)00217-3",
+        "firstOrLast": false
+      },
+      "_FxGoFyzp5QC": {
+        "title": "Adaptation of Cryptococcus neoformans to mammalian hosts: integrated regulation of metabolism and virulence",
+        "year": 2012,
+        "publisher": "American Society for Microbiology",
+        "author": [
+          "Jim Kronstad",
+          "Sanjay Saikia",
+          "Erik David Nielson",
+          "Matthias Kretschmer",
+          "Wonhee Jung",
+          "Guanggan Hu",
+          "Jennifer MH Geddes",
+          "Emma J Griffiths",
+          "Jaehyuk Choi",
+          "Brigitte Cadieux",
+          "Melissa Caza",
+          "Rodgoun Attarian"
+        ],
+        "url": "https://journals.asm.org/doi/abs/10.1128/ec.05273-11",
+        "firstOrLast": false
+      },
+      "ufrVoPGSRksC": {
+        "title": "Identification of signature proteins that are distinctive of the Deinococcus-Thermus phylum",
+        "year": 2007,
+        "publisher": null,
+        "author": [
+          "Emma Griffiths",
+          "Radhey S Gupta"
+        ],
+        "url": "https://www.academia.edu/download/41172980/Identification_of_signature_proteins_tha20160114-19510-16opfma.pdf",
+        "firstOrLast": true
+      },
+      "qjMakFHDy7sC": {
+        "title": "Complete and Draft Genome Sequences of Six Members of the Aquificales",
+        "year": 2009,
+        "publisher": "American Society for Microbiology",
+        "author": [
+          "Anna-Louise Reysenbach",
+          "N Hamamura",
+          "Mircea Podar",
+          "Emma Griffiths",
+          "Steve Ferreira",
+          "R Hochstein",
+          "J Heidelberg",
+          "J Johnson",
+          "D Mead",
+          "Andrew Pohorille",
+          "M Sarmiento",
+          "K Schweighofer",
+          "Rekha Seshadri",
+          "Mary A Voytek"
+        ],
+        "url": "https://journals.asm.org/doi/abs/10.1128/jb.01645-08",
+        "firstOrLast": false
+      },
+      "9yKSN-GCB0IC": {
+        "title": "Signature sequences in diverse proteins provide evidence for the late divergence of the Order Aquificales",
+        "year": 2004,
+        "publisher": null,
+        "author": [
+          "Emma Griffiths",
+          "Radhey S Gupta"
+        ],
+        "url": "https://scielo.isciii.es/pdf/im/v7n1/original5.pdf",
+        "firstOrLast": true
+      },
+      "4DMP91E08xMC": {
+        "title": "Context is everything: harmonization of critical food microbiology descriptors and metadata for improved food safety and surveillance",
+        "year": 2017,
+        "publisher": "Frontiers Media SA",
+        "author": [
+          "Emma Griffiths",
+          "Damion Dooley",
+          "Morag Graham",
+          "Gary Van Domselaar",
+          "Fiona SL Brinkman",
+          "William WL Hsiao"
+        ],
+        "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2017.01068/full",
+        "firstOrLast": true
+      },
+      "L8Ckcad2t8MC": {
+        "title": "The integrated rapid infectious disease analysis (IRIDA) platform",
+        "year": 2018,
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": [
+          "Thomas C Matthews",
+          "Franklin R Bristow",
+          "Emma J Griffiths",
+          "Aaron Petkau",
+          "Josh Adam",
+          "Damion Dooley",
+          "Peter Kruczkiewicz",
+          "John Curatcha",
+          "Jennifer Cabral",
+          "Dan Fornika",
+          "Geoffrey L Winsor",
+          "Melanie Courtot",
+          "Claire Bertelli",
+          "Ataollah Roudgar",
+          "Pedro Feijao",
+          "Philip Mabon",
+          "Eric Enns",
+          "Joel Thiessen",
+          "Alexander Keddy",
+          "Judith Isaac-Renton",
+          "Jennifer L Gardy",
+          "Patrick Tang",
+          "The IRIDA Consortium Jo\u00e3o A Carri\u00e7o",
+          "Leonid Chindelevitch",
+          "Cedric Chauve",
+          "Morag R Graham",
+          "Andrew G McArthur",
+          "Eduardo N Taboada",
+          "Robert G Beiko",
+          "Fiona SL Brinkman",
+          "William WL Hsiao",
+          "Gary Van Domselaar"
+        ],
+        "url": "https://www.biorxiv.org/content/10.1101/381830.abstract",
+        "firstOrLast": false
+      },
+      "Tyk-4Ss8FVUC": {
+        "title": "Chlamydiae-specific proteins and indels: novel tools for studies",
+        "year": 2006,
+        "publisher": "Elsevier",
+        "author": [
+          "Radhey S Gupta",
+          "Emma Griffiths"
+        ],
+        "url": "https://www.cell.com/trends/microbiology/abstract/S0966-842X(06)00232-0",
+        "firstOrLast": true
+      },
+      "zYLM7Y9cAGgC": {
+        "title": "BLAST screening of chlamydial genomes to identify signature proteins that are unique for the Chlamydiales, Chlamydiaceae, Chlamydophila and Chlamydia groups of species",
+        "year": 2006,
+        "publisher": "BioMed Central",
+        "author": [
+          "Emma Griffiths",
+          "Michael S Ventresca",
+          "Radhey S Gupta"
+        ],
+        "url": "https://link.springer.com/article/10.1186/1471-2164-7-14",
+        "firstOrLast": true
+      },
+      "2osOgNQ5qMEC": {
+        "title": "The use of signature sequences in different proteins to determine the relative branching order of bacterial divisions: evidence that Fibrobacter diverged at a similar time to Chlamydia and the Cytophaga\u2013Flavobacterium\u2013Bacteroides division",
+        "year": 2001,
+        "publisher": "Microbiology Society",
+        "author": [
+          "Emma Griffiths",
+          "Radhey S Gupta"
+        ],
+        "url": "https://www.microbiologyresearch.org/content/journal/micro/10.1099/00221287-147-9-2611",
+        "firstOrLast": true
+      },
+      "YsMSGLbcyi4C": {
+        "title": "Phylogeny and shared conserved inserts in proteins provide evidence that Verrucomicrobia are the closest known free-living relatives of chlamydiae",
+        "year": 2007,
+        "publisher": "Microbiology Society",
+        "author": [
+          "Emma Griffiths",
+          "Radhey S Gupta"
+        ],
+        "url": "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.2007/009118-0?crawler=true",
+        "firstOrLast": true
+      },
+      "W7OEmFMy1HYC": {
+        "title": "Distinctive Protein Signatures Provide Molecular Markers and Evidence for the Monophyletic Nature of the Deinococcus-Thermus Phylum",
+        "year": 2004,
+        "publisher": "American Society for Microbiology",
+        "author": [
+          "Emma Griffiths",
+          "Radhey S Gupta"
+        ],
+        "url": "https://journals.asm.org/doi/abs/10.1128/jb.186.10.3097-3107.2004",
+        "firstOrLast": true
+      },
+      "UeHWp8X0CEIC": {
+        "title": "Protein signatures distinctive of chlamydial species: horizontal transfers of cell wall biosynthesis genes glmU from archaea to chlamydiae and murA between chlamydiae and Streptomyces",
+        "year": 2002,
+        "publisher": "Microbiology Society",
+        "author": [
+          "Emma Griffiths",
+          "Radhey S Gupta"
+        ],
+        "url": "https://www.microbiologyresearch.org/content/journal/micro/10.1099/00221287-148-8-2541",
+        "firstOrLast": true
+      },
+      "eQOLeE2rZwMC": {
+        "title": "Conserved indels in essential proteins that are distinctive characteristics of Chlamydiales and provide novel means for their identification",
+        "year": 2005,
+        "publisher": "Microbiology Society",
+        "author": [
+          "Emma Griffiths",
+          "Astrid K Petrich",
+          "Radhey S Gupta"
+        ],
+        "url": "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.28057-0",
+        "firstOrLast": true
+      },
+      "WF5omc3nYNoC": {
+        "title": "Molecular signatures in protein sequences that are characteristics of the phylum Aquificae",
+        "year": 2006,
+        "publisher": "Society for General Microbiology",
+        "author": [
+          "Emma Griffiths",
+          "Radhey S Gupta"
+        ],
+        "url": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.63927-0",
+        "firstOrLast": true
+      },
+      "UebtZRa9Y70C": {
+        "title": "A defect in ATP\u2010citrate lyase links acetyl\u2010CoA production, virulence factor elaboration and virulence in Cryptococcus neoformans",
+        "year": 2012,
+        "publisher": null,
+        "author": [
+          "Emma J Griffiths",
+          "Guanggan Hu",
+          "Bettina Fries",
+          "M\u00e9lissa Caza",
+          "Joyce Wang",
+          "Joerg Gsponer",
+          "Marcellene A Gates\u2010Hollingsworth",
+          "Thomas R Kozel",
+          "Louis De Repentigny",
+          "James W Kronstad"
+        ],
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/mmi.12065",
+        "firstOrLast": false
+      },
+      "M3ejUd6NZC8C": {
+        "title": "FoodON: A global farm-to-fork food ontology.",
+        "year": 2016,
+        "publisher": null,
+        "author": [
+          "Emma J Griffiths",
+          "Damion M Dooley",
+          "Pier Luigi Buttigieg",
+          "Robert Hoehndorf",
+          "Fiona SL Brinkman",
+          "William WL Hsiao"
+        ],
+        "url": "https://www.academia.edu/download/107761019/IP21_ICBO2016.pdf",
+        "firstOrLast": false
+      },
+      "kNdYIx-mwKoC": {
+        "title": "A phylogenomic and molecular markers based analysis of the phylum Chlamydiae: proposal to divide the class Chlamydiia into two orders, Chlamydiales and Parachlamydiales ord. nov., and emended description of the class Chlamydiia",
+        "year": 2015,
+        "publisher": "Springer International Publishing",
+        "author": [
+          "Radhey S Gupta",
+          "Sohail Naushad",
+          "Chirayu Chokshi",
+          "Emma Griffiths",
+          "Mobolaji Adeolu"
+        ],
+        "url": "https://link.springer.com/article/10.1007/s10482-015-0532-1",
+        "firstOrLast": false
+      },
+      "SeFeTyx0c_EC": {
+        "title": "Future-proofing and maximizing the utility of metadata: The PHA4GE SARS-CoV-2 contextual data specification package",
+        "year": 2022,
+        "publisher": "Oxford University Press",
+        "author": [
+          "Emma J Griffiths",
+          "Ruth E Timme",
+          "Catarina In\u00eas Mendes",
+          "Andrew J Page",
+          "Nabil-Fareed Alikhan",
+          "Dan Fornika",
+          "Finlay Maguire",
+          "Josefina Campos",
+          "Daniel Park",
+          "Idowu B Olawoye",
+          "Paul E Oluniyi",
+          "Dominique Anderson",
+          "Alan Christoffels",
+          "Anders Gon\u00e7alves da Silva",
+          "Rhiannon Cameron",
+          "Damion Dooley",
+          "Lee S Katz",
+          "Allison Black",
+          "Ilene Karsch-Mizrachi",
+          "Tanya Barrett",
+          "Anjanette Johnston",
+          "Thomas R Connor",
+          "Samuel M Nicholls",
+          "Adam A Witney",
+          "Gregory H Tyson",
+          "Simon H Tausch",
+          "Amogelang R Raphenya",
+          "Brian Alcock",
+          "David M Aanensen",
+          "Emma Hodcroft",
+          "William WL Hsiao",
+          "Ana Tereza R Vasconcelos",
+          "Duncan R MacCannell"
+        ],
+        "url": "https://academic.oup.com/gigascience/article-abstract/doi/10.1093/gigascience/giac003/6529104",
+        "firstOrLast": false
+      },
+      "aqlVkmm33-oC": {
+        "title": "Baseline practices for the application of genomic data supporting regulatory food safety",
+        "year": 2017,
+        "publisher": "Oxford University Press",
+        "author": [
+          "Dominic Lambert",
+          "Arthur Pightling",
+          "Emma Griffiths",
+          "Gary Van Domselaar",
+          "Peter Evans",
+          "Sharon Berthelet",
+          "Duncan Craig",
+          "P Scott Chandry",
+          "Robert Stones",
+          "Fiona Brinkman",
+          "Alexandre Angers-Loustau",
+          "Joachim Kreysa",
+          "Weida Tong",
+          "Burton Blais"
+        ],
+        "url": "https://academic.oup.com/jaoac/article-abstract/100/3/721/5654203",
+        "firstOrLast": false
+      },
+      "LkGwnXOMwfcC": {
+        "title": "Lateral transfers of serine hydroxymethyltransferase (glyA) and UDP-N-acetylglucosamine enolpyruvyl transferase (murA) genes from free-living Actinobacteria to the parasitic chlamydiae",
+        "year": 2006,
+        "publisher": "Springer-Verlag",
+        "author": [
+          "Emma Griffiths",
+          "Radhey S Gupta"
+        ],
+        "url": "https://link.springer.com/article/10.1007/s00239-005-0286-x",
+        "firstOrLast": true
+      },
+      "4TOpqqG69KYC": {
+        "title": "Systematic chemical-genetic and chemical-chemical interaction datasets for prediction of compound synergism",
+        "year": 2016,
+        "publisher": "Nature Publishing Group",
+        "author": [
+          "Jan Wildenhain",
+          "Michaela Spitzer",
+          "Sonam Dolma",
+          "Nick Jarvik",
+          "Rachel White",
+          "Marcia Roy",
+          "Emma Griffiths",
+          "David S Bellows",
+          "Gerard D Wright",
+          "Mike Tyers"
+        ],
+        "url": "https://www.nature.com/articles/sdata201695",
+        "firstOrLast": false
+      },
+      "Zph67rFs4hoC": {
+        "title": "Microbiome analysis across a natural copper gradient at a proposed northern Canadian mine site",
+        "year": 2016,
+        "publisher": "Frontiers Media SA",
+        "author": [
+          "Thea Van Rossum",
+          "Melanie M Pylatuk",
+          "Heather L Osachoff",
+          "Emma J Griffiths",
+          "Raymond Lo",
+          "May Quach",
+          "Richard Palmer",
+          "Nicola Lower",
+          "Fiona SL Brinkman",
+          "Christopher J Kennedy"
+        ],
+        "url": "https://www.frontiersin.org/articles/10.3389/fenvs.2015.00084/full",
+        "firstOrLast": false
+      },
+      "Se3iqnhoufwC": {
+        "title": "Aimless mutants of Cryptococcus neoformans: failure to disseminate",
+        "year": 2012,
+        "publisher": "Elsevier",
+        "author": [
+          "EJ Griffiths",
+          "M Kretschmer",
+          "JW Kronstad"
+        ],
+        "url": "https://www.sciencedirect.com/science/article/pii/S1749461312000061",
+        "firstOrLast": false
+      },
+      "hMod-77fHWUC": {
+        "title": "Nanoporous metal based composites: Giving polymers strength and making metals move",
+        "year": 2020,
+        "publisher": "Pergamon",
+        "author": [
+          "Emma Griffiths",
+          "Jana Wilmers",
+          "Swantje Bargmann",
+          "B Daya Reddy"
+        ],
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022509619301085",
+        "firstOrLast": true
+      },
+      "BqipwSGYUEgC": {
+        "title": "The PHA4GE SARS-CoV-2 contextual data specification for open genomic epidemiology",
+        "year": 2020,
+        "publisher": "Preprints",
+        "author": [
+          "Emma J Griffiths",
+          "Ruth E Timme",
+          "Andrew J Page",
+          "Nabil-Fareed Alikhan",
+          "Dan Fornika",
+          "Finlay Maguire",
+          "Catarina In\u00eas Mendes",
+          "Simon H Tausch",
+          "Allison Black",
+          "Thomas R Connor",
+          "Gregory H Tyson",
+          "David M Aanensen",
+          "Brian Alcock",
+          "Josefina Campos",
+          "Alan Christoffels",
+          "Anders Gon\u00e7alves da Silva",
+          "Emma Hodcroft",
+          "William WL Hsiao",
+          "Lee S Katz",
+          "Samuel M Nicholls",
+          "Paul E Oluniyi",
+          "Idowu B Olawoye",
+          "Amogelang R Raphenya",
+          "Ana Tereza R Vasconcelos",
+          "Adam A Witney",
+          "Duncan R MacCannell"
+        ],
+        "url": "https://www.preprints.org/manuscript/202008.0220/v1?ref=https://githubhelp.com",
+        "firstOrLast": false
+      },
+      "cFHS6HbyZ2cC": {
+        "title": "On the importance of using region-dependent material parameters for full-scale human brain simulations",
+        "year": 2023,
+        "publisher": "Elsevier Masson",
+        "author": [
+          "Emma Griffiths",
+          "Jan Hinrichsen",
+          "Nina Reiter",
+          "Silvia Budday"
+        ],
+        "url": "https://www.sciencedirect.com/science/article/pii/S0997753823000025",
+        "firstOrLast": true
+      },
+      "3s1wT3WcHBgC": {
+        "title": "The DataHarmonizer: a tool for faster data harmonization, validation, aggregation and analysis of pathogen genomics contextual information",
+        "year": 2023,
+        "publisher": "Microbiology Society",
+        "author": [
+          "Ivan S Gill",
+          "Emma J Griffiths",
+          "Damion Dooley",
+          "Rhiannon Cameron",
+          "Sarah Savi\u0107 Kalles\u00f8e",
+          "Nithu Sara John",
+          "Anoosha Sehar",
+          "Gurinder Gosal",
+          "David Alexander",
+          "Madison Chapel",
+          "Matthew A Croxen",
+          "Benjamin Delisle",
+          "Rachelle Di Tullio",
+          "Daniel Gaston",
+          "Ana Duggan",
+          "Jennifer L Guthrie",
+          "Mark Horsman",
+          "Esha Joshi",
+          "Levon Kearny",
+          "Natalie Knox",
+          "Lynette Lau",
+          "Jason J LeBlanc",
+          "Vincent Li",
+          "Pierre Lyons",
+          "Keith MacKenzie",
+          "Andrew G McArthur",
+          "Emily M Panousis",
+          "John Palmer",
+          "Natalie Prystajecky",
+          "Kerri N Smith",
+          "Jennifer Tanner",
+          "Christopher Townend",
+          "Andrea Tyler",
+          "Gary Van Domselaar",
+          "William WL Hsiao"
+        ],
+        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000908",
+        "firstOrLast": false
+      },
+      "HoB7MX3m0LUC": {
+        "title": "Addressing privacy concerns in sharing viral sequences and minimum contextual data in a public repository during the COVID-19 pandemic",
+        "year": 2022,
+        "publisher": "Frontiers Media SA",
+        "author": [
+          "Lingqiao Song",
+          "Hanshi Liu",
+          "Fiona S L Brinkman",
+          "Erin Gill",
+          "Emma J Griffiths",
+          "William W L Hsiao",
+          "Sarah Savi\u0107-Kalles\u00f8e",
+          "Sandrine Moreira",
+          "Gary Van Domselaar",
+          "Ma\u2019n H Zawati",
+          "Yann Joly"
+        ],
+        "url": "https://www.frontiersin.org/articles/10.3389/fgene.2021.716541/full",
+        "firstOrLast": false
+      },
+      "EUQCXRtRnyEC": {
+        "title": "Finite element modeling of traumatic brain injury: Areas of future interest",
+        "year": 2022,
+        "publisher": "Elsevier",
+        "author": [
+          "Emma Griffiths",
+          "Silvia Budday"
+        ],
+        "url": "https://www.sciencedirect.com/science/article/pii/S246845112200054X",
+        "firstOrLast": true
+      },
+      "SP6oXDckpogC": {
+        "title": "hAMRonization: Enhancing antimicrobial resistance prediction using the PHA4GE AMR detection specification and tooling",
+        "year": 2024,
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": [
+          "In\u00eas Mendes",
+          "Emma Griffiths",
+          "Alex Manuele",
+          "Dan Fornika",
+          "Simon H Tausch",
+          "Thanh Le-Viet",
+          "Jody Phelan",
+          "Conor J Meehan",
+          "Amogelang R Raphenya",
+          "Brian Alcock",
+          "Elizabeth Culp",
+          "Federico Lorenzo",
+          "Maria Sol Haim",
+          "Adam Witney",
+          "Allison Black",
+          "Lee Katz",
+          "Paul Oluniyi",
+          "Idowu Olawoye",
+          "Ruth Timme",
+          "Hui-min Neoh",
+          "Su Datt Lam",
+          "Tengku Zetty Maztura Tengku Jamaluddin",
+          "Sheila Nathan",
+          "Mia Yang Ang",
+          "Sabrina Di Gregorio",
+          "Koen Vandelannoote",
+          "Rutaiwan Dusadeepong",
+          "Leonid Chindelevitch",
+          "Muhammad Ibtisam Nasar",
+          "David Aanensen",
+          "Ayorinde Oluwatobiloba Afolayan",
+          "Erkison Ewomazino Odih",
+          "Andrew Grant McArthur",
+          "Michael Feldgarden",
+          "Marcelo M Galas",
+          "Josefina Campos",
+          "Iruka N Okeke",
+          "Anthony Underwood",
+          "Andrew J Page",
+          "Duncan MacCannell",
+          "Finlay Maguire"
+        ],
+        "url": "https://www.biorxiv.org/content/10.1101/2024.03.07.583950.abstract",
+        "firstOrLast": false
+      },
+      "roLk4NBRz8UC": {
+        "title": "Identification and characterization of new inhibitors of fungal homoserine kinase",
+        "year": 2011,
+        "publisher": "WILEY\u2010VCH Verlag",
+        "author": [
+          "Gianfranco De Pascale",
+          "Emma J Griffiths",
+          "Tushar Shakya",
+          "Ishac Nazi",
+          "Gerard D Wright"
+        ],
+        "url": "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.201100121",
+        "firstOrLast": false
+      },
+      "dshw04ExmUIC": {
+        "title": "The suitability of swab tests for determining the bacterial content of dairy equipment.",
+        "year": 1955,
+        "publisher": null,
+        "author": [
+          "SB Thomas",
+          "E Griffiths",
+          "K Elson",
+          "Nancy B Bebbington"
+        ],
+        "url": "https://www.cabidigitallibrary.org/doi/full/10.5555/19550400626",
+        "firstOrLast": false
+      },
+      "4OULZ7Gr8RgC": {
+        "title": "A schema for digitized surface swab site metadata in open-source DNA sequence databases",
+        "year": 2023,
+        "publisher": "American Society for Microbiology",
+        "author": [
+          "Jingzhang Feng",
+          "Devin Daeschel",
+          "Damion Dooley",
+          "Emma Griffiths",
+          "Marc Allard",
+          "Ruth Timme",
+          "Yi Chen",
+          "Abigail B Snyder"
+        ],
+        "url": "https://journals.asm.org/doi/abs/10.1128/msystems.01284-22",
+        "firstOrLast": false
+      },
+      "bEWYMUwI8FkC": {
+        "title": "Eleven high-quality reference genome sequences and 360 draft assemblies of Shiga toxin-producing Escherichia coli isolates from human, food, animal, and environmental sources in Canada",
+        "year": 2019,
+        "publisher": "American Society for Microbiology",
+        "author": [
+          "Shari Tyson",
+          "Christy-Lynn Peterson",
+          "Adam Olson",
+          "Shaun Tyler",
+          "Natalie Knox",
+          "Emma Griffiths",
+          "Damion Dooley",
+          "William Hsiao",
+          "Jennifer Cabral",
+          "Roger P Johnson",
+          "Chad Laing",
+          "Victor Gannon",
+          "Tarah Lynch",
+          "Gary Van Domselaar",
+          "Fiona Brinkman",
+          "Morag Graham"
+        ],
+        "url": "https://journals.asm.org/doi/abs/10.1128/mra.00625-19",
+        "firstOrLast": false
+      },
+      "uWQEDVKXjbEC": {
+        "title": "The Canadian VirusSeq Data Portal and Duotang: open resources for SARS-CoV-2 viral sequences and genomic epidemiology",
+        "year": 2024,
+        "publisher": "Microbiology Society",
+        "author": [
+          "Erin E Gill",
+          "Baofeng Jia",
+          "Carmen Lia Murall",
+          "Rapha\u00ebl Poujol",
+          "Muhammad Zohaib Anwar",
+          "Nithu Sara John",
+          "Justin Richardsson",
+          "Ashley Hobb",
+          "Abayomi S Olabode",
+          "Alexandru Lepsa",
+          "Ana T Duggan",
+          "Andrea D Tyler",
+          "Arnaud N'Guessan",
+          "Atul Kachru",
+          "Brandon Chan",
+          "Catherine Yoshida",
+          "Christina K Yung",
+          "David Bujold",
+          "Dusan Andric",
+          "Edmund Su",
+          "Emma J Griffiths",
+          "Gary Van Domselaar",
+          "Gordon W Jolly",
+          "Heather KE Ward",
+          "Henrich Feher",
+          "Jared Baker",
+          "Jared T Simpson",
+          "Jaser Uddin",
+          "Jiannis Ragoussis",
+          "Jon Eubank",
+          "J\u00f6rg H Fritz",
+          "Jos\u00e9 H\u00e9ctor G\u00e1lvez",
+          "Karen Fang",
+          "Kim Cullion",
+          "Leonardo Rivera",
+          "Linda Xiang",
+          "Matthew A Croxen",
+          "Mitchell Shiell",
+          "Natalie Prystajecky",
+          "Pierre-Olivier Quirion",
+          "Rosita Bajari",
+          "Samantha Rich",
+          "Samira Mubareka",
+          "Sandrine Moreira",
+          "Scott Cain",
+          "Steven G Sutcliffe",
+          "Susanne A Kraemer",
+          "Yelizar Alturmessov",
+          "Yann Joly",
+          "CPHLN Consortium**",
+          "CanCOGeN Consortium**",
+          "VirusSeq Data Portal Academic",
+          "Health Network**",
+          "Marc Fiume",
+          "Terrance P Snutch",
+          "Cindy Bell",
+          "Catalina Lopez-Correa",
+          "Julie G Hussin",
+          "Jeffrey B Joy",
+          "Caroline Colijn",
+          "Paul MK Gordon",
+          "William WL Hsiao",
+          "Art FY Poon",
+          "Natalie C Knox",
+          "M\u00e9lanie Courtot",
+          "Lincoln Stein",
+          "Sarah P Otto",
+          "Guillaume Bourque",
+          "B Jesse Shapiro",
+          "Fiona SL Brinkman"
+        ],
+        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001293",
+        "firstOrLast": false
+      },
+      "blknAaTinKkC": {
+        "title": "Insights into fracture mechanisms in nanoporous gold and polymer impregnated nanoporous gold",
+        "year": 2020,
+        "publisher": "Elsevier",
+        "author": [
+          "Emma Griffiths",
+          "Celal Soyarslan",
+          "Swantje Bargmann",
+          "BD Reddy"
+        ],
+        "url": "https://www.sciencedirect.com/science/article/pii/S2352431620301279",
+        "firstOrLast": true
+      },
+      "CHSYGLWDkRkC": {
+        "title": "Putting everything in its place: using the INSDC compliant Pathogen Data Object Model to better structure genomic data submitted for public health applications",
+        "year": 2023,
+        "publisher": "Microbiology Society",
+        "author": [
+          "Ruth E Timme",
+          "Ilene Karsch-Mizrachi",
+          "Zahra Waheed",
+          "Masanori Arita",
+          "Duncan MacCannell",
+          "Finlay Maguire",
+          "Robert Petit III III",
+          "Andrew J Page",
+          "Catarina In\u00eas Mendes",
+          "Muhammad Ibtisam Nasar",
+          "Paul Oluniyi",
+          "Andrea D Tyler",
+          "Amogelang R Raphenya",
+          "Jennifer L Guthrie",
+          "Idowu Olawoye",
+          "Gabriele Rinck",
+          "Colman O\u2019Cathail",
+          "John Lees",
+          "Guy Cochrane",
+          "Carla Cummins",
+          "J Rodney Brister",
+          "William Klimke",
+          "Michael Feldgarden",
+          "Emma Griffiths"
+        ],
+        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001145",
+        "firstOrLast": true
+      },
+      "9ZlFYXVOiuMC": {
+        "title": "The Genomic Epidemiology Ontology and GEEM Ontology Reusability Platform.",
+        "year": 2017,
+        "publisher": null,
+        "author": [
+          "Damion M Dooley",
+          "Emma J Griffiths",
+          "Gurinder Gosal",
+          "Fiona SL Brinkman",
+          "William WL Hsiao"
+        ],
+        "url": "https://www.academia.edu/download/55767956/ODLS_paper_12_1.pdf",
+        "firstOrLast": false
+      },
+      "bFI3QPDXJZMC": {
+        "title": "PHA4GE quality control contextual data tags: standardized annotations for sharing public health sequence datasets with known quality issues to facilitate testing and training",
+        "year": 2024,
+        "publisher": "Microbiology Society",
+        "author": [
+          "Emma J Griffiths",
+          "In\u00eas Mendes",
+          "Finlay Maguire",
+          "Jennifer L Guthrie",
+          "Bryan A Wee",
+          "Sarah Schmedes",
+          "Kathryn Holt",
+          "Chanchal Yadav",
+          "Rhiannon Cameron",
+          "Charlotte Barclay",
+          "Damion Dooley",
+          "Duncan MacCannell",
+          "Leonid Chindelevitch",
+          "Ilene Karsch-Mizrachi",
+          "Zahra Waheed",
+          "Lee Katz",
+          "Robert Petit III",
+          "Mugdha Dave",
+          "Paul Oluniyi",
+          "Muhammad Ibtisam Nasar",
+          "Amogelang Raphenya",
+          "William WL Hsiao",
+          "Ruth E Timme"
+        ],
+        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001260",
+        "firstOrLast": false
+      },
+      "iH-uZ7U-co4C": {
+        "title": "FoodOn: A Semantic Ontology Approach for Mapping Foodborne Disease Metadata.",
+        "year": 2017,
+        "publisher": null,
+        "author": [
+          "Dalia A Alghamdi",
+          "Damion M Dooley",
+          "Gurinder Gosal",
+          "Emma J Griffiths",
+          "Fiona SL Brinkman",
+          "William WL Hsiao"
+        ],
+        "url": "https://ceur-ws.org/Vol-2137/paper_32.pdf",
+        "firstOrLast": false
+      },
+      "WbkHhVStYXYC": {
+        "title": "AMRColab\u2013a user-friendly antimicrobial resistance detection and visualization tool",
+        "year": 2024,
+        "publisher": "Microbiology Society",
+        "author": [
+          "Su Datt Lam",
+          "Sabrina Di Gregorio",
+          "Mia Yang Ang",
+          "Emma Griffiths",
+          "Tengku Zetty Maztura Tengku Jamaluddin",
+          "Sheila Nathan",
+          "Hui-min Neoh"
+        ],
+        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001308",
+        "firstOrLast": false
+      },
+      "Tiz5es2fbqcC": {
+        "title": "The broom of the system: a harmonized contextual data specification for one health AMR pathogen genomic surveillance",
+        "year": 2024,
+        "publisher": "OSF",
+        "author": [
+          "Emma Griffiths",
+          "Julie Shay",
+          "Rhiannon Cameron",
+          "Charlotte Barclay",
+          "Anoosha Sehar",
+          "Damion Dooley",
+          "Nithu Sara John",
+          "Andrew Scott",
+          "Gabriel Wajnberg",
+          "Emil Jurga",
+          "Lisa Johnson",
+          "Tony Kess",
+          "James Robertson",
+          "Justin Schonfeld",
+          "Patrick Bastedo",
+          "Joshua Tang",
+          "Xianhua Yin",
+          "Attiq Rehman",
+          "Rhiannon Wallace",
+          "Cheyenne Conrad",
+          "Shannon Eagle",
+          "Ashley Cooper",
+          "Adrian Muwonge",
+          "Bryan Wee",
+          "Leonid Chindelvitch",
+          "Tim McAllister",
+          "Moussa Diara",
+          "John Nash",
+          "Ed Topp",
+          "Gary Van Domselaar",
+          "Eduardo Taboada",
+          "Sandeep Tamber",
+          "Jordyn Broadbent",
+          "Dominic Poulin-LaPrade",
+          "Derek Smith",
+          "Richard Reid-Smith",
+          "Rahat Zaheer",
+          "Chad Laing",
+          "Catherine Carrillo"
+        ],
+        "url": "https://osf.io/xbf4t_v1/",
+        "firstOrLast": true
+      },
+      "UxriW0iASnsC": {
+        "title": "A comparison of brain retraction mechanisms using finite element analysis and the effects of regionally heterogeneous material properties",
+        "year": 2024,
+        "publisher": "Springer Berlin Heidelberg",
+        "author": [
+          "Emma Griffiths",
+          "Jayaratnam Jayamohan",
+          "Silvia Budday"
+        ],
+        "url": "https://link.springer.com/article/10.1007/s10237-023-01806-2",
+        "firstOrLast": true
+      },
+      "D03iK_w7-QYC": {
+        "title": "Canadians\u2019 opinions towards COVID-19 data-sharing: a national cross-sectional survey",
+        "year": 2023,
+        "publisher": "British Medical Journal Publishing Group",
+        "author": [
+          "Sarah A Savic Kallesoe",
+          "Tian Rabbani",
+          "Erin E Gill",
+          "Fiona Brinkman",
+          "Emma J Griffiths",
+          "Ma'n Zawati",
+          "Hanshi Liu",
+          "Nicole Palmour",
+          "Yann Joly",
+          "William WL Hsiao"
+        ],
+        "url": "https://bmjopen.bmj.com/content/13/2/e066418.abstract",
+        "firstOrLast": false
+      },
+      "35N4QoGY0k4C": {
+        "title": "CanCOGeN interim recommendations for naming, identifying, and reporting SARS-CoV-2 variants of concern",
+        "year": 2021,
+        "publisher": null,
+        "author": [
+          "Emma Griffiths",
+          "Jennifer Tanner",
+          "Natalie Knox",
+          "Will Hsiao",
+          "Gary Van Domselaar"
+        ],
+        "url": "https://www.cacmid.ca/wp-content/uploads/CanCOGeN-Interim-Recommendations-for-Naming-Identifying-and-Reporting-SARS-CoV-2-Variants-1.pdf",
+        "firstOrLast": true
+      },
+      "rO6llkc54NcC": {
+        "title": "SARS-CoV-2 genomic contextual data harmonization: recommendations from a mixed methods analysis of COVID-19 case report forms across Canada",
+        "year": 2025,
+        "publisher": "BioMed Central",
+        "author": [
+          "Rhiannon Cameron",
+          "Sarah Savi\u0107 Kalles\u00f8e",
+          "Emma J Griffiths",
+          "Damion Dooley",
+          "Aishwarya Sridhar",
+          "Anoosha Sehar",
+          "Lauren C Tindale",
+          "William WL Hsiao"
+        ],
+        "url": "https://link.springer.com/article/10.1186/s13690-025-01604-5",
+        "firstOrLast": false
+      },
+      "738O_yMBCRsC": {
+        "title": "Crossing the streams: improving data quality and integration across the one health genomics continuum with data standards and implementation strategies",
+        "year": 2025,
+        "publisher": "Canadian Science Publishing",
+        "author": [
+          "Emma J Griffiths",
+          "Emil Jurga",
+          "Gabriel Wajnberg",
+          "Julie A Shay",
+          "Rhiannon Cameron",
+          "Charlie Barclay",
+          "Anoosha Sehar",
+          "Damion Dooley",
+          "Nithu Sara John",
+          "Andrew Scott",
+          "Lisa A Johnson",
+          "James Robertson",
+          "Justin Schonfeld",
+          "D Patrick Bastedo",
+          "Joshua Tang",
+          "Xianhua Yin",
+          "Attiq Rehman",
+          "Rhiannon L Wallace",
+          "Krysty Thomas",
+          "Shannon HC Eagle",
+          "Tim McAllister",
+          "Moussa S Diarra",
+          "John HE Nash",
+          "Ed Topp",
+          "Gary Van Domselaar",
+          "Eduardo Taboada",
+          "Sandeep Tamber",
+          "Tony Kess",
+          "Jordyn Broadbent",
+          "Dominic Poulin-Laprade",
+          "Derek DN Smith",
+          "Richard Reid-Smith",
+          "Rahat Zaheer",
+          "Chad R Laing",
+          "Catherine D Carrillo",
+          "William WL Hsiao"
+        ],
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjm-2024-0203",
+        "firstOrLast": false
+      },
+      "XiSMed-E-HIC": {
+        "title": "The PHA4GE Microbial Data-Sharing Accord: establishing baseline consensus microbial data-sharing norms to facilitate cross-sectoral collaboration",
+        "year": 2024,
+        "publisher": "BMJ Specialist Journals",
+        "author": [
+          "Emma J Griffiths",
+          "Peter van Heusden",
+          "Tsaone Tamuhla",
+          "Eddie T Lulamba",
+          "Anja Bedeker",
+          "Michelle Nichols",
+          "Alan Christoffels",
+          "Nicki Tiffin"
+        ],
+        "url": "https://gh.bmj.com/content/9/10/e016474.abstract",
+        "firstOrLast": false
+      },
+      "b0M2c_1WBrUC": {
+        "title": "Opinions matter: public opinions on data-sharing and how they can shape pathogen genomic surveillance in Canada",
+        "year": 2023,
+        "publisher": "EU European Publishing",
+        "author": [
+          "Tian Rabbani",
+          "Sarah A Savi\u0107 Kalles\u00f8e",
+          "Erin E Gill",
+          "Fiona SL Brinkman",
+          "Emma J Griffiths",
+          "Ma\u2019n H Zawati",
+          "Hanshi Liu",
+          "Nicole Palmour",
+          "Yann Joly",
+          "William WL Hsiao"
+        ],
+        "url": "https://www.populationmedicine.eu/Opinions-matter-public-opinions-on-data-sharing-and-how-they-can-shape-pathogen-genomic,163811,0,2.html",
+        "firstOrLast": false
+      },
+      "M05iB0D1s5AC": {
+        "title": "(v) Standardizing the Isolation Source Metadata for the Genomic Epidemiology of Foodborne Pathogens Using LexMapr",
+        "year": 2021,
+        "publisher": "IAFP",
+        "author": [
+          "Maria Balkey",
+          "Michael Batz",
+          "Gopal Gopinath",
+          "Gurinder Gosal",
+          "Emma Griffiths",
+          "Heather Tate",
+          "Ruth Timme"
+        ],
+        "url": "https://iafp.confex.com/iafp/2021/onlineprogram.cgi/Paper/25959",
+        "firstOrLast": false
+      },
+      "a0OBvERweLwC": {
+        "title": "Eleven high-quality reference genome sequences and 360 draft assemblies of Shiga toxin-producing Escherichia coli isolates from human, food, animal, and environmental sources in Canada. Microbiol Resour Announc 8: e00625-19",
+        "year": 2019,
+        "publisher": null,
+        "author": [
+          "S Tyson",
+          "CL Peterson",
+          "A Olson",
+          "S Tyler",
+          "N Knox",
+          "E Griffiths",
+          "D Dooley",
+          "W Hsiao",
+          "J Cabral",
+          "RP Johnson",
+          "C Laing",
+          "V Gannon",
+          "T Lynch",
+          "G Van Domselaar",
+          "F Brinkman",
+          "M Graham"
+        ],
+        "url": "https://www.academia.edu/download/69582893/e00625-19.full.pdf",
+        "firstOrLast": false
+      },
+      "ldfaerwXgEUC": {
+        "title": "NGBO: Introducing-omics Data into Biobanking Ontology.",
+        "year": 2019,
+        "publisher": null,
+        "author": [
+          "Dalia A Alghamdi",
+          "Damion M Dooley",
+          "Gurinder Gosal",
+          "Emma J Griffiths",
+          "William WL Hsiao"
+        ],
+        "url": "https://www.academia.edu/download/111558176/ICBO_2019_paper_56.pdf",
+        "firstOrLast": false
+      },
+      "08ZZubdj9fEC": {
+        "title": "Contextual Data Collection Form Development & Extraction Protocol (Scoping Review)",
+        "year": 2025,
+        "publisher": null,
+        "author": [
+          "Rhiannon Cameron",
+          "Tian Rabbani",
+          "Miguel Dario Prieto",
+          "Marcus Yee",
+          "Jun Duan",
+          "Charlotte Barclay",
+          "Kijin Kim",
+          "Chao Chun Liu",
+          "Anoosha Sehar",
+          "Aishwarya Sridhar",
+          "Arien Fucoy",
+          "Emma Griffiths",
+          "William Hsiao"
+        ],
+        "url": "https://slack.protocols.io:8443/view/contextual-data-collection-form-development-amp-ex-dmfj43kn.html",
+        "firstOrLast": false
+      },
+      "tOudhMTPpwUC": {
+        "title": "Fixing the plumbing: Building interoperability between wastewater genomic surveillance datasets and systems using the PHA4GE contextual data specification",
+        "year": 2025,
+        "publisher": "OSF",
+        "author": [
+          "Jillian Paull",
+          "Charlotte Barclay",
+          "Rhiannon Cameron",
+          "Damion Dooley",
+          "Ivan Gill",
+          "Dilip Abraham",
+          "Remigio Arteaga",
+          "Julian Carrillo-Reyes",
+          "Barbara Ghiglione",
+          "Maria Haim",
+          "John Juma",
+          "Waqasuddin Khan",
+          "Iqra Saleh",
+          "Muhammad Nisar",
+          "Hongo Anderson",
+          "Rintu Kutum",
+          "Aadya Sood",
+          "Victor Mabasa",
+          "Ars\u00e8ne Nono",
+          "Kevine Makuetche",
+          "Armelle Megueya",
+          "Michael Owusu",
+          "Berhanu Sahilu",
+          "Pierrette Tchuinte",
+          "Sarmila Tandukar",
+          "Masood Kayani",
+          "Laasya Samhita",
+          "David Blazes",
+          "Simon Harris",
+          "Ilene Mizrachi",
+          "Linda Frisse",
+          "Anjanette Johnston",
+          "Emily Clough",
+          "Christopher O'Sullivan",
+          "Jonathan Trow",
+          "J Brister",
+          "Ravinder Pannu",
+          "Jennifer Ali",
+          "Peter Woollard",
+          "Mathew Fisher",
+          "Colman O\u2019Cathail",
+          "Chrystal Landgraff",
+          "Tom Connor",
+          "Emily Smith",
+          "Mathew Thomson",
+          "Douglas Manuel",
+          "Melanie Courtot",
+          "Catarina Mendes",
+          "Joshua Levy",
+          "Finlay Maguire",
+          "Ruth Timme",
+          "William Hsiao",
+          "Emma Griffiths"
+        ],
+        "url": "https://osf.io/z79vk_v1/",
+        "firstOrLast": true
+      },
+      "K3LRdlH-MEoC": {
+        "title": "VIRUS-MVP: A framework for comprehensive surveillance of viral mutations and their functional impacts",
+        "year": 2025,
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": [
+          "Muhammad Zohaib Anwar",
+          "Ivan S Gill",
+          "Madeline Iseminger",
+          "Anoosha Sehar",
+          "Emma J Griffiths",
+          "Damion Dooley",
+          "Jun Duan",
+          "Khushi Vora",
+          "Gary Van Domselaar",
+          "Fiona SL Brinkman",
+          "Paul MK Gordon",
+          "William WL Hsiao"
+        ],
+        "url": "https://www.biorxiv.org/content/10.1101/2025.02.16.636315.abstract",
+        "firstOrLast": false
+      },
+      "OU6Ihb5iCvQC": {
+        "title": "NCBI submission protocol (BioSample/SRA)",
+        "year": 2024,
+        "publisher": null,
+        "author": [
+          "Ruth Timme",
+          "Emma Griffiths",
+          "Bryan Wee"
+        ],
+        "url": "https://slack.protocols.io:8443/view/ncbi-submission-protocol-biosample-sra-dc6s2zee.html",
+        "firstOrLast": false
+      },
+      "l7t_Zn2s7bgC": {
+        "title": "Harmonizing/integrating surveillance data in the One Health continuum: The GRDI One Health AMR pathogen genomic surveillance contextual data standard",
+        "year": 2024,
+        "publisher": null,
+        "author": [
+          "Emma Griffiths",
+          "Julie Shay",
+          "Anoosha Sehar",
+          "Rhiannon Cameron",
+          "Charlotte Barclay",
+          "John Nithu-Sara",
+          "Andrew Scott",
+          "Gabriel Wajnberg",
+          "James Robertson",
+          "Justin Schonfeld",
+          "Patrick Bastedo",
+          "Emil Jurga",
+          "Lisa Johnson",
+          "Tony Kess",
+          "John Nash",
+          "Edward Topp",
+          "Eduardo Taboada",
+          "Gary Van-Domselaar",
+          "Derek Smith",
+          "Jordyn Broadbent",
+          "Dominic Poulin-Laprade",
+          "Chad Laing",
+          "Rahat Zaheer",
+          "Richard Reid-Smith",
+          "Catherine Carrillo",
+          "William Hsiao"
+        ],
+        "url": "https://agris.fao.org/search/en/providers/122439/records/671262897f591113e2a63303",
+        "firstOrLast": true
+      },
+      "KxtntwgDAa4C": {
+        "title": "Tracking the Functional Effects of SARS-CoV-2 Genomic Variants: an Ontology-Driven Approach.",
+        "year": 2023,
+        "publisher": null,
+        "author": [
+          "Madeline Iseminger",
+          "Muhammad Zohaib Anwar",
+          "Rhiannon Cameron",
+          "Damion M Dooley",
+          "Paul Gordon",
+          "Emma J Griffiths",
+          "Anoosha Sehar",
+          "Khushi Vora",
+          "William Hsiao"
+        ],
+        "url": "https://ceur-ws.org/Vol-3603/icbo2023_proceedings.pdf#page=197",
+        "firstOrLast": false
+      },
+      "nb7KW1ujOQ8C": {
+        "title": "Development of Standardized Metadata for Machine-Readable Swab Site Descriptions That Support Digitization of Environmental Monitoring Data",
+        "year": 2022,
+        "publisher": "IAFP",
+        "author": [
+          "Jingzhang Feng",
+          "Devin Daeschel",
+          "Damion Dooley",
+          "Emma Griffiths",
+          "Marc Allard",
+          "Ruth Timme",
+          "Abigail B Snyder"
+        ],
+        "url": "https://iafp.confex.com/iafp/2022/onlineprogram.cgi/Paper/29237",
+        "firstOrLast": false
+      },
+      "_xSYboBqXhAC": {
+        "title": "Overview of NCBI's SARS-CoV-2 submission process and the metadata required V. 4",
+        "year": 2022,
+        "publisher": null,
+        "author": [
+          "Ruth Timme",
+          "Emma Griffiths",
+          "Lee Katz",
+          "Michael Weigand"
+        ],
+        "url": "https://scholar.archive.org/work/gdcdmdt32feavkr27yspxtgnra/access/wayback/https://www.protocols.io/view/overview-of-ncbi-39-s-sars-cov-2-submission-proces-b35iqq4e.pdf",
+        "firstOrLast": false
+      },
+      "xtRiw3GOFMkC": {
+        "title": "SARS-CoV-2 NCBI submission protocol: SRA, BioSample, and BioProject",
+        "year": 2022,
+        "publisher": null,
+        "author": [
+          "Ruth EE Timme",
+          "Emma Griffiths",
+          "Duncan MacCannell",
+          "Lee Katz",
+          "Michael Weigand"
+        ],
+        "url": "https://www.protocols.io/view/sars-cov-2-ncbi-submission-protocol-sra-biosample-b3ttqnnn.html",
+        "firstOrLast": false
+      },
+      "NhqRSupF_l8C": {
+        "title": "SARS-CoV-2 NCBI consensus submission protocol: GenBank",
+        "year": 2022,
+        "publisher": null,
+        "author": [
+          "Ruth E Timme",
+          "Emma Griffiths",
+          "Lee Katz",
+          "Duncan MacCannell",
+          "Michael Weigand"
+        ],
+        "url": "https://www.protocols.io/view/sars-cov-2-ncbi-consensus-submission-protocol-genb-b3bnqime.html",
+        "firstOrLast": false
+      },
+      "pqnbT2bcN3wC": {
+        "title": "(v) Harmonizing and Future-Proofing Food Data with Ontologies",
+        "year": 2021,
+        "publisher": "IAFP",
+        "author": [
+          "Emma Griffiths"
+        ],
+        "url": "https://iafp.confex.com/iafp/2021/onlineprogram.cgi/Paper/25396",
+        "firstOrLast": true
+      },
+      "fPk4N6BV_jEC": {
+        "title": "PHA4GE contextual metadata SOP",
+        "year": 2021,
+        "publisher": null,
+        "author": [
+          "Emma Griffiths",
+          "Ruth E Timme",
+          "Nabil-Fareed Alikhan",
+          "Duncan MacCannell"
+        ],
+        "url": "https://scholar.google.com/scholar?cluster=3695199755121962391&hl=en&oi=scholarr",
+        "firstOrLast": true
+      },
+      "70eg2SAEIzsC": {
+        "title": "Nanoporous metal based composites: Giving polymers strength and making metals move (vol 137, 103848, 2020)",
+        "year": 2020,
+        "publisher": "PERGAMON-ELSEVIER SCIENCE LTD",
+        "author": [
+          "E Griffiths",
+          "J Wilmers",
+          "S Bargmann",
+          "BD Reddy"
+        ],
+        "url": "https://scholar.google.com/scholar?cluster=1352910847542264097&hl=en&oi=scholarr",
+        "firstOrLast": false
+      },
+      "YFjsv_pBGBYC": {
+        "title": "Corrigendum to \u201cNanoporous metal based composites: Giving polymers strength and making metals move\u201d",
+        "year": 2020,
+        "publisher": "Pergamon",
+        "author": [
+          "E Griffiths",
+          "J Wilmers",
+          "S Bargmann",
+          "BD Reddy"
+        ],
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022509620303872",
+        "firstOrLast": false
+      },
+      "1sJd4Hv_s6UC": {
+        "title": "SARS-CoV-2 EBI submission protocol: ENA, BioSample, and BioProject",
+        "year": 2020,
+        "publisher": null,
+        "author": [
+          "Nabil-Fareed Alikhan",
+          "Ruth Timme",
+          "Emma Griffiths",
+          "Duncan MacCannell"
+        ],
+        "url": "https://www.protocols.io/view/sars-cov-2-ebi-submission-protocol-ena-biosample-a-bhwdj7a6.html",
+        "firstOrLast": false
+      },
+      "abG-DnoFyZgC": {
+        "title": "SARS-CoV2 GISAID submission protocol",
+        "year": 2020,
+        "publisher": null,
+        "author": [
+          "Nabil-Fareed Alikhan",
+          "Emma Griffiths",
+          "Ruth Timme",
+          "Duncan MacCannell"
+        ],
+        "url": "https://www.protocols.io/view/sars-cov2-gisaid-submission-protocol-bh98j99w.html",
+        "firstOrLast": false
+      },
+      "pyW8ca7W8N0C": {
+        "title": "SOP for populating EBI submission templates (ENA)",
+        "year": 2020,
+        "publisher": null,
+        "author": [
+          "Nabil-Fareed Alikhan",
+          "Emma Griffiths",
+          "Ruth Timme",
+          "Duncan MacCannell"
+        ],
+        "url": "https://slack.protocols.io:8443/view/sop-for-populating-ebi-submission-templates-ena-bh5dj826.html",
+        "firstOrLast": false
+      },
+      "dfsIfKJdRG4C": {
+        "title": "SARS-CoV2 EBI assembly submission protocol",
+        "year": 2020,
+        "publisher": null,
+        "author": [
+          "Nabil-Fareed Alikhan",
+          "Emma Griffiths",
+          "Ruth Timme",
+          "Duncan MacCannell"
+        ],
+        "url": "https://scholar.archive.org/work/ayb4v6oqxzcctkcncarewui6j4/access/wayback/https://www.protocols.io/view/sars-cov2-ebi-assembly-submission-protocol-bhwqj7dw.pdf",
+        "firstOrLast": false
+      },
+      "P5F9QuxV20EC": {
+        "title": "SOP for populating NCBI submission templates for SARS-CoV-2 (BioSample, SRA, and GenBank)",
+        "year": 2020,
+        "publisher": null,
+        "author": [
+          "Ruth Timme",
+          "Emma Griffiths",
+          "Duncan MacCannell",
+          "Stacia Wyman"
+        ],
+        "url": "https://www.protocols.io/view/sop-for-populating-ncbi-submission-templates-for-s-bf89jrz6.pdf",
+        "firstOrLast": false
+      },
+      "JV2RwH3_ST0C": {
+        "title": "Molecular Evolution and Phylogenetic Analysis",
+        "year": 2020,
+        "publisher": "John Wiley & Sons",
+        "author": [
+          "Emma J Griffiths",
+          "Fiona SL Brinkman"
+        ],
+        "url": "https://books.google.com/books?hl=en&lr=&id=OuHNDwAAQBAJ&oi=fnd&pg=PA251&dq=info:u0GPa9_diwQJ:scholar.google.com&ots=UfvQN3_aPl&sig=vta3S7JUJpoAy3ZTr0Qv-kCn_o4",
+        "firstOrLast": false
+      },
+      "NMxIlDl6LWMC": {
+        "title": "Micromechanical modelling of advanced hierarchical composites",
+        "year": 2020,
+        "publisher": null,
+        "author": [
+          "Emma Griffiths"
+        ],
+        "url": "https://open.uct.ac.za/items/fa7819b6-3707-444f-a5ae-931153e4c87c",
+        "firstOrLast": true
+      },
+      "ZHo1McVdvXMC": {
+        "title": "An Ontology-Driven Web Platform for Publishing Data Specifications to Support Data Sharing.",
+        "year": 2019,
+        "publisher": null,
+        "author": [
+          "Damion M Dooley",
+          "Ivan S Gill",
+          "Emma J Griffiths",
+          "William L Hsiao"
+        ],
+        "url": "https://www.academia.edu/download/107761004/ICBO_2019_paper_58.pdf",
+        "firstOrLast": false
+      },
+      "yD5IFk8b50cC": {
+        "title": "Author's personal copy",
+        "year": 2018,
+        "publisher": null,
+        "author": [
+          "Radhey S Gupta",
+          "Emma Griffiths"
+        ],
+        "url": "https://www.academia.edu/download/41173254/Chlamydiae-specific_proteins_and_indels_20160114-30991-tyz2gg.pdf",
+        "firstOrLast": true
+      },
+      "ZeXyd9-uunAC": {
+        "title": "NGBO: The Introduction of-omics Data to Biobanking Ontology.",
+        "year": 2018,
+        "publisher": null,
+        "author": [
+          "Dalia A Alghamdi",
+          "Damion M Dooley",
+          "Emma J Griffiths",
+          "Gurinder Pal Gosal",
+          "William WL Hsiao"
+        ],
+        "url": "https://www.academia.edu/download/112917868/paper-02.pdf",
+        "firstOrLast": false
+      },
+      "qxL8FJ1GzNcC": {
+        "title": "An OBI Ontology Datum Proof Sheet.",
+        "year": 2016,
+        "publisher": null,
+        "author": [
+          "Damion M Dooley",
+          "Emma J Griffiths",
+          "Fiona SL Brinkman",
+          "William WL Hsiao"
+        ],
+        "url": "https://www.academia.edu/download/107761022/IP24_ICBO2016.pdf",
+        "firstOrLast": false
+      },
+      "u9iWguZQMMsC": {
+        "title": "The PHA4GE Microbial Data Sharing Accord: Establishing baseline consensus microbial data",
+        "year": 2008,
+        "publisher": null,
+        "author": [
+          "Emma Griffiths",
+          "Peter van Heusden",
+          "Tsaone Tamuhla",
+          "Eddie Lulamba",
+          "Anja Bedeker",
+          "Michelle Nichols",
+          "Alan Christoffels",
+          "Nicki Tiffin"
+        ],
+        "url": "https://osf.io/s6wkt/download",
+        "firstOrLast": true
+      },
+      "MXK_kJrjxJIC": {
+        "title": "Determination of Bacterial Phylogeny Using Group-specific Proteins and Conserved Indels",
+        "year": 2007,
+        "publisher": null,
+        "author": [
+          "Jane Emma Griffiths"
+        ],
+        "url": "https://scholar.google.com/scholar?cluster=14598572129757387758&hl=en&oi=scholarr",
+        "firstOrLast": false
+      },
+      "hFOr9nPyWt4C": {
+        "title": "POPULATION GENETICS AND EVOLUTION-Distinctive Protein Signatures Provide Molecular Markers and Evidence for the Monophyletic Nature of the Deinococcus-Thermus Phylum",
+        "year": 2004,
+        "publisher": "Washington, DC: American Society for Microbiology, 1916-",
+        "author": [
+          "Emma Griffiths",
+          "Radhey S Gupta"
+        ],
+        "url": "https://scholar.google.com/scholar?cluster=16424511027819033734&hl=en&oi=scholarr",
+        "firstOrLast": true
+      },
+      "qUcmZB5y_30C": {
+        "title": "Session VII-Validation, Acceptance and Global Harmonization of Alternative Methods",
+        "year": 1999,
+        "publisher": "Basel; New York: Karger, 1974-1999.",
+        "author": [
+          "E Griffiths"
+        ],
+        "url": "https://scholar.google.com/scholar?cluster=7527727019293248115&hl=en&oi=scholarr",
+        "firstOrLast": false
+      },
+      "RGFaLdJalmkC": {
+        "title": "US Steams Ahead; Europe Takes Off",
+        "year": 1998,
+        "publisher": "TAIPAN PRESS INC",
+        "author": [
+          "E Griffiths"
+        ],
+        "url": "https://scholar.google.com/scholar?cluster=1615575424499728479&hl=en&oi=scholarr",
+        "firstOrLast": false
+      },
+      "p2g8aNsByqUC": {
+        "title": "Prediction of Synergism from Chemical-Genetic Interactions by Machine Learning",
+        "year": null,
+        "publisher": null,
+        "author": [
+          "Emma Griffiths",
+          "David S Bellows",
+          "Gerard D Wright",
+          "Mike Tyers"
+        ],
+        "url": "https://www.academia.edu/download/91260346/pdf.pdf",
+        "firstOrLast": true
+      }
+    }
   }
 }

@@ -1,17 +1,54 @@
 {
   "PLiQF5oAAAAJ": {
     "Name": "Baofeng Jia",
-    "total_new": "3",
+    "total_new": "2",
     "publications": {
-      "YsMSGLbcyi4C": {
-        "title": "Advancing antimicrobial resistance (AMR) surveillance: Characterizing AMR mobility and improving AMR prediction from metagenomics data",
-        "year": 2022,
-        "publisher": "Simon Fraser University",
+      "9yKSN-GCB0IC": {
+        "title": "CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database",
+        "year": 2016,
+        "publisher": "Oxford University Press",
         "author": [
-          "Baofeng Jia"
+          "Baofeng Jia",
+          "Amogelang R Raphenya",
+          "Brian Alcock",
+          "Nicholas Waglechner",
+          "Peiyao Guo",
+          "Kara K Tsang",
+          "Briony A Lago",
+          "Biren M Dave",
+          "Sheldon Pereira",
+          "Arjun N Sharma",
+          "Sachin Doshi",
+          "M\u00e9lanie Courtot",
+          "Raymond Lo",
+          "Laura E Williams",
+          "Jonathan G Frye",
+          "Tariq Elsayegh",
+          "Daim Sardar",
+          "Erin L Westman",
+          "Andrew C Pawlowski",
+          "Timothy A Johnson",
+          "Fiona SL Brinkman",
+          "Gerard D Wright",
+          "Andrew G McArthur"
         ],
-        "url": "https://summit.sfu.ca/_flysystem/fedora/2022-12/etd22229.pdf",
+        "url": "https://academic.oup.com/nar/article-abstract/45/D1/D566/2333912",
         "firstOrLast": true
+      },
+      "qjMakFHDy7sC": {
+        "title": "Metagenome-assembled genome binning methods with short reads disproportionately fail for plasmids and genomic islands",
+        "year": 2020,
+        "publisher": "Microbiology Society",
+        "author": [
+          "Finlay Maguire",
+          "Baofeng Jia",
+          "Kristen L Gray",
+          "Wing Yin Venus Lau",
+          "Robert G Beiko",
+          "Fiona SL Brinkman"
+        ],
+        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000436",
+        "firstOrLast": false
       }
     }
   },
@@ -19,21 +56,74 @@
     "Name": "Kristen L Gray",
     "total_new": "1",
     "publications": {
-      "eQOLeE2rZwMC": {
-        "title": "Curated Genomic Islands Database Supplementary Code Snapshot",
-        "year": 2023,
-        "publisher": null,
+      "d1gkVwhDpl0C": {
+        "title": "Metagenome-assembled genome binning methods with short reads disproportionately fail for plasmids and genomic Islands",
+        "year": 2020,
+        "publisher": "Microbiology Society",
         "author": [
+          "Finlay Maguire",
+          "Baofeng Jia",
           "Kristen L Gray",
-          "Nolan Woods",
-          "Natalie Kumpula",
-          "Dante Wong",
-          "Margit Glashutter",
-          "Adrienne Kwan",
+          "Wing Yin Venus Lau",
+          "Robert G Beiko",
           "Fiona SL Brinkman"
         ],
-        "url": "https://scholar.google.com/scholar?cluster=15127058647015402996&hl=en&oi=scholarr",
-        "firstOrLast": true
+        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000436",
+        "firstOrLast": false
+      }
+    }
+  },
+  "xMfpoNQAAAAJ": {
+    "Name": "Erin E. Gill",
+    "total_new": "3",
+    "publications": {
+      "zYLM7Y9cAGgC": {
+        "title": "The proportional lack of archaeal pathogens: Do viruses/phages hold the key?",
+        "year": 2011,
+        "publisher": "WILEY\u2010VCH Verlag",
+        "author": [
+          "Erin E Gill",
+          "Fiona SL Brinkman"
+        ],
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.201000091",
+        "firstOrLast": false
+      },
+      "_FxGoFyzp5QC": {
+        "title": "High-throughput detection of RNA processing in bacteria",
+        "year": 2018,
+        "publisher": "BioMed Central",
+        "author": [
+          "Erin E Gill",
+          "Luisa S Chan",
+          "Geoffrey L Winsor",
+          "Neil Dobson",
+          "Raymond Lo",
+          "Shannan J Ho Sui",
+          "Bhavjinder K Dhillon",
+          "Patrick K Taylor",
+          "Raunak Shrestha",
+          "Cory Spencer",
+          "Robert EW Hancock",
+          "Peter J Unrau",
+          "Fiona SL Brinkman"
+        ],
+        "url": "https://link.springer.com/article/10.1186/s12864-018-4538-8",
+        "firstOrLast": false
+      },
+      "8k81kl-MbHgC": {
+        "title": "Broad-spectrum adaptive antibiotic resistance associated with Pseudomonas aeruginosa mucin-dependent surfing motility",
+        "year": 2018,
+        "publisher": "American Society for Microbiology",
+        "author": [
+          "Evelyn Sun",
+          "Erin E Gill",
+          "Reza Falsafi",
+          "Amy Yeung",
+          "Sijie Liu",
+          "Robert EW Hancock"
+        ],
+        "url": "https://journals.asm.org/doi/abs/10.1128/aac.00848-18",
+        "firstOrLast": false
       }
     }
   }

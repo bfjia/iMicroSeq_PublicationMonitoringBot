@@ -67,42 +67,64 @@ def loadJson(filename):
     with open(filename, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-# ---- Main Workflow ----
-if os.path.exists(jsonFile):
-    shutil.copy2(jsonFile, lastJsonFile)
-lastPublicationJson = loadJson(lastJsonFile)
-with open(authorsToMonitor, 'r') as f:
-    authorIDList = [line.strip() for line in f]
+if __name__ == "__main__":
+    if os.path.exists(jsonFile):
+        shutil.copy2(jsonFile, lastJsonFile)
+    lastPublicationJson = loadJson(lastJsonFile)
+    with open(authorsToMonitor, 'r') as f:
+        authorIDList = [line.strip() for line in f]
 
-print("Indexing publications...")
-allPubs = {}
-for authorID in authorIDList:
-    allPubs[authorID] = fetchPublications(authorID, lastPublicationJson)
+    print("Indexing publications...")
+    allPubs = {}
+    for authorID in authorIDList:
+        allPubs[authorID] = fetchPublications(authorID, lastPublicationJson)
 
-saveJson(allPubs, jsonFile)
+    saveJson(allPubs, jsonFile)
 
-currentPublicationJson = loadJson(jsonFile)
+    currentPublicationJson = loadJson(jsonFile)
 
-#look for differences
-print("Looking for anything new...")
-newPublications = {}
-for authorID in authorIDList:
-    id = authorID
-    #we just added someone new to the list. DO NOT delta them until the next time.
-    if id in lastPublicationJson.keys():
-        if currentPublicationJson[id]['publications'].keys() != lastPublicationJson[id]['publications'].keys():
-            diff = [item for item in currentPublicationJson[id]['publications'].keys() if item not in lastPublicationJson[id]['publications'].keys()]
-            if len(diff) > 0:
-                print(currentPublicationJson[id]['Name'] + " have " + str(len(diff)) + " new publications.")
-                for pubid in diff:
-                    newPublications[authorID] = {
-                        'Name' : currentPublicationJson[id]['Name'],
-                        'total_new' : str(len(diff)),
-                        'publications' : {pubid : currentPublicationJson[id]['publications'][pubid]}
-                    }
+    #look for differences
+    print("Looking for anything new...")
+    newPublications = {}
+    for authorID in authorIDList:
+        id = authorID
+        #we just added someone new to the list. DO NOT delta them until the next time.
+        if id in lastPublicationJson.keys():
+            if currentPublicationJson[id]['publications'].keys() != lastPublicationJson[id]['publications'].keys():
+                diff = [item for item in currentPublicationJson[id]['publications'].keys() if item not in lastPublicationJson[id]['publications'].keys()]
+                if len(diff) > 0:
+                    print(currentPublicationJson[id]['Name'] + " have " + str(len(diff)) + " new publications!")
+                    for pubid in diff:
+                        if (authorID not in newPublications.keys()):
+                            newPublications[authorID] = {
+                                'Name' : currentPublicationJson[id]['Name'],
+                                'total_new' : str(len(diff)),
+                                'publications' : {pubid : currentPublicationJson[id]['publications'][pubid]}
+                            }
+                        else:
+                            newPublications[authorID]['publications'][pubid] = currentPublicationJson[id]['publications'][pubid]
+            else:
+                print(currentPublicationJson[id]['Name'] + " have no new publications.")
         else:
-            print(currentPublicationJson[id]['Name'] + " have no new publications.")
-    else:
-        print (currentPublicationJson[id]['Name'] + " is a new author added to the surveillance list, we ignoring until next time.")
-saveJson(newPublications, deltaJsonFile)
+            print (currentPublicationJson[id]['Name'] + " is a new author added to the surveillance list, we ignoring until next time.")
+    saveJson(newPublications, deltaJsonFile)
 
+    #Lets format the message for the slack bot
+    deltaJson = loadJson(deltaJsonFile)
+
+    Msg = ""
+    if len(deltaJson) > 0:
+        for authorID in deltaJson:
+            if len(deltaJson[authorID]['publications']) > 1:
+                Msg = Msg + deltaJson[authorID]['Name'] + " have new publications: \n"
+                for pubID in deltaJson[authorID]['publications']:
+                    pub = deltaJson[authorID]['publications'][pubID]
+                    Msg = Msg + "* " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n"
+                Msg = Msg + "Congratulations!\n\n"
+            else:
+                for pubID in deltaJson[authorID]['publications']:
+                    pub = deltaJson[authorID]['publications'][pubID]
+                    Msg = Msg + deltaJson[authorID]['Name'] + " have a new publication titled: \"" + pub['title'] + ".\" Published in " + pub['publisher'] + ". Available at " + pub['url'] + " \nCongratulations!\n\n" 
+
+    with open ("msg.md", 'w') as f:
+        f.writelines(Msg)
