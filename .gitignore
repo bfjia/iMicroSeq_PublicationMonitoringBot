@@ -1,0 +1,15 @@
+notebook_demo_covarrnetpillar6_test_files
+.DS_Store
+.Rhistory
+Rnotebook_demo_covarrnetpillar6_old.Rmd
+.format_table_last
+.RData
+data_needed/*
+scripts/__pycache__
+# the HTML is the public facing document, to be reviewed before release
+duotang.md
+.vs
+scripts/.vscode
+.checkpoint
+.secret/*
+msg.md
