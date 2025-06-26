@@ -11,25 +11,7 @@ from slack_sdk.errors import SlackApiError
 #in fact, we dont even need to use socketmode, we dgaf about listening to events for now. 
 #from slack_bolt.adapter.socket_mode import SocketModeHandler
 
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser("Duoli - Duotang's slack integration.")
-
-    parser.add_argument("--message", type=str, 
-                        help="The message to be sent")
-    parser.add_argument("--file",action='extend', nargs="+",  default=[],
-                        help="path to the file to be uploaded, can specify multiple")
-    parser.add_argument("--messagefile", type=str, default=None,
-                        help="The filepath for a text file to be sent as the message")
-    parser.add_argument("--channel", type=str, default="C088LULD5PY",
-                        help="Specify the channel that the message should be sent to, default: duotang-integrations")
-    parser.add_argument("--thread", type=str, default=None,
-                        help="Specify the thread that the message should be sent to")
-
-    args = parser.parse_args()
-    
-    #old covarrnet channel: C046T5JA48H
-    
+def initSlackBot():
     if not (os.path.exists(".secret/pubiioauthtoken") and os.path.exists(".secret/pubiiapptoken")):
         print ("This script reqires the oauth token and app token for duoli to be placed in .secret/duolioauthtoken and .secret/duoliapptoken")
         print ("Please check that they exist and the tokens are valid.")
@@ -44,24 +26,10 @@ if __name__ == "__main__":
 
     app = App(token=authToken)
     client = WebClient(token=authToken)
-    
-    channel_id = args.channel
-    fileList = args.file
-    message_filepath = args.messagefile
-    threadTS = args.thread
-    
-    if (message_filepath != None):
-        with open (message_filepath, 'r') as fh:
-            message_text = fh.read()
-    else:
-        message_text = args.message
-    
-    #filesJson = []
-    #for file in files:
-    #    filesJson.append({"file": file, "title":os.path.basename(file)})
-    
-    #filesJsonString=json.dumps(filesJson)
-    #print(filesJsonString)
+
+    return app, client
+
+def sendMessage(app, client, channel_id, fileList, message_filepath, threadTS, message_text):
     ts = 0
     try:
         if (len(fileList) >0):
@@ -83,5 +51,40 @@ if __name__ == "__main__":
         ts = response['ts']
     except SlackApiError as e:
         print("Error sending message: {}".format(e))
+
+    return ts
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser("Duoli - Duotang's slack integration.")
+
+    parser.add_argument("--message", type=str, 
+                        help="The message to be sent")
+    parser.add_argument("--file",action='extend', nargs="+",  default=[],
+                        help="path to the file to be uploaded, can specify multiple")
+    parser.add_argument("--messagefile", type=str, default=None,
+                        help="The filepath for a text file to be sent as the message")
+    parser.add_argument("--channel", type=str, default="C088LULD5PY",
+                        help="Specify the channel that the message should be sent to, default: duotang-integrations")
+    parser.add_argument("--thread", type=str, default=None,
+                        help="Specify the thread that the message should be sent to")
+
+    args = parser.parse_args()
+    
+    #old covarrnet channel: C046T5JA48H
+
+    app, client = initSlackBot()
+    
+    channel_id = args.channel
+    fileList = args.file
+    message_filepath = args.messagefile
+    threadTS = args.thread
+    
+    if (message_filepath != None):
+        with open (message_filepath, 'r') as fh:
+            message_text = fh.read()
+    else:
+        message_text = args.message
+    
+    ts = sendMessage(app, client, channel_id, fileList, message_filepath, threadTS, message_text)
 
     print(ts)
