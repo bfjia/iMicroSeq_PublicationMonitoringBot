@@ -7,7 +7,7 @@ from scholarly import scholarly
 authorID = 'PLiQF5oAAAAJ'  # e.g., '8W8gwisAAAAJ'
 jsonFile = 'allpubs.json'
 lastJsonFile = 'last_allpubs.json'
-authorsToMonitor = "authorsToMonitor.txt"
+authorsToMonitor = "authors.txt"
 deltaJsonFile = 'delta.json'
 
 class publications:
@@ -38,20 +38,20 @@ def fetchPublications(authorID, previousJsonData):
     # Retrieve author by Google Scholar ID
     author = scholarly.fill(scholarly.search_author_id(authorID))
     authorName = author['name']
-    print("Looking for publications by " + authorName + " with google scholar ID " + authorID)
+    print("[INFO] " + "Looking for publications by " + authorName + " with google scholar ID " + authorID)
     publicationList = {}
     for pub in author['publications']:
         pubID = pub['author_pub_id'].split(":")[1]
         #check to see if this is a new author or if the paper is new. if not, then dont bother querying and use existing data to save time.
         if authorID not in previousJsonData.keys() or pubID not in previousJsonData[authorID]['publications'].keys():
-            print("Found new publication with ID " + pubID)
+            print("[INFO] " + "Found new publication with ID " + pubID)
             pub_filled = scholarly.fill(pub)
             bib = pub_filled.get('bib', {})
             authorList = bib.get('author').split(" and ")
             publication = publications(bib.get('title'), bib.get('pub_year'), bib.get('publisher'), authorList, pub_filled.get('pub_url'), True if authorList[0] == authorName or authorList[-1] == authorName else False,  pubID)
             publicationList[pubID] = publication.toDict()
         else:
-            print("Found known publication with ID " + pubID)
+            print("[DEBUG] " + "Found known publication with ID " + pubID)
             publicationList[pubID] = previousJsonData[authorID]['publications'][pubID]
     return {'Name' : authorName, 'total_publications' : str(len(publicationList)), 'publications':publicationList}
 
@@ -74,7 +74,7 @@ if __name__ == "__main__":
     with open(authorsToMonitor, 'r') as f:
         authorIDList = [line.strip() for line in f]
 
-    print("Indexing publications...")
+    print("[INFO] " + "Indexing publications...")
     allPubs = {}
     for authorID in authorIDList:
         allPubs[authorID] = fetchPublications(authorID, lastPublicationJson)
@@ -84,7 +84,7 @@ if __name__ == "__main__":
     currentPublicationJson = loadJson(jsonFile)
 
     #look for differences
-    print("Looking for anything new...")
+    print("[INFO] " + "Looking for anything new...")
     newPublications = {}
     for authorID in authorIDList:
         id = authorID
@@ -104,9 +104,9 @@ if __name__ == "__main__":
                         else:
                             newPublications[authorID]['publications'][pubid] = currentPublicationJson[id]['publications'][pubid]
             else:
-                print(currentPublicationJson[id]['Name'] + " have no new publications.")
+                print("[INFO] " + currentPublicationJson[id]['Name'] + " have no new publications.")
         else:
-            print (currentPublicationJson[id]['Name'] + " is a new author added to the surveillance list, we ignoring until next time.")
+            print ("[INFO] " + currentPublicationJson[id]['Name'] + " is a new author added to the surveillance list, we ignoring until next time.")
     saveJson(newPublications, deltaJsonFile)
 
     #Lets format the message for the slack bot
