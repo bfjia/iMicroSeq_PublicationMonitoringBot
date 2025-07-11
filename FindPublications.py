@@ -4,12 +4,15 @@ import shutil
 from scholarly import scholarly
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
+from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 import time
 import re
 import random
 from dateutil import parser
 import difflib
+import urllib
+import requests
 
 # ---- Configuration ----
 authorID = 'PLiQF5oAAAAJ'  # e.g., '8W8gwisAAAAJ'
@@ -19,7 +22,7 @@ authorsToMonitor = "authors.txt"
 deltaJsonFile = 'delta.json'
 
 class publications:
-    def __init__(self, title, year, publisher, author, url, firstOrLast, publicationID):
+    def __init__(self, title, year, publisher, author, url, firstOrLast, publicationID, datasource):
         self.title = title
         self.year = year
         self.publisher = publisher
@@ -27,9 +30,10 @@ class publications:
         self.url = url
         self.firstOrLast = firstOrLast
         self.publicationID = publicationID
+        self.datasource = datasource
 
     def returnData(self):
-        return [self.title, self.year, self.publisher, self.author, self.url, self.firstOrLast]
+        return [self.title, self.year, self.publisher, self.author, self.url, self.firstOrLast, self.datasource]
     
     def toDict(self):
         return {
@@ -38,14 +42,147 @@ class publications:
             "publisher": self.publisher,
             "author": self.author,
             "url": self.url,
-            "firstOrLast": self.firstOrLast
+            "firstOrLast": self.firstOrLast,
+            "datasource":self.datasource
         }
+    
+def extractMetadataFromCrossRef(title, profileName, pubID):
+    # URL encode the title
+    query = urllib.parse.quote(title)
+    url = f"https://api.crossref.org/works?query.title={query}&rows=1"
+
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+
+        # Check if there are any results
+        if data['message']['items']:
+            item = data['message']['items'][0]
+
+            # Extract relevant fields
+            pubDate = "/".join(str(x) for x in item.get('issued', {}).get('date-parts', [[None]])[0])
+            if pubDate == 'None' or len(pubDate) < 6: #It may not have been officially published yet. Let's use the online date.
+                if 'published-online' in item.keys():
+                    pubDate = "/".join(str(x) for x in item.get('published-online', {}).get('date-parts', [[None]])[0])
+                elif 'published-print' in item.keys():
+                    pubDate = "/".join(str(x) for x in item.get('published-print', {}).get('date-parts', [[None]])[0])
+                else:
+                    pubDate = "/".join(str(x) for x in item.get('published', {}).get('date-parts', [[None]])[0])
+                if pubDate == 'None' or len(pubDate) < 6: 
+                    pubDate = "/".join(str(x) for x in item.get('indexed', {}).get('date-parts', [[None]])[0])
+
+
+            journal = item.get('publisher', 'N/A')
+            doi = item.get('DOI', 'N/A')
+            actualPubURL = f"https://doi.org/{doi}" if doi != 'N/A' else 'N/A'
+
+            authors = item.get('author', [])
+            authorList = []
+            for author in authors:
+                name_parts = []
+                if 'given' in author:
+                    name_parts.append(author['given'])
+                if 'family' in author:
+                    name_parts.append(author['family'])
+                authorList.append(' '.join(name_parts))
+            authors = ",".join(authorList)
+
+            profileName2 = profileName.lower()
+            firstAuthor = authors.split(",")[0].strip()
+            lastAuthor = authors.split(",")[-1].strip()
+            similarityFirst = difflib.SequenceMatcher(None, profileName2, firstAuthor).ratio()
+            similarityLast = difflib.SequenceMatcher(None, profileName2, lastAuthor).ratio()
+            firstOrLastAuthor = True  if similarityFirst > 0.7 or similarityLast > 0.7 else False
+            publication = publications(title, pubDate, journal, authors, actualPubURL, firstOrLastAuthor,  pubID, "CrossRef")
+
+            #add a sanity check to ensure the crossref best hit is actually our paper of interest
+            obtainedTitle = item['title'][0].lower()
+            similarityTitle = difflib.SequenceMatcher(None, obtainedTitle.lower(), title.lower()).ratio()
+
+            if similarityTitle < 0.9: #best match is NOT the same as our title
+                #lets check if the author is in the author list. if it is, it's probably the right paper anyways.
+                if (similarityTitle > 0.75): #add a 75% requirement for title matching. There's cases in which two similar titles from the same author impacts the fuzzy search.
+                    for author in authors.split(","):
+                        similarityAuthor = difflib.SequenceMatcher(None, author.lower(), profileName.lower()).ratio()
+                        if (similarityAuthor > 0.7): #likely correct best match
+                            print ("[INFO] Slight Mismatching of CrossRef titles but participant in Author list. Keep result. TSIMILARITY: ", str(similarityTitle), " FOUND: " + obtainedTitle, " ORIGINAL: " + title.lower() + "PSIMILARITY: ", str(similarityAuthor), " FOUND: " + author.lower(), " ORIGINAL: " + profileName.lower())
+                            return publication
+                    print ("[DEBUG] Slight Mismatching of CrossRef title but participant not in Author list. Defering to Google Scholars. TSIMILARITY: ", str(similarityTitle), " FOUND: " + obtainedTitle, " ORIGINAL: " + title.lower())
+
+                print("[ERROR] CrossRef title does not meeting the threshhold and participant not in author list. Defering to Google Scholars. SIMILARITY: ", str(similarityTitle), " FOUND: " + obtainedTitle, " ORIGINAL: " + title.lower())
+                return 'defer'
+            elif similarityTitle != 1:
+                print ("[DEBUG] None exact matching of CrossRef titles but passed threshold. SIMILARITY: ", str(similarityTitle), " FOUND: " + obtainedTitle, " ORIGINAL: " + title.lower())
+
+            return publication
+        else:
+            print("[ERROR] Error or nothing found CrossRef. defer to use google scholar instead.")
+            return "defer"
+
+    except requests.RequestException as e:
+        print("[ERROR] error fetching data from CrossRef" + str(e))
+        return None
+    
+#extract publication metadata from google scholar's summary page
+def extractMetadataFromScholarSummary(driver, publicationURL, profileName, title, pubID):
+    #open a new window and go to the publication url
+    driver.execute_script("window.open('');")
+    driver.switch_to.window(driver.window_handles[1])
+    driver.get(publicationURL)
+    time.sleep(2)
+    try:
+        external_link = driver.find_element(By.CLASS_NAME, 'gsc_oci_title_link')
+        actualPubURL = external_link.get_attribute("href")
+    except Exception as e:
+        actualPubURL = None
+        print(e)
+
+    # Extract metadata rows
+    meta_rows = driver.find_elements(By.CLASS_NAME, 'gsc_oci_field')
+    meta_values = driver.find_elements(By.CLASS_NAME, 'gsc_oci_value')
+    metadata = dict()
+    for i in range(len(meta_rows)):
+        key = meta_rows[i].text.lower().strip()
+        val = meta_values[i].text.strip()
+        metadata[key] = val
+    
+    #switch back to the main window
+    driver.close()
+    driver.switch_to.window(driver.window_handles[0])
+
+        #format the metadata. 
+    pubDate = metadata['publication date'] if 'publication date' in metadata else "Unknown"
+    journal = metadata['journal'] if 'journal' in metadata else (metadata['publisher'][0] if 'publisher' in metadata else "Unknown")
+    authors = metadata['authors'] if 'authors' in metadata else "Unknown" 
+
+    profileName2 = profileName.lower()
+    firstAuthor = authors.split(",")[0].strip()
+    lastAuthor = authors.split(",")[-1].strip()
+    similarityFirst = difflib.SequenceMatcher(None, profileName2, firstAuthor).ratio()
+    similarityLast = difflib.SequenceMatcher(None, profileName2, lastAuthor).ratio()
+    firstOrLastAuthor = True  if similarityFirst > 0.7 or similarityLast > 0.7 else False
+    publication = publications(title, pubDate, journal, authors, actualPubURL, firstOrLastAuthor,  pubID, "Scholars")
+    return publication
 
 #fetch the most recent 100 publications
-def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear = 2020):
+def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear = 2020, maxRetries = 20):
     url = f"https://scholar.google.com/citations?user={scholarID}&hl=en&cstart=0&pagesize=100&sortby=pubdate"
-    driver.get(url)
-    time.sleep(2)  # Let page load
+    
+    for attempt in range(1, maxRetries + 1):
+        try:
+            driver.set_page_load_timeout(20)  # Set timeout in seconds
+            driver.get(url)
+            break  # success, break out of loop
+        except Exception as e:
+            print(f"Attempt {attempt} failed with error: {e}")
+            if attempt < maxRetries:
+                print(f"Retrying in 5 seconds...")
+                time.sleep(5)
+            else:
+                print("All attempts failed.")
+    
+    time.sleep(5)  # Let page load
     
     try:
         name_elem = driver.find_element(By.ID, "gsc_prf_in")
@@ -72,45 +209,39 @@ def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear 
 
             #check to see if this is a new author or if the paper is new. if not, then dont bother querying and use existing data to save time.
             if scholarID not in previousJsonData.keys() or pubID not in previousJsonData[authorID]['publications'].keys():
-                #open a new window and go to the publication url
-                driver.execute_script("window.open('');")
-                driver.switch_to.window(driver.window_handles[1])
-                driver.get(publicationURL)
-                time.sleep(2)
-                try:
-                    external_link = driver.find_element(By.CLASS_NAME, 'gsc_oci_title_link')
-                    actualPubURL = external_link.get_attribute("href")
-                except Exception as e:
-                    actualPubURL = None
-                    print(e)
+                #open a new window and go to the publication url to extract it's metadata
+                #publication = extractMetadataFromScholarSummary(driver, publicationURL, profileName, title)
+                publicationScholar = extractMetadataFromScholarSummary(driver, publicationURL, profileName, title, pubID)
 
-                # Extract metadata rows
-                meta_rows = driver.find_elements(By.CLASS_NAME, 'gsc_oci_field')
-                meta_values = driver.find_elements(By.CLASS_NAME, 'gsc_oci_value')
-                metadata = dict()
-                for i in range(len(meta_rows)):
-                    key = meta_rows[i].text.lower().strip()
-                    val = meta_values[i].text.strip()
-                    metadata[key] = val
+                #for cases in which only a year is reported by google scholars. use crossref to see if we can find additional information.
+                if len(publicationScholar.toDict()['year']) < 6:
+                    publicationCrossRef = extractMetadataFromCrossRef(title, profileName, pubID)
+
+                    if publicationCrossRef == "defer":
+                        publication = publicationScholar
+                    elif publicationCrossRef == None: #something's wrong with teh request, lets try again for 10 times
+                        for i in range(1,10):
+                            print("[INFO] Trying to fetch metadata again for " + str(pubID))
+                            time.sleep(2)
+                            publicationCrossRef = extractMetadataFromCrossRef(title, profileName, pubID)
+                        if publicationCrossRef == None: #if the request still fails, try it again with google scholars.
+                            print("[ERROR] CrossRef unaccessible or no data found.")
+                            publication = publicationScholar
+                    else:
+                        publication = publicationCrossRef
                 
-                #switch back to the main window
-                driver.close()
-                driver.switch_to.window(driver.window_handles[0])
+                    if publication == None or publication == "defer":
+                        publication = publicationScholar
+                else:
+                    publication = publicationScholar
+                    
+                if publication==None: #add acheck to make sure we found a publication. Shouldn't actually hit here if we use google scholars.
+                    print("[ERROR] Absolutely Nothing found.")
+                    exit(99)
 
-                pubDate = metadata['publication date'] if 'publication date' in metadata else "Unknown"
-                journal = metadata['journal'] if 'journal' in metadata else (metadata['publisher'][0] if 'publisher' in metadata else "Unknown")
-                authors = metadata['authors'] if 'authors' in metadata else "Unknown" 
-
-                profileName2 = profileName.lower()
-                firstAuthor = authors.split(",")[0].strip()
-                lastAuthor = authors.split(",")[-1].strip()
-                similarityFirst = difflib.SequenceMatcher(None, profileName2, firstAuthor).ratio()
-                similarityLast = difflib.SequenceMatcher(None, profileName2, lastAuthor).ratio()
-                firstOrLastAuthor = True  if similarityFirst > 0.7 or similarityLast > 0.7 else False
-                publication = publications(title, pubDate, journal, authors, actualPubURL, firstOrLastAuthor,  pubID)
 
                 #found all publication after the max year, break the loop, dont actually add the publication
-                if (parser.parse(pubDate).year < maxYear):
+                if (parser.parse(publication.toDict()['year']).year < maxYear):
                     print("[INFO] Found all publication after " + str(maxYear))
                     break
 
@@ -127,7 +258,7 @@ def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear 
     return {'Name' : profileName, 'total_publications' : str(len(publicationList)), 'publications':publicationList}
 
 #given an google scholar ID, find all publications by that user.
-def fetchPublications(authorID, previousJsonData):
+def fetchPublicationsWithScholarly(authorID, previousJsonData):
     # Retrieve author by Google Scholar ID
     author = scholarly.fill(scholarly.search_author_id(authorID))
     authorName = author['name']
@@ -151,7 +282,7 @@ def fetchPublications(authorID, previousJsonData):
                 pub_filled = scholarly.fill(pub)
                 bib = pub_filled.get('bib', {})
                 authorList = bib.get('author').split(" and ")
-                publication = publications(bib.get('title'), bib.get('pub_year'), bib.get('publisher'), authorList, pub_filled.get('pub_url'), True if authorList[0] == authorName or authorList[-1] == authorName else False,  pubID)
+                publication = publications(bib.get('title'), bib.get('pub_year'), bib.get('publisher'), authorList, pub_filled.get('pub_url'), True if authorList[0] == authorName or authorList[-1] == authorName else False,  pubID, "Scholarly")
                 publicationList[pubID] = publication.toDict()
             except Exception as e:
                 print("[ERROR] " + "Error getting publication info using ID " + pubID + ". Error: " + str(e))
@@ -161,7 +292,8 @@ def fetchPublications(authorID, previousJsonData):
                                             "publisher": "Unkonwn",
                                             "author": "Unkonwn",
                                             "url": "Unkonwn",
-                                            "firstOrLast": False
+                                            "firstOrLast": False,
+                                            "datasource": "ERROR"
                                         }
         else:
             print("[DEBUG] " + "Found known publication with ID " + pubID)
