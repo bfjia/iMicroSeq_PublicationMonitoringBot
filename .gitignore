@@ -16,3 +16,4 @@ msg.md
 last_allpubs.json
 .vscode
 pubsSince*.tsv
+tests/.secret
