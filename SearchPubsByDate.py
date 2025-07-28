@@ -45,8 +45,8 @@ if __name__ == "__main__":
     # outputFile = sys.argv[3]
 
     jsonFile = "allpubs.json"
-    cutoff = "20250601"
-    outputFile = "pubsSince20250601.tsv"
+    cutoff = "20250101"
+    outputFile = "pubsSince20250101.tsv"
 
     try:
         with open(jsonFile, 'r', encoding='utf-8') as f:
@@ -56,4 +56,4 @@ if __name__ == "__main__":
         sys.exit(1)
 
     findPubsAfterDateCutoff(data, cutoff, outputFile)
-    print(f"Filtered data written to {outputFile}")
+    print(f"Filtered data written to {outputFile}")     
