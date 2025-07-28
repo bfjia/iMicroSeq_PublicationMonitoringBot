@@ -8,8 +8,9 @@ trap handle_error ERR
 
 git pull
 
-eval "$(conda shell.bash hook)"
-conda activate pubsurveillance
+#eval "$(conda shell.bash hook)"
+#conda activate pubsurveillance
+source ~/publii_venv/bin/activate
 
 #Using the result.tsv file, format the authors.txt file. 
 cut -d$'\t' -f3 results.tsv | tail -n +2 | awk "NF" > authors.txt
@@ -24,8 +25,8 @@ python slackConnector.py --messagefile msg.md --channel "C097CKA5U4X"
 
 dateNow=$(date +%Y%m%d)
 
-#git add .
-#git commit -m "Update $dateNow"
-#git push
+git add .
+git commit -m "Update $dateNow"
+git push
 
 conda deactivate
