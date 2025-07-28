@@ -17,3 +17,4 @@ last_allpubs.json
 .vscode
 pubsSince*.tsv
 tests/.secret
+delta.json
