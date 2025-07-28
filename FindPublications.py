@@ -224,6 +224,9 @@ def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear 
                             print("[INFO] Trying to fetch metadata again for " + str(pubID))
                             time.sleep(2)
                             publicationCrossRef = extractMetadataFromCrossRef(title, profileName, pubID)
+                            if publicationCrossRef != None:
+                                publication = publicationCrossRef
+                                break
                         if publicationCrossRef == None: #if the request still fails, try it again with google scholars.
                             print("[ERROR] CrossRef unaccessible or no data found.")
                             publication = publicationScholar
@@ -322,7 +325,7 @@ if __name__ == "__main__":
 
     # Setup headless Firefox
     options = Options()
-    options.headless = True
+    options.add_argument('--headless')
     driver = webdriver.Firefox(options=options)
 
 
@@ -366,19 +369,29 @@ if __name__ == "__main__":
     #Lets format the message for the slack bot
     deltaJson = loadJson(deltaJsonFile)
 
-    Msg = ""
+    Msg = "[NEW]\n"
     if len(deltaJson) > 0:
         for authorID in deltaJson:
             if len(deltaJson[authorID]['publications']) > 1:
                 Msg = Msg + deltaJson[authorID]['Name'] + " have new publications: \n"
                 for pubID in deltaJson[authorID]['publications']:
                     pub = deltaJson[authorID]['publications'][pubID]
-                    Msg = Msg + "* " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n"
+                    if (parser.parse(pub['year']).year >= 2025):
+                        Msg = Msg + "* " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n"
+                    else:
+                        print("[WARNING] Some how picked up a old publication in delta Json: (" + 
+                              pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
                 Msg = Msg + "Congratulations!\n\n"
             else:
                 for pubID in deltaJson[authorID]['publications']:
                     pub = deltaJson[authorID]['publications'][pubID]
-                    Msg = Msg + deltaJson[authorID]['Name'] + " have a new publication titled: \"" + pub['title'] + ".\" Published in " + pub['publisher'] + ". Available at " + pub['url'] + " \nCongratulations!\n\n" 
+                    if (parser.parse(pub['year']).year >= 2025):
+                        Msg = Msg + deltaJson[authorID]['Name'] + " have a new publication titled: \"" + pub['title'] + ".\" Published in " + pub['publisher'] + ". Available at " + pub['url'] + " \nCongratulations!\n\n" 
+                    else:
+                        print("[WARNING] Some how picked up a old publication in delta Json: (" + 
+                              pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
+    else:
+        Msg = "[INFO]\nNo new publication found."
 
     with open ("msg.md", 'w') as f:
         f.writelines(Msg)
