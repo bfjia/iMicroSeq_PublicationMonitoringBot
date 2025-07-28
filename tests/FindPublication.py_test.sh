@@ -20,7 +20,7 @@ if [ "$(basename "$PWD")" = "tests" ]; then
 	  
 	cut -d$'\t' -f3 results.tsv | tail -n +2 | awk "NF" > authors.txt
 	
-	python slackConnector.py --message "[TEST] Processing... This may take up to 30minutes. Feel free to have a coffee break." --channel "C097CKA5U4X"
+	python slackConnector.py --message "[TEST] Processing stage 1/2... This may take up to 30minutes. Feel free to have a coffee break." --channel "C097CKA5U4X"
 	#Find publications
 	python ./FindPublications.py
 
@@ -28,6 +28,8 @@ if [ "$(basename "$PWD")" = "tests" ]; then
 	python slackConnector.py --message "[TEST] A message that found new publications should appear below." --channel "C097CKA5U4X"
 	python slackConnector.py --messagefile msg.md --channel "C097CKA5U4X"
 	
+	python slackConnector.py --message "[TEST] Processing stage 2/2... This may take up to 30minutes. Feel free to have a coffee break." --channel "C097CKA5U4X"
+	python ./FindPublications.py
 	python slackConnector.py --message "[TEST] A message that did not find new publications should appear below" --channel "C097CKA5U4X"
 	python slackConnector.py --messagefile msg.md --channel "C097CKA5U4X"
 	
