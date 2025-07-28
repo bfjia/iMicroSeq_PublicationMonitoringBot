@@ -3,8 +3,10 @@
 #crontab command
 #0 7 * * * cd ~/publii && sleep $((RANDOM % 3600)) && ./publii.sh >> publii.log 2>&1
 
-eval "$(conda shell.bash hook)"
-conda activate pubsurveillance
+#eval "$(conda shell.bash hook)"
+#conda activate pubsurveillance
+source ~/publii_venv/bin/activate
+
 
 if [ "$(basename "$PWD")" = "tests" ]; then
 	python ../slackConnector.py --message "[TEST] STARTING TEST... Test ends when you see the message TEST SUCCESS" --channel "C097CKA5U4X"
