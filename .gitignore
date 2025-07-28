@@ -18,3 +18,5 @@ last_allpubs.json
 pubsSince*.tsv
 tests/.secret
 delta.json
+*.log
+publii.log
