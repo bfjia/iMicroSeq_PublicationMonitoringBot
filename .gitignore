@@ -14,3 +14,5 @@ scripts/.vscode
 .secret/*
 msg.md
 last_allpubs.json
+.vscode
+pubsSince*.tsv
