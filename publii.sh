@@ -29,4 +29,4 @@ git add .
 git commit -m "Update $dateNow"
 git push
 
-conda deactivate
+source deactivate
