@@ -63,7 +63,7 @@ if __name__ == "__main__":
                         help="path to the file to be uploaded, can specify multiple")
     parser.add_argument("--messagefile", type=str, default=None,
                         help="The filepath for a text file to be sent as the message")
-    parser.add_argument("--channel", type=str, default="C088LULD5PY",
+    parser.add_argument("--channel", type=str, default="C097CKA5U4X",
                         help="Specify the channel that the message should be sent to, default: duotang-integrations")
     parser.add_argument("--thread", type=str, default=None,
                         help="Specify the thread that the message should be sent to")
