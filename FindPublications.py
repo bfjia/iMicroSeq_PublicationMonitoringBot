@@ -373,7 +373,7 @@ if __name__ == "__main__":
     if len(deltaJson) > 0:
         for authorID in deltaJson:
             if len(deltaJson[authorID]['publications']) > 1:
-                Msg = Msg + deltaJson[authorID]['Name'] + " have new publications: \n"
+                Msg = Msg + deltaJson[authorID]['Name'] + " has new publications: \n"
                 for pubID in deltaJson[authorID]['publications']:
                     pub = deltaJson[authorID]['publications'][pubID]
                     if (parser.parse(pub['year']).year >= 2025):
@@ -386,7 +386,7 @@ if __name__ == "__main__":
                 for pubID in deltaJson[authorID]['publications']:
                     pub = deltaJson[authorID]['publications'][pubID]
                     if (parser.parse(pub['year']).year >= 2025):
-                        Msg = Msg + deltaJson[authorID]['Name'] + " have a new publication titled: \"" + pub['title'] + ".\" Published in " + pub['publisher'] + ". Available at " + pub['url'] + " \nCongratulations!\n\n" 
+                        Msg = Msg + deltaJson[authorID]['Name'] + " has a new publication: \"" + pub['title'] + ".\" Published in " + pub['publisher'] + ". Available at " + pub['url'] + " \nCongratulations!\n\n" 
                     else:
                         print("[WARNING] Some how picked up a old publication in delta Json: (" + 
                               pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
