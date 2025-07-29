@@ -3466,7 +3466,7 @@
   },
   "tBwE4O4AAAAJ": {
     "Name": "Ayush Kumar",
-    "total_publications": "47",
+    "total_publications": "48",
     "publications": {
       "kprqrAoq_mUC": {
         "title": "Requirements and Considerations for Effective Implementation of Integrated One Health Antimicrobial Resistance Research",
@@ -3529,6 +3529,15 @@
         "author": "Ellen ME Sykes, Valeria Mateo-Estrada, Anna Muzaleva, George Zhanel, Jeremy Dettman, Julie Chapados, Suzanne Gerdis, \u00d6mer Akineden, Santiago Castillo-Ram\u00edrez, Izhar UH Khan, Ayush Kumar",
         "url": "https://link.springer.com/article/10.1007/s10096-024-04873-0",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "UxGknTjvZ8EC": {
+        "title": "Improving safety: Neuraxial blockade guided by thromboelastography for patients with uncertain coagulation profile",
+        "year": "2024/7/1",
+        "publisher": "Journal of Postgraduate Medicine",
+        "author": "A Kumar, AN Deshmukh, CK Pandey, N Chaudhary",
+        "url": "https://journals.lww.com/jopm/fulltext/2024/70030/improving_safety__neuraxial_blockade_guided_by.9.aspx?context=latestarticles",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "dJueR9Ocv0UC": {
@@ -8910,6 +8919,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "5qfkUJPXOUwC": {
+        "title": "Ecological and Genomic Variation of the Gut Microbiome in Gastrointestinal Compromised Human Cohort Across Different Ages",
+        "year": "2025/7/18",
+        "publisher": "MDPI AG",
+        "author": "Francisco Aleman,Preethi Balasundaram,Kirti Dubli,Rinku Chaudhari,Casey Hubert,Anmol Kapoor,Raja Singh,Minal Borkar Tripathi",
+        "url": "https://doi.org/10.20944/preprints202507.1587.v1",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      },
       "hCrLmN-GePgC": {
         "title": "Metagenomic Insights into the Impact of Nutrition on Human Gut Microbiota and Associated Disease Risk",
         "year": "2025/7/18",
@@ -9700,15 +9718,6 @@
         "author": "Jayne E Rattray, Anirban Chakraborty, Carmen Li, Gretta Elizondo, Nisha John, Michelle Wong, Jago\u0161 R Radovi\u0107, Thomas BP Oldenburg, Casey RJ Hubert",
         "url": "https://ami-journals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15343?af=R",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "p2g8aNsByqUC": {
-        "title": "Wastewater monitoring of SARS-CoV-2 from acute care hospitals identifies nosocomial transmission and outbreaks",
-        "year": "2021/2/23",
-        "publisher": "medRxiv",
-        "author": "Nicole Acosta, Mar\u00eda A. Bautista, Jordan Hollman, Janine McCalder, Alexander Buchner Beaudet, Lawrence Man, Barbara J Waddell, Jianwei Chen, Carmen Li, Darina Kuzma, Srijak Bhatnagar, Jenine Leal, Jon Meddings, Jia Hu, Jason L Cabaj, Norma J Ruecker, Christopher Naugler, Dylan R Pillai, Gopal Achari, M Cathryn Ryan, John M Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
-        "url": "https://www.medrxiv.org/content/10.1101/2021.02.20.21251520.abstract",
-        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
@@ -14284,7 +14293,7 @@
   },
   "Ohu9Gc4AAAAJ": {
     "Name": "B. Jesse Shapiro",
-    "total_publications": "66",
+    "total_publications": "65",
     "publications": {
       "TuM7UPshZo8C": {
         "title": "An experimental test of cyanotoxins as a potential driver of microbial community structure",
@@ -14384,15 +14393,6 @@
         "url": "https://doi.org/10.1093/ve/veae117",
         "firstOrLast": true,
         "datasource": "CrossRef"
-      },
-      "PD-wXv1Sh1EC": {
-        "title": "Vibrio cholerae lineage and pangenome diversity varies geographically across Bangladesh over one year",
-        "year": "2024/11/14",
-        "publisher": "bioRxiv",
-        "author": "Chuhan Qin, Patrick Lypaczewski, Md Abu Sayeed, Aline C Cu\u00e9nod, Lindsey Brinkley, Ashton Creasy-Marrazzo, Emilee T Cato, Kamrul Islam, Md Imam Ul Khabir, Md Taufiqur R Bhuiyan, Yasmin Begum, Firdausi Qadri, Ashraful I Khan, Eric J Nelson, B Jesse Shapiro",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11601304/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
       },
       "QZWLLlSfqgYC": {
         "title": "The Canadian VirusSeq Data Portal and Duotang: open resources for SARS-CoV-2 viral sequences and genomic epidemiology",
