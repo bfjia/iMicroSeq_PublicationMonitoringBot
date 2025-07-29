@@ -1,5 +1,9 @@
 #!/bin/bash -e
 
+#crontab command
+#0 7 * * * /bin/bash -c 'cd ~/iMicroSeq_PublicationMonitoringBot && sleep $((RANDOM % 3600)) && ./publii.sh >> publii.log 2>&1'
+
+
 handle_error() {
 	python slackConnector.py --message "The script errored out. Please see log attached." --file publii.log
 }
