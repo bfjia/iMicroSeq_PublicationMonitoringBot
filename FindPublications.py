@@ -214,7 +214,8 @@ def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear 
                 publicationScholar = extractMetadataFromScholarSummary(driver, publicationURL, profileName, title, pubID)
 
                 #for cases in which only a year is reported by google scholars. use crossref to see if we can find additional information.
-                if len(publicationScholar.toDict()['year']) < 6:
+                #NEW: CrossRef can sometimes report wrong information. We don't really care about anything before 2025 anyways so lets just skip this if its a publication before 2025. 
+                if len(publicationScholar.toDict()['year']) < 6 and parser.parse(publicationScholar.toDict()['year']).year >= 2025:
                     publicationCrossRef = extractMetadataFromCrossRef(title, profileName, pubID)
 
                     if publicationCrossRef == "defer":
