@@ -1,87 +1,27 @@
 {
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
-    "total_new": "1",
+  "RIjsxfIAAAAJ": {
+    "Name": "Amina Stoddart",
+    "total_new": "31",
     "publications": {
-      "Wl48QJdZ9EIC": {
-        "title": "Galleria mellonella as an Infection and Antibiotic Treatment Model for Acinetobacter baumannii",
-        "year": "2025/7/25",
-        "publisher": "Journal of Visualized Experiments (JoVE)",
-        "author": "Dawn White, Ellen ME Sykes, Ayush Kumar",
-        "url": "https://app.jove.com/t/68625/galleria-mellonella-as-an-infection-antibiotic-treatment-model-for",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "SmBwcwUAAAAJ": {
-    "Name": "Graham Gagnon",
-    "total_new": "78",
-    "publications": {
-      "k_7cPK9k7w8C": {
+      "5ugPr518TE4C": {
         "title": "Water Research X",
         "year": "2024",
         "publisher": "Water Research",
         "author": "Sean A MacIsaac, Bailey Reid, Carolina Ontiveros, Karl G Linden, Amina K Stoddart, Graham A Gagnon",
         "url": "https://tekinvestor.no/uploads/short-url/du1sgZScyCaU8SDfjH0JdvJ2zA6.pdf",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "DrR-2ekChdkC": {
-        "title": "2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry",
-        "year": "2024",
-        "publisher": "Environmental Science: Atmospheres",
-        "author": "Zongwei Cai, Neil Donahue, Graham Gagnon, Kevin C Jones, C\u00e9lia Manaia, Elsie Sunderland, Peter J Vikesland",
-        "url": "https://pubs.rsc.org/en/content/articlehtml/2024/ea/d4ea90013h",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "2l5NCbZemmgC": {
-        "title": "Advancing global priorities in water research and technology",
-        "year": "2025/2/21",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "Graham Gagnon",
-        "url": "https://doi.org/10.1039/d3ew90050a",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
-      },
-      "kzcSZmkxUKAC": {
-        "title": "Biodegradation of 1, 4-dioxane in a continuous-flow bioelectrochemical reactor by biofilm of Pseudonocardia dioxanivorans CB1190 and microbial community on conductive carriers",
-        "year": "2023/11/15",
-        "publisher": "Environmental Pollution",
-        "author": "Aryan Samadi, Graham Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0269749123015749",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "EPG8bYD4jVwC": {
+      "D_sINldO8mEC": {
         "title": "Comparison of Legionella pneumophila and Pseudomonas fluorescens Quantification Methods for Assessing UV LED Disinfection",
         "year": "2023/11/1",
         "publisher": "ACS Es&t Water",
         "author": "Jaser Lara de Larrea, Sean A MacIsaac, Kyle D Rauch, Amina K Stoddart, Graham A Gagnon",
         "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.3c00428",
-        "firstOrLast": true,
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "ziOE8S1-AIUC": {
-        "title": "Enhanced detection of viruses for improved water safety",
-        "year": "2023/10/13",
-        "publisher": "Scientific Reports",
-        "author": "Emalie K Hayes, Madison T Gouthro, Megan Fuller, David J Redden, Graham A Gagnon",
-        "url": "https://www.nature.com/articles/s41598-023-44528-2",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "kF1pexMAQbMC": {
-        "title": "Evaluating Sentinel Pipe Racks for Monitoring Lead Release and Optimizing Corrosion Control",
-        "year": "2023/10/11",
-        "publisher": "ACS ES&T Water",
-        "author": "Benjamin F Trueman, Javier A Locsin, Wendy H Krkos\u030cek, Graham A Gagnon",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.3c00273",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "WAzi4Gm8nLoC": {
+      "VOx2b1Wkg3QC": {
         "title": "Betaproteobacteria are a key component of surface water biofilters that maintain sustained manganese removal in response to fluctuations in influent water temperature",
         "year": "2023/10/1",
         "publisher": "Water Research",
@@ -90,277 +30,79 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "mUJArPsKIAAC": {
-        "title": "An innovative passive sampling approach for the detection of cyanobacterial gene targets in freshwater sources",
-        "year": "2023/9/20",
-        "publisher": "Science of the Total Environment",
-        "author": "David J Redden, Toni Stanhope, Lindsay E Anderson, Jessica Campbell, Wendy H Krko\u0161ek, Graham A Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S004896972303214X",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "5bg8sr1QxYwC": {
-        "title": "Adapting direct filtration to increasing source water dissolved organic carbon using clarification and granular activated carbon",
-        "year": "2023/9",
-        "publisher": "AWWA Water Science",
-        "author": "Lindsay E Anderson, Manda Tchonlla, Martin Earle, Ryan Swinamer, Graham A Gagnon",
-        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.1352",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "3bvyWxjaHKcC": {
-        "title": "Simultaneous detection of SARS-CoV-2, influenza A, respiratory syncytial virus, and measles in wastewater by multiplex RT-qPCR",
-        "year": "2023/9/1",
-        "publisher": "Science of the Total Environment",
-        "author": "Emalie K Hayes, Madison T Gouthro, Jason J LeBlanc, Graham A Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0048969723028826",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "oi2SiIJ9l4AC": {
+      "fQNAKQ3IYiAC": {
         "title": "Raw water biofiltration for surface water manganese control",
         "year": "2023/6/3",
         "publisher": "Scientific Reports",
         "author": "Martin R Earle, Amina K Stoddart, Graham A Gagnon",
         "url": "https://www.nature.com/articles/s41598-023-36348-1",
-        "firstOrLast": true,
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "w1MjKQ0l0TYC": {
-        "title": "Sentinel lead pipe racks quantify orthophosphate\u2019s dose-response in drinking water",
-        "year": "2023/5/29",
-        "publisher": "Unknown",
-        "author": "Benjamin F Trueman, Wendy H Krko\u0161ek, Graham A Gagnon",
-        "url": "https://chemrxiv.org/engage/chemrxiv/article-details/6470d67e4f8b1884b7540855",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "w0F2JDEymm0C": {
-        "title": "Sentinel pipe racks quantify orthophosphate\u2019s effect on lead release into drinking water",
-        "year": "2023/5/16",
-        "publisher": "Unknown",
-        "author": "Benjamin F Trueman, Wendy H Krko\u0161ek, Graham A Gagnon",
-        "url": "https://chemrxiv.org/engage/chemrxiv/article-details/64626327a32ceeff2db355ec",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "ce2CqMG-AY4C": {
-        "title": "A review of long-term change in surface water natural organic matter concentration in the northern hemisphere and the implications for drinking water treatment",
-        "year": "2023/2/1",
-        "publisher": "E",
-        "author": "Lindsay E Anderson, Isobel DeMont, Dewey D Dunnington, Paul Bjorndahl, Dave J Redden, Michael J Brophy, Graham A Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0048969722067997",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "VN7nJs4JPk0C": {
+      "8AbLer7MMksC": {
         "title": "Improved disinfection performance for 280 nm LEDs over 254 nm low-pressure UV lamps in community wastewater",
-        "year": "2023/1/13",
-        "publisher": "Unknown",
+        "year": "2023/5/10",
+        "publisher": "Scientific Reports",
         "author": "Sean A MacIsaac, Kyle D Rauch, Taylor Prest, Richard M Simons, Graham A Gagnon, Amina K Stoddart",
         "url": "https://www.nature.com/articles/s41598-023-34633-7",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "SjuI4pbJlxcC": {
-        "title": "Colloidal lead in drinking water: Formation, occurrence, and characterization",
-        "year": "2023/1/2",
-        "publisher": "T",
-        "author": "Javier A Locsin, Kalli M Hood, Evelyne Dor\u00e9, Benjamin F Trueman, Graham A Gagnon",
-        "url": "https://www.tandfonline.com/doi/abs/10.1080/10643389.2022.2039549",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "hSRAE-fF4OAC": {
-        "title": "Treatment of biofilms and opportunistic pathogens in simulated drinking water distribution systems using UV LEDs",
-        "year": "2023",
-        "publisher": "Unknown",
-        "author": "Carlos Jaser Lara de Larrea, G Gagnon",
-        "url": "https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/item.aspx?idNumber=1415669161",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "pAkWuXOU-OoC": {
+      "geHnlv5EZngC": {
         "title": "Microbiome and hydraulic performance changes of drinking water biofilters during disruptive events-media replacement, lake diatom bloom, and chlorination",
-        "year": "2025/7/16",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "Leili Abkar,Anita Taylor,Amina Stoddart,Graham Gagnon",
-        "url": "https://doi.org/10.1039/d2ew00578f",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
-      },
-      "1DsIQWDZLl8C": {
-        "title": "Understanding the impact of different source water types on the biofilm characteristics and microbial communities of manganese removing biofilters",
-        "year": "2025/2/21",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "N. E. McCormick,M. Earle,A. K. Stoddart,M. G. I. Langille,G. A. Gagnon",
-        "url": "https://doi.org/10.1039/d2ew00568a",
+        "year": "2023",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "Leili Abkar, Anita Taylor, Amina Stoddart, Graham Gagnon",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2023/ew/d2ew00578f",
         "firstOrLast": false,
-        "datasource": "CrossRef"
-      },
-      "kWvqk_afx_IC": {
-        "title": "Calibration of high performance size exclusion chromatography (HPSEC) for molecular weight estimation of aquatic humic substances",
-        "year": "2022/12/1",
-        "publisher": "Journal of Environmental Chemical Engineering",
-        "author": "Allison L Mackie, Yuri Park, Graham A Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2213343722017869",
-        "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "sszUF3NjhM4C": {
+      "B3FOqHPlNUQC": {
+        "title": "Understanding the impact of different source water types on the biofilm characteristics and microbial communities of manganese removing biofilters",
+        "year": "2023",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "NE McCormick, M Earle, AK Stoddart, MGI Langille, GA Gagnon",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2022/ew/d2ew00568a",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "4fKUyHm3Qg0C": {
         "title": "UV disinfection audit of water resource recovery facilities identifies system and matrix limitations",
         "year": "2022/12/1",
         "publisher": "Journal of Water Process Engineering",
         "author": "Kyle D Rauch, Sean A MacIsaac, Amina K Stoddart, Graham A Gagnon",
         "url": "https://www.sciencedirect.com/science/article/pii/S2214714422006110",
-        "firstOrLast": true,
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "HGTzPopzzJcC": {
+      "08ZZubdj9fEC": {
         "title": "Adsorption of SARS-CoV-2 onto granular activated carbon (GAC) in wastewater: Implications for improvements in passive sampling",
         "year": "2022/11/15",
         "publisher": "Science of the Total Environment",
         "author": "Emalie K Hayes, Amina K Stoddart, Graham A Gagnon",
         "url": "https://www.sciencedirect.com/science/article/pii/S0048969722046460",
-        "firstOrLast": true,
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "O0nohqN1r9EC": {
+      "sSrBHYA8nusC": {
         "title": "Comparison of anthracite and GAC biofilter performance for surface\u2010water manganese removal",
         "year": "2022/11",
         "publisher": "AWWA Water Science",
         "author": "Ashley N Kent, Martin Earle, Jacqueline Iannuzzi, Cynthia Ha, Lyda Hakes, Amina Stoddart, William Knocke, Graham Gagnon",
         "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.1314",
-        "firstOrLast": true,
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "rHJHxKgnXwkC": {
-        "title": "Early phase effects of silicate and orthophosphate on lead (Pb) corrosion scale development and Pb release",
-        "year": "2022/11/1",
-        "publisher": "Journal of Environmental Management",
-        "author": "Yaohuan Gao, Benjamin F Trueman, Graham A Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0301479722015201",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "Dem6FJhTUoYC": {
-        "title": "Comparing corrosion control treatments for drinking water using a robust Bayesian generalized additive model",
-        "year": "2022/10/25",
-        "publisher": "ACS ES&T Engineering",
-        "author": "Benjamin F Trueman, Wendell James, Trevor Shu, Evelyne Dor\u00e9, Graham A Gagnon",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestengg.2c00194",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "1Ye0OR6EYb4C": {
-        "title": "Impacts of orthophosphate\u2013polyphosphate blends on the dissolution and transformation of lead (II) carbonate",
-        "year": "2022/10/25",
-        "publisher": "Scientific Reports",
-        "author": "Javier A Locsin, Benjamin F Trueman, Evelyne Dor\u00e9, Aaron Bleasdale-Pollowy, Graham A Gagnon",
-        "url": "https://www.nature.com/articles/s41598-022-22683-2",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "mKu_rENv82IC": {
-        "title": "Operator\u2010informed risk assessment tool: Opportunities and barriers to support risk management practices",
-        "year": "2022/9",
-        "publisher": "AWWA Water Science",
-        "author": "Kaycie Lane, Megan Fuller, Graham Gagnon",
-        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.1307",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "DBa1UEJaJKAC": {
-        "title": "Immersive ultraviolet disinfection of E. coli and MS2 phage on woven cotton textiles",
-        "year": "2022/8/2",
-        "publisher": "Scientific Reports",
-        "author": "Sean A MacIsaac, Toni J Mullin, Sebastian Munoz, C Carolina Ontiveros, Graham A Gagnon",
-        "url": "https://www.nature.com/articles/s41598-022-17663-5",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "PyEswDtIyv0C": {
-        "title": "Enhanced Reproducibility and Precision of High-Throughput Quantification of Bacterial Growth Data Using a Microplate Reader",
-        "year": "2022/7/27",
-        "publisher": "Journal of Visualized Experiments (JoVE)",
-        "author": "Leili Abkar, Florentin M Wilfart, Marta Piercey, Graham A Gagnon",
-        "url": "https://app.jove.com/t/63849",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "jFemdcug13IC": {
-        "title": "Comparing quantitative probability of occurrence to a risk matrix approach: A study of chlorine residual data",
-        "year": "2022/6/30",
-        "publisher": "Water Research",
-        "author": "Kaycie Lane, Graham Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0043135422004341",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "-7ulzOJl1JYC": {
-        "title": "Comparing corrosion control treatments using a robust Bayesian generalized additive model",
-        "year": "2022/5/9",
-        "publisher": "Unknown",
-        "author": "Benjamin F Trueman, Wendell James, Trevor Shu, Evelyne Dor\u00e9, Graham A Gagnon",
-        "url": "https://chemrxiv.org/engage/chemrxiv/article-details/62741f687087677e0a475184",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "6_hjMsCP8ZoC": {
-        "title": "Release and mineral formation of lead corrosion products with orthophosphate-polyphosphates",
-        "year": "2022/4/25",
-        "publisher": "Unknown",
-        "author": "Javier Locsin, Evelyne Dor\u00e9, Benjamin F Trueman, Aaron Bleasedale-Pollowy, Graham A Gagnon",
-        "url": "https://chemrxiv.org/engage/chemrxiv/article-details/62616c73ebac3a2d82ddafa6",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "XUvXOeBm_78C": {
-        "title": "Seasonal lead release into drinking water and the effect of aluminum",
-        "year": "2022/4/20",
-        "publisher": "ACS Es&t Water",
-        "author": "Benjamin F Trueman, Aaron Bleasdale-Pollowy, Javier A Locsin, Jessica L Bennett, Wendy H Krkos\u030cek, Graham A Gagnon",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.1c00320",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "CdxZDUztZiMC": {
-        "title": "Co-development of a risk assessment tool for use in First Nations water supply systems: A key step to water safety plan implementation",
-        "year": "2022/3/1",
-        "publisher": "International Journal of Hygiene and Environmental Health",
-        "author": "Kaycie Lane, Megan Fuller, Travis Dyment, Graham Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S1438463921002315",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "Ade32sEp0pkC": {
-        "title": "tidypaleo: visualizing paleoenvironmental archives using ggplot2",
-        "year": "2022/2/24",
-        "publisher": "Journal of Statistical Software",
-        "author": "Dewey W Dunnington, Nell Libera, Joshua Kurek, Ian S Spooner, Graham A Gagnon",
-        "url": "https://www.jstatsoft.org/article/view/v101i07",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "HhcuHIWmDEUC": {
-        "title": "Seasonal lead release to drinking water and the effect of aluminum",
-        "year": "2022/2/17",
-        "publisher": "Unknown",
-        "author": "Benjamin F Trueman, Aaron Bleasdale-Pollowy, Javier A Locsin, Jessica L Bennett, Wendy H Krko\u0161ek, Graham A Gagnon",
-        "url": "https://chemrxiv.org/engage/chemrxiv/article-details/620d41d87a054abca20ff0e3",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "6bLC7aUMtPcC": {
+      "f2IySw72cVMC": {
         "title": "Operational constraints of detecting SARS-CoV-2 on passive samplers using electronegative filters: a kinetic and equilibrium analysis",
         "year": "2022/1/21",
         "publisher": "Acs Es&T Water",
         "author": "Emalie K Hayes, Crystal L Sweeney, Megan Fuller, Genevieve B Erjavec, Amina K Stoddart, Graham A Gagnon",
         "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.1c00441",
-        "firstOrLast": true,
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "TlpoogIpr_IC": {
+      "q3oQSFYPqjQC": {
         "title": "NOM removal by biofiltration",
         "year": "2022/1/1",
         "publisher": "E",
@@ -369,16 +111,7 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "SnGPuo6Feq8C": {
-        "title": "Characterization of natural organic matter",
-        "year": "2022/1/1",
-        "publisher": "E",
-        "author": "Yuri Park, Mika Sillanp\u00e4\u00e4, Lindsay Anderson, Graham A Gagnon, Anu Matilainen",
-        "url": "https://pure.uj.ac.za/en/publications/characterization-of-natural-organic-matter",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "69ZgNCALVd0C": {
+      "BrmTIyaxlBUC": {
         "title": "Impact of climate and atmospheric pressures on natural organic matter concentration and surface water treatment practices",
         "year": "2022/1/1",
         "publisher": "E",
@@ -387,52 +120,16 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "RoXSNcbkSzsC": {
-        "title": "Release and migration of Pb from Pb (ii) and Pb (iv) compounds in the presence of microbiological activity",
+      "a0OBvERweLwC": {
+        "title": "Development of a rapid pre-concentration protocol and a magnetic beads-based RNA extraction method for SARS-CoV-2 detection in raw municipal wastewater",
         "year": "2022",
         "publisher": "Environmental Science: Water Research & Technology",
-        "author": "Yaohuan Gao, Benjamin F Trueman, Bofu Li, Martin R Earle, Graham A Gagnon",
-        "url": "https://pubs.rsc.org/en/content/articlehtml/2022/ew/d2ew00152g",
-        "firstOrLast": true,
+        "author": "AL Parra-Guardado, CL Sweeney, EK Hayes, BF Trueman, Y Huang, RC Jamieson, JL Rand, GA Gagnon, AK Stoddart",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2022/ew/d1ew00539a",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "-jrNzM816MMC": {
-        "title": "Sodium silicate and hexametaphosphate promote the release of (oxyhydr) oxide nanoparticles from corroding iron",
-        "year": "2025/5/9",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "Benjamin F. Trueman,Javier Locsin,Evelyne Dor\u00e9,Kalli Hood,Graham A. Gagnon",
-        "url": "https://doi.org/10.1039/d2va00199c",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
-      },
-      "OBSaB-F7qqsC": {
-        "title": "Role of natural organic matter and hardness on lead release from galvanic corrosion",
-        "year": "2025/7/26",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "Patrick W. King,Sigrid Peldszus,Anushka Mishrra,Benjamin F. Trueman,Kimia Aghasadeghi,Graham A. Gagnon,Daniel E. Giammar,Peter M. Huck",
-        "url": "https://doi.org/10.1039/d1ew00903f",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      },
-      "yxmsSjX2EkcC": {
-        "title": "Development of a rapid pre-concentration protocol and a magnetic beads-based RNA extraction method for SARS-CoV-2 detection in raw municipal wastewater",
-        "year": "2025/7/24",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "A. L. Parra-Guardado,C. L. Sweeney,E. K. Hayes,B. F. Trueman,Y. Huang,R. C. Jamieson,J. L. Rand,G. A. Gagnon,A. K. Stoddart",
-        "url": "https://doi.org/10.1039/d1ew00539a",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      },
-      "-mN3Mh-tlDkC": {
-        "title": "Effect of sodium silicate on drinking water biofilm development",
-        "year": "2021/9/15",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Sebastian Munoz,Benjamin F. Trueman,Bofu Li,Graham A. Gagnon",
-        "url": "https://doi.org/10.1101/2021.09.15.460503",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
-      },
-      "1yWc8FF-_SYC": {
+      "D03iK_w7-QYC": {
         "title": "Biological and physico-chemical mechanisms accelerating the acclimation of Mn-removing biofilters",
         "year": "2021/12/1",
         "publisher": "Water Research",
@@ -441,34 +138,25 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "Br1UauaknNIC": {
-        "title": "Effectiveness of sodium silicates for lead corrosion control: A critical review of current data",
-        "year": "2021/10/15",
-        "publisher": "Environmental Science & Technology Letters",
-        "author": "Bofu Li, Benjamin F Trueman, Evelyne Dore, Graham A Gagnon",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.estlett.1c00671",
+      "zA6iFVUQeVQC": {
+        "title": "Specificity of UV-C LED disinfection efficacy for three N95 respirators",
+        "year": "2021/7/28",
+        "publisher": "Scientific Reports",
+        "author": "C Carolina Ontiveros, David C Shoults, Sean MacIsaac, Kyle D Rauch, Crystal L Sweeney, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://www.nature.com/articles/s41598-021-94810-4",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "bFI3QPDXJZMC": {
+        "title": "AWWA Water Science Author Spotlight",
+        "year": "2021/7",
+        "publisher": "Journal\u2010American Water Works Association",
+        "author": "Amina K Stoddart",
+        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/awwa.1744",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "7wO8s98CvbsC": {
-        "title": "An extensive clean-up method for extraction of 17\u03b2-estradiol from eel aquaculture waste solids for quantitation via high-performance liquid chromatography tandem-mass spectrometry",
-        "year": "2021/9/15",
-        "publisher": "Aquaculture",
-        "author": "Crystal L Sweeney, Clarke AM Brown, Jessica L Bennett, Neil W Ross, Graham A Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0044848621005366",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "hsZV8lGYWTMC": {
-        "title": "Biological responses to P\u2010limitation in indigenous bacteria isolated from drinking water",
-        "year": "2021/9",
-        "publisher": "AWWA Water Science",
-        "author": "Leili Abkar, Graham A Gagnon",
-        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.1248",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "owLR8QvbtFgC": {
+      "dfsIfKJdRG4C": {
         "title": "Detection of SARS-CoV-2 in wastewater in Halifax, Nova Scotia, Canada, using four RT-qPCR assays",
         "year": "2021/6/10",
         "publisher": "Facets",
@@ -477,43 +165,25 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "PYBJJbyH-FwC": {
+      "4OULZ7Gr8RgC": {
         "title": "Assessing the impact of multiple ultraviolet disinfection cycles on N95 filtering facepiece respirator integrity",
         "year": "2021/6/10",
         "publisher": "Scientific Reports",
         "author": "C Carolina Ontiveros, Crystal L Sweeney, Christopher Smith, Sean MacIsaac, Jessica L Bennett, Sebastian Munoz, Amina K Stoddart, Graham A Gagnon",
         "url": "https://www.nature.com/articles/s41598-021-91706-1",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "1taIhTC69MYC": {
-        "title": "Pilot-scale comparison of sodium silicates, orthophosphate and pH adjustment to reduce lead release from lead service lines",
-        "year": "2021/5/1",
-        "publisher": "Water Research",
-        "author": "Kimia Aghasadeghi, Sigrid Peldszus, Benjamin F Trueman, Anushka Mishrra, Mitchell G Cooke, Robin M Slawson, Daniel E Giammar, Graham A Gagnon, Peter M Huck",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0043135421001536",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "MhiOAD_qIWkC": {
-        "title": "Relative importance of organic-and iron-based colloids in six Nova Scotian lakes",
-        "year": "2021/4/9",
-        "publisher": "npj Clean Water",
-        "author": "Lindsay E Anderson, Benjamin F Trueman, Dewey W Dunnington, Graham A Gagnon",
-        "url": "https://www.nature.com/articles/s41545-021-00115-4",
+      "fPk4N6BV_jEC": {
+        "title": "Exploring the Use of a Sanitation Safety Plan Framework to identify key hazards in First Nations Wastewater systems",
+        "year": "2021/5/22",
+        "publisher": "Water",
+        "author": "Kaycie Lane, Megan Fuller, Toni Stanhope, Amina Stoddart",
+        "url": "https://www.mdpi.com/2073-4441/13/11/1454",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "v1_lew4L6wgC": {
-        "title": "Controlling lead release due to uniform and galvanic corrosion\u2014an evaluation of silicate-based inhibitors",
-        "year": "2021/4/5",
-        "publisher": "Journal of Hazardous Materials",
-        "author": "Bofu Li, Benjamin F Trueman, Mohammad Shahedur Rahman, Graham A Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0304389420326972",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "lgwcVrK6X84C": {
+      "M05iB0D1s5AC": {
         "title": "Pandemic danger to the deep: the risk of marine mammals contracting SARS-CoV-2 from wastewater",
         "year": "2021/3/15",
         "publisher": "Science of The Total Environment",
@@ -522,25 +192,34 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "43bX7VzcjpAC": {
-        "title": "Impact of sodium silicate on lead release and colloid size distributions in drinking water",
-        "year": "2021/2/15",
-        "publisher": "Water Research",
-        "author": "Bofu Li, Benjamin F Trueman, Sebastian Munoz, Javier M Locsin, Graham A Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0043135420312446",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "jgBuDB5drN8C": {
+      "g5m5HwL7SMYC": {
         "title": "Assessing strategies to improve the efficacy and efficiency of direct filtration plants facing changes in source water quality from anthropogenic and climatic pressures",
         "year": "2021/2/1",
         "publisher": "Journal of Water Process Engineering",
         "author": "Isobel DeMont, Amina K Stoddart, Graham A Gagnon",
         "url": "https://www.sciencedirect.com/science/article/pii/S2214714420305675",
-        "firstOrLast": true,
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "L1USKYWJimsC": {
+      "3s1wT3WcHBgC": {
+        "title": "Predicting manganese and iron precipitation in drinking water biofilters",
+        "year": "2021/1/28",
+        "publisher": "AWWA Water Science",
+        "author": "Martin R. Earle, Ines L. Breda, Amina K. Stoddart, Graham A. Gagnon",
+        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.1216",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "tS2w5q8j5-wC": {
+        "title": "Exploring the Use of a Sanitation Safety Plan Framework to Identify Key Hazards in First Nations Wastewater Systems. Water 2021, 13, 1454",
+        "year": "2021",
+        "publisher": "s",
+        "author": "K Lane, M Fuller, T Stanhope, A Stoddart",
+        "url": "https://www.academia.edu/download/79163940/pdf.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "yD5IFk8b50cC": {
         "title": "A novel passive sampling approach for SARS-CoV-2 in wastewater in a Canadian province with low prevalence of COVID-19",
         "year": "2021",
         "publisher": "Environmental Science: Water Research & Technology",
@@ -549,61 +228,520 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "7H_MAutzIkAC": {
-        "title": "Monitoring the influence of wastewater effluent on a small drinking water system using EEM fluorescence spectroscopy coupled with a PARAFAC and PCA statistical approach",
-        "year": "2021",
-        "publisher": "Environmental Science: Processes & Impacts",
-        "author": "Yuri Park, Sean A MacIsaac, Parminder Kaur, Michael Brophy, Graham A Gagnon",
-        "url": "https://pubs.rsc.org/en/content/articlehtml/2021/em/d1em00015b",
+      "rO6llkc54NcC": {
+        "title": "Development and optimization of a new method for direct extraction of SARS-CoV-2 RNA from municipal wastewater using magnetic beads",
+        "year": "2020/12/4",
+        "publisher": "medRxiv",
+        "author": "Ana L Parra Guardado, Crystal L Sweeney, Emalie Hayes, Benjamin F Trueman, Yannan Huang, Rob C Jamieson, Jennie L Rand, Graham A Gagnon, Amina K Stoddart",
+        "url": "https://www.medrxiv.org/content/10.1101/2020.12.04.20237230.abstract",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "WHdLCjDvYFkC": {
-        "title": "Specificity of UV-C LED Disinfection Efficacy for Three N95 Respirators",
-        "year": "2021/7/28",
-        "publisher": "Springer Science and Business Media LLC",
-        "author": "C. Carolina Ontiveros,David C. Shoults,Sean MacIsaac,Kyle D. Rauch,Crystal L. Sweeney,Amina K. Stoddart,Graham A. Gagnon",
-        "url": "https://doi.org/10.1038/s41598-021-94810-4",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
-      },
-      "FiytvqdAVhgC": {
-        "title": "Chemical recovery and browning of Nova Scotia surface waters in response to declining acid deposition",
-        "year": "2021",
-        "publisher": "Environmental Science: Processes & Impacts",
-        "author": "D Redden, BF Trueman, DW Dunnington, LE Anderson, GA Gagnon",
-        "url": "https://pubs.rsc.org/en/content/articlehtml/2021/em/d0em00425a",
+      "pqnbT2bcN3wC": {
+        "title": "An automated and high\u2010throughput method for adenosine triphosphate quantification",
+        "year": "2020/11",
+        "publisher": "AWWA Water Science",
+        "author": "Fatou Secka, Nicole E Allward, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.1202",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "IaI1MmNe2tcC": {
-        "title": "Impact of sodium silicate on lead release from lead (II) carbonate",
-        "year": "2025/2/21",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "Bofu Li,Benjamin F. Trueman,Javier M. Locsin,Yaohuan Gao,Mohammad Shahedur Rahman,Yuri Park,Graham A. Gagnon",
-        "url": "https://doi.org/10.1039/d0ew00886a",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
+      "vV6vV6tmYwMC": {
+        "title": "Source water characteristics and building-specific factors influence corrosion and point of use water quality in a decentralized arctic drinking water system",
+        "year": "2020/1/21",
+        "publisher": "Environmental Science & Technology",
+        "author": "Stephanie L Gora, Benjamin F Trueman, Tim Anaviapik-Soucie, Megan K Gavin, C Carolina Ontiveros, Jessica Campbell, Vincent L\u2019He\u0301rault, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.9b04691",
+        "firstOrLast": false,
+        "datasource": "Scholars"
       },
-      "j7_hQOaDUrUC": {
-        "title": "Predicting manganese and iron precipitation in drinking water biofilters",
-        "year": "2021/1",
-        "publisher": "AWWA Water Science",
-        "author": "Martin R Earle, In\u00eas L Breda, Amina K Stoddart, Graham A Gagnon",
-        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.1216",
+      "LPZeul_q3PIC": {
+        "title": "Optimizing biofiltration for improved manganese control under cold-water conditions",
+        "year": "2020",
+        "publisher": "Project 4749",
+        "author": "A Evans, K Onesios-Barry, K Casteloes, J Carter, C Ha, L Hakes, A Stoddart, M Earle, L Anderson, N Allward, G Gagnon, W Knocke",
+        "url": "https://scholar.google.com/scholar?cluster=689635406196624566&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "ldfaerwXgEUC": {
+        "title": "Characterization of a commercially-available, low-pressure UV lamp as a disinfection system for decontamination of common nosocomial pathogens on N95 filtering facepiece \u2026",
+        "year": "2020",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "C Carolina Ontiveros, Crystal L Sweeney, Chris Smith, Sean MacIsaac, Sebastian Munoz, Ross Davidson, Craig McCormick, Nikhil Thomas, Ian Davis, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2020/ew/d0ew00404a",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "2P1L_qKh6hAC": {
+        "title": "Microbiological water quality in a decentralized Arctic drinking water system",
+        "year": "2020",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "Stephanie L Gora, Tim Anaviapik Soucie, Nicole E McCormick, C Carolina Ontiveros, Vincent L'H\u00e9rault, Megan Gavin, Benjamin F Trueman, Jessica Campbell, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2020/ew/d0ew00019a",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
+    "total_new": "2",
+    "publications": {
+      "-38epGy1wY0C": {
+        "title": "Klebsiella pneumoniae",
+        "year": "2022",
+        "publisher": "Unknown",
+        "author": "Bingchun Liang, Wenpeng Zhao, Bo Han, Herman W Barkema, Yan D Niu, Yongxia Liu, John P Kastelic, Jian Gao",
+        "url": "https://www.academia.edu/download/110845787/pdf.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "iKswqCX-FLkC": {
+        "title": "A cross-sectional study on antimicrobial use and calf management practices in Canadian preweaned dairy calves.",
+        "year": "2022/1/1",
+        "publisher": "E",
+        "author": "T Uyama, D Renaud, D Leger, D Rizzo, E Morrison, E de Jong, K McCubbin, H Barkema, S Dufour, J Sanchez, L Heider, J McClure, S LeBlanc, C Winder, D Kelton",
+        "url": "https://scholar.google.com/scholar?cluster=13909192190086576438&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wHX6pyUAAAAJ": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
+    "publications": {
+      "738O_yMBCRsC": {
+        "title": "Habitat, Climate, and Fisher and Marten Distributions",
+        "year": "2020",
+        "publisher": "The Journal of Wildlife Management",
+        "author": "Pauline Suffice, Marianne Cheveau, Louis Imbeau, Marc J Mazerolle, Hugo Asselin, Pierre Drapeau",
+        "url": "https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.21795",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "sp21VmQAAAAJ": {
+    "Name": "Jeffrey R Brook",
+    "total_new": "51",
+    "publications": {
+      "mVC4hKzE2FoC": {
+        "title": "Early View",
+        "year": "2023",
+        "publisher": "Unknown",
+        "author": "Thuy Tien Ho, Nguyen Mau Ba Dang, Ngo Thai Hung",
+        "url": "https://www.researchgate.net/profile/Ngo-Thai-Hung-2/publication/369541994_EARLY_VIEW_Manuscript_title_Oil_prices_and_economic_growth_in_China_A_time-frequency_analysis_OIL_PRICES_AND_ECONOMIC_GROWTH_IN_CHINA_A_TIME-FREQUENCY_ANALYSIS/links/64214edf92cfd54f84322af4/EARLY-VIEW-Manuscript-title-Oil-prices-and-economic-growth-in-China-A-time-frequency-analysis-OIL-PRICES-AND-ECONOMIC-GROWTH-IN-CHINA-A-TIME-FREQUENCY-ANALYSIS.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "qPeb-qHga9sC": {
+        "title": "Trends in Nitrogen and Sulfur Deposition and Evaluation of Critical Loads Exceedances across the Canadian Air and Precipitation Monitoring Network (CAPMoN)",
+        "year": "2023/1",
+        "publisher": "American Meteorological Society Meeting Abstracts",
+        "author": "Irene Cheng, Leiming Zhang, Zhuanshi He, Hazel Cathcart, Daniel Houle, Amanda Cole, Jian Feng, Jason O'Brien, Anne Marie Macdonald, Julian Aherne, Jeffrey R Brook",
+        "url": "https://ui.adsabs.harvard.edu/abs/2023AMS...10309031C/abstract",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "1lhNe0rCu4AC": {
-        "title": "Validation of a QuEChERS method for extraction of estrogens from a complex water matrix and quantitation via high-performance liquid chromatography-mass spectrometry",
-        "year": "2021/1/1",
-        "publisher": "Chemosphere",
-        "author": "Crystal L Sweeney, Jessica L Bennett, Clarke AM Brown, Neil W Ross, Graham A Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0045653520325108",
+      "d4tt_xEv1X8C": {
+        "title": "Di\u2010(2\u2010Ethylhexyl) Phthalate (DEHP) in House Dust in Canadian Homes: Behaviors and Associations with Housing Characteristics and Consumer Products",
+        "year": "2023",
+        "publisher": "Indoor Air",
+        "author": "Luyao Zhang, Garthika Navaranjan, Tim K Takaro, Sarah Bernstein, Liisa Jantunen, Wendy Lou, Piush J Mandhane, Theo J Moraes, James A Scott, Elinor Simons, Stuart E Turvey, Padmaja Subbarao, Jeffrey R Brook",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2023/4655289",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "LdasjJ6CEcoC": {
+      "X5YyAB84Iw4C": {
+        "title": "Natural Green Spaces, Sensitization to Allergens, and the Role of Gut Microbiota during Infancy",
+        "year": "2023",
+        "publisher": "MSystems",
+        "author": "Buchholz Vienna, Sarah L Bridgman, Charlene C Nielsen, Gascon Mireia, Hein M Tun, Elinor Simons, Stuart E Turvey, Subbarao Padmaja, Tim K Takaro, Jeffrey R Brook, James A Scott, Piush J Mandhane, Anita L Kozyrskyj",
+        "url": "https://search.proquest.com/openview/d5ebf99cef43c4e40df782e8af2371bd/1?pq-origsite=gscholar&cbl=2045591",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "EBV337fEn3EC": {
+        "title": "GlobeCorr: interactive globe-based visualization for correlation datasets",
+        "year": "2023/1/1",
+        "publisher": "Bioinformatics Advances",
+        "author": "Mariam Arab, Nolan Woods, Emma S Garlock, Geoffrey L Winsor, Jaclyn P Parks, Baofeng Jia, Dany Doiron, Tim K Takaro, Jeffrey R Brook, Fiona SL Brinkman",
+        "url": "https://academic.oup.com/bioinformaticsadvances/article-abstract/3/1/vbac099/6972814",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "yIeBiWEAh44C": {
+        "title": "Long-term exposure to traffic-related air pollution and stroke: a systematic review and meta-analysis",
+        "year": "2023/1/1",
+        "publisher": "U",
+        "author": "Pascale Haddad, M Kutlar Joss, Jennifer Weuve, Danielle Vienneau, R Atkinson, J Brook, H Chang, Francesco Forastiere, Gerard Hoek, Ron Kappeler, Fred Lurmann, Sharon Sagiv, Evangelina Samoli, Audrey Smargiassi, Adam Szpiro, AP Patton, H Boogaard, Barbara Hoffmann",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1438463922001626",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "i_7YvbSbtFEC": {
+        "title": "The impact of sleep disturbance on physical health in a severe asthmatic pediatric population",
+        "year": "2022/12/1",
+        "publisher": "Sleep Medicine",
+        "author": "G Voutsas, T Moraes, P Subbarao, J Brook, T To, I Narang",
+        "url": "https://scholar.google.com/scholar?cluster=4270808456703083759&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "SrKkpNFED5gC": {
+        "title": "Long-term declines in atmospheric nitrogen and sulfur deposition reduce critical loads exceedances at multiple Canadian rural sites, 2000\u20132018",
+        "year": "2022/11/18",
+        "publisher": "Atmospheric Chemistry and Physics",
+        "author": "Irene Cheng, Leiming Zhang, Zhuanshi He, Hazel Cathcart, Daniel Houle, Amanda Cole, Jian Feng, Jason O'Brien, Anne Marie Macdonald, Julian Aherne, Jeffrey Brook",
+        "url": "https://acp.copernicus.org/articles/22/14631/2022/acp-22-14631-2022.html",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "bXQfdp6S9ecC": {
+        "title": "Predicting walking-to-work using street-level imagery and deep learning in seven Canadian cities",
+        "year": "2022/11/1",
+        "publisher": "Scientific reports",
+        "author": "Dany Doiron, Eleanor M Setton, Jeffrey R Brook, Yan Kestens, Gavin R McCormack, Meghan Winters, Mahdi Shooshtari, Sajjad Azami, Daniel Fuller",
+        "url": "https://www.nature.com/articles/s41598-022-22630-1",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "lK9BDNCuzFgC": {
+        "title": "How low can you go? Air pollution affects mortality at very low levels",
+        "year": "2022/9/28",
+        "publisher": "Science Advances",
+        "author": "Scott Weichenthal, Lauren Pinault, Tanya Christidis, Richard T Burnett, Jeffrey R Brook, Yen Chu, Dan L Crouse, Anders C Erickson, Perry Hystad, Chi Li, Randall V Martin, Jun Meng, Amanda J Pappin, Michael Tjepkema, Aaron van Donkelaar, Crystal L Weagle, Michael Brauer",
+        "url": "https://www.science.org/doi/abs/10.1126/sciadv.abo3381",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "l6Q3WhenKVUC": {
+        "title": "Air pollution impacts at very low levels: Shape of the concentration-mortality relationship in a large population-based Canadian cohort",
+        "year": "2022/9/21",
+        "publisher": "ISEE Conference Abstracts",
+        "author": "Michael Brauer, Jeffrey Brook, Dan Crouse, Anders Erickson, Perry Hystad, Chi Li, Randall Martin, Jun Meng, Michael Tjepkema, Aaron van Donkelaar, Tanya Christidis, Lauren Pinault, Weiran Yuchi, Crystal Weagle, Scott Weichenthal, Richard Burnett",
+        "url": "https://ehp.niehs.nih.gov/doi/abs/10.1289/isee.2022.P-0237",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "u3T1itk59dMC": {
+        "title": "Narrative Review of Long-Term Exposure to Traffic-Related Air Pollution on Dementia and Related Outcomes in Older Adults",
+        "year": "2022/9/21",
+        "publisher": "Unknown",
+        "author": "Martha Ondras, Hanna Boogaard, Allison P Patton, Richard W Atkinson, Jeffrey R Brook, Howard H Chang, Gerard Hoek, Barbara Hoffmann, Sharon K Sagiv, Evangelia Samoli, Audrey Smargiassi, Adam A Szpiro, Danielle Vienneau, Frederick W Lurmann, Francesco Forastiere, Jennifer Weuve",
+        "url": "https://ehp.niehs.nih.gov/doi/abs/10.1289/isee.2022.P-0066",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "oursBaop5wYC": {
+        "title": "Ambient Air Pollution and Subclinical Cardiovascular Disease Measured by Magnetic Resonance Imaging in the Canadian Alliance for Healthy Hearts and Minds Study",
+        "year": "2022/8/30",
+        "publisher": "medRxiv",
+        "author": "Sandi M Azab, Karleen M Schulze, Jeffrey R Brook, Dany Doiron, Eric E Smith, Alan R Moody, Dipika Desai, Michael Brauer, Matthias G Friedrich, Shrikant I Bangdiwala, Dena Zeraatkar, Douglas Lee, Sonia S Anand, Russell J de Souza",
+        "url": "https://www.medrxiv.org/content/10.1101/2022.08.29.22279358.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "0ngZmJvimKcC": {
+        "title": "Health burden and economic loss attributable to ambient PM2.5 in Iran based on the ground and satellite data",
+        "year": "2022/8/23",
+        "publisher": "Scientific reports",
+        "author": "Sasan Faridi, Reza Bayat, Aaron J Cohen, Ensieh Sharafkhani, Jeffrey R Brook, Sadegh Niazi, Mansour Shamsipour, Heresh Amini, Kazem Naddafi, Mohammad Sadegh Hassanvand",
+        "url": "https://www.nature.com/articles/s41598-022-18613-x",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "oqD4_j7ulsYC": {
+        "title": "Mortality\u2013air pollution associations in low exposure environments (MAPLE): Phase 2",
+        "year": "2022/7/1",
+        "publisher": "Research Reports: Health Effects Institute",
+        "author": "Michael Brauer, Jeffrey R Brook, Tanya Christidis, Yen Chu, Dan L Crouse, Anders Erickson, Perry Hystad, Chi Li, Randall V Martin, Jun Meng, Amanda J Pappin, Lauren L Pinault, Michael Tjepkema, Aaron van Donkelaar, Crystal Weagle, Scott Weichenthal, Richard T Burnett",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9556709/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "as0KMg8qHbkC": {
+        "title": "Ambient air pollution and dysanapsis: associations with lung function and chronic obstructive pulmonary disease in the Canadian Cohort Obstructive Lung Disease Study",
+        "year": "2022/7/1",
+        "publisher": "American journal of respiratory and critical care medicine",
+        "author": "Jean Bourbeau, Dany Doiron, Sharmistha Biswas, Benjamin M Smith, Andrea Benedetti, Jeffrey R Brook, Shawn D Aaron, Kenneth R Chapman, Paul Hernandez, Francois Maltais, Darcy D Marciniuk, Denis O\u2019Donnell, Don D Sin, Brandie Walker, Liesel Dsilva, Gilbert Nadeau, Val\u00e9rie Coats, Chris Compton, Bruce E Miller, Wan C Tan",
+        "url": "https://www.atsjournals.org/doi/abs/10.1164/rccm.202106-1439OC",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "SpPTWFSNUtQC": {
+        "title": "Long-term Atmospheric Deposition of Nitrogen and Sulfur and Assessment of Critical Loads Exceedances at Canadian Rural Locations",
+        "year": "2022/6/28",
+        "publisher": "Atmospheric Chemistry and Physics Discussions",
+        "author": "Irene Cheng, Leiming Zhang, Zhuanshi He, Hazel Cathcart, Daniel Houle, Amanda Cole, Jian Feng, Jason O'Brien, Anne Marie Macdonald, Julian Aherne, Jeffrey Brook",
+        "url": "https://acp.copernicus.org/preprints/acp-2022-400/",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "NtCmTCuxid4C": {
+        "title": "Gasoline direct injection engine emissions of oc and ec: laboratory comparisons with port fuel injection engine",
+        "year": "2022/6",
+        "publisher": "Aerosol and Air Quality Research",
+        "author": "Jie Zhang, John Liggio, Tak W Chan, Lin Huang, Jeffrey R Brook",
+        "url": "https://link.springer.com/article/10.4209/aaqr.220032",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "q0uBw5dMOAkC": {
+        "title": "Long-term exposure to traffic-related air pollution and selected health outcomes: A systematic review and meta-analysis",
+        "year": "2022/6/1",
+        "publisher": "P",
+        "author": "H Boogaard, AP Patton, RW Atkinson, JR Brook, HH Chang, DL Crouse, JC Fussell, G Hoek, B Hoffmann, R Kappeler, M Kutlar Joss, M Ondras, SK Sagiv, E Samoli, R Shaikh, A Smargiassi, AA Szpiro, EDS Van Vliet, D Vienneau, J Weuve, FW Lurmann, F Forastiere",
+        "url": "https://www.sciencedirect.com/science/article/pii/S016041202200188X",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "WzTVkKNmPSkC": {
+        "title": "An Investigation into Which Methods Best Explain Children\u2019s Exposure to Traffic-Related Air Pollution",
+        "year": "2022/5/26",
+        "publisher": "Toxics",
+        "author": "Keith Van Ryswyk, Amanda J Wheeler, Alice Grgicak-Mannion, Xiaohong Xu, Jason Curran, Gianni Caravaggio, Ajae Hall, Penny MacDonald, Jeffrey R Brook",
+        "url": "https://www.mdpi.com/2305-6304/10/6/284",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "0sTkTiv_uMkC": {
+        "title": "Within city spatiotemporal variation of pollen concentration in the city of Toronto, Canada",
+        "year": "2022/4/15",
+        "publisher": "Environmental Research",
+        "author": "Sara Zapata-Marin, Alexandra M Schmidt, Scott Weichenthal, Daniel SW Katz, Tim Takaro, Jeffrey Brook, Eric Lavigne",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0013935121018673",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "8VtEwCQfWZkC": {
+        "title": "Assessment of alkylated and unsubstituted polycyclic aromatic hydrocarbons in air in urban and semi-urban areas in Toronto, Canada",
+        "year": "2022/2/11",
+        "publisher": "Environmental Science & Technology",
+        "author": "Maryam Moradi, Hayley Hung, James Li, Richard Park, Cecilia Shin, Nick Alexandrou, Mohammed Asif Iqbal, Manpreet Takhar, Arthur Chan, Jeffrey R Brook",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.1c04299",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "60iIaj97TE0C": {
+        "title": "Global fine-scale changes in ambient NO2 during COVID-19 lockdowns",
+        "year": "2022/1/20",
+        "publisher": "Nature",
+        "author": "Matthew J Cooper, Randall V Martin, Melanie S Hammer, Pieternel F Levelt, Pepijn Veefkind, Lok N Lamsal, Nickolay A Krotkov, Jeffrey R Brook, Chris A McLinden",
+        "url": "https://www.nature.com/articles/s41586-021-04229-0",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "3lUAU8Oskd0C": {
+        "title": "Urinary eicosanoid levels reflect allergen and diesel exhaust coexposure and are linked to impaired lung function",
+        "year": "2022/1/19",
+        "publisher": "Environmental Science & Technology",
+        "author": "Min Hyung Ryu, Cristina Gomez, Agnes CY Yuen, Jeffrey R Brook, Craig E Wheelock, Christopher Carlsten",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.1c07268",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "uAPFzskPt0AC": {
+        "title": "Source Apportionment of Volatile Organic Compounds in the Athabasca Oil Sands Region",
+        "year": "2022",
+        "publisher": "Unknown",
+        "author": "Meguel Yousif",
+        "url": "https://search.proquest.com/openview/18745287cf0bd99d9914a11ea93622e3/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "v_tt_AnqfNMC": {
+        "title": "Evaluating SOA formation from different sources of semi-and intermediate-volatility organic compounds from the Athabasca oil sands",
+        "year": "2022",
+        "publisher": "Environmental Science: Atmospheres",
+        "author": "Jacob M Sommers, Craig A Stroud, Max G Adam, Jason O'Brien, Jeffrey R Brook, Katherine Hayden, Alex KY Lee, Kun Li, John Liggio, Cristian Mihele, Richard L Mittermeier, Robin G Stevens, Mengistu Wolde, Andreas Zuend, Patrick L Hayes",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2022/ea/d1ea00053e",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "3A3nxV7CjKIC": {
+        "title": "Assessing secondhand and thirdhand tobacco smoke exposure in Canadian infants using questionnaires, biomarkers, and machine learning",
+        "year": "2022/1",
+        "publisher": "Journal of exposure science & environmental epidemiology",
+        "author": "Jaclyn Parks, Kathleen E McLean, Lawrence McCandless, Russell J de Souza, Jeffrey R Brook, James Scott, Stuart E Turvey, Piush J Mandhane, Allan B Becker, Meghan B Azad, Theo J Moraes, Diana L Lefebvre, Malcolm R Sears, Padmaja Subbarao, Tim K Takaro",
+        "url": "https://www.nature.com/articles/s41370-021-00350-4",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "KI9T_ytC6pkC": {
+        "title": "Monthly global estimates of fine particulate matter and their uncertainty",
+        "year": "2021/11/1",
+        "publisher": "Environmental Science & Technology",
+        "author": "Aaron Van Donkelaar, Melanie S Hammer, Liam Bindle, Michael Brauer, Jeffery R Brook, Michael J Garay, N Christina Hsu, Olga V Kalashnikova, Ralph A Kahn, Colin Lee, Robert C Levy, Alexei Lyapustin, Andrew M Sayer, Randall V Martin",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.1c05309",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "TGkaJS32XoUC": {
+        "title": "Association of Sulfur, Transition Metals, and the Oxidative Potential of Outdoor with Acute Cardiovascular Events: A Case-Crossover Study of Canadian Adults",
+        "year": "2021/10/13",
+        "publisher": "Environmental Health Perspectives",
+        "author": "Scott Weichenthal, Eric Lavigne, Alison Traub, Dana Umbrio, Hongyu You, Krystal Pollitt, Tim Shin, Ryan Kulka, Dave M Stieb, Jill Korsiak, Barry Jessiman, Jeff R Brook, Marianne Hatzopoulou, Greg Evans, Richard T Burnett",
+        "url": "https://ehp.niehs.nih.gov/doi/abs/10.1289/EHP9449",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "aDl3D7KC1E4C": {
+        "title": "Fugitive emissions of volatile organic compounds from a tailings pond in the Oil Sands region of Alberta",
+        "year": "2021/9/15",
+        "publisher": "Environmental Science & Technology",
+        "author": "Samar G Moussa, Ralf M Staebler, Yuan You, Amy Leithead, Meguel A Yousif, Peter Brickell, James Beck, Zhimei Jiang, John Liggio, Shao-Meng Li, Sumi N Wren, Jeffrey R Brook, Andrea Darlington, Stewart G Cober",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.1c02325",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "J3LtWjKFLicC": {
+        "title": "DEHP in house dust in relation to housing characteristics in the CHILD Cohort Study",
+        "year": "2021/8/26",
+        "publisher": "ISEE Conference Abstracts",
+        "author": "Luyao Zhang, Garthika Navaranjan, Wendy Lou, Miriam L Diamond, Liisa Jantunen, Sarah Bernstein, Meghan B Azad, Diana L Lefebvre, Piush J Mandhane, Theo J Moraes, James A Scott, Elinor Simons, Tim K Takaro, Stuart E Turvey, Malcolm R Sears, Padmaja Subbarao, Jeffrey R Brook",
+        "url": "https://ehp.niehs.nih.gov/doi/abs/10.1289/isee.2021.P-296",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "vnF2_uLGgtgC": {
+        "title": "Traffic-Related Air Pollution: A Moving Target",
+        "year": "2021/8/26",
+        "publisher": "ISEE Conference Abstracts",
+        "author": "Jeffrey R Brook",
+        "url": "https://www.healtheffects.org/sites/default/files/brook-traffic-hei-2018.pdf",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "U0iAMwwPxtsC": {
+        "title": "Does exposure to air pollution increase the risk of acute care in young children with asthma? An Ontario, Canada study",
+        "year": "2021/8/1",
+        "publisher": "Environmental Research",
+        "author": "Teresa To, Jingqin Zhu, Emilie Terebessy, Kimball Zhang, Ivy Fong, Lauren Pinault, Michael Jerrett, Alain Robichaud, Richard M\u00e9nard, Aaron van Donkelaar, Randall V Martin, Perry Hystad, Jeffrey R Brook, Sharon Dell, Dave Stieb",
+        "url": "https://www.sciencedirect.com/science/article/pii/S001393512100596X",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "R22Rs3tN8aoC": {
+        "title": "Within-city variation in reactive oxygen species from fine particle air pollution and COVID-19",
+        "year": "2021/7/15",
+        "publisher": "American Journal of Respiratory and Critical Care Medicine",
+        "author": "David M Stieb, Greg J Evans, Teresa M To, Pascale SJ Lakey, Manabu Shiraiwa, Marianne Hatzopoulou, Laura Minet, Jeffrey R Brook, Richard T Burnett, Scott A Weichenthal",
+        "url": "https://www.atsjournals.org/doi/abs/10.1164/rccm.202011-4142OC",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "PlWzFYVEG4EC": {
+        "title": "Early life exposure to phthalates and the development of childhood asthma among Canadian children",
+        "year": "2021/6/1",
+        "publisher": "Environmental research",
+        "author": "Garthika Navaranjan, Miriam L Diamond, Shelley A Harris, Liisa M Jantunen, Sarah Bernstein, James A Scott, Tim K Takaro, Ruixue Dai, Diana L Lefebvre, Meghan B Azad, Allan B Becker, Piush J Mandhane, Theo J Moraes, Elinor Simons, Stuart E Turvey, Malcolm R Sears, Padmaja Subbarao, Jeffrey R Brook",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0013935121002759",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "kUhpeDhEZMUC": {
+        "title": "Early life exposure to tris (2-butoxyethyl) phosphate (TBOEP) is related to the development of childhood asthma",
+        "year": "2021/5/28",
+        "publisher": "Environmental Science & Technology Letters",
+        "author": "Garthika Navaranjan, Liisa M Jantunen, Miriam L Diamond, Shelley A Harris, Sarah Bernstein, James A Scott, Tim K Takaro, Ruixue Dai, Diana L Lefebvre, Piush J Mandhane, Theo J Moraes, Elinor Simons, Stuart E Turvey, Malcolm R Sears, Padmaja Subbarao, Jeffrey R Brook",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.estlett.1c00210",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "rLGzs9wiiwIC": {
+        "title": "Characterizing long-term NO2 concentration surfaces across a large metropolitan area through spatiotemporal land use regression modelling of mobile measurements",
+        "year": "2021/5/1",
+        "publisher": "Environmental Research",
+        "author": "Kerolyn K Shairsingh, Jeffrey R Brook, Cristian M Mihele, Greg J Evans",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0013935121003042",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "BAanoTsO0WEC": {
+        "title": "Reduced Ambient PM2.5 Was Associated with a Decreased Risk of Chronic Kidney Disease: A Longitudinal Cohort Study",
+        "year": "2021/4/27",
+        "publisher": "Environmental Science & Technology",
+        "author": "Yacong Bo, Jeffery Robert Brook, Changqing Lin, Ly-yun Chang, Cui Guo, Yiqian Zeng, Zengli Yu, Tony Tam, Alexis KH Lau, Xiang Qian Lao",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.1c00552",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "VRfTbSk87rEC": {
+        "title": "Influence of neighborhood characteristics and weather on movement behaviors at age 3 and 5 years in a longitudinal birth cohort",
+        "year": "2021/4/8",
+        "publisher": "Journal of Physical Activity and Health",
+        "author": "Victor E Ezeugwu, Piush J Mandhane, Nevin Hammam, Jeffrey R Brook, Sukhpreet K Tamana, Stephen Hunter, Joyce Chikuma, Diana L Lefebvre, Meghan B Azad, Theo J Moraes, Padmaja Subbarao, Allan B Becker, Stuart E Turvey, Andrei Rosu, Malcolm R Sears, Valerie Carson",
+        "url": "https://journals.humankinetics.com/view/journals/jpah/18/5/article-p571.xml",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "natZJ_-F0IUC": {
+        "title": "Integrating random forests and propagation models for high-resolution noise mapping",
+        "year": "2021/4/1",
+        "publisher": "Environmental research",
+        "author": "Ying Liu, Tor Oiamo, Daniel Rainham, Hong Chen, Marianne Hatzopoulou, Jeffrey R Brook, Hugh Davies, Sophie Goudreau, Audrey Smargiassi",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0013935121001997",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "9NZAP19TdFAC": {
+        "title": "Sources, variability and parameterizations of intra-city factors obtained from dispersion-normalized multi-time resolution factor analyses of PM2. 5 in an urban environment",
+        "year": "2021/3/20",
+        "publisher": "Science of The Total Environment",
+        "author": "UM Sofowote, RM Healy, Y Su, J Debosz, M Noble, A Munoz, C-H Jeong, JM Wang, N Hilker, GJ Evans, JR Brook, G Lu, PK Hopke",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0048969720367565",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "KTwcwpFFj4wC": {
+        "title": "The international Perinatal Outcomes in the Pandemic (iPOP) study: protocol",
+        "year": "2021/2/2",
+        "publisher": "Wellcome open research",
+        "author": "Sarah J Stock, Helga Zoega, Meredith Brockway, Rachel H Mulholland, Jessica E Miller, Jasper V Been, Rachael Wood, Ishaya I Abok, Belal Alshaikh, Adejumoke I Ayede, Fabiana Bacchini, Zulfiqar A Bhutta, Bronwyn K Brew, Jeffrey Brook, Clara Calvert, Marsha Campbell-Yeo, Deborah Chan, James Chirombo, Kristin L Connor, Mandy Daly, Kristjana Einarsd\u00f3ttir, Ilaria Fantasia, Meredith Franklin, Abigail Fraser, Siri Eldevik H\u00e5berg, Lisa Hui, Luis Huicho, Maria C Magnus, Andrew D Morris, Livia Nagy-Bonnard, Natasha Nassar, Sylvester Dodzi Nyadanu, Dedeke Iyabode Olabisi, Kirsten R Palmer, Lars Henning Pedersen, Gavin Pereira, Amy Racine-Poon, Manon Ranger, Tonia Rihs, Christoph Saner, Aziz Sheikh, Emma M Swift, Lloyd Tooke, Marcelo L Urquia, Clare Whitehead, Christopher Yilgwan, Natalie Rodriguez, David Burgner, Meghan B Azad, iPOP Study Team",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8524299/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "rOcdG6UcVlcC": {
+        "title": "Centralizing environmental datasets to support (inter) national chronic disease research: Values, challenges, and recommendations",
+        "year": "2021/2/1",
+        "publisher": "Environmental Epidemiology",
+        "author": "Jeffrey R Brook, Dany Doiron, Eleanor Setton, Jeroen Lakerveld",
+        "url": "https://journals.lww.com/environepidem/fulltext/2021/02000/centralizing_environmental_datasets_to_support.5.aspx",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "PuOEWVtPfzwC": {
+        "title": "Reduced Ambient PM\u2082. \u2085 Was Associated with a Decreased Risk of Chronic Kidney Disease: A Longitudinal Cohort Study",
+        "year": "2021",
+        "publisher": "Unknown",
+        "author": "Yacong Bo, Jeffery Robert Brook, Changqing Lin, Ly-yun Chang, Cui Guo, Yiqian Zeng, Zengli Yu, Tony Tam, Alexis KH Lau, Xiang Qian Lao",
+        "url": "https://scholar.google.com/scholar?cluster=1439368085348574418&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "H7nrzBkawXsC": {
+        "title": "Response to Goldberg and Villeneuve re: An ecological analysis of long-term exposure to PM2. 5 and incidence of COVID-19 in Canadian health regions",
+        "year": "2020/12/25",
+        "publisher": "Environmental Research",
+        "author": "David M Stieb, Greg J Evans, Teresa M To, Jeffrey R Brook, Richard T Burnett",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7834156/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "adHtZc2wMuEC": {
+        "title": "Building a data science platform for better health",
+        "year": "2020/12/14",
+        "publisher": "Unknown",
+        "author": "Laura C Rosella, Ajay Agrawal, Phillip Awadalla, Adalsteinn Brown, Jeffrey Brook, Lori Diemert, France Gagnon, Marzyeh Ghassemi, Avi Goldfarb, Rick Glazier, Michelle Greiver, Alan Katz, Kathy Kornas, Douglas Manuel, Kimberlyn McGrail, P Alison Paprica, Fahad Razak, Michael J Schull, Charles Victor, Amol Verma, Sabrina Wong",
+        "url": "https://alliancecan.ca/sites/default/files/2022-03/ndrio-white-paper-pophealth-final-rosella-dec14.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "TesyEGJKHF4C": {
         "title": "Large global variations in measured airborne metal concentrations driven by anthropogenic sources",
         "year": "2020/12/11",
         "publisher": "Scientific reports",
@@ -612,126 +750,39 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "U4n9YNQMCAIC": {
-        "title": "Development and optimization of a new method for direct extraction of SARS-CoV-2 RNA from municipal wastewater using magnetic beads",
-        "year": "2020/12/4",
-        "publisher": "medRxiv",
-        "author": "Ana L Parra Guardado, Crystal L Sweeney, Emalie Hayes, Benjamin F Trueman, Yannan Huang, Rob C Jamieson, Jennie L Rand, Graham A Gagnon, Amina K Stoddart",
-        "url": "https://www.medrxiv.org/content/10.1101/2020.12.04.20237230.abstract",
+      "In6cVmBjs0IC": {
+        "title": "Personal-level protective actions against particulate matter air pollution exposure: a scientific statement from the American Heart Association",
+        "year": "2020/12/8",
+        "publisher": "L",
+        "author": "Sanjay Rajagopalan, Michael Brauer, Aruni Bhatnagar, Deepak L Bhatt, Jeffrey R Brook, Wei Huang, Thomas M\u00fcnzel, David Newby, Jeffrey Siegel, Robert D Brook, American Heart Association Council on Lifestyle and Cardiometabolic Health; Council on Arteriosclerosis, Thrombosis and Vascular Biology; Council on Clinical Cardiology; Council on Cardiovascular and Stroke Nursing; and Stroke Council",
+        "url": "https://www.ahajournals.org/doi/abs/10.1161/CIR.0000000000000931",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "zCSUwVk65WsC": {
-        "title": "Comparing the predictive performance, interpretability, and accessibility of machine learning and physically based models for water treatment",
-        "year": "2020/11/16",
-        "publisher": "ACS ES&T Engineering",
-        "author": "Dewey W Dunnington, Benjamin F Trueman, William J Raseman, Lindsay E Anderson, Graham A Gagnon",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestengg.0c00053",
+      "WWeOtg8bX_EC": {
+        "title": "Improved Surface-Level Nitrogen Dioxide Estimates at Fine Spatial Resolution using the TROPOMI Satellite Instrument",
+        "year": "2020/12",
+        "publisher": "AGU Fall Meeting Abstracts",
+        "author": "Matthew Cooper, Randall Martin, Chris A McLinden, Jeffrey R Brook",
+        "url": "https://ui.adsabs.harvard.edu/abs/2020AGUFMA031.0007C/abstract",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "BzfGm06jWhQC": {
-        "title": "An automated and high\u2010throughput method for adenosine triphosphate quantification",
-        "year": "2020/11",
-        "publisher": "AWWA Water Science",
-        "author": "Fatou Secka, Nicole E Allward, Amina K Stoddart, Graham A Gagnon",
-        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.1202",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "ubry08Y2EpUC": {
-        "title": "Instrument hacking: Repurposing and recoding a multiwell instrument for automated, high-throughput monochromatic UV photooxidation of organic compounds",
-        "year": "2020/10/1",
-        "publisher": "ACS ES&T Engineering",
-        "author": "Sean A MacIsaac, Crystal L Sweeney, Graham A Gagnon",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestengg.0c00123",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "48xauSegjOkC": {
-        "title": "Inorganic contaminants in Canadian First Nation community water systems",
-        "year": "2020/10/1",
-        "publisher": "Journal of Water and Health",
-        "author": "Kaycie Lane, Benjamin F Trueman, Javier Locsin, Graham A Gagnon",
-        "url": "https://iwaponline.com/jwh/article-abstract/18/5/728/75590",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "CaZNVDsoPx4C": {
-        "title": "Evaluating the use and intent of drinking water advisories in Atlantic Canada",
-        "year": "2020/10/1",
-        "publisher": "Water Policy",
-        "author": "Kaycie Lane, Graham Gagnon",
-        "url": "https://iwaponline.com/wp/article-abstract/22/5/908/75577",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "wMgC3FpKEyYC": {
-        "title": "The distribution and transport of lead over two centuries as recorded by lake sediments from northeastern North America",
-        "year": "2020/10/1",
-        "publisher": "Science of the Total Environment",
-        "author": "Dewey W Dunnington, Sarah Roberts, Stephen A Norton, Ian S Spooner, Joshua Kurek, Jane L Kirk, Derek CG Muir, Chris E White, Graham A Gagnon",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0048969720337335",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "jL-93Qbq4QoC": {
-        "title": "Evaluating the performance of calculated elemental measures in sediment archives",
-        "year": "2020/8",
-        "publisher": "Journal of Paleolimnology",
-        "author": "Dewey W Dunnington, Braden RB Gregory, Ian S Spooner, Chris E White, Graham A Gagnon",
-        "url": "https://link.springer.com/article/10.1007/s10933-020-00123-3",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "ALROH1vI_8AC": {
-        "title": "Potential regulatory implications of Health Canada's new lead guideline",
-        "year": "2020/7",
-        "publisher": "AWWA Water Science",
-        "author": "Javier M Locsin, Benjamin F Trueman, Dallys Serracin\u2010Pitti, Gillian ML Stanton, Graham A Gagnon",
-        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.1182",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "NyGDZy8z5eUC": {
-        "title": "TiN, ZrN, and HfN nanoparticles on nanoporous aluminum oxide membranes for solar-driven water evaporation and desalination",
-        "year": "2020/2/28",
-        "publisher": "ACS Applied Nano Materials",
-        "author": "Emily Traver, Reem A Karaballi, Yashar E Monfared, Heather Daurie, Graham A Gagnon, Mita Dasog",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acsanm.0c00107",
+      "W2uZP3ddy8sC": {
+        "title": "An ecological analysis of long-term exposure to PM2. 5 and incidence of COVID-19 in Canadian health regions",
+        "year": "2020/12/1",
+        "publisher": "Environmental research",
+        "author": "David M Stieb, Greg J Evans, Teresa M To, Jeffrey R Brook, Richard T Burnett",
+        "url": "https://www.sciencedirect.com/science/article/pii/S001393512030949X",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "F1b5ZUV5XREC": {
-        "title": "Source water characteristics and building-specific factors influence corrosion and point of use water quality in a decentralized arctic drinking water system",
-        "year": "2020/1/21",
-        "publisher": "Environmental Science & Technology",
-        "author": "Stephanie L Gora, Benjamin F Trueman, Tim Anaviapik-Soucie, Megan K Gavin, C Carolina Ontiveros, Jessica Campbell, Vincent L\u2019He\u0301rault, Amina K Stoddart, Graham A Gagnon",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.9b04691",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "otzGkya1bYkC": {
-        "title": "Characterization of a commercially-available, low-pressure UV lamp as a disinfection system for decontamination of common nosocomial pathogens on N95 filtering facepiece \u2026",
-        "year": "2025/2/21",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "C. Carolina Ontiveros,Crystal L. Sweeney,Chris Smith,Sean MacIsaac,Sebastian Munoz,Ross Davidson,Craig McCormick,Nikhil Thomas,Ian Davis,Amina K. Stoddart,Graham A. Gagnon",
-        "url": "https://doi.org/10.1039/d0ew00404a",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
-      }
-    }
-  },
-  "gNvadS4AAAAJ": {
-    "Name": "Dustin King",
-    "total_new": "1",
-    "publications": {
-      "mB3voiENLucC": {
-        "title": "Sensing molecular carbon dioxide-a translational focus for respiratory disease",
-        "year": "2025/7/16",
-        "publisher": "A",
-        "author": "Istv\u00e1n Vad\u00e1sz, Eoin P Cummins, Deborah H Brotherton, S Marina Casalino Matsuda, Laura A Dada, Ori Green, Dustin T King, Vitalii Kryvenko, Masahiko Shigemura, Peter HS Sporn, Moritz J Strowitzki, Martin J Cann, Jacob I Sznajder",
-        "url": "https://journals.physiology.org/doi/abs/10.1152/physrev.00022.2024",
+      "FsLZdJ3BAzkC": {
+        "title": "Self-rated stress, distress, mental health, and health as modifiers of the association between long-term exposure to ambient pollutants and mortality",
+        "year": "2020/12/1",
+        "publisher": "Environmental Research",
+        "author": "Errol M Thomson, Tanya Christidis, Lauren Pinault, Michael Tjepkema, Ian Colman, Daniel L Crouse, Aaron van Donkelaar, Randall V Martin, Perry Hystad, Alain Robichaud, Richard M\u00e9nard, Jeffrey R Brook, Richard T Burnett",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0013935120308689",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
