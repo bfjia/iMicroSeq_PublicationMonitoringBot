@@ -2605,7 +2605,7 @@
   },
   "rQUeGGsAAAAJ": {
     "Name": "Lawrence Goodridge",
-    "total_publications": "95",
+    "total_publications": "96",
     "publications": {
       "kuK5TVdYjLIC": {
         "title": "Draft genome sequences of multiple Salmonella enterica serotypes isolated from eight different animals in Nigeria",
@@ -2767,6 +2767,15 @@
         "author": "Steven D Kelly, Mikel Jason Allas, Lawrence D Goodridge, Todd L Lowary, Chris Whitfield",
         "url": "https://www.nature.com/articles/s41467-024-50957-y",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "lmc2jWPfTJgC": {
+        "title": "Genotypic and Phenotypic Characterization of Salmonella enterica Isolates from Wastewater",
+        "year": "2024/7/17",
+        "publisher": "IAFP 2024",
+        "author": "Larissa A Kouroukis, Hailey M Davidson, William A Botschner, Dharamdeo Singh, Valeria Parreira Pinto, Lawrence Goodridge",
+        "url": "https://iafp.confex.com/iafp/2024/onlineprogram.cgi/Paper/36164",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "BwyfMAYsbu0C": {
@@ -3466,7 +3475,7 @@
   },
   "tBwE4O4AAAAJ": {
     "Name": "Ayush Kumar",
-    "total_publications": "49",
+    "total_publications": "50",
     "publications": {
       "Wl48QJdZ9EIC": {
         "title": "Galleria mellonella as an Infection and Antibiotic Treatment Model for Acinetobacter baumannii",
@@ -3780,6 +3789,15 @@
         "publisher": "Chemosphere",
         "author": "Alessandro di Biase, Daniel Flores-Orozco, Rakesh Patidar, Maciej S Kowalski, Pouria Jabari, Ayush Kumar, Tanner R Devlin, Jan A Oleszkiewicz",
         "url": "https://www.sciencedirect.com/science/article/pii/S0045653521037978",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "mE3zHqWzvhQC": {
+        "title": "Efficacy of certain chemicals and essential oils against okra shoot and fruit borer [Earias vittella (Fabricius)]",
+        "year": "2022",
+        "publisher": "The Pharma Innovation Journal",
+        "author": "SEN Manikanta, A Kumar",
+        "url": "https://scholar.google.com/scholar?cluster=7617149642980731429&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -25354,8 +25372,17 @@
   },
   "wHX6pyUAAAAJ": {
     "Name": "Hugo Asselin",
-    "total_publications": "65",
+    "total_publications": "66",
     "publications": {
+      "Dip1O2bNi0gC": {
+        "title": "Facteurs favorisant l'accessibilit\u00e9 des services sociaux et de sant\u00e9 pour les hommes anicinapek",
+        "year": "2025/8/1",
+        "publisher": "Revue canadienne de service social",
+        "author": "H\u00e9l\u00e8ne Pourcelot, Oscar Labra, Hugo Asselin",
+        "url": null,
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "SpbeaW3--B0C": {
         "title": "Indigenous knowledge, forest landscape modeling, and the cumulative effects of environmental changes",
         "year": "2025/7/22",
@@ -25382,6 +25409,15 @@
         "url": "https://www.authorea.com/doi/full/10.22541/au.173868023.30825689",
         "firstOrLast": false,
         "datasource": "Scholars"
+      },
+      "kz9GbA2Ns4gC": {
+        "title": "High-severity fires undermine resilience of black spruce-dominated boreal forests in eastern North America",
+        "year": "2025/5/23",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Stelsa Fortin,Yan Boucher,Yves Bergeron,Martin Simard,Dominique Arseneault,Hugo Asselin,Martin Barrette,Victor Danneyrolles,Sylvie Gauthier,Francois Girard,Martin Girardin,Marc-Andr\u00e9 Parisien,Nelson Thiffault,Osvaldo Valeria",
+        "url": "https://doi.org/10.1101/2025.05.17.654490",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
       },
       "VaXvl8Fpj5cC": {
         "title": "La ruralit\u00e9 dans la transition soci\u00e9tale et \u00e9cologique : bases th\u00e9oriques et conceptuelles",
@@ -25418,15 +25454,6 @@
         "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jqs.3682",
         "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "kz9GbA2Ns4gC": {
-        "title": "High-severity fires undermine resilience of black spruce-dominated boreal forests in eastern North America",
-        "year": "2025/5/23",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Stelsa Fortin,Yan Boucher,Yves Bergeron,Martin Simard,Dominique Arseneault,Hugo Asselin,Martin Barrette,Victor Danneyrolles,Sylvie Gauthier,Francois Girard,Martin Girardin,Marc-Andr\u00e9 Parisien,Nelson Thiffault,Osvaldo Valeria",
-        "url": "https://doi.org/10.1101/2025.05.17.654490",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
       },
       "kuK5TVdYjLIC": {
         "title": "REGIONAL FORUM",
