@@ -1,59 +1,14 @@
 {
-  "O3Kin-IAAAAJ": {
-    "Name": "Michael Parkins",
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
     "total_new": "1",
     "publications": {
-      "Bg7qf7VwUHIC": {
-        "title": "Metagenomic analysis after selective culture enrichment of hospital and community wastewater enhances antimicrobial resistance gene detection",
-        "year": "2025/7/31",
-        "publisher": "mBio",
-        "author": "Nicole Acosta, Jangwoo Lee, Maria A Bautista, Srijak Bhatnagar, Carmen Li, Barbara J Waddell, Emily Au, Puja Pradhan, Rhonda G Clark, Jon Meddings, Gopal Achari, Johann D Pitout, John Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
-        "url": "https://journals.asm.org/doi/abs/10.1128/mbio.01672-25",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
-    "total_new": "1",
-    "publications": {
-      "PRxwKtMv80cC": {
-        "title": "Identification of Acinetobacter radioresistens in wastewater effluent from a First Nation reserve in Manitoba, Canada",
-        "year": "2025/7/31",
-        "publisher": "Microbiology Resource Announcements",
-        "author": "Rudra Patel, Dawn White, Ayush Kumar, Miguel Uyaguari",
-        "url": "https://journals.asm.org/doi/abs/10.1128/mra.00221-25",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "kl8kXmMAAAAJ": {
-    "Name": "Miguel Uyaguari",
-    "total_new": "1",
-    "publications": {
-      "M3NEmzRMIkIC": {
-        "title": "Identification of Acinetobacter radioresistens in wastewater effluent from a First Nation reserve in Manitoba, Canada",
-        "year": "2025/7/31",
-        "publisher": "Microbiology Resource Announcements",
-        "author": "Rudra Patel, Dawn White, Ayush Kumar, Miguel Uyaguari",
-        "url": "https://journals.asm.org/doi/abs/10.1128/mra.00221-25",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "iQjUDPYAAAAJ": {
-    "Name": "Casey Hubert",
-    "total_new": "1",
-    "publications": {
-      "PVjk1bu6vJQC": {
-        "title": "Metagenomic analysis after selective culture enrichment of hospital and community wastewater enhances antimicrobial resistance gene detection",
-        "year": "2025/7/31",
-        "publisher": "mBio",
-        "author": "Nicole Acosta, Jangwoo Lee, Maria A Bautista, Srijak Bhatnagar, Carmen Li, Barbara J Waddell, Emily Au, Puja Pradhan, Rhonda G Clark, Jon Meddings, Gopal Achari, Johann D Pitout, John Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
-        "url": "https://journals.asm.org/doi/abs/10.1128/mbio.01672-25",
+      "-R_Z4shfoosC": {
+        "title": "Divergent trends in structural landscape connectivity from historic and potential future grassland conversion in Alberta, Canada",
+        "year": "2025/8/1",
+        "publisher": "PloS one",
+        "author": "Hossam E Abdel Moniem, Majid Iravani, Tim McAllister, Kim Ominski, Helene H Wagner",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325729",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -63,82 +18,91 @@
     "Name": "B. Jesse Shapiro",
     "total_new": "1",
     "publications": {
-      "u1IMlZnpNFQC": {
-        "title": "Clinical and environmental wastewater-based bacteriophage surveillance for high-impact diarrheal diseases, including cholera, in Bangladesh",
-        "year": "2025/7/30",
+      "kxd3qP2_5uAC": {
+        "title": "Shifts in bacterioplankton during cyanobacterial blooms reflect bloom toxicity and lake trophic state",
+        "year": "2025/7/29",
+        "publisher": "Harmful Algae",
+        "author": "Lara Jansen, Nicolas Tromas, Angela Strecker, Jesse Shapiro",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1568988325001398",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "Xv6FyfAAAAAJ": {
+    "Name": "Jennifer Knapp",
+    "total_new": "1",
+    "publications": {
+      "9ZlFYXVOiuMC": {
+        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
+        "year": "2025/7/31",
         "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Marjahan Akhtar,Md. Ariful Amin,Subah Nuzhat Hussain,Nazia Nazrul Nafsi,Nasrin Parvin,Farhana Khanam,Md. Taufiqul Islam,Md. Amirul Islam Bhuiyan,Rahima Afroz,Md. Golam Firoj,Fahima Chowdhury,Ashraful Islam Khan,Mohammad Jubair,Edward T. Ryan,B. Jesse Shapiro,Nicholas R. Thomson,Eric J Nelson,Md. Mustafizur Rahman,Yasmin Ara Begum,Taufiqur Rahman Bhuiyan,Firdausi Qadri",
-        "url": "https://doi.org/10.1101/2025.07.30.25332375",
+        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
+        "url": "https://doi.org/10.1101/2025.07.29.667219",
         "firstOrLast": false,
         "datasource": "CrossRef"
       }
     }
   },
-  "VLGLIxUAAAAJ": {
-    "Name": "Stephanie Gora",
+  "U9VtJFcAAAAJ": {
+    "Name": "Alyssa Overton",
     "total_new": "1",
     "publications": {
-      "8k81kl-MbHgC": {
-        "title": "Exploring wastewater treatment plant operation and performance using k-means and Gaussian mixture clustering",
-        "year": "2025/7/15",
-        "publisher": "Water Science & Technology",
-        "author": "Michael De Santi, Ahmed Al-Sayed, Stephanie Gora, Ciprian Panfilie, Sangeeta Chopra, Jianping Zhang, Xiaohui Jin, Dale Barker, Yaldah Azimi, Satinder Brar, Usman Khan",
-        "url": "https://iwaponline.com/wst/article-pdf/92/2/251/1579957/wst2025097.pdf",
+      "ufrVoPGSRksC": {
+        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
+        "year": "2025/7/31",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
+        "url": "https://doi.org/10.1101/2025.07.29.667219",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "xqFXwEIAAAAJ": {
-    "Name": "Lori Bradford",
-    "total_new": "1",
-    "publications": {
-      "t7zJ5fGR-2UC": {
-        "title": "Postsecondary instructors\u2019 disclosures of mental illness and neurodiversity in the classroom: motives and means suggest four disclosure types",
-        "year": "2025/6/24",
-        "publisher": "Teaching in Higher Education",
-        "author": "Simonne Horwitz, Jan Gelech, Jordan Wellsch, Ana Carolina de Barros, Terri Croteau, Jake Bergen, Shannon Forrester, Lori Bradford, Judy Jaunzems Fernuk",
-        "url": "https://www.tandfonline.com/doi/abs/10.1080/13562517.2025.2521377",
-        "firstOrLast": false,
-        "datasource": "Scholars"
+        "datasource": "CrossRef"
       }
     }
   },
   "gTkdyfsAAAAJ": {
     "Name": "Trevor Charles",
-    "total_new": "2",
+    "total_new": "1",
     "publications": {
-      "ZxXHo_Hcam8C": {
-        "title": "Harnessing agri-food system microbiomes for sustainability and human health",
+      "lxZgYf9FOvoC": {
+        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
         "year": "2025/7/31",
-        "publisher": "Frontiers in Science",
-        "author": "Paula Fern\u00e1ndez-G\u00f3mez, Dara Leong, Gabriele Berg, Fiona Brennan, Tancredi Caruso, Trevor C Charles, Luca S Cocolin, Lene Lange, Olivia McAuliffe, Emmanuelle Maguin, Orla O\u2019Sullivan, Yolanda Sanz, Inga Sarand, Angela Sessitsch, Hauke Smidt, Nicholas Brereton, Marco Candela, John Kenny, Tanja Kostic, Jennifer Mahony, Martin Wagner, Paul D Cotter",
-        "url": "https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1575468/full",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "3utUx_xxzcoC": {
-        "title": "Bidirectional Phosphorylation Changes in Opsins Associated With Early Myopia and Hyperopia Signal Regulation by Phosphoproteomics",
-        "year": "2025/7/1",
-        "publisher": "Investigative Ophthalmology & Visual Science",
-        "author": "Yang Yang, Ying Hon Sze, Houjiang Zhou, Winky Wing Man Ko, Yuanliang Zhang, Kecheng Li, Qi Zhang, King Kit Li, Trevor C Charles, Chi-ho To, Qian Zhao, Thomas Chuen Lam",
-        "url": "https://iovs.arvojournals.org/article.aspx?articleid=2810604",
-        "firstOrLast": false,
-        "datasource": "Scholars"
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
+        "url": "https://doi.org/10.1101/2025.07.29.667219",
+        "firstOrLast": true,
+        "datasource": "CrossRef"
       }
     }
   },
-  "mBdtjsQAAAAJ": {
-    "Name": "Antonio Ruzzini",
-    "total_new": "1",
+  "-bIc5H0AAAAJ": {
+    "Name": "Sarah Otto",
+    "total_new": "3",
     "publications": {
-      "Wp0gIr-vW9MC": {
-        "title": "Genome sequences of Pasteurellaceae involved in bovine respiratory disease",
-        "year": "2025/7/31",
-        "publisher": "Microbiology Resource Announcements",
-        "author": "Daniel Kos, Joseph A Ross, Nick Allan, Mike Jelinski, Stuart Thiessen, Murray Jelinski, Antonio Ruzzini",
-        "url": "https://journals.asm.org/doi/abs/10.1128/mra.00352-25",
-        "firstOrLast": true,
+      "PLWDSxI5WzYC": {
+        "title": "Science and knowledge needs to support Canada\u2019s implementation of the Kunming-Montreal Global Biodiversity Framework. Report prepared for Environment and Climate Change Canada.",
+        "year": "2024/5/10",
+        "publisher": "Unknown",
+        "author": "S Wilson, P Smith, E Kenchington, M Ballard, R Buxton, K Bobiwash, SJ Marshall, E Gilmore, E Abergel, J Allison, D Arbuthnott, S Avery-Gomm, N Ban, K Beazley, JR Bennett, E Bennett, A Binley, LK Blight, LE Bortolotti, D Browne, EK Cameron, K Chan, C Chisholm, C Chu, SJ Cooke, F Di Palma, D Duplisea, C Edge, B Frei, LW Gomes, C Hart, S Hayne, M Houde, AL Jacob, S Javorek, H Kharouba, DR Lapen, TG Martin, M Mitchell, I Naujokaitis-Lewis, EA Nyboer, M O'Connor, A Olive, S Otto, B Pickering, R Pither, G Pritchard, C Raudsepp-Hearne, J Rice, DG Roche, E Rubidge, M Ryckman, JM Saarela, KD Sadler, C Shulman, I Siboo, K Solarik, F Soulard, C Sponarski, D Stralberg, E Ubalijoro, A Ventimiglia, C Ziter",
+        "url": "https://ostrnrcan-dostrncan.canada.ca/handle/1845/347349",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "-dM8Fa3L0FAC": {
+        "title": "Science and knowledge needs to support Canada\u2019s implementation of the Kunming-Montreal Global Biodiversity Framework",
+        "year": "2024",
+        "publisher": "E",
+        "author": "Scott Wilson, Paul Smith, Ellen Kenchington, Myrle Ballard, Rachel Buxton, Kyle Bobiwash, Shawn J Marshall, Elisabeth Gilmore, \u00c9lisabeth Abergel, Jeremy Allison, Devin Arbuthnott, Stephanie Avery-Gomm, Natalie C Ban, Karen F Beazley, Joseph R Bennett, Elena Bennett, Allison D Binley, Louise K Blight, Lauren E Bortolotti, David Browne, Erin K Cameron, Kai Chan, Chelsea Chisholm, Cindy Chu, Steven J Cooke, Federica Di Palma, Daniel Duplisea, Christopher Edge, Barbara Frei, Lee W Gomes, Connie Hart, Shari Hayne, Magali Houde, Aerin L Jacob, Steve Javorek, Heather Kharouba, David R Lapen, Tara G Martin, Matthew Mitchell, Ilona Naujokaitis-Lewis, Elizabeth A Nyboer, Mary O'Connor, Andrea Olive, Sarah Otto, Bradley Pickering, Richard Pither, Gary Pritchard, Ciara Raudsepp-Hearne, Jake Rice, Dominique G Roche, Emily Rubidge, Mark Ryckman, Jeffery M Saarela, Kella D Sadler, Charles Shulman, Ian Siboo, Kevin A Solarik, Fran\u00e7ois Soulard, Carly Sponarski, Diana Stralberg, Eliane Ubalijoro, Andr\u00e9a Ventimiglia, Carly D Ziter",
+        "url": "https://open-science.canada.ca/handle/123456789/2214",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "qRvB3I1gqpcC": {
+        "title": "Besoins en mati\u00e8re de sciences et de connaissances pour soutenir la mise en oeuvre canadienne du Cadre mondial de la biodiversit\u00e9 de Kunming-Montr\u00e9al",
+        "year": "2024",
+        "publisher": "E",
+        "author": "Scott Wilson, Paul Smith, Ellen Kenchington, Myrle Ballard, Rachel Buxton, Kyle Bobiwash, Shawn J Marshall, Elisabeth Gilmore, \u00c9lisabeth Abergel, Jeremy Allison, Devin Arbuthnott, Stephanie Avery-Gomm, Natalie C Ban, Karen F Beazley, Joseph R Bennett, Elena Bennett, Allison D Binley, Louise K Blight, Lauren E Bortolotti, David Browne, Erin K Cameron, Kai Chan, Chelsea Chisholm, Cindy Chu, Steven J Cooke, Federica Di Palma, Daniel Duplisea, Christopher Edge, Barbara Frei, Lee W Gomes, Connie Hart, Shari Hayne, Magali Houde, Aerin L Jacob, Steve Javorek, Heather Kharouba, David R Lapen, Tara G Martin, Matthew Mitchell, Ilona Naujokaitis-Lewis, Elizabeth A Nyboer, Mary O'Connor, Andrea Olive, Sarah Otto, Bradley Pickering, Richard Pither, Gary Pritchard, Ciara Raudsepp-Hearne, Jake Rice, Dominique G Roche, Emily Rubidge, Mark Ryckman, Jeffery M Saarela, Kella D Sadler, Charles Shulman, Ian Siboo, Kevin A Solarik, Fran\u00e7ois Soulard, Carly Sponarski, Diana Stralberg, Eliane Ubalijoro, Andr\u00e9a Ventimiglia, Carly D Ziter",
+        "url": "https://open-science.canada.ca/handle/123456789/2215",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }

@@ -4281,6 +4281,15 @@
     "Name": "Tim A. McAllister",
     "total_publications": "100",
     "publications": {
+      "-R_Z4shfoosC": {
+        "title": "Divergent trends in structural landscape connectivity from historic and potential future grassland conversion in Alberta, Canada",
+        "year": "2025/8/1",
+        "publisher": "PloS one",
+        "author": "Hossam E Abdel Moniem, Majid Iravani, Tim McAllister, Kim Ominski, Helene H Wagner",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325729",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "1DdUqAzPfXgC": {
         "title": "Ensiling of Food Waste for Subsequent Inclusion in Ruminant Diets",
         "year": "2025/7/14",
@@ -5170,15 +5179,6 @@
         "author": "Atef M Saleem, Renee M Bierworth, WenZhu Yang, Joseph Nyachiro, Lori Oatway, Tim A McAllister",
         "url": "https://www.sciencedirect.com/science/article/pii/S037784012300010X",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "kuq-04jA658C": {
-        "title": "Soil antibiotic resistance genes accumulate at different rates over four decades of manure application",
-        "year": "2023/2/5",
-        "publisher": "Journal of Hazardous Materials",
-        "author": "Yuting Zhang, Xiying Hao, Ben W Thomas, Tim A McAllister, Matthew Workentine, Long Jin, Xiaojun Shi, Trevor W Alexander",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0304389422019306",
-        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
@@ -15337,7 +15337,7 @@
   },
   "Ohu9Gc4AAAAJ": {
     "Name": "B. Jesse Shapiro",
-    "total_publications": "66",
+    "total_publications": "67",
     "publications": {
       "TuM7UPshZo8C": {
         "title": "An experimental test of cyanotoxins as a potential driver of microbial community structure",
@@ -15346,6 +15346,15 @@
         "author": "Uzma Batool, Linda A Lawton, B Jesse Shapiro, Nicolas Tromas",
         "url": "https://www.sciencedirect.com/science/article/pii/S004565352500462X",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "kxd3qP2_5uAC": {
+        "title": "Shifts in bacterioplankton during cyanobacterial blooms reflect bloom toxicity and lake trophic state",
+        "year": "2025/7/29",
+        "publisher": "Harmful Algae",
+        "author": "Lara Jansen, Nicolas Tromas, Angela Strecker, Jesse Shapiro",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1568988325001398",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "ocbgtyEEUOwC": {
@@ -24055,7 +24064,7 @@
   },
   "Xv6FyfAAAAAJ": {
     "Name": "Jennifer Knapp",
-    "total_publications": "25",
+    "total_publications": "26",
     "publications": {
       "Wp0gIr-vW9MC": {
         "title": "Evaluation of sampling methods for genomic surveillance of SARS-CoV-2 variants in aircraft wastewater samples",
@@ -24065,6 +24074,15 @@
         "url": "https://www.researchsquare.com/article/rs-6228463/latest",
         "firstOrLast": false,
         "datasource": "Scholars"
+      },
+      "9ZlFYXVOiuMC": {
+        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
+        "year": "2025/7/31",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
+        "url": "https://doi.org/10.1101/2025.07.29.667219",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
       },
       "4TOpqqG69KYC": {
         "title": "A comprehensive two-hybrid analysis to explore the Legionella pneumophila effector\u2013effector interactome",
@@ -24286,7 +24304,7 @@
   },
   "U9VtJFcAAAAJ": {
     "Name": "Alyssa Overton",
-    "total_publications": "11",
+    "total_publications": "12",
     "publications": {
       "YsMSGLbcyi4C": {
         "title": "Evaluation of sampling methods for genomic surveillance of SARS-CoV-2 variants in aircraft wastewater samples",
@@ -24296,6 +24314,15 @@
         "url": "https://www.researchsquare.com/article/rs-6228463/latest",
         "firstOrLast": false,
         "datasource": "Scholars"
+      },
+      "ufrVoPGSRksC": {
+        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
+        "year": "2025/7/31",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
+        "url": "https://doi.org/10.1101/2025.07.29.667219",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
       },
       "WF5omc3nYNoC": {
         "title": "AMR Surveillance and Discovery Using Functional Metagenomics in Ontario Wastewater",
@@ -24391,7 +24418,7 @@
   },
   "gTkdyfsAAAAJ": {
     "Name": "Trevor Charles",
-    "total_publications": "56",
+    "total_publications": "57",
     "publications": {
       "ZxXHo_Hcam8C": {
         "title": "Harnessing agri-food system microbiomes for sustainability and human health",
@@ -24473,6 +24500,15 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11823196/",
         "firstOrLast": false,
         "datasource": "Scholars"
+      },
+      "lxZgYf9FOvoC": {
+        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
+        "year": "2025/7/31",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
+        "url": "https://doi.org/10.1101/2025.07.29.667219",
+        "firstOrLast": true,
+        "datasource": "CrossRef"
       },
       "K6kyChav4UkC": {
         "title": "Hybrid sequencing reveals the genome of a Chrysochromulina parva virus and highlight its distinct replication strategy",
@@ -25071,15 +25107,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "u_35RYKgDlwC": {
-        "title": "Indigenous epistemologies, Two-Eyed Seeing, and the philosophy, practice, and applications of brain sciences",
-        "year": "2025/4/3",
-        "publisher": "A",
-        "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre McLachlan, Michael Yellow Bird, Melissa L Perreault",
-        "url": "https://scholar.google.com/scholar?cluster=1648153602223541821&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "ZHo1McVdvXMC": {
         "title": "Melissa Perreault: Thinking big towards a \u201ccomplexity science\u201d approach in neuroscience\u2013systems, environment, and whole organism research",
         "year": "2025/3/4",
@@ -25122,6 +25149,15 @@
         "publisher": "Progress in Neuro-Psychopharmacology and Biological Psychiatry",
         "author": "Olivia OF Williams, Madeleine Coppolino, Cecilia B Micelli, Ryan T McCallum, Paula T Henry-Duru, Joshua D Manduca, Jasmin Lalonde, Melissa L Perreault",
         "url": "https://www.sciencedirect.com/science/article/pii/S0278584624002902",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "u_35RYKgDlwC": {
+        "title": "Indigenous epistemologies, Two-Eyed Seeing, and the philosophy, practice, and applications of brain sciences",
+        "year": "2025/4/3",
+        "publisher": "A",
+        "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre McLachlan, Michael Yellow Bird, Melissa L Perreault",
+        "url": "https://scholar.google.com/scholar?cluster=1648153602223541821&hl=en&oi=scholarr",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -27436,7 +27472,7 @@
   },
   "-bIc5H0AAAAJ": {
     "Name": "Sarah Otto",
-    "total_publications": "96",
+    "total_publications": "99",
     "publications": {
       "xIQbs6uk08UC": {
         "title": "The maintenance of genetic polymorphism in sexually antagonistic traits",
@@ -27591,6 +27627,15 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
+      "PLWDSxI5WzYC": {
+        "title": "Science and knowledge needs to support Canada\u2019s implementation of the Kunming-Montreal Global Biodiversity Framework. Report prepared for Environment and Climate Change Canada.",
+        "year": "2024/5/10",
+        "publisher": "Unknown",
+        "author": "S Wilson, P Smith, E Kenchington, M Ballard, R Buxton, K Bobiwash, SJ Marshall, E Gilmore, E Abergel, J Allison, D Arbuthnott, S Avery-Gomm, N Ban, K Beazley, JR Bennett, E Bennett, A Binley, LK Blight, LE Bortolotti, D Browne, EK Cameron, K Chan, C Chisholm, C Chu, SJ Cooke, F Di Palma, D Duplisea, C Edge, B Frei, LW Gomes, C Hart, S Hayne, M Houde, AL Jacob, S Javorek, H Kharouba, DR Lapen, TG Martin, M Mitchell, I Naujokaitis-Lewis, EA Nyboer, M O'Connor, A Olive, S Otto, B Pickering, R Pither, G Pritchard, C Raudsepp-Hearne, J Rice, DG Roche, E Rubidge, M Ryckman, JM Saarela, KD Sadler, C Shulman, I Siboo, K Solarik, F Soulard, C Sponarski, D Stralberg, E Ubalijoro, A Ventimiglia, C Ziter",
+        "url": "https://ostrnrcan-dostrncan.canada.ca/handle/1845/347349",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "OqSZBmoviqwC": {
         "title": "The prokaryotic and eukaryotic microbiome of Pacific oyster spat is shaped by ocean warming but not acidification",
         "year": "2024/4/17",
@@ -27625,6 +27670,24 @@
         "author": "Jonna Kulmuni, Bryn Wiley, Sarah P Otto",
         "url": "https://academic.oup.com/evlett/article-abstract/8/1/128/7067062",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "-dM8Fa3L0FAC": {
+        "title": "Science and knowledge needs to support Canada\u2019s implementation of the Kunming-Montreal Global Biodiversity Framework",
+        "year": "2024",
+        "publisher": "E",
+        "author": "Scott Wilson, Paul Smith, Ellen Kenchington, Myrle Ballard, Rachel Buxton, Kyle Bobiwash, Shawn J Marshall, Elisabeth Gilmore, \u00c9lisabeth Abergel, Jeremy Allison, Devin Arbuthnott, Stephanie Avery-Gomm, Natalie C Ban, Karen F Beazley, Joseph R Bennett, Elena Bennett, Allison D Binley, Louise K Blight, Lauren E Bortolotti, David Browne, Erin K Cameron, Kai Chan, Chelsea Chisholm, Cindy Chu, Steven J Cooke, Federica Di Palma, Daniel Duplisea, Christopher Edge, Barbara Frei, Lee W Gomes, Connie Hart, Shari Hayne, Magali Houde, Aerin L Jacob, Steve Javorek, Heather Kharouba, David R Lapen, Tara G Martin, Matthew Mitchell, Ilona Naujokaitis-Lewis, Elizabeth A Nyboer, Mary O'Connor, Andrea Olive, Sarah Otto, Bradley Pickering, Richard Pither, Gary Pritchard, Ciara Raudsepp-Hearne, Jake Rice, Dominique G Roche, Emily Rubidge, Mark Ryckman, Jeffery M Saarela, Kella D Sadler, Charles Shulman, Ian Siboo, Kevin A Solarik, Fran\u00e7ois Soulard, Carly Sponarski, Diana Stralberg, Eliane Ubalijoro, Andr\u00e9a Ventimiglia, Carly D Ziter",
+        "url": "https://open-science.canada.ca/handle/123456789/2214",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "qRvB3I1gqpcC": {
+        "title": "Besoins en mati\u00e8re de sciences et de connaissances pour soutenir la mise en oeuvre canadienne du Cadre mondial de la biodiversit\u00e9 de Kunming-Montr\u00e9al",
+        "year": "2024",
+        "publisher": "E",
+        "author": "Scott Wilson, Paul Smith, Ellen Kenchington, Myrle Ballard, Rachel Buxton, Kyle Bobiwash, Shawn J Marshall, Elisabeth Gilmore, \u00c9lisabeth Abergel, Jeremy Allison, Devin Arbuthnott, Stephanie Avery-Gomm, Natalie C Ban, Karen F Beazley, Joseph R Bennett, Elena Bennett, Allison D Binley, Louise K Blight, Lauren E Bortolotti, David Browne, Erin K Cameron, Kai Chan, Chelsea Chisholm, Cindy Chu, Steven J Cooke, Federica Di Palma, Daniel Duplisea, Christopher Edge, Barbara Frei, Lee W Gomes, Connie Hart, Shari Hayne, Magali Houde, Aerin L Jacob, Steve Javorek, Heather Kharouba, David R Lapen, Tara G Martin, Matthew Mitchell, Ilona Naujokaitis-Lewis, Elizabeth A Nyboer, Mary O'Connor, Andrea Olive, Sarah Otto, Bradley Pickering, Richard Pither, Gary Pritchard, Ciara Raudsepp-Hearne, Jake Rice, Dominique G Roche, Emily Rubidge, Mark Ryckman, Jeffery M Saarela, Kella D Sadler, Charles Shulman, Ian Siboo, Kevin A Solarik, Fran\u00e7ois Soulard, Carly Sponarski, Diana Stralberg, Eliane Ubalijoro, Andr\u00e9a Ventimiglia, Carly D Ziter",
+        "url": "https://open-science.canada.ca/handle/123456789/2215",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "ayFkJB35JP4C": {
