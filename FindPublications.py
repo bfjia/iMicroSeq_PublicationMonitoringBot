@@ -370,27 +370,43 @@ if __name__ == "__main__":
     #Lets format the message for the slack bot
     deltaJson = loadJson(deltaJsonFile)
 
-    Msg = "[NEW]\n"
+    Msg = ""
     if len(deltaJson) > 0:
+        Msg = "[NEW!]\n\n"
         for authorID in deltaJson:
-            if len(deltaJson[authorID]['publications']) > 1:
+            #if len(deltaJson[authorID]['publications']) > 1:
+                #Msg = Msg + deltaJson[authorID]['Name'] + " has new publications: \n"
+            pubsToOutput = []
+            for pubID in deltaJson[authorID]['publications']:
+                pub = deltaJson[authorID]['publications'][pubID]
+                if (parser.parse(pub['year']).year >= 2025):
+                    pubsToOutput.append(pub)
+                    #Msg = Msg + "* " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n"
+                else:
+                    print("[WARNING] Some how picked up a old publication in delta Json: (" + 
+                            pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
+            
+            if len(pubsToOutput) > 1:
                 Msg = Msg + deltaJson[authorID]['Name'] + " has new publications: \n"
-                for pubID in deltaJson[authorID]['publications']:
-                    pub = deltaJson[authorID]['publications'][pubID]
-                    if (parser.parse(pub['year']).year >= 2025):
-                        Msg = Msg + "* " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n"
-                    else:
-                        print("[WARNING] Some how picked up a old publication in delta Json: (" + 
-                              pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
-                Msg = Msg + "Congratulations!\n\n"
             else:
-                for pubID in deltaJson[authorID]['publications']:
-                    pub = deltaJson[authorID]['publications'][pubID]
-                    if (parser.parse(pub['year']).year >= 2025):
-                        Msg = Msg + deltaJson[authorID]['Name'] + " has a new publication: \"" + pub['title'] + ".\" Published in " + pub['publisher'] + ". Available at " + pub['url'] + " \nCongratulations!\n\n" 
-                    else:
-                        print("[WARNING] Some how picked up a old publication in delta Json: (" + 
-                              pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
+                Msg = Msg + deltaJson[authorID]['Name'] + " has a new publication: \n"
+            
+            for pub in pubsToOutput:
+                Msg = Msg + "* "
+                if pub["firstOrLast"]:
+                    Msg = Msg + "[First or Senior Author] "
+                Msg = Msg + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url']
+
+                #Msg = Msg + "Congratulations!\n\n"
+            # else:
+            #     for pubID in deltaJson[authorID]['publications']:
+            #         pub = deltaJson[authorID]['publications'][pubID]
+            #         Msg = Msg + deltaJson[authorID]['Name'] + " has a new publication: \n"
+            #         if (parser.parse(pub['year']).year >= 2025):
+            #             pubsToOutput.append(pub)
+            #         else:
+            #             print("[WARNING] Some how picked up a old publication in delta Json: (" + 
+            #                   pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
     else:
         Msg = "[INFO]\nNo new publication found."
 
