@@ -18651,6 +18651,15 @@
     "Name": "Marc-Andr\u00e9 Langlois",
     "total_publications": "100",
     "publications": {
+      "QKtdBID3u5MC": {
+        "title": "Incremental immunogenicity of multiple doses of SARS-CoV-2 vaccination in patients with haematological malignancies",
+        "year": "2025/8/1",
+        "publisher": "British Journal of Haematology",
+        "author": "Abi Vijenthira, Sita Bhella, Katrina Hueniken, Allison M Wilkin, Michael Sebag, Peng Wang, Lisa K Hicks, Annette E Hay, Sarit Assouline, Amaris Balitsky, Graeme Fraser, Joy Mangel, Carolyn Owen, Anthony Reiman, Laurie Sehn, Heather Sutherland, Corey Arnold, Tamara Leite, Erinn McCarthy, Angela Crawley, Curtis Cooper, Marc-Andre Langlois, Arianne C Buchan",
+        "url": "https://www.ovid.com/journals/bjha/abstract/10.1111/bjh.70054~incremental-immunogenicity-of-multiple-doses-of-sars-cov-2",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "Gb6Hms-Uo9kC": {
         "title": "Comparative performance of serum and plasma samples in SARS-CoV-2 serology and neutralization assays",
         "year": "2025/5/13",
@@ -19540,15 +19549,6 @@
         "author": "Patrick M D'Aoust, Elisabeth Mercier, Danika Montpetit, Jian-Jun Jia, Ilya Alexandrov, Nafisa Neault, Aiman Tariq Baig, Janice Mayne, Xu Zhang, Tommy Alain, Marc-Andr\u00e9 Langlois, Mark R Servos, Malcolm MacKenzie, Daniel Figeys, Alex E MacKenzie, Tyson E Graber, Robert Delatolla",
         "url": "https://www.sciencedirect.com/science/article/pii/S0043135420310952",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "aDl3D7KC1E4C": {
-        "title": "Humoral responses and serological assays in SARS-CoV-2 infections",
-        "year": "2020/12/18",
-        "publisher": "F",
-        "author": "Yannick Galipeau, Matthew Greig, George Liu, Matt Driedger, Marc-Andre Langlois",
-        "url": "https://www.frontiersin.org/articles/10.3389/fimmu.2020.610688/full",
-        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }

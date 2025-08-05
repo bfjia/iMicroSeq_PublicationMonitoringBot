@@ -1,107 +1,14 @@
 {
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
+  "28A7wWkAAAAJ": {
+    "Name": "Marc-Andr\u00e9 Langlois",
     "total_new": "1",
     "publications": {
-      "-R_Z4shfoosC": {
-        "title": "Divergent trends in structural landscape connectivity from historic and potential future grassland conversion in Alberta, Canada",
+      "QKtdBID3u5MC": {
+        "title": "Incremental immunogenicity of multiple doses of SARS-CoV-2 vaccination in patients with haematological malignancies",
         "year": "2025/8/1",
-        "publisher": "PloS one",
-        "author": "Hossam E Abdel Moniem, Majid Iravani, Tim McAllister, Kim Ominski, Helene H Wagner",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325729",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "Ohu9Gc4AAAAJ": {
-    "Name": "B. Jesse Shapiro",
-    "total_new": "1",
-    "publications": {
-      "kxd3qP2_5uAC": {
-        "title": "Shifts in bacterioplankton during cyanobacterial blooms reflect bloom toxicity and lake trophic state",
-        "year": "2025/7/29",
-        "publisher": "Harmful Algae",
-        "author": "Lara Jansen, Nicolas Tromas, Angela Strecker, Jesse Shapiro",
-        "url": "https://www.sciencedirect.com/science/article/pii/S1568988325001398",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "Xv6FyfAAAAAJ": {
-    "Name": "Jennifer Knapp",
-    "total_new": "1",
-    "publications": {
-      "9ZlFYXVOiuMC": {
-        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
-        "year": "2025/7/31",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
-        "url": "https://doi.org/10.1101/2025.07.29.667219",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      }
-    }
-  },
-  "U9VtJFcAAAAJ": {
-    "Name": "Alyssa Overton",
-    "total_new": "1",
-    "publications": {
-      "ufrVoPGSRksC": {
-        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
-        "year": "2025/7/31",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
-        "url": "https://doi.org/10.1101/2025.07.29.667219",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      }
-    }
-  },
-  "gTkdyfsAAAAJ": {
-    "Name": "Trevor Charles",
-    "total_new": "1",
-    "publications": {
-      "lxZgYf9FOvoC": {
-        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
-        "year": "2025/7/31",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
-        "url": "https://doi.org/10.1101/2025.07.29.667219",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
-      }
-    }
-  },
-  "-bIc5H0AAAAJ": {
-    "Name": "Sarah Otto",
-    "total_new": "3",
-    "publications": {
-      "PLWDSxI5WzYC": {
-        "title": "Science and knowledge needs to support Canada\u2019s implementation of the Kunming-Montreal Global Biodiversity Framework. Report prepared for Environment and Climate Change Canada.",
-        "year": "2024/5/10",
-        "publisher": "Unknown",
-        "author": "S Wilson, P Smith, E Kenchington, M Ballard, R Buxton, K Bobiwash, SJ Marshall, E Gilmore, E Abergel, J Allison, D Arbuthnott, S Avery-Gomm, N Ban, K Beazley, JR Bennett, E Bennett, A Binley, LK Blight, LE Bortolotti, D Browne, EK Cameron, K Chan, C Chisholm, C Chu, SJ Cooke, F Di Palma, D Duplisea, C Edge, B Frei, LW Gomes, C Hart, S Hayne, M Houde, AL Jacob, S Javorek, H Kharouba, DR Lapen, TG Martin, M Mitchell, I Naujokaitis-Lewis, EA Nyboer, M O'Connor, A Olive, S Otto, B Pickering, R Pither, G Pritchard, C Raudsepp-Hearne, J Rice, DG Roche, E Rubidge, M Ryckman, JM Saarela, KD Sadler, C Shulman, I Siboo, K Solarik, F Soulard, C Sponarski, D Stralberg, E Ubalijoro, A Ventimiglia, C Ziter",
-        "url": "https://ostrnrcan-dostrncan.canada.ca/handle/1845/347349",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "-dM8Fa3L0FAC": {
-        "title": "Science and knowledge needs to support Canada\u2019s implementation of the Kunming-Montreal Global Biodiversity Framework",
-        "year": "2024",
-        "publisher": "E",
-        "author": "Scott Wilson, Paul Smith, Ellen Kenchington, Myrle Ballard, Rachel Buxton, Kyle Bobiwash, Shawn J Marshall, Elisabeth Gilmore, \u00c9lisabeth Abergel, Jeremy Allison, Devin Arbuthnott, Stephanie Avery-Gomm, Natalie C Ban, Karen F Beazley, Joseph R Bennett, Elena Bennett, Allison D Binley, Louise K Blight, Lauren E Bortolotti, David Browne, Erin K Cameron, Kai Chan, Chelsea Chisholm, Cindy Chu, Steven J Cooke, Federica Di Palma, Daniel Duplisea, Christopher Edge, Barbara Frei, Lee W Gomes, Connie Hart, Shari Hayne, Magali Houde, Aerin L Jacob, Steve Javorek, Heather Kharouba, David R Lapen, Tara G Martin, Matthew Mitchell, Ilona Naujokaitis-Lewis, Elizabeth A Nyboer, Mary O'Connor, Andrea Olive, Sarah Otto, Bradley Pickering, Richard Pither, Gary Pritchard, Ciara Raudsepp-Hearne, Jake Rice, Dominique G Roche, Emily Rubidge, Mark Ryckman, Jeffery M Saarela, Kella D Sadler, Charles Shulman, Ian Siboo, Kevin A Solarik, Fran\u00e7ois Soulard, Carly Sponarski, Diana Stralberg, Eliane Ubalijoro, Andr\u00e9a Ventimiglia, Carly D Ziter",
-        "url": "https://open-science.canada.ca/handle/123456789/2214",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "qRvB3I1gqpcC": {
-        "title": "Besoins en mati\u00e8re de sciences et de connaissances pour soutenir la mise en oeuvre canadienne du Cadre mondial de la biodiversit\u00e9 de Kunming-Montr\u00e9al",
-        "year": "2024",
-        "publisher": "E",
-        "author": "Scott Wilson, Paul Smith, Ellen Kenchington, Myrle Ballard, Rachel Buxton, Kyle Bobiwash, Shawn J Marshall, Elisabeth Gilmore, \u00c9lisabeth Abergel, Jeremy Allison, Devin Arbuthnott, Stephanie Avery-Gomm, Natalie C Ban, Karen F Beazley, Joseph R Bennett, Elena Bennett, Allison D Binley, Louise K Blight, Lauren E Bortolotti, David Browne, Erin K Cameron, Kai Chan, Chelsea Chisholm, Cindy Chu, Steven J Cooke, Federica Di Palma, Daniel Duplisea, Christopher Edge, Barbara Frei, Lee W Gomes, Connie Hart, Shari Hayne, Magali Houde, Aerin L Jacob, Steve Javorek, Heather Kharouba, David R Lapen, Tara G Martin, Matthew Mitchell, Ilona Naujokaitis-Lewis, Elizabeth A Nyboer, Mary O'Connor, Andrea Olive, Sarah Otto, Bradley Pickering, Richard Pither, Gary Pritchard, Ciara Raudsepp-Hearne, Jake Rice, Dominique G Roche, Emily Rubidge, Mark Ryckman, Jeffery M Saarela, Kella D Sadler, Charles Shulman, Ian Siboo, Kevin A Solarik, Fran\u00e7ois Soulard, Carly Sponarski, Diana Stralberg, Eliane Ubalijoro, Andr\u00e9a Ventimiglia, Carly D Ziter",
-        "url": "https://open-science.canada.ca/handle/123456789/2215",
+        "publisher": "British Journal of Haematology",
+        "author": "Abi Vijenthira, Sita Bhella, Katrina Hueniken, Allison M Wilkin, Michael Sebag, Peng Wang, Lisa K Hicks, Annette E Hay, Sarit Assouline, Amaris Balitsky, Graeme Fraser, Joy Mangel, Carolyn Owen, Anthony Reiman, Laurie Sehn, Heather Sutherland, Corey Arnold, Tamara Leite, Erinn McCarthy, Angela Crawley, Curtis Cooper, Marc-Andre Langlois, Arianne C Buchan",
+        "url": "https://www.ovid.com/journals/bjha/abstract/10.1111/bjh.70054~incremental-immunogenicity-of-multiple-doses-of-sars-cov-2",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
