@@ -27,6 +27,10 @@ python ./FindPublications.py
 #Post the message into Slack
 python slackConnector.py --messagefile msg.md --channel "C097CKA5U4X"
 
+#While in QA, post the logs too. 
+python slackConnector.py --message "Logs are temporarily attached for debugging purposes only, if needed." --channel "C097CKA5U4X" --file publii.log
+
+
 dateNow=$(date +%Y%m%d)
 
 git add .
