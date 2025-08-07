@@ -5185,7 +5185,7 @@
   },
   "BC6T6L-UY8gC": {
     "Name": "Caren Helbing",
-    "total_publications": "69",
+    "total_publications": "70",
     "publications": {
       "lmc2jWPfTJgC": {
         "title": "Changes in histone abundance and post-translational modifications in Rana [Lithobates] catesbeiana tissues during temperature-mediated thyroid hormone-induced metamorphosis",
@@ -5193,6 +5193,15 @@
         "publisher": "Comparative Biochemistry and Physiology Part D: Genomics and Proteomics",
         "author": "Haley N Kuecks-Winger, Anita A Thambirajah, Lorissa M Corrie, Caren C Helbing",
         "url": "https://www.sciencedirect.com/science/article/pii/S1744117X25001029",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "-FonjvnnhkoC": {
+        "title": "Sedimentary DNA Metabarcoding and Indigenous Knowledge Reconstruct Natural and Anthropogenic Disturbances to a Freshwater Lake in the Oil Sands Region of Alberta, Canada",
+        "year": "2025/7",
+        "publisher": "Environmental DNA",
+        "author": "Mark Louie D Lopez, Ave Dersch, Paul Drevnick, Rute Clemente\u2010Carvalho, Evan Morien, Christopher FG Hebda, Erin Ussery, Mark E McMaster, Matthew A Lemay, Caren C Helbing",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/edn3.70169",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -6660,15 +6669,6 @@
     "Name": "Miguel Uyaguari",
     "total_publications": "18",
     "publications": {
-      "M3NEmzRMIkIC": {
-        "title": "Identification of Acinetobacter radioresistens in wastewater effluent from a First Nation reserve in Manitoba, Canada",
-        "year": "2025/7/31",
-        "publisher": "Microbiology Resource Announcements",
-        "author": "Rudra Patel, Dawn White, Ayush Kumar, Miguel Uyaguari",
-        "url": "https://journals.asm.org/doi/abs/10.1128/mra.00221-25",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "k_IJM867U9cC": {
         "title": "Microbial Consortia in Full-Scale Pre-ozonated Biologically Active Filters Treating a High-DOC Water: Effects of Seasonal and Operational Variations",
         "year": "2025/6/20",
@@ -6676,6 +6676,15 @@
         "author": "Saeideh Mirzaei, Beata Gorczyca, Miguel Uyaguari, Richard Sparling, Evgeniia Maksimova",
         "url": "https://www.sciencedirect.com/science/article/pii/S004313542500973X",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "M3NEmzRMIkIC": {
+        "title": "Identification of Acinetobacter radioresistens in wastewater effluent from a First Nation reserve in Manitoba, Canada",
+        "year": "2025/7/31",
+        "publisher": "Microbiology Resource Announcements",
+        "author": "Rudra Patel, Dawn White, Ayush Kumar, Miguel Uyaguari",
+        "url": "https://journals.asm.org/doi/abs/10.1128/mra.00221-25",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "maZDTaKrznsC": {
@@ -6846,15 +6855,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "tKAzc9rXhukC": {
-        "title": "Whole-genome sequencing confirms Shigella flexneri infection in a child with shock and suspected multisystem inflammatory syndrome in children: A case report",
-        "year": "2025/5/28",
-        "publisher": "IDCases",
-        "author": "Sheridan JC Baker, Laura K Erdman, Donald Brody Duncan, Tania Cellucci, Marek Smieja, Cheryl Main, Jeffrey M Pernica, Andrew G McArthur",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2214250925001301",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "NJ774b8OgUMC": {
         "title": "Simultaneous detection of pathogens and antimicrobial resistance genes with the open source, cloud-based, CZ ID platform",
         "year": "2025/12",
@@ -6880,6 +6880,15 @@
         "author": "Kuganya Nirmalarajah, Patryk Aftanas, Shiva Barati, Emily Chien, Gloria Crowl, Amna Faheem, Lubna Farooqi, Alainna J Jamal, Saman Khan, Jonathon D Kotwa, Angel X Li, Mohammad Mozafarihashjin, Jalees A Nasir, Altynay Shigayeva, Winfield Yim, Lily Yip, Xi Zoe Zhong, Kevin Katz, Robert Kozak, Andrew G McArthur, Nick Daneman, Finlay Maguire, Allison J McGeer, Venkata R Duvvuri, Samira Mubareka",
         "url": "https://link.springer.com/article/10.1186/s12879-025-10450-3",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "tKAzc9rXhukC": {
+        "title": "Whole-genome sequencing confirms Shigella flexneri infection in a child with shock and suspected multisystem inflammatory syndrome in children: A case report",
+        "year": "2025/5/28",
+        "publisher": "IDCases",
+        "author": "Sheridan JC Baker, Laura K Erdman, Donald Brody Duncan, Tania Cellucci, Marek Smieja, Cheryl Main, Jeffrey M Pernica, Andrew G McArthur",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2214250925001301",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "_Ybze24A_UAC": {
@@ -15375,6 +15384,15 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
+      "EcS_2O1c4Q0C": {
+        "title": "Ranked placement of phage predation as a determinant of dehydration severity among cholera patients in Bangladesh",
+        "year": "2025/6/18",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "N. Madi,Md. Abu Sayeed,E. T. Cato,A. Creasy-Marrazzo,K. Islam,Md. I.UL. Khabir,Md. T. R. Bhuiyan,Y. Begum,E. Freeman,A. Vustepalli,L. Brinkley,M. Kamat,L. S. Bailey,K. B. Basso,F. Qadri,A. I. Khan,B. J. Shapiro,E. J. Nelson",
+        "url": "https://doi.org/10.1101/2025.06.17.25329780",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      },
       "ddB7do2jUx8C": {
         "title": "Cholera rapid diagnostic tests at the host-microbe interface: Key Considerations for Global Deployments",
         "year": "2025/5/29",
@@ -15436,15 +15454,6 @@
         "author": "Akhil Kholwadwala,Egor Katkov,Patrick Lypaczewski,Andrew Gonzalez,Rowan D.H. Barrett,B. Jesse Shapiro",
         "url": "https://doi.org/10.1101/2025.06.20.660555",
         "firstOrLast": true,
-        "datasource": "CrossRef"
-      },
-      "EcS_2O1c4Q0C": {
-        "title": "Ranked placement of phage predation as a determinant of dehydration severity among cholera patients in Bangladesh",
-        "year": "2025/6/18",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "N. Madi,Md. Abu Sayeed,E. T. Cato,A. Creasy-Marrazzo,K. Islam,Md. I.UL. Khabir,Md. T. R. Bhuiyan,Y. Begum,E. Freeman,A. Vustepalli,L. Brinkley,M. Kamat,L. S. Bailey,K. B. Basso,F. Qadri,A. I. Khan,B. J. Shapiro,E. J. Nelson",
-        "url": "https://doi.org/10.1101/2025.06.17.25329780",
-        "firstOrLast": false,
         "datasource": "CrossRef"
       },
       "eJjLl3UG7CkC": {
@@ -25116,15 +25125,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "zA6iFVUQeVQC": {
-        "title": "Authenticity in capacity-building for neuroscience: Indigenous scholarship, teaching, and care",
-        "year": "2025/2/27",
-        "publisher": "A",
-        "author": "Melissa L Perreault, Rudi Taylor-Bragge, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
-        "url": "https://www.sciencedirect.com/science/article/abs/pii/S2589295925000037",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "3s1wT3WcHBgC": {
         "title": "Indigenous data protection in wastewater surveillance: balancing public health monitoring with privacy rights",
         "year": "2025/2/25",
@@ -25158,6 +25158,15 @@
         "publisher": "A",
         "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre McLachlan, Michael Yellow Bird, Melissa L Perreault",
         "url": "https://scholar.google.com/scholar?cluster=1648153602223541821&hl=en&oi=scholarr",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "zA6iFVUQeVQC": {
+        "title": "Authenticity in capacity-building for neuroscience: Indigenous scholarship, teaching, and care",
+        "year": "2025/2/27",
+        "publisher": "A",
+        "author": "Melissa L Perreault, Rudi Taylor-Bragge, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S2589295925000037",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -27474,6 +27483,15 @@
     "Name": "Sarah Otto",
     "total_publications": "99",
     "publications": {
+      "W5d1EEiaRJMC": {
+        "title": "F ST between haploids and diploids in species with discrete ploidy phases",
+        "year": "2024/9/4",
+        "publisher": "Journal of Evolutionary Biology",
+        "author": "Kazuhiro Bessho, Sarah P Otto",
+        "url": "https://academic.oup.com/jeb/advance-article-abstract/doi/10.1093/jeb/voae104/7749046",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "xIQbs6uk08UC": {
         "title": "The maintenance of genetic polymorphism in sexually antagonistic traits",
         "year": "2023/10/11",
@@ -27544,15 +27562,6 @@
         "author": "Nicholas H Ogden, Emily S Acheson, Kevin Brown, David Champredon, Caroline Colijn, Alan Diener, Jonathan Dushoff, David JD Earn, Vanessa Gabriele-Rivet, Marcellin Gangb\u00e8, Steve Guillouzic, Deirdre Hennessy, Valerie Hongoh, Amy Hurford, Lisa Kanary, Michael Li, Victoria Ng, Sarah P Otto, Irena Papst, Erin E Rees, Ashleigh Tuite, Matthew R MacLeod, Carmen Lia Murall, Lisa Waddell, Rania Wasfi, Michael Wolfson",
         "url": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2024-50/issue-10-october-2024/mathematical-modelling-pandemic-preparedness.html",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "W5d1EEiaRJMC": {
-        "title": "F ST between haploids and diploids in species with discrete ploidy phases",
-        "year": "2024/9/4",
-        "publisher": "Journal of Evolutionary Biology",
-        "author": "Kazuhiro Bessho, Sarah P Otto",
-        "url": "https://academic.oup.com/jeb/advance-article-abstract/doi/10.1093/jeb/voae104/7749046",
-        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "zvUQpHOXRJ8C": {
