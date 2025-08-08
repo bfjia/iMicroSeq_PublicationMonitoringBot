@@ -407,6 +407,8 @@ if __name__ == "__main__":
             #         else:
             #             print("[WARNING] Some how picked up a old publication in delta Json: (" + 
             #                   pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
+        if Msg == "[NEW!]\n\n":
+            Msg = "[INFO]\nNo new publication found."
     else:
         Msg = "[INFO]\nNo new publication found."
 
