@@ -2605,7 +2605,7 @@
   },
   "rQUeGGsAAAAJ": {
     "Name": "Lawrence Goodridge",
-    "total_publications": "96",
+    "total_publications": "97",
     "publications": {
       "kuK5TVdYjLIC": {
         "title": "Draft genome sequences of multiple Salmonella enterica serotypes isolated from eight different animals in Nigeria",
@@ -2793,6 +2793,15 @@
         "publisher": "IAFP 2024",
         "author": "Charles Chettleburgh, Hailey M Davidson, Valeria R Parreira, Marc Habash, Lawrence Goodridge",
         "url": "https://iafp.confex.com/iafp/2024/onlineprogram.cgi/Paper/35315",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "LI9QrySNdTsC": {
+        "title": "Genomic Analysis of Salmonella on Wheat Kernels Treated with Lactic Acid over a Six-Month Storage Period",
+        "year": "2024/7/16",
+        "publisher": "IAFP 2024",
+        "author": "Dharamdeo Singh, Opeyemi U Lawal, Nicola Linton, Carlos Leon-Velarde, Lawrence Goodridge",
+        "url": "https://iafp.confex.com/iafp/2024/onlineprogram.cgi/Paper/35338",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -3475,7 +3484,7 @@
   },
   "tBwE4O4AAAAJ": {
     "Name": "Ayush Kumar",
-    "total_publications": "51",
+    "total_publications": "52",
     "publications": {
       "PRxwKtMv80cC": {
         "title": "Identification of Acinetobacter radioresistens in wastewater effluent from a First Nation reserve in Manitoba, Canada",
@@ -3826,6 +3835,15 @@
         "author": "Vanessa Kornelsen, Mark Unger, Ayush Kumar",
         "url": "https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000288",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "TWCMsgree48C": {
+        "title": "R\u0101va\u1e47a\u1e49i\u1e49 \u0101\u1e6dciyum ila\u1e45kaiyi\u1e49 m\u0101\u1e6dciyum-\u014dr \u0101yvu [The royal rule of Ravana and the majesty of Ilanggai-a research]: \u0bb0\u0bbe\u0bb5\u0ba3\u0ba9\u0bbf\u0ba9\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u2026",
+        "year": "2021/6/26",
+        "publisher": "Muallim Journal of Social Sciences and Humanities",
+        "author": "Rajeswari Gopal, Lavania Selvam, A Sathish Kumar",
+        "url": "http://mjsshonline.com/index.php/journal/article/view/301",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "K0t_OegsO1AC": {
@@ -11922,6 +11940,15 @@
     "Name": "Herman W. Barkema",
     "total_publications": "100",
     "publications": {
+      "Lo8V22OuN40C": {
+        "title": "Evaluation of Staphylococcus simulans inhibition of Staphylococcus aureus infection by an in vivo murine mastitis model",
+        "year": "2025/8/4",
+        "publisher": "Applied and Environmental Microbiology",
+        "author": "Benjamin Caddey, Mengyue Li, Jeroen De Buck, Bo Han, Jian Gao, Herman W Barkema",
+        "url": "https://journals.asm.org/doi/abs/10.1128/aem.00678-25",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "tFzHCjejgA0C": {
         "title": "Phenotypic and genotypic characterization of ST103 Serotype Ia Streptococcus agalactiae isolated from bovine mastitis in China",
         "year": "2025/7/10",
@@ -12810,15 +12837,6 @@
         "publisher": "Unknown",
         "author": "Bingchun Liang, Wenpeng Zhao, Bo Han, Herman W Barkema, Yan D Niu, Yongxia Liu, John P Kastelic, Jian Gao",
         "url": "https://www.academia.edu/download/110845787/pdf.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "iKswqCX-FLkC": {
-        "title": "A cross-sectional study on antimicrobial use and calf management practices in Canadian preweaned dairy calves.",
-        "year": "2022/1/1",
-        "publisher": "E",
-        "author": "T Uyama, D Renaud, D Leger, D Rizzo, E Morrison, E de Jong, K McCubbin, H Barkema, S Dufour, J Sanchez, L Heider, J McClure, S LeBlanc, C Winder, D Kelton",
-        "url": "https://scholar.google.com/scholar?cluster=13909192190086576438&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -21651,6 +21669,15 @@
     "Name": "Robert E. W. Hancock",
     "total_publications": "100",
     "publications": {
+      "P5iVsrg4GywC": {
+        "title": "The Parkinson\u2019s drug benztropine possesses histamine receptor 1-dependent host-directed antimicrobial activity against Mycobacterium tuberculosis",
+        "year": "2025/8/4",
+        "publisher": "npj Antimicrobials and Resistance",
+        "author": "Henok A Sahile, Matthew Christofferson, Morgan A Alford, Celine Rens, Hasti Haghdadi, Joseph D Chao, Georgia Langdon, Robert EW Hancock, Jeffrey Chen, Yossef Av-Gay",
+        "url": "https://www.nature.com/articles/s44259-025-00143-x",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "07QC26MHY14C": {
         "title": "Synthetic host defense peptide inhibits SARS-CoV-2 replication in vitro",
         "year": "2025/6/23",
@@ -22541,15 +22568,6 @@
         "url": "https://doi.org/10.1039/d0ra09739j",
         "firstOrLast": true,
         "datasource": "CrossRef"
-      },
-      "j33aPA1ap8EC": {
-        "title": "Ivacaftor or lumacaftor/ivacaftor treatment does not alter the core CF airway epithelial gene response to rhinovirus",
-        "year": "2021/1/1",
-        "publisher": "Journal of Cystic Fibrosis",
-        "author": "Emma De Jong, Luke W Garratt, Kevin Looi, Amy HY Lee, Kak-Ming Ling, Maren L Smith, Reza Falsafi, Erika N Sutanto, Jessica Hillas, Thomas Iosifidis, Kelly M Martinovich, Nicole C Shaw, Samuel T Montgomery, Elizabeth Kicic-Starcevich, Francis J Lannigan, Shyan Vijayasekaran, Robert EW Hancock, Stephen M Stick, Anthony Kicic, CF Arest",
-        "url": "https://www.sciencedirect.com/science/article/pii/S1569199320307967",
-        "firstOrLast": false,
-        "datasource": "Scholars"
       }
     }
   },
