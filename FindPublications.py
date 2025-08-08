@@ -317,55 +317,55 @@ def loadJson(filename):
         return json.load(f)
 
 if __name__ == "__main__":
-    if os.path.exists(jsonFile):
-        shutil.copy2(jsonFile, lastJsonFile)
-    lastPublicationJson = loadJson(lastJsonFile)
-    with open(authorsToMonitor, 'r') as f:
-        authorIDList = [line.strip() for line in f]
+    # if os.path.exists(jsonFile):
+    #     shutil.copy2(jsonFile, lastJsonFile)
+    # lastPublicationJson = loadJson(lastJsonFile)
+    # with open(authorsToMonitor, 'r') as f:
+    #     authorIDList = [line.strip() for line in f]
 
 
-    # Setup headless Firefox
-    options = Options()
-    options.add_argument('--headless')
-    driver = webdriver.Firefox(options=options)
+    # # Setup headless Firefox
+    # options = Options()
+    # options.add_argument('--headless')
+    # driver = webdriver.Firefox(options=options)
 
 
-    print("[INFO] " + "Indexing publications...")
-    allPubs = {}
-    for authorID in authorIDList:
-        allPubs[authorID] = fetchPublicationsUsingSelenium(driver, authorID, lastPublicationJson)
+    # print("[INFO] " + "Indexing publications...")
+    # allPubs = {}
+    # for authorID in authorIDList:
+    #     allPubs[authorID] = fetchPublicationsUsingSelenium(driver, authorID, lastPublicationJson)
 
-    saveJson(allPubs, jsonFile)
+    # saveJson(allPubs, jsonFile)
 
-    currentPublicationJson = loadJson(jsonFile)
-    driver.quit()
+    # currentPublicationJson = loadJson(jsonFile)
+    # driver.quit()
 
 
-    #look for differences
-    print("[INFO] " + "Looking for anything new...")
-    newPublications = {}
-    for authorID in authorIDList:
-        id = authorID
-        #we just added someone new to the list. DO NOT delta them until the next time.
-        if id in lastPublicationJson.keys():
-            if currentPublicationJson[id]['publications'].keys() != lastPublicationJson[id]['publications'].keys():
-                diff = [item for item in currentPublicationJson[id]['publications'].keys() if item not in lastPublicationJson[id]['publications'].keys()]
-                if len(diff) > 0:
-                    print(currentPublicationJson[id]['Name'] + " have " + str(len(diff)) + " new publications!")
-                    for pubid in diff:
-                        if (authorID not in newPublications.keys()):
-                            newPublications[authorID] = {
-                                'Name' : currentPublicationJson[id]['Name'],
-                                'total_new' : str(len(diff)),
-                                'publications' : {pubid : currentPublicationJson[id]['publications'][pubid]}
-                            }
-                        else:
-                            newPublications[authorID]['publications'][pubid] = currentPublicationJson[id]['publications'][pubid]
-            else:
-                print("[INFO] " + currentPublicationJson[id]['Name'] + " have no new publications.")
-        else:
-            print ("[INFO] " + currentPublicationJson[id]['Name'] + " is a new author added to the surveillance list, we ignoring until next time.")
-    saveJson(newPublications, deltaJsonFile)
+    # #look for differences
+    # print("[INFO] " + "Looking for anything new...")
+    # newPublications = {}
+    # for authorID in authorIDList:
+    #     id = authorID
+    #     #we just added someone new to the list. DO NOT delta them until the next time.
+    #     if id in lastPublicationJson.keys():
+    #         if currentPublicationJson[id]['publications'].keys() != lastPublicationJson[id]['publications'].keys():
+    #             diff = [item for item in currentPublicationJson[id]['publications'].keys() if item not in lastPublicationJson[id]['publications'].keys()]
+    #             if len(diff) > 0:
+    #                 print(currentPublicationJson[id]['Name'] + " have " + str(len(diff)) + " new publications!")
+    #                 for pubid in diff:
+    #                     if (authorID not in newPublications.keys()):
+    #                         newPublications[authorID] = {
+    #                             'Name' : currentPublicationJson[id]['Name'],
+    #                             'total_new' : str(len(diff)),
+    #                             'publications' : {pubid : currentPublicationJson[id]['publications'][pubid]}
+    #                         }
+    #                     else:
+    #                         newPublications[authorID]['publications'][pubid] = currentPublicationJson[id]['publications'][pubid]
+    #         else:
+    #             print("[INFO] " + currentPublicationJson[id]['Name'] + " have no new publications.")
+    #     else:
+    #         print ("[INFO] " + currentPublicationJson[id]['Name'] + " is a new author added to the surveillance list, we ignoring until next time.")
+    # saveJson(newPublications, deltaJsonFile)
 
     #Lets format the message for the slack bot
     deltaJson = loadJson(deltaJsonFile)
@@ -388,14 +388,14 @@ if __name__ == "__main__":
             
             if len(pubsToOutput) > 1:
                 Msg = Msg + deltaJson[authorID]['Name'] + " has new publications: \n"
-            else:
+            elif len(pubsToOutput )== 1:
                 Msg = Msg + deltaJson[authorID]['Name'] + " has a new publication: \n"
             
             for pub in pubsToOutput:
                 Msg = Msg + "* "
                 if pub["firstOrLast"]:
                     Msg = Msg + "[First or Senior Author] "
-                Msg = Msg + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url']
+                Msg = Msg + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n"
 
                 #Msg = Msg + "Congratulations!\n\n"
             # else:
