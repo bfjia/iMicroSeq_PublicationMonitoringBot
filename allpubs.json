@@ -19582,8 +19582,17 @@
   },
   "v9h5yVEAAAAJ": {
     "Name": "Art FY Poon",
-    "total_publications": "48",
+    "total_publications": "49",
     "publications": {
+      "evX43VCCuoAC": {
+        "title": "An Application of the Modifiable Areal Unit Problem: Optimizing Cluster Method Parameters to Produce Predictive Data for HIV Outbreaks",
+        "year": "2025/6/19",
+        "publisher": "Unknown",
+        "author": "Connor J Chato, Art FY Poon",
+        "url": "https://uwo.scholaris.ca/items/3151a2c8-a6d7-44c9-ae98-4580816b164c",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "GtLg2Ama23sC": {
         "title": "Association between HIV-1 Nef-mediated MHC-I downregulation and the maintenance of the replication-competent latent viral reservoir in individuals with virally suppressed HIV-1 \u2026",
         "year": "2025/5/1",
@@ -24975,6 +24984,15 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
+      "ULOm3_A8WrAC": {
+        "title": "Synthetic, non-natural antimicrobial peptides inspired by staphylococcus auricularis delta toxin",
+        "year": "2022/9/8",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": "https://patents.google.com/patent/US20220280595A1/en",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "4DMP91E08xMC": {
         "title": "Retrospective analysis of antimicrobial resistance associated with bovine respiratory disease",
         "year": "2025/2/7",
@@ -25035,15 +25053,6 @@
         "publisher": "Frontiers in Ecology and Evolution",
         "author": "Jenna M Thebeau, Allyssa Cloet, Dana Liebe, Fatima Masood, Ivanna V Kozii, Colby D Klein, Michael W Zabrodski, Sarah Biganski, Igor Moshynskyy, Larhonda Sobchishin, Geoff Wilson, Maria Marta Guarna, Eric M Gerbrandt, Antonio Ruzzini, Elemir Simko, Sarah C Wood",
         "url": "https://www.frontiersin.org/articles/10.3389/fevo.2023.1073775/full",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "ULOm3_A8WrAC": {
-        "title": "Synthetic, non-natural antimicrobial peptides inspired by staphylococcus auricularis delta toxin",
-        "year": "2022/9/8",
-        "publisher": "Unknown",
-        "author": "Unknown",
-        "url": "https://patents.google.com/patent/US20220280595A1/en",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
