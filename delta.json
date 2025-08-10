@@ -1,15 +1,30 @@
 {
-  "v9h5yVEAAAAJ": {
-    "Name": "Art FY Poon",
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
     "total_new": "1",
     "publications": {
-      "evX43VCCuoAC": {
-        "title": "An Application of the Modifiable Areal Unit Problem: Optimizing Cluster Method Parameters to Produce Predictive Data for HIV Outbreaks",
-        "year": "2025/6/19",
-        "publisher": "Unknown",
-        "author": "Connor J Chato, Art FY Poon",
-        "url": "https://uwo.scholaris.ca/items/3151a2c8-a6d7-44c9-ae98-4580816b164c",
+      "e9bUPLv0EjcC": {
+        "title": "Communication skills assessment in health professions: a systematic review of validity evidence",
+        "year": "2025/8/1",
+        "publisher": "E",
+        "author": "L Dorrestein, C Ritter, Z de Mol, M Wichtel, J Cary, C Vengrin, E Artemiou, C Adams, H Barkema, K Hecker",
+        "url": "https://scholar.google.com/scholar?cluster=3362072720015605460&hl=en&oi=scholarr",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "01K5Ks4AAAAJ": {
+    "Name": "William Hsiao",
+    "total_new": "1",
+    "publications": {
+      "XiVPGOgt02cC": {
+        "title": "NGBO: Introducing-omics contextual data to biobanking ontology",
+        "year": "2025/8/7",
+        "publisher": "Bioinformatics Advances",
+        "author": "Dalia Alghamdi, Damion M Dooley, Mannar Samman, Ali AlFaiz, William WL Hsiao",
+        "url": "https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf131/8224585",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }

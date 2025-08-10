@@ -11949,6 +11949,15 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
+      "e9bUPLv0EjcC": {
+        "title": "Communication skills assessment in health professions: a systematic review of validity evidence",
+        "year": "2025/8/1",
+        "publisher": "E",
+        "author": "L Dorrestein, C Ritter, Z de Mol, M Wichtel, J Cary, C Vengrin, E Artemiou, C Adams, H Barkema, K Hecker",
+        "url": "https://scholar.google.com/scholar?cluster=3362072720015605460&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "tFzHCjejgA0C": {
         "title": "Phenotypic and genotypic characterization of ST103 Serotype Ia Streptococcus agalactiae isolated from bovine mastitis in China",
         "year": "2025/7/10",
@@ -12828,15 +12837,6 @@
         "publisher": "Current Issues in Molecular Biology",
         "author": "Masoumeh Naserkheil, Farzad Ghafouri, Sonia Zakizadeh, Nasrollah Pirany, Zeinab Manzari, Sholeh Ghorbani, Mohammad Hossein Banabazi, Mohammad Reza Bakhtiarizadeh, Md Amdadul Huq, Mi Na Park, Herman W Barkema, Deukmin Lee, Kwan-Sik Min",
         "url": "https://www.mdpi.com/1467-3045/44/1/23",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "-38epGy1wY0C": {
-        "title": "Klebsiella pneumoniae",
-        "year": "2022",
-        "publisher": "Unknown",
-        "author": "Bingchun Liang, Wenpeng Zhao, Bo Han, Herman W Barkema, Yan D Niu, Yongxia Liu, John P Kastelic, Jian Gao",
-        "url": "https://www.academia.edu/download/110845787/pdf.pdf",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -17917,8 +17917,17 @@
   },
   "01K5Ks4AAAAJ": {
     "Name": "William Hsiao",
-    "total_publications": "50",
+    "total_publications": "51",
     "publications": {
+      "XiVPGOgt02cC": {
+        "title": "NGBO: Introducing-omics contextual data to biobanking ontology",
+        "year": "2025/8/7",
+        "publisher": "Bioinformatics Advances",
+        "author": "Dalia Alghamdi, Damion M Dooley, Mannar Samman, Ali AlFaiz, William WL Hsiao",
+        "url": "https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf131/8224585",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "q3oQSFYPqjQC": {
         "title": "The genotypic characterization of Streptococcus pluranimalium from aborted bovine fetuses in British Columbia, Canada",
         "year": "2025/6/12",
