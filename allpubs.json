@@ -3484,7 +3484,7 @@
   },
   "tBwE4O4AAAAJ": {
     "Name": "Ayush Kumar",
-    "total_publications": "52",
+    "total_publications": "53",
     "publications": {
       "PRxwKtMv80cC": {
         "title": "Identification of Acinetobacter radioresistens in wastewater effluent from a First Nation reserve in Manitoba, Canada",
@@ -3655,6 +3655,15 @@
         "author": "Dawn White, Ayush Kumar",
         "url": "https://app.jove.com/t/66471",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "OMkOuUINnloC": {
+        "title": "Effect of nickel supplementation on growth performance and blood metabolites of growing Muzaffarnagari lambs",
+        "year": "2024",
+        "publisher": "Indian Journal of Animal Nutrition",
+        "author": "A Kumar, DS Sahu, G Chandra, SP Yadav, D Roy, A Fahim, RK Singh, DK Yadav, PS Maurya",
+        "url": "https://scholar.google.com/scholar?cluster=4223780447435155968&hl=en&oi=scholarr",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "qfGRAl2ZrpUC": {
@@ -13486,8 +13495,17 @@
   },
   "057RNrQAAAAJ": {
     "Name": "S\u00e9bastien P. Faucher",
-    "total_publications": "36",
+    "total_publications": "37",
     "publications": {
+      "UxriW0iASnsC": {
+        "title": "In situ dosing of monochloramine in a hospital hot water system results in drastic microbial communities changes",
+        "year": "2025/10/1",
+        "publisher": "Science of The Total Environment",
+        "author": "Marianne Grimard-Conea, Elliston Vallarino Reyes, Xavier Marchand-Sen\u00e9cal, S\u00e9bastien P Faucher, Mich\u00e8le Pr\u00e9vost",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0048969725018443",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "P5F9QuxV20EC": {
         "title": "Mitigation of opportunistic drinking water pathogens by onsite monochloramine disinfection in a hospital water system",
         "year": "2025/6/25",
