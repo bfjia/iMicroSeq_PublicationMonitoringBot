@@ -3,15 +3,6 @@
     "Name": "Fiona Brinkman",
     "total_publications": "38",
     "publications": {
-      "sszUF3NjhM4C": {
-        "title": "From fetus to 8: the CHILD Cohort Study",
-        "year": "2024/10/11",
-        "publisher": "American Journal of Epidemiology",
-        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
-        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "kWvqk_afx_IC": {
         "title": "VIRUS-MVP: A framework for comprehensive surveillance of viral mutations and their functional impacts",
         "year": "2025/2/17",
@@ -37,6 +28,15 @@
         "author": "Erin E Gill, Baofeng Jia, Carmen Lia Murall, Rapha\u00ebl Poujol, Muhammad Zohaib Anwar, Nithu Sara John, Justin Richardsson, Ashley Hobb, Abayomi S Olabode, Alexandru Lepsa, Ana T Duggan, Andrea D Tyler, Arnaud N'Guessan, Atul Kachru, Brandon Chan, Catherine Yoshida, Christina K Yung, David Bujold, Dusan Andric, Edmund Su, Emma J Griffiths, Gary Van Domselaar, Gordon W Jolly, Heather KE Ward, Henrich Feher, Jared Baker, Jared T Simpson, Jaser Uddin, Jiannis Ragoussis, Jon Eubank, J\u00f6rg H Fritz, Jos\u00e9 H\u00e9ctor G\u00e1lvez, Karen Fang, Kim Cullion, Leonardo Rivera, Linda Xiang, Matthew A Croxen, Mitchell Shiell, Natalie Prystajecky, Pierre-Olivier Quirion, Rosita Bajari, Samantha Rich, Samira Mubareka, Sandrine Moreira, Scott Cain, Steven G Sutcliffe, Susanne A Kraemer, Yelizar Alturmessov, Yann Joly, CPHLN Consortium**, CanCOGeN Consortium**, VirusSeq Data Portal Academic and Health Network**, Marc Fiume, Terrance P Snutch, Cindy Bell, Catalina Lopez-Correa, Julie G Hussin, Jeffrey B Joy, Caroline Colijn, Paul MK Gordon, William WL Hsiao, Art FY Poon, Natalie C Knox, M\u00e9lanie Courtot, Lincoln Stein, Sarah P Otto, Guillaume Bourque, B Jesse Shapiro, Fiona SL Brinkman",
         "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001293",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "sszUF3NjhM4C": {
+        "title": "From fetus to 8: the CHILD Cohort Study",
+        "year": "2024/10/11",
+        "publisher": "American Journal of Epidemiology",
+        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
+        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "NDuN12AVoxsC": {
@@ -3484,7 +3484,7 @@
   },
   "tBwE4O4AAAAJ": {
     "Name": "Ayush Kumar",
-    "total_publications": "53",
+    "total_publications": "46",
     "publications": {
       "PRxwKtMv80cC": {
         "title": "Identification of Acinetobacter radioresistens in wastewater effluent from a First Nation reserve in Manitoba, Canada",
@@ -3567,15 +3567,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "UxGknTjvZ8EC": {
-        "title": "Improving safety: Neuraxial blockade guided by thromboelastography for patients with uncertain coagulation profile",
-        "year": "2024/7/1",
-        "publisher": "Journal of Postgraduate Medicine",
-        "author": "A Kumar, AN Deshmukh, CK Pandey, N Chaudhary",
-        "url": "https://journals.lww.com/jopm/fulltext/2024/70030/improving_safety__neuraxial_blockade_guided_by.9.aspx?context=latestarticles",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "dJueR9Ocv0UC": {
         "title": "Special collection to commemorate 40 years of antimicrobial efflux",
         "year": "2024/6/17",
@@ -3655,33 +3646,6 @@
         "author": "Dawn White, Ayush Kumar",
         "url": "https://app.jove.com/t/66471",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "OMkOuUINnloC": {
-        "title": "Effect of nickel supplementation on growth performance and blood metabolites of growing Muzaffarnagari lambs",
-        "year": "2024",
-        "publisher": "Indian Journal of Animal Nutrition",
-        "author": "A Kumar, DS Sahu, G Chandra, SP Yadav, D Roy, A Fahim, RK Singh, DK Yadav, PS Maurya",
-        "url": "https://scholar.google.com/scholar?cluster=4223780447435155968&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "qfGRAl2ZrpUC": {
-        "title": "New approaches of rootstocks in fruit production: a review",
-        "year": "2025/6/2",
-        "publisher": "Medwin Publishers",
-        "author": "Ashok Kumar",
-        "url": "https://doi.org/10.23880/oajbi-16000109",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      },
-      "k9DIvIRG6EUC": {
-        "title": "Dhar",
-        "year": "2024",
-        "publisher": "S",
-        "author": "A Kumar, BD Bhuj",
-        "url": "https://scholar.google.com/scholar?cluster=5396139343664401399&hl=en&oi=scholarr",
-        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "e7Kme7CWzzEC": {
@@ -3819,15 +3783,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "mE3zHqWzvhQC": {
-        "title": "Efficacy of certain chemicals and essential oils against okra shoot and fruit borer [Earias vittella (Fabricius)]",
-        "year": "2022",
-        "publisher": "The Pharma Innovation Journal",
-        "author": "SEN Manikanta, A Kumar",
-        "url": "https://scholar.google.com/scholar?cluster=7617149642980731429&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "18X6PRg5UAMC": {
         "title": "Dioctanoyl ultrashort tetrabasic \u03b2-peptides sensitize multidrug-resistant gram-negative bacteria to novobiocin and rifampicin",
         "year": "2021/12/23",
@@ -3844,15 +3799,6 @@
         "author": "Vanessa Kornelsen, Mark Unger, Ayush Kumar",
         "url": "https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000288",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "TWCMsgree48C": {
-        "title": "R\u0101va\u1e47a\u1e49i\u1e49 \u0101\u1e6dciyum ila\u1e45kaiyi\u1e49 m\u0101\u1e6dciyum-\u014dr \u0101yvu [The royal rule of Ravana and the majesty of Ilanggai-a research]: \u0bb0\u0bbe\u0bb5\u0ba3\u0ba9\u0bbf\u0ba9\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u2026",
-        "year": "2021/6/26",
-        "publisher": "Muallim Journal of Social Sciences and Humanities",
-        "author": "Rajeswari Gopal, Lavania Selvam, A Sathish Kumar",
-        "url": "http://mjsshonline.com/index.php/journal/article/view/301",
-        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "K0t_OegsO1AC": {
@@ -3879,15 +3825,6 @@
         "publisher": "F",
         "author": "Benjamin A Evans, Ayush Kumar, Santiago Castillo-Ram\u00edrez",
         "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2021.670975/full",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "-ZT7PjPjAvEC": {
-        "title": "Influence of organic and biodynamic manures on soil microbial dynamics and soil nutrient parameters in chrysanthemum(Dendranthema grandiflora, Tzvelev) cv. Thai Chen Queen",
-        "year": "2021",
-        "publisher": "Chem. Sci. Rev. Lett",
-        "author": "Syed Khudus, A Kumar, R Srivastava, BD Bhuj, S Chand, SK Guru",
-        "url": "https://chesci.com/wp-content/uploads/2021/08/v10i39_4_CS205205357_336-342.pdf",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -13228,8 +13165,17 @@
   },
   "eRucyv4AAAAJ": {
     "Name": "Srijak Bhatnagar",
-    "total_publications": "29",
+    "total_publications": "30",
     "publications": {
+      "R3hNpaxXUhUC": {
+        "title": "Metagenomic analysis after selective culture enrichment of hospital and community wastewater enhances antimicrobial resistance gene detection",
+        "year": "2025/7/31",
+        "publisher": "mBio",
+        "author": "Nicole Acosta, Jangwoo Lee, Maria A Bautista, Srijak Bhatnagar, Carmen Li, Barbara J Waddell, Emily Au, Puja Pradhan, Rhonda G Clark, Jon Meddings, Gopal Achari, Johann D Pitout, John Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
+        "url": "https://journals.asm.org/doi/abs/10.1128/mbio.01672-25",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "-f6ydRqryjwC": {
         "title": "Complete genome sequences of nine isolates from microplastics in the Bow River, Calgary, Canada",
         "year": "2025/5/8",
@@ -19609,7 +19555,7 @@
   },
   "v9h5yVEAAAAJ": {
     "Name": "Art FY Poon",
-    "total_publications": "49",
+    "total_publications": "50",
     "publications": {
       "evX43VCCuoAC": {
         "title": "An Application of the Modifiable Areal Unit Problem: Optimizing Cluster Method Parameters to Produce Predictive Data for HIV Outbreaks",
@@ -19617,6 +19563,15 @@
         "publisher": "Unknown",
         "author": "Connor J Chato, Art FY Poon",
         "url": "https://uwo.scholaris.ca/items/3151a2c8-a6d7-44c9-ae98-4580816b164c",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "2KloaMYe4IUC": {
+        "title": "Phylogenetic estimates of HIV-1 gp120 indel rates across the group M subtypes",
+        "year": "2025/6/19",
+        "publisher": "Unknown",
+        "author": "John Palmer, Art Poon",
+        "url": "https://scholar.google.com/scholar?cluster=3949419955882987009&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -26154,15 +26109,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "Nnq8S6OXqDYC": {
-        "title": "From fetus to 8: the CHILD Cohort Study",
-        "year": "2024/10/11",
-        "publisher": "American Journal of Epidemiology",
-        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
-        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "8p8iYwVyaVcC": {
         "title": "Mapping Neighborhood-Level Drivers of Type 2 Diabetes: A Predictive-Causal Approach for Precision Public Health",
         "year": "2025/6/6",
@@ -26295,6 +26241,15 @@
         "publisher": "Translational psychiatry",
         "author": "Sarina Abrishamcar, Beryl C Zhuang, Mara Thomas, Nicole Gladish, Julia L MacIsaac, Meaghan J Jones, Elinor Simons, Theo J Moraes, Piush J Mandhane, Jeffrey R Brook, Padmaja Subbarao, Stuart E Turvey, Edith Chen, Gregory E Miller, Michael S Kobor, Anke H\u00fcls",
         "url": "https://www.nature.com/articles/s41398-024-03148-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "Nnq8S6OXqDYC": {
+        "title": "From fetus to 8: the CHILD Cohort Study",
+        "year": "2024/10/11",
+        "publisher": "American Journal of Epidemiology",
+        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
+        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -27537,15 +27492,6 @@
     "Name": "Sarah Otto",
     "total_publications": "99",
     "publications": {
-      "W5d1EEiaRJMC": {
-        "title": "F ST between haploids and diploids in species with discrete ploidy phases",
-        "year": "2024/9/4",
-        "publisher": "Journal of Evolutionary Biology",
-        "author": "Kazuhiro Bessho, Sarah P Otto",
-        "url": "https://academic.oup.com/jeb/advance-article-abstract/doi/10.1093/jeb/voae104/7749046",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "xIQbs6uk08UC": {
         "title": "The maintenance of genetic polymorphism in sexually antagonistic traits",
         "year": "2023/10/11",
@@ -27616,6 +27562,15 @@
         "author": "Nicholas H Ogden, Emily S Acheson, Kevin Brown, David Champredon, Caroline Colijn, Alan Diener, Jonathan Dushoff, David JD Earn, Vanessa Gabriele-Rivet, Marcellin Gangb\u00e8, Steve Guillouzic, Deirdre Hennessy, Valerie Hongoh, Amy Hurford, Lisa Kanary, Michael Li, Victoria Ng, Sarah P Otto, Irena Papst, Erin E Rees, Ashleigh Tuite, Matthew R MacLeod, Carmen Lia Murall, Lisa Waddell, Rania Wasfi, Michael Wolfson",
         "url": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2024-50/issue-10-october-2024/mathematical-modelling-pandemic-preparedness.html",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "W5d1EEiaRJMC": {
+        "title": "F ST between haploids and diploids in species with discrete ploidy phases",
+        "year": "2024/9/4",
+        "publisher": "Journal of Evolutionary Biology",
+        "author": "Kazuhiro Bessho, Sarah P Otto",
+        "url": "https://academic.oup.com/jeb/advance-article-abstract/doi/10.1093/jeb/voae104/7749046",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "zvUQpHOXRJ8C": {
