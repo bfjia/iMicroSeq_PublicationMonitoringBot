@@ -939,6 +939,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "PR6Y55bgFSsC": {
+        "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
+        "year": "2025/7/7",
+        "publisher": "American Chemical Society (ACS)",
+        "author": "Md Pervez Kabir,Julio Plaza-Diaz,\u00c9lisabeth Mercier,Patrick M. D\u2019Aoust,Lawrence Goodridge,Opeyemi U. Lawal,Shen Wan,Nada Hegazy,Tram Nguyen,Chandler Wong,Felix Addo,Elizabeth Renouf,Tyson E. Graber,Robert Delatolla",
+        "url": "https://doi.org/10.1021/acsestwater.5c00142",
+        "firstOrLast": true,
+        "datasource": "CrossRef"
+      },
       "1yQoGdGgb4wC": {
         "title": "Passive sampling for genomic surveillance of SARS-CoV-2 in wastewater resource recovery facility: Insights for pandemic preparedness",
         "year": "2025/6/22",
@@ -1028,15 +1037,6 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11777897/",
         "firstOrLast": true,
         "datasource": "Scholars"
-      },
-      "PR6Y55bgFSsC": {
-        "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
-        "year": "2025/7/7",
-        "publisher": "American Chemical Society (ACS)",
-        "author": "Md Pervez Kabir,Julio Plaza-Diaz,\u00c9lisabeth Mercier,Patrick M. D\u2019Aoust,Lawrence Goodridge,Opeyemi U. Lawal,Shen Wan,Nada Hegazy,Tram Nguyen,Chandler Wong,Felix Addo,Elizabeth Renouf,Tyson E. Graber,Robert Delatolla",
-        "url": "https://doi.org/10.1021/acsestwater.5c00142",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
       },
       "N5tVd3kTz84C": {
         "title": "\u2013COVID-19 Wastewater-Based Epidemiology in Rural Communities: Comparison of Lagoon and Pumping Station Samples",
@@ -2607,6 +2607,15 @@
     "Name": "Lawrence Goodridge",
     "total_publications": "97",
     "publications": {
+      "b1wdh0AR-JQC": {
+        "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
+        "year": "2025/7/7",
+        "publisher": "American Chemical Society (ACS)",
+        "author": "Md Pervez Kabir,Julio Plaza-Diaz,\u00c9lisabeth Mercier,Patrick M. D\u2019Aoust,Lawrence Goodridge,Opeyemi U. Lawal,Shen Wan,Nada Hegazy,Tram Nguyen,Chandler Wong,Felix Addo,Elizabeth Renouf,Tyson E. Graber,Robert Delatolla",
+        "url": "https://doi.org/10.1021/acsestwater.5c00142",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      },
       "kuK5TVdYjLIC": {
         "title": "Draft genome sequences of multiple Salmonella enterica serotypes isolated from eight different animals in Nigeria",
         "year": "2025/7/2",
@@ -2714,15 +2723,6 @@
         "url": "https://genomicpress.kglmeridian.com/view/journals/genpsych/aop/article-10.61373-gp025p.0008/article-10.61373-gp025p.0008.xml",
         "firstOrLast": true,
         "datasource": "Scholars"
-      },
-      "b1wdh0AR-JQC": {
-        "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
-        "year": "2025/7/7",
-        "publisher": "American Chemical Society (ACS)",
-        "author": "Md Pervez Kabir,Julio Plaza-Diaz,\u00c9lisabeth Mercier,Patrick M. D\u2019Aoust,Lawrence Goodridge,Opeyemi U. Lawal,Shen Wan,Nada Hegazy,Tram Nguyen,Chandler Wong,Felix Addo,Elizabeth Renouf,Tyson E. Graber,Robert Delatolla",
-        "url": "https://doi.org/10.1021/acsestwater.5c00142",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
       },
       "uJ-U7cs_P_0C": {
         "title": "Phylogenomics of novel clones of Aeromonas veronii recovered from a freshwater lake reveals unique biosynthetic gene clusters",
@@ -7347,6 +7347,15 @@
     "Name": "Guillaume Bourque",
     "total_publications": "100",
     "publications": {
+      "lIeuKFitLToC": {
+        "title": "REST/NRSF Preserves muscle stem cell identity by repressing alternate cell fate",
+        "year": "2025/8/12",
+        "publisher": "Nature Communications",
+        "author": "Korin Sahinyan, Darren M Blackburn, Marie-Michelle Simon, Felicia Lazure, Tony Kwan, David H Wilson, Maryam Vahidyeganeh, Nawal Alsadi, Julia von Maltzahn, Yasuhiro Yamada, Arezu Jahani-Asl, Guillaume Bourque, Michael A Rudnicki, Vahab D Soleimani",
+        "url": "https://www.nature.com/articles/s41467-025-62758-y",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "sK9NQJKSZRcC": {
         "title": "A phylogenetic approach uncovers cryptic endogenous retrovirus subfamilies in the primate lineage",
         "year": "2025/7/18",
@@ -8230,15 +8239,6 @@
         "datasource": "Scholars"
       },
       "pNwUjlbgJN8C": {
-        "title": "Publisher Correction: Single-cell analysis of childhood leukemia reveals a link between developmental states and ribosomal protein expression as a source of intra-individual \u2026",
-        "year": "2021/3/2",
-        "publisher": "Scientific Reports",
-        "author": "Maxime Caron, Pascal St-Onge, Thomas Sontag, Yu Chang Wang, Chantal Richer, Ioannis Ragoussis, Daniel Sinnett, Guillaume Bourque",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7925584/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "bsCEZ5n1K3cC": {
         "title": "Publisher Correction: Single-cell analysis of childhood leukemia reveals a link between developmental states and ribosomal protein expression as a source of intra-individual \u2026",
         "year": "2021/3/2",
         "publisher": "Scientific Reports",
@@ -17004,6 +17004,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "DrR-2ekChdkC": {
+        "title": "The germline DNA repair gene landscape in BRCA1 and BRCA2 implicated hereditary breast cancer families",
+        "year": "2025/6/26",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Wejdan M. Alenezi,Neil Recio,Caitlin T. Fierheller,Corinne Serruya,Timoth\u00e9e Revil,Anne-Marie Mes-Masson,Diane Provencher,Celia M.T. Greenwood,Jiannis Ragoussis,Patricia N. Tonin",
+        "url": "https://doi.org/10.1101/2025.06.24.25329575",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      },
       "TlpoogIpr_IC": {
         "title": "Fetal\u2010hemoglobin\u2010expressing red blood cells (\u201cF cells\u201d) consist of three distinct types as revealed by single\u2010cell transcriptomic analysis of circulating reticulocytes",
         "year": "2025/6/25",
@@ -17073,15 +17082,6 @@
         "publisher": "Cold Spring Harbor Laboratory",
         "author": "Delong Zhou,Heike Schuler,Vedrana Cvetkovska,Juliet Meccia,Ashot S. Harutyunyan,Jiannis Ragoussis,Rosemary C. Bagot",
         "url": "https://doi.org/10.1101/2025.01.08.631940",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      },
-      "DrR-2ekChdkC": {
-        "title": "The germline DNA repair gene landscape in BRCA1 and BRCA2 implicated hereditary breast cancer families",
-        "year": "2025/6/26",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Wejdan M. Alenezi,Neil Recio,Caitlin T. Fierheller,Corinne Serruya,Timoth\u00e9e Revil,Anne-Marie Mes-Masson,Diane Provencher,Celia M.T. Greenwood,Jiannis Ragoussis,Patricia N. Tonin",
-        "url": "https://doi.org/10.1101/2025.06.24.25329575",
         "firstOrLast": false,
         "datasource": "CrossRef"
       },
@@ -19555,26 +19555,8 @@
   },
   "v9h5yVEAAAAJ": {
     "Name": "Art FY Poon",
-    "total_publications": "50",
+    "total_publications": "48",
     "publications": {
-      "evX43VCCuoAC": {
-        "title": "An Application of the Modifiable Areal Unit Problem: Optimizing Cluster Method Parameters to Produce Predictive Data for HIV Outbreaks",
-        "year": "2025/6/19",
-        "publisher": "Unknown",
-        "author": "Connor J Chato, Art FY Poon",
-        "url": "https://uwo.scholaris.ca/items/3151a2c8-a6d7-44c9-ae98-4580816b164c",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "2KloaMYe4IUC": {
-        "title": "Phylogenetic estimates of HIV-1 gp120 indel rates across the group M subtypes",
-        "year": "2025/6/19",
-        "publisher": "Unknown",
-        "author": "John Palmer, Art Poon",
-        "url": "https://scholar.google.com/scholar?cluster=3949419955882987009&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "GtLg2Ama23sC": {
         "title": "Association between HIV-1 Nef-mediated MHC-I downregulation and the maintenance of the replication-competent latent viral reservoir in individuals with virally suppressed HIV-1 \u2026",
         "year": "2025/5/1",
@@ -28736,6 +28718,15 @@
     "Name": "Elizabeth M. Renouf",
     "total_publications": "15",
     "publications": {
+      "mVmsd5A6BfQC": {
+        "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
+        "year": "2025/7/7",
+        "publisher": "American Chemical Society (ACS)",
+        "author": "Md Pervez Kabir,Julio Plaza-Diaz,\u00c9lisabeth Mercier,Patrick M. D\u2019Aoust,Lawrence Goodridge,Opeyemi U. Lawal,Shen Wan,Nada Hegazy,Tram Nguyen,Chandler Wong,Felix Addo,Elizabeth Renouf,Tyson E. Graber,Robert Delatolla",
+        "url": "https://doi.org/10.1021/acsestwater.5c00142",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      },
       "Wp0gIr-vW9MC": {
         "title": "Passive sampling for genomic surveillance of SARS-CoV-2 in wastewater resource recovery facility: Insights for pandemic preparedness",
         "year": "2025/6/22",
@@ -28789,15 +28780,6 @@
         "url": "https://link.springer.com/article/10.1186/s12889-024-21031-5",
         "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "mVmsd5A6BfQC": {
-        "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
-        "year": "2025/7/7",
-        "publisher": "American Chemical Society (ACS)",
-        "author": "Md Pervez Kabir,Julio Plaza-Diaz,\u00c9lisabeth Mercier,Patrick M. D\u2019Aoust,Lawrence Goodridge,Opeyemi U. Lawal,Shen Wan,Nada Hegazy,Tram Nguyen,Chandler Wong,Felix Addo,Elizabeth Renouf,Tyson E. Graber,Robert Delatolla",
-        "url": "https://doi.org/10.1021/acsestwater.5c00142",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
       },
       "hqOjcs7Dif8C": {
         "title": "Sewer transport conditions and their role in the decay of endogenous SARS-CoV-2 and pepper mild mottle virus from source to collection",

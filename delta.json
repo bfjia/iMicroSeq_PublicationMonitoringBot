@@ -1,29 +1,14 @@
 {
-  "eRucyv4AAAAJ": {
-    "Name": "Srijak Bhatnagar",
+  "Et_RonIAAAAJ": {
+    "Name": "Guillaume Bourque",
     "total_new": "1",
     "publications": {
-      "R3hNpaxXUhUC": {
-        "title": "Metagenomic analysis after selective culture enrichment of hospital and community wastewater enhances antimicrobial resistance gene detection",
-        "year": "2025/7/31",
-        "publisher": "mBio",
-        "author": "Nicole Acosta, Jangwoo Lee, Maria A Bautista, Srijak Bhatnagar, Carmen Li, Barbara J Waddell, Emily Au, Puja Pradhan, Rhonda G Clark, Jon Meddings, Gopal Achari, Johann D Pitout, John Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
-        "url": "https://journals.asm.org/doi/abs/10.1128/mbio.01672-25",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "v9h5yVEAAAAJ": {
-    "Name": "Art FY Poon",
-    "total_new": "1",
-    "publications": {
-      "2KloaMYe4IUC": {
-        "title": "Phylogenetic estimates of HIV-1 gp120 indel rates across the group M subtypes",
-        "year": "2025/6/19",
-        "publisher": "Unknown",
-        "author": "John Palmer, Art Poon",
-        "url": "https://scholar.google.com/scholar?cluster=3949419955882987009&hl=en&oi=scholarr",
+      "lIeuKFitLToC": {
+        "title": "REST/NRSF Preserves muscle stem cell identity by repressing alternate cell fate",
+        "year": "2025/8/12",
+        "publisher": "Nature Communications",
+        "author": "Korin Sahinyan, Darren M Blackburn, Marie-Michelle Simon, Felicia Lazure, Tony Kwan, David H Wilson, Maryam Vahidyeganeh, Nawal Alsadi, Julia von Maltzahn, Yasuhiro Yamada, Arezu Jahani-Asl, Guillaume Bourque, Michael A Rudnicki, Vahab D Soleimani",
+        "url": "https://www.nature.com/articles/s41467-025-62758-y",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
