@@ -5160,6 +5160,15 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
+      "oNZyr7d5Mn4C": {
+        "title": "Conserved Sequence Identification Within Large Genomic Datasets Using \u2018Unikseq2\u2019: Application in Environmental DNA Assay Development",
+        "year": "2025/7/11",
+        "publisher": "Wiley",
+        "author": "Mark Louie D. Lopez,Ren\u00e9 L. Warren,Michael J. Allison,Lauren Coombe,Jacob J. Imbery,Inanc Birol,Caren C. Helbing",
+        "url": "https://doi.org/10.1111/1755-0998.70014",
+        "firstOrLast": true,
+        "datasource": "CrossRef"
+      },
       "-FonjvnnhkoC": {
         "title": "Sedimentary DNA Metabarcoding and Indigenous Knowledge Reconstruct Natural and Anthropogenic Disturbances to a Freshwater Lake in the Oil Sands Region of Alberta, Canada",
         "year": "2025/7",
@@ -5258,15 +5267,6 @@
         "url": "https://www.sciencedirect.com/science/article/pii/S1574954124005168",
         "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "oNZyr7d5Mn4C": {
-        "title": "Conserved Sequence Identification Within Large Genomic Datasets Using \u2018Unikseq2\u2019: Application in Environmental DNA Assay Development",
-        "year": "2025/7/11",
-        "publisher": "Wiley",
-        "author": "Mark Louie D. Lopez,Ren\u00e9 L. Warren,Michael J. Allison,Lauren Coombe,Jacob J. Imbery,Inanc Birol,Caren C. Helbing",
-        "url": "https://doi.org/10.1111/1755-0998.70014",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
       },
       "VaXvl8Fpj5cC": {
         "title": "Investigating the immunomodulatory ability of peptides targeting poultry pathogens",
@@ -15939,6 +15939,15 @@
     "Name": "Doug Manuel",
     "total_publications": "100",
     "publications": {
+      "66S1BDY1aroC": {
+        "title": "Correction: Derivation and validation of an algorithm to predict transitions from community to residential long-term care among persons with dementia\u2014A retrospective cohort study",
+        "year": "2025/8/13",
+        "publisher": "PLOS Digital Health",
+        "author": "Wenshan Li, Luke Turcotte, Amy T Hsu, Robert Talarico, Danial Qureshi, Colleen Webber, Steven Hawken, Peter Tanuseputro, Douglas G Manuel, Greg Huyer",
+        "url": "https://journals.plos.org/digitalhealth/article/file?id=10.1371/journal.pdig.0000987&type=printable",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "3eo-xq64HD0C": {
         "title": "Minimum Legal Age of Nonmedical Cannabis Purchase Laws and Cannabis-Related Hospitalizations in Canada, 2015 to 2022",
         "year": "2025/7",
@@ -16828,15 +16837,6 @@
         "author": "Doug Manuel, Carlo Alberto Amadei, Jonathon R Campbell, Jean-Martin Brault, Jeremy Veillard",
         "url": "https://www.sidalc.net/search/Record/dig-okr-1098636852/Description",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "VETmZaymeusC": {
-        "title": "Real world evidence of the association between medication and life expectancy in elderly inflammatory bowel disease: a population-based cohort study",
-        "year": "2022/12",
-        "publisher": "BMC gastroenterology",
-        "author": "M Ellen Kuenzig, Douglas G Manuel, Jessy Donelle, Eric I Benchimol",
-        "url": "https://link.springer.com/article/10.1186/s12876-021-02083-y",
-        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
