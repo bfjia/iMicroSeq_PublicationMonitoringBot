@@ -1,1 +1,47 @@
-{}
+{
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "bzhzIcV5SW4C": {
+        "title": "Instant Insights: Improving the sustainability of dairy production",
+        "year": "2024/9/24",
+        "publisher": "B",
+        "author": "Sophie Bertrand, J Upton, E Murphy, Laurence Shalloo, M Murphy, IJM De Boer, Peter Groot Koerkamp, Stephanie A Terry, Carlos M Romero, Alex V Chaves, Tim McAllister, Elie Jami, Itzhak Mizrahi, Jack B Hetherington, Pablo Juliano, Rodolfo Garcia-Flores",
+        "url": "https://books.google.com/books?hl=en&lr=&id=iq15EQAAQBAJ&oi=fnd&pg=PA1983&dq=info:uoOEu0gwZdEJ:scholar.google.com&ots=nDTj-qaD-m&sig=ePA2jXRCvx2NvXPxJmtfZBk-VFY",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "mhN0cZoAAAAJ": {
+    "Name": "Thea Van Rossum",
+    "total_new": "1",
+    "publications": {
+      "l7t_Zn2s7bgC": {
+        "title": "Metalog: curated and harmonised contextual data for global metagenomics samples",
+        "year": "2025/8/14",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Michael Kuhn,Thomas Sebastian B. Schmidt,Pamela Ferretti,Anna G\u0142azek,Mahdi Robbani,Wasiu Akanni,Anthony Fullam,Christian Schudoma,Ela Cetin,Mariam Hassan,Kasimir Noack,Anna Schwarz,Roman Thielemann,Leonie Thomas,Moritz von Stetten,Renato Alves,Anandhi Iyappan,Ece Kartal,Ivan Kel,Marisa I. Keller,Oleksandr Maistrenko,Anna Mankowski,Suguru Nishijima,Daniel Podlesny,Jonas Schiller,Sarah Schulz,Thea Van Rossum,Peer Bork",
+        "url": "https://doi.org/10.1101/2025.08.14.670324",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      }
+    }
+  },
+  "gTkdyfsAAAAJ": {
+    "Name": "Trevor Charles",
+    "total_new": "1",
+    "publications": {
+      "vxVQT5kDUaMC": {
+        "title": "Metabolic insight into the role of microbial interplay in conferring drought stress tolerance in black cumin (Nigella sativa L.)",
+        "year": "2025/10",
+        "publisher": "Planta",
+        "author": "Mozhgan Sepehri, Trevor C Charles, Behnam Khatabi",
+        "url": "https://link.springer.com/article/10.1007/s00425-025-04801-2",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
