@@ -8901,6 +8901,15 @@
     "Name": "Casey Hubert",
     "total_publications": "100",
     "publications": {
+      "86PQX7AUzd4C": {
+        "title": "Microbial Lipidomics of Cold Seeps Linked to Deep Basin Salt Movement",
+        "year": "2025/9/7",
+        "publisher": "E",
+        "author": "U Umoh, N Ahangarian, G Oueslati, A Chowdhury, E Redshaw, N MacAdam, A MacDonald, M Fowler, R Bennett, P Granados, C Hubert, J Bentley, GT Ventura",
+        "url": "https://www.earthdoc.org/content/papers/10.3997/2214-4609.202533201",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "PVjk1bu6vJQC": {
         "title": "Metagenomic analysis after selective culture enrichment of hospital and community wastewater enhances antimicrobial resistance gene detection",
         "year": "2025/7/31",
@@ -9790,15 +9799,6 @@
         "author": "Durell S Desmond, Diana Saltymakova, Alastair Smith, Teresinha Wolfe, Nolan Snyder, Katarzyna Polcwiartek, Mar\u00eda Bautista, Marcos Lemes, Casey RJ Hubert, David G Barber, Dustin Isleifson, Gary A Stern",
         "url": "https://www.sciencedirect.com/science/article/pii/S0025326X21001880",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "KxtntwgDAa4C": {
-        "title": "Characterization of marine microbial communities around an Arctic seabed hydrocarbon seep at Scott Inlet, Baffin Bay",
-        "year": "2021/3/25",
-        "publisher": "Science of The Total Environment",
-        "author": "Margaret A Cramm, B\u00e1rbara de Moura Neves, Cara CM Manning, Thomas BP Oldenburg, Philippe Archambault, Anirban Chakraborty, Annie Cyr-Parent, Evan N Edinger, Aprami Jaggi, Andrew Mort, Philippe Tortell, Casey RJ Hubert",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0048969720374921",
-        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
@@ -20653,8 +20653,17 @@
   },
   "ypKzJAUAAAAJ": {
     "Name": "Christopher T. DeGroot",
-    "total_publications": "32",
+    "total_publications": "33",
     "publications": {
+      "uLbwQdceFCQC": {
+        "title": "Survival and transmission fitness of SARS-CoV-2 over the time-of-flight in an aerosolization chamber",
+        "year": "2025/8/18",
+        "publisher": "npj Viruses",
+        "author": "Yiying Zhang, Justin M Donovan, Dylan W Weninger, Victor Lam, Richard Gibson, Steven Renaud, Daniel Paquette, Alex Lescanec, Cody Hird, Christopher T DeGroot, Jessica L Prodger, Franco Berruti, Eric Savory, Eric J Arts",
+        "url": "https://www.nature.com/articles/s44298-025-00143-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "dQ2og3OwTAUC": {
         "title": "Spatiotemporal structure of SARS-CoV-2 mutational frequencies in wastewater samples from Ontario",
         "year": "2025/4/25",

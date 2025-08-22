@@ -1,14 +1,29 @@
 {
-  "U3rqorsAAAAJ": {
-    "Name": "Doug Manuel",
+  "iQjUDPYAAAAJ": {
+    "Name": "Casey Hubert",
     "total_new": "1",
     "publications": {
-      "oFWWKr2Zb18C": {
-        "title": "Prevalence and predictors of potentially inappropriate prescribing using codified STOPP-START and Beers criteria: a retrospective cohort study in Ontario\u2019s older population",
-        "year": "2025/8/16",
-        "publisher": "Journal of Clinical Epidemiology",
-        "author": "Lise M Bjerre, Christina Catley, Glenys Smith, Roland Halil, Timothy Ramsay, Catriona Cahir, Crist\u00edn Ryan, Barbara Farrell, Kednapa Thavorn, Steven Hawken, Ulrika Gillespie, Douglas G Manuel, Kasim E Abdulaziz",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0895435625002653",
+      "86PQX7AUzd4C": {
+        "title": "Microbial Lipidomics of Cold Seeps Linked to Deep Basin Salt Movement",
+        "year": "2025/9/7",
+        "publisher": "E",
+        "author": "U Umoh, N Ahangarian, G Oueslati, A Chowdhury, E Redshaw, N MacAdam, A MacDonald, M Fowler, R Bennett, P Granados, C Hubert, J Bentley, GT Ventura",
+        "url": "https://www.earthdoc.org/content/papers/10.3997/2214-4609.202533201",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "ypKzJAUAAAAJ": {
+    "Name": "Christopher T. DeGroot",
+    "total_new": "1",
+    "publications": {
+      "uLbwQdceFCQC": {
+        "title": "Survival and transmission fitness of SARS-CoV-2 over the time-of-flight in an aerosolization chamber",
+        "year": "2025/8/18",
+        "publisher": "npj Viruses",
+        "author": "Yiying Zhang, Justin M Donovan, Dylan W Weninger, Victor Lam, Richard Gibson, Steven Renaud, Daniel Paquette, Alex Lescanec, Cody Hird, Christopher T DeGroot, Jessica L Prodger, Franco Berruti, Eric Savory, Eric J Arts",
+        "url": "https://www.nature.com/articles/s44298-025-00143-8",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
