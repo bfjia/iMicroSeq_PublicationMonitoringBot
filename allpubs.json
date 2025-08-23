@@ -6583,8 +6583,17 @@
   },
   "zI9NSLcAAAAJ": {
     "Name": "Andrew G. McArthur",
-    "total_publications": "60",
+    "total_publications": "61",
     "publications": {
+      "2KloaMYe4IUC": {
+        "title": "Molecular Epidemiology of Clinical Infections Caused by Serratia marcescens Complex in a Tertiary Care Hospital System: Insights From Whole-Genome \u2026",
+        "year": "2025/8/19",
+        "publisher": "The Journal of Infectious Diseases",
+        "author": "Adam S Komorowski, Michael G Surette, Laura Rossi, Dominique Tertigas, Mark Gaskin, Shahrokh Shekarriz, Andrew G McArthur, Marek Smieja, Dominik Mertz",
+        "url": "https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiaf392/8234401",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "ZfRJV9d4-WMC": {
         "title": "Early innate immune response and evolution of a SARS-CoV-2 furin cleavage site inactive variant in bat cells",
         "year": "2025/7/22",
@@ -11661,6 +11670,15 @@
     "Name": "Herman W. Barkema",
     "total_publications": "100",
     "publications": {
+      "1Aeql8wG3wEC": {
+        "title": "Early-life shedding and environmental presence of Mycobacterium avium ssp. paratuberculosis in Chilean dairy calves",
+        "year": "2025/8/20",
+        "publisher": "Journal of Dairy Science",
+        "author": "Jos\u00e9 M Hern\u00e1ndez-Agudelo, Crist\u00f3bal Verdugo, Herman W Barkema, Pamela Steuer, Carlos Tejeda, Fernando Ulloa, Juan P Soto, Miguel A Salgado",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022030225006897",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "Lo8V22OuN40C": {
         "title": "Evaluation of Staphylococcus simulans inhibition of Staphylococcus aureus infection by an in vivo murine mastitis model",
         "year": "2025/8/4",
@@ -12549,15 +12567,6 @@
         "publisher": "Frontiers in Veterinary Science",
         "author": "Mariana Fonseca, Luke C Heider, David L\u00e9ger, J Trenton Mcclure, Daniella Rizzo, Simon Dufour, David F Kelton, David Renaud, Herman W Barkema, Javier Sanchez",
         "url": "https://www.frontiersin.org/articles/10.3389/fvets.2021.799622/full",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "sJK75vZXtG0C": {
-        "title": "Multi-omics integration and network analysis reveal potential hub genes and genetic mechanisms regulating bovine mastitis",
-        "year": "2022/1/11",
-        "publisher": "Current Issues in Molecular Biology",
-        "author": "Masoumeh Naserkheil, Farzad Ghafouri, Sonia Zakizadeh, Nasrollah Pirany, Zeinab Manzari, Sholeh Ghorbani, Mohammad Hossein Banabazi, Mohammad Reza Bakhtiarizadeh, Md Amdadul Huq, Mi Na Park, Herman W Barkema, Deukmin Lee, Kwan-Sik Min",
-        "url": "https://www.mdpi.com/1467-3045/44/1/23",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
