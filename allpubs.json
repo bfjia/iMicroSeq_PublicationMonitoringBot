@@ -1710,6 +1710,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "Ak0FvsSvgGUC": {
+        "title": "Hepatitis E virus seroprevalence is increased amongst pancreatic insufficient adults with cystic fibrosis\u2013A single centre study",
+        "year": "2025/8/20",
+        "publisher": "Journal of Cystic Fibrosis",
+        "author": "Barbara J Waddell, Christina S Thornton, Yasaman Ghazi, Jiah Jang, Stephen Congly, Bradley S Quon, Michael D Parkins",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40841296/",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "Bg7qf7VwUHIC": {
         "title": "Metagenomic analysis after selective culture enrichment of hospital and community wastewater enhances antimicrobial resistance gene detection",
         "year": "2025/7/31",
@@ -2589,15 +2598,6 @@
         "publisher": "CCDR",
         "author": "John C Lam, Oscar E Larios, Michael D Parkins, Stephen D Vaughan",
         "url": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2020-46/issue-10-october-1-2020/tick-borne-fever-pregnancy.html",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "yB1At4FlUx8C": {
-        "title": "Un cas de fi\u00e8vre r\u00e9currente \u00e0 tiques pendant la grossesse",
-        "year": "2020/10/1",
-        "publisher": "RELEV\u00c9 DES MALADIES TRANSMISSIBLES AU CANADA",
-        "author": "John C Lam, Oscar E Larios, Michael D Parkins, Stephen D Vaughan",
-        "url": "https://scholar.google.com/scholar?cluster=5537695094067077922&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -8919,6 +8919,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "_axFR9aDTf0C": {
+        "title": "Predicting hydrocarbon presence in marine cold seep sediments using machine learning models trained with benthic bacterial 16S rRNA taxonomy",
+        "year": "2025/8/20",
+        "publisher": "Microbiology Spectrum",
+        "author": "Rohan Khan, Tulika Bhardwaj, Carmen Li, Anirban Chakraborty, Jos\u00e9 M Seoane, James M Brooks, Bernie B Bernard, Adam MacDonald, Natasha MacAdam, Calvin Campbell, Martin Fowler, Casey RJ Hubert",
+        "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.03033-24",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "PVjk1bu6vJQC": {
         "title": "Metagenomic analysis after selective culture enrichment of hospital and community wastewater enhances antimicrobial resistance gene detection",
         "year": "2025/7/31",
@@ -9798,15 +9807,6 @@
         "publisher": "FEMS Microbiology Ecology",
         "author": "Chuwen Zhang, Rainer U Meckenstock, Shengze Weng, Guangshan Wei, Casey RJ Hubert, Jiang-Hai Wang, Xiyang Dong",
         "url": "https://academic.oup.com/femsec/article-abstract/97/5/fiab045/6171024",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "u9iWguZQMMsC": {
-        "title": "Photooxidation and biodegradation potential of a light crude oil in first-year sea ice",
-        "year": "2021/4/1",
-        "publisher": "Marine Pollution Bulletin",
-        "author": "Durell S Desmond, Diana Saltymakova, Alastair Smith, Teresinha Wolfe, Nolan Snyder, Katarzyna Polcwiartek, Mar\u00eda Bautista, Marcos Lemes, Casey RJ Hubert, David G Barber, Dustin Isleifson, Gary A Stern",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0025326X21001880",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -15723,6 +15723,33 @@
     "Name": "Doug Manuel",
     "total_publications": "100",
     "publications": {
+      "DPnopAH2kssC": {
+        "title": "Unpaid Caregiver Characteristics Associated With Retirement From the Labor Force: A Matched Case-Control Study Using CLSA Data",
+        "year": "2025/10/1",
+        "publisher": "Journal of the American Medical Directors Association",
+        "author": "Derek R Manis, Wenshan Li, Reiko Okamoto, Stacey Fisher, Colleen Webber, Vanessa Taler, Douglas G Manuel, Amy T Hsu",
+        "url": "https://www.jamda.com/article/S1525-8610(25)00259-2/abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "ZjmTu7HDCaEC": {
+        "title": "Can Pictograms Help Older Adults to Assess Their Own Level of Functional Capacity? Using Human Centered Design Methods to Develop and Validate Pictograms for the Functional \u2026",
+        "year": "2025/9",
+        "publisher": "Proceedings of the International Symposium on Human Factors and Ergonomics in Health Care",
+        "author": "Lauren Tierney, Maya Murmann, Douglas G Manuel, Chantal Trudel, Carol Bennett, Heidi Sveistrup, Amy T Hsu",
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/2327857925141002",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "IxBLoz_EsGYC": {
+        "title": "Key features of programs that integrate informal care: Considerations for a people-integrated care system",
+        "year": "2025/8/19",
+        "publisher": "International Journal of Integrated Care",
+        "author": "Michelle Howard, Deborah Sattler, Doris Nessim, Njideka Sanya, Kathryn Pfaff, Christopher Klinger, Merrick Zwarenstein, Carolyn Steele Gray, Suzanne McMurphy, Doug Manuel, Lisa Dolovich",
+        "url": "https://ijic.org/en/articles/10.5334/ijic.NACIC24106",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "oFWWKr2Zb18C": {
         "title": "Prevalence and predictors of potentially inappropriate prescribing using codified STOPP-START and Beers criteria: a retrospective cohort study in Ontario\u2019s older population",
         "year": "2025/8/16",
@@ -16593,33 +16620,6 @@
         "publisher": "Unknown",
         "author": "Eric Arts, Stephen Brown, David Bulir, Trevor C Charles, Christopher T DeGroot, Robert Delatolla, J Desaulniers, Elizabeth A Edwards, Meghan Fuzzen, Kimberley Gilbride, Jodi Gilchrist, Lawrence Goodridge, Tyson E Graber, Marc Habash, Peter J\u00fcni, Andrea Kirkwood, James Knockleby, Christopher Kyle, Chrystal Landgraff, Chand Mangat, Douglas G Manuel, R Michael McKay, Edgard Mejia, Aleksandra Mloszewska, Banu Ormeci, Claire Oswald, Sarah Jane Payne, Hui Peng, Shelley Peterson, AF Poon, MR Servos, Denina Simmons, Jianxian Sun, Minqing Yang, Gustavo Ybazeta",
         "url": "https://europepmc.org/article/ppr/ppr468647",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "q93lAJlLO_MC": {
-        "title": "Comparison of mortality hazard ratios associated with health behaviours in Canada and the United States: a population-based linked health survey study",
-        "year": "2022/3/10",
-        "publisher": "BMC Public Health",
-        "author": "Stacey Fisher, Carol Bennett, Deirdre Hennessy, Philippe Fin\u00e8s, Mahsa Jessri, Anan Bader Eddeen, John Frank, Tony Robertson, Monica Taljaard, Laura C Rosella, Claudia Sanmartin, Prabhat Jha, Alastair Leyland, Douglas G Manuel",
-        "url": "https://link.springer.com/article/10.1186/s12889-022-12849-y",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "YZzzgH80nR8C": {
-        "title": "Use of rapid antigen tests during the omicron wave",
-        "year": "2022/2/10",
-        "publisher": "Science Briefs of the Ontario COVID-19 Science Advisory Table",
-        "author": "P J\u00fcni, S Baert, A Corbeil, J Johnstone, SN Patel, P Bobos",
-        "url": "https://covid19-sciencetable.ca/sciencebrief/use-of-rapid-antigen-tests-during-the-omicron-wave/download.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "bGhaNo82unsC": {
-        "title": "Deep ROC analysis and AUC as balanced average accuracy, for improved classifier selection, audit and explanation",
-        "year": "2022/1/25",
-        "publisher": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-        "author": "Andr\u00e9 M Carrington, Douglas G Manuel, Paul W Fieguth, Tim Ramsay, Venet Osmani, Bernhard Wernly, Carol Bennett, Steven Hawken, Olivia Magwood, Yusuf Sheikh, Matthew McInnes, Andreas Holzinger",
-        "url": "https://ieeexplore.ieee.org/abstract/document/9693294/",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -18435,6 +18435,15 @@
     "Name": "Marc-Andr\u00e9 Langlois",
     "total_publications": "100",
     "publications": {
+      "3BvdIg-l-ZAC": {
+        "title": "Comparative analysis of adaptive immunity to SARS-CoV-2 in infected children and adults",
+        "year": "2025/8/20",
+        "publisher": "Pediatric Research",
+        "author": "Sabryna Nantel, Corey Arnold, Maala Bhatt, Yannick Galipeau, Beno\u00eete Bourdin, Jennifer Bowes, Roger L Zemek, Marc-Andr\u00e9 Langlois, Caroline Quach, H\u00e9l\u00e8ne Decaluwe, Anne Pham-Huy",
+        "url": "https://www.nature.com/articles/s41390-025-04256-x",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "QKtdBID3u5MC": {
         "title": "Incremental immunogenicity of multiple doses of SARS-CoV-2 vaccination in patients with haematological malignancies",
         "year": "2025/8/1",
@@ -19323,15 +19332,6 @@
         "publisher": "Unknown",
         "author": "Xuyang Tang, Abha Sharma, Maria Pasic, Karen Colwill, Chaim Birnboim, Nico Nagelkerke, Isaac Bogoch, Craig Schultz, Leslie Newcombe, Justin Slater, Peter Rodriguez, Guowen Huang, Sze Hang Fu, Catherine Meh, Chee Nee Wu, Rupert Kaul, M Langlois, Ed Morawski, Andy Hollander, Demetre Eliopoulos, Benjamin Aloi, Teresa Lambe, Kento Abe, Lauren Caldwell, Miriam Barrios-Rodiles, Mahya Fazel-Zarandi, Ronald Weingust, Jenny Wang, Bhavisha Rathod, Divya Raman Santhanam, Eo Rin Cho, Kathleen Qu, Shreya Jha, Vedika Jha, Wilson Suraweera, Richard Wen, Samir Sinha, Angus Reid, A Gingras, Pranesh Chakraborty, Arthur S Slutsky, Prabhat Jha",
         "url": "https://europepmc.org/article/ppr/ppr273990",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "J3LtWjKFLicC": {
-        "title": "Quantitative analysis of SARS-CoV-2 RNA from wastewater solids in communities with low COVID-19 incidence and prevalence",
-        "year": "2021/1/1",
-        "publisher": "Water research",
-        "author": "Patrick M D'Aoust, Elisabeth Mercier, Danika Montpetit, Jian-Jun Jia, Ilya Alexandrov, Nafisa Neault, Aiman Tariq Baig, Janice Mayne, Xu Zhang, Tommy Alain, Marc-Andr\u00e9 Langlois, Mark R Servos, Malcolm MacKenzie, Daniel Figeys, Alex E MacKenzie, Tyson E Graber, Robert Delatolla",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0043135420310952",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
