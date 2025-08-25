@@ -3,15 +3,6 @@
     "Name": "Fiona Brinkman",
     "total_publications": "38",
     "publications": {
-      "sszUF3NjhM4C": {
-        "title": "From fetus to 8: the CHILD Cohort Study",
-        "year": "2024/10/11",
-        "publisher": "American Journal of Epidemiology",
-        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
-        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "kWvqk_afx_IC": {
         "title": "VIRUS-MVP: A framework for comprehensive surveillance of viral mutations and their functional impacts",
         "year": "2025/2/17",
@@ -37,6 +28,15 @@
         "author": "Erin E Gill, Baofeng Jia, Carmen Lia Murall, Rapha\u00ebl Poujol, Muhammad Zohaib Anwar, Nithu Sara John, Justin Richardsson, Ashley Hobb, Abayomi S Olabode, Alexandru Lepsa, Ana T Duggan, Andrea D Tyler, Arnaud N'Guessan, Atul Kachru, Brandon Chan, Catherine Yoshida, Christina K Yung, David Bujold, Dusan Andric, Edmund Su, Emma J Griffiths, Gary Van Domselaar, Gordon W Jolly, Heather KE Ward, Henrich Feher, Jared Baker, Jared T Simpson, Jaser Uddin, Jiannis Ragoussis, Jon Eubank, J\u00f6rg H Fritz, Jos\u00e9 H\u00e9ctor G\u00e1lvez, Karen Fang, Kim Cullion, Leonardo Rivera, Linda Xiang, Matthew A Croxen, Mitchell Shiell, Natalie Prystajecky, Pierre-Olivier Quirion, Rosita Bajari, Samantha Rich, Samira Mubareka, Sandrine Moreira, Scott Cain, Steven G Sutcliffe, Susanne A Kraemer, Yelizar Alturmessov, Yann Joly, CPHLN Consortium**, CanCOGeN Consortium**, VirusSeq Data Portal Academic and Health Network**, Marc Fiume, Terrance P Snutch, Cindy Bell, Catalina Lopez-Correa, Julie G Hussin, Jeffrey B Joy, Caroline Colijn, Paul MK Gordon, William WL Hsiao, Art FY Poon, Natalie C Knox, M\u00e9lanie Courtot, Lincoln Stein, Sarah P Otto, Guillaume Bourque, B Jesse Shapiro, Fiona SL Brinkman",
         "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001293",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "sszUF3NjhM4C": {
+        "title": "From fetus to 8: the CHILD Cohort Study",
+        "year": "2024/10/11",
+        "publisher": "American Journal of Epidemiology",
+        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
+        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "NDuN12AVoxsC": {
@@ -5809,8 +5809,17 @@
   },
   "RIjsxfIAAAAJ": {
     "Name": "Amina Stoddart",
-    "total_publications": "41",
+    "total_publications": "42",
     "publications": {
+      "WA5NYHcadZ8C": {
+        "title": "Investigation of process changes and microbial community dynamics to improve Ammonia removal in rotating biological contactors treating domestic and industrial wastewater",
+        "year": "2025/9/1",
+        "publisher": "Journal of Water Process Engineering",
+        "author": "Sarah Organ, Zachary Bishoff, Nicole McCormick, Hong Gu, Joseph Bielawski, Amina K Stoddart",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2214714425016162",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "t6usbXjVLHcC": {
         "title": "Nanoplastic mitigation technologies: challenges and sustainability considerations",
         "year": "2025/6/1",
@@ -16770,6 +16779,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "YsrPvlHIBpEC": {
+        "title": "A Benchmark of methods for SARS-CoV-2 whole genome sequencing and development of a more sensitive method",
+        "year": "2024/10/10",
+        "publisher": "medRxiv",
+        "author": "Anthony Bayega, Sarah J Reiling, Isabelle Dubuc, Annie Gravel, Louis Flamand, Jiannis Ragoussis",
+        "url": "https://www.medrxiv.org/content/10.1101/2024.10.09.24313595.abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "PkcyUWeTMh0C": {
         "title": "Concerted changes in Epithelium and Stroma: a multi-scale, multi-omics analysis of progression from Barrett\u2019s Esophagus to adenocarcinoma",
         "year": "2025/7/21",
@@ -16903,15 +16921,6 @@
         "author": "Erin E Gill, Baofeng Jia, Carmen Lia Murall, Rapha\u00ebl Poujol, Muhammad Zohaib Anwar, Nithu Sara John, Justin Richardsson, Ashley Hobb, Abayomi S Olabode, Alexandru Lepsa, Ana T Duggan, Andrea D Tyler, Arnaud N'Guessan, Atul Kachru, Brandon Chan, Catherine Yoshida, Christina K Yung, David Bujold, Dusan Andric, Edmund Su, Emma J Griffiths, Gary Van Domselaar, Gordon W Jolly, Heather KE Ward, Henrich Feher, Jared Baker, Jared T Simpson, Jaser Uddin, Jiannis Ragoussis, Jon Eubank, J\u00f6rg H Fritz, Jos\u00e9 H\u00e9ctor G\u00e1lvez, Karen Fang, Kim Cullion, Leonardo Rivera, Linda Xiang, Matthew A Croxen, Mitchell Shiell, Natalie Prystajecky, Pierre-Olivier Quirion, Rosita Bajari, Samantha Rich, Samira Mubareka, Sandrine Moreira, Scott Cain, Steven G Sutcliffe, Susanne A Kraemer, Yelizar Alturmessov, Yann Joly, CPHLN Consortium**, CanCOGeN Consortium**, VirusSeq Data Portal Academic and Health Network**, Marc Fiume, Terrance P Snutch, Cindy Bell, Catalina Lopez-Correa, Julie G Hussin, Jeffrey B Joy, Caroline Colijn, Paul MK Gordon, William WL Hsiao, Art FY Poon, Natalie C Knox, M\u00e9lanie Courtot, Lincoln Stein, Sarah P Otto, Guillaume Bourque, B Jesse Shapiro, Fiona SL Brinkman",
         "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001293",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "YsrPvlHIBpEC": {
-        "title": "A Benchmark of methods for SARS-CoV-2 whole genome sequencing and development of a more sensitive method",
-        "year": "2024/10/10",
-        "publisher": "medRxiv",
-        "author": "Anthony Bayega, Sarah J Reiling, Isabelle Dubuc, Annie Gravel, Louis Flamand, Jiannis Ragoussis",
-        "url": "https://www.medrxiv.org/content/10.1101/2024.10.09.24313595.abstract",
-        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "w0F2JDEymm0C": {
@@ -25893,15 +25902,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "Nnq8S6OXqDYC": {
-        "title": "From fetus to 8: the CHILD Cohort Study",
-        "year": "2024/10/11",
-        "publisher": "American Journal of Epidemiology",
-        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
-        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "8p8iYwVyaVcC": {
         "title": "Mapping Neighborhood-Level Drivers of Type 2 Diabetes: A Predictive-Causal Approach for Precision Public Health",
         "year": "2025/6/6",
@@ -26034,6 +26034,15 @@
         "publisher": "Translational psychiatry",
         "author": "Sarina Abrishamcar, Beryl C Zhuang, Mara Thomas, Nicole Gladish, Julia L MacIsaac, Meaghan J Jones, Elinor Simons, Theo J Moraes, Piush J Mandhane, Jeffrey R Brook, Padmaja Subbarao, Stuart E Turvey, Edith Chen, Gregory E Miller, Michael S Kobor, Anke H\u00fcls",
         "url": "https://www.nature.com/articles/s41398-024-03148-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "Nnq8S6OXqDYC": {
+        "title": "From fetus to 8: the CHILD Cohort Study",
+        "year": "2024/10/11",
+        "publisher": "American Journal of Epidemiology",
+        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
+        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -27276,15 +27285,6 @@
     "Name": "Sarah Otto",
     "total_publications": "99",
     "publications": {
-      "W5d1EEiaRJMC": {
-        "title": "F ST between haploids and diploids in species with discrete ploidy phases",
-        "year": "2024/9/4",
-        "publisher": "Journal of Evolutionary Biology",
-        "author": "Kazuhiro Bessho, Sarah P Otto",
-        "url": "https://academic.oup.com/jeb/advance-article-abstract/doi/10.1093/jeb/voae104/7749046",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "xIQbs6uk08UC": {
         "title": "The maintenance of genetic polymorphism in sexually antagonistic traits",
         "year": "2023/10/11",
@@ -27355,6 +27355,15 @@
         "author": "Nicholas H Ogden, Emily S Acheson, Kevin Brown, David Champredon, Caroline Colijn, Alan Diener, Jonathan Dushoff, David JD Earn, Vanessa Gabriele-Rivet, Marcellin Gangb\u00e8, Steve Guillouzic, Deirdre Hennessy, Valerie Hongoh, Amy Hurford, Lisa Kanary, Michael Li, Victoria Ng, Sarah P Otto, Irena Papst, Erin E Rees, Ashleigh Tuite, Matthew R MacLeod, Carmen Lia Murall, Lisa Waddell, Rania Wasfi, Michael Wolfson",
         "url": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2024-50/issue-10-october-2024/mathematical-modelling-pandemic-preparedness.html",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "W5d1EEiaRJMC": {
+        "title": "F ST between haploids and diploids in species with discrete ploidy phases",
+        "year": "2024/9/4",
+        "publisher": "Journal of Evolutionary Biology",
+        "author": "Kazuhiro Bessho, Sarah P Otto",
+        "url": "https://academic.oup.com/jeb/advance-article-abstract/doi/10.1093/jeb/voae104/7749046",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "zvUQpHOXRJ8C": {

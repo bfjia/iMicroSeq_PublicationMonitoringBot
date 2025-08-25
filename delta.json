@@ -1,78 +1,15 @@
 {
-  "O3Kin-IAAAAJ": {
-    "Name": "Michael Parkins",
+  "RIjsxfIAAAAJ": {
+    "Name": "Amina Stoddart",
     "total_new": "1",
     "publications": {
-      "Ak0FvsSvgGUC": {
-        "title": "Hepatitis E virus seroprevalence is increased amongst pancreatic insufficient adults with cystic fibrosis\u2013A single centre study",
-        "year": "2025/8/20",
-        "publisher": "Journal of Cystic Fibrosis",
-        "author": "Barbara J Waddell, Christina S Thornton, Yasaman Ghazi, Jiah Jang, Stephen Congly, Bradley S Quon, Michael D Parkins",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40841296/",
+      "WA5NYHcadZ8C": {
+        "title": "Investigation of process changes and microbial community dynamics to improve Ammonia removal in rotating biological contactors treating domestic and industrial wastewater",
+        "year": "2025/9/1",
+        "publisher": "Journal of Water Process Engineering",
+        "author": "Sarah Organ, Zachary Bishoff, Nicole McCormick, Hong Gu, Joseph Bielawski, Amina K Stoddart",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2214714425016162",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "iQjUDPYAAAAJ": {
-    "Name": "Casey Hubert",
-    "total_new": "1",
-    "publications": {
-      "_axFR9aDTf0C": {
-        "title": "Predicting hydrocarbon presence in marine cold seep sediments using machine learning models trained with benthic bacterial 16S rRNA taxonomy",
-        "year": "2025/8/20",
-        "publisher": "Microbiology Spectrum",
-        "author": "Rohan Khan, Tulika Bhardwaj, Carmen Li, Anirban Chakraborty, Jos\u00e9 M Seoane, James M Brooks, Bernie B Bernard, Adam MacDonald, Natasha MacAdam, Calvin Campbell, Martin Fowler, Casey RJ Hubert",
-        "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.03033-24",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "U3rqorsAAAAJ": {
-    "Name": "Doug Manuel",
-    "total_new": "3",
-    "publications": {
-      "DPnopAH2kssC": {
-        "title": "Unpaid Caregiver Characteristics Associated With Retirement From the Labor Force: A Matched Case-Control Study Using CLSA Data",
-        "year": "2025/10/1",
-        "publisher": "Journal of the American Medical Directors Association",
-        "author": "Derek R Manis, Wenshan Li, Reiko Okamoto, Stacey Fisher, Colleen Webber, Vanessa Taler, Douglas G Manuel, Amy T Hsu",
-        "url": "https://www.jamda.com/article/S1525-8610(25)00259-2/abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "ZjmTu7HDCaEC": {
-        "title": "Can Pictograms Help Older Adults to Assess Their Own Level of Functional Capacity? Using Human Centered Design Methods to Develop and Validate Pictograms for the Functional \u2026",
-        "year": "2025/9",
-        "publisher": "Proceedings of the International Symposium on Human Factors and Ergonomics in Health Care",
-        "author": "Lauren Tierney, Maya Murmann, Douglas G Manuel, Chantal Trudel, Carol Bennett, Heidi Sveistrup, Amy T Hsu",
-        "url": "https://journals.sagepub.com/doi/abs/10.1177/2327857925141002",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "IxBLoz_EsGYC": {
-        "title": "Key features of programs that integrate informal care: Considerations for a people-integrated care system",
-        "year": "2025/8/19",
-        "publisher": "International Journal of Integrated Care",
-        "author": "Michelle Howard, Deborah Sattler, Doris Nessim, Njideka Sanya, Kathryn Pfaff, Christopher Klinger, Merrick Zwarenstein, Carolyn Steele Gray, Suzanne McMurphy, Doug Manuel, Lisa Dolovich",
-        "url": "https://ijic.org/en/articles/10.5334/ijic.NACIC24106",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "28A7wWkAAAAJ": {
-    "Name": "Marc-Andr\u00e9 Langlois",
-    "total_new": "1",
-    "publications": {
-      "3BvdIg-l-ZAC": {
-        "title": "Comparative analysis of adaptive immunity to SARS-CoV-2 in infected children and adults",
-        "year": "2025/8/20",
-        "publisher": "Pediatric Research",
-        "author": "Sabryna Nantel, Corey Arnold, Maala Bhatt, Yannick Galipeau, Beno\u00eete Bourdin, Jennifer Bowes, Roger L Zemek, Marc-Andr\u00e9 Langlois, Caroline Quach, H\u00e9l\u00e8ne Decaluwe, Anne Pham-Huy",
-        "url": "https://www.nature.com/articles/s41390-025-04256-x",
-        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
