@@ -5809,7 +5809,7 @@
   },
   "RIjsxfIAAAAJ": {
     "Name": "Amina Stoddart",
-    "total_publications": "42",
+    "total_publications": "43",
     "publications": {
       "WA5NYHcadZ8C": {
         "title": "Investigation of process changes and microbial community dynamics to improve Ammonia removal in rotating biological contactors treating domestic and industrial wastewater",
@@ -5818,6 +5818,15 @@
         "author": "Sarah Organ, Zachary Bishoff, Nicole McCormick, Hong Gu, Joseph Bielawski, Amina K Stoddart",
         "url": "https://www.sciencedirect.com/science/article/pii/S2214714425016162",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "Mojj43d5GZwC": {
+        "title": "Impact of material properties for improved Pseudomonas aeruginosa biofilm inactivation with 280 nm UV LEDs",
+        "year": "2025/8/23",
+        "publisher": "Scientific Reports",
+        "author": "Toni J Mullin, Sean A MacIsaac, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://www.nature.com/articles/s41598-025-15192-5",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "t6usbXjVLHcC": {
@@ -10155,6 +10164,15 @@
     "Name": "Graham Gagnon",
     "total_publications": "100",
     "publications": {
+      "wE-fMHVdjMkC": {
+        "title": "Impact of material properties for improved Pseudomonas aeruginosa biofilm inactivation with 280 nm UV LEDs",
+        "year": "2025/8/23",
+        "publisher": "Scientific Reports",
+        "author": "Toni J Mullin, Sean A MacIsaac, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://www.nature.com/articles/s41598-025-15192-5",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "X9ykpCP0fEIC": {
         "title": "Detection of Avian Influenza Virus in Surface Waters Using Passive Samplers",
         "year": "2025/6/5",
@@ -11045,15 +11063,6 @@
         "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.9b04691",
         "firstOrLast": true,
         "datasource": "Scholars"
-      },
-      "otzGkya1bYkC": {
-        "title": "Characterization of a commercially-available, low-pressure UV lamp as a disinfection system for decontamination of common nosocomial pathogens on N95 filtering facepiece \u2026",
-        "year": "2025/2/21",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "C. Carolina Ontiveros,Crystal L. Sweeney,Chris Smith,Sean MacIsaac,Sebastian Munoz,Ross Davidson,Craig McCormick,Nikhil Thomas,Ian Davis,Amina K. Stoddart,Graham A. Gagnon",
-        "url": "https://doi.org/10.1039/d0ew00404a",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
       }
     }
   },
@@ -24897,397 +24906,9 @@
     }
   },
   "BPjrrI4AAAAJ": {
-    "Name": "Melissa L Perreault",
-    "total_publications": "43",
-    "publications": {
-      "4OULZ7Gr8RgC": {
-        "title": "Unveiling the role of erinacines in the neuroprotective effects of Hericium erinaceus: a systematic review in preclinical models",
-        "year": "2025/6/23",
-        "publisher": "F",
-        "author": "Evan Spangenberg, Alivia Moneypenny, Gale Bozzo, Melissa L Perreault",
-        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1582081/abstract",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "fPk4N6BV_jEC": {
-        "title": "Indigenous representation in neuroscience scholarship, teaching and care",
-        "year": "2025/5/16",
-        "publisher": "N",
-        "author": "Melissa L Perreault, Rudi Taylor-Bragge, Herv\u00e9 Chneiweiss, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
-        "url": "https://www.nature.com/articles/s41583-025-00933-2",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "ZHo1McVdvXMC": {
-        "title": "Melissa Perreault: Thinking big towards a \u201ccomplexity science\u201d approach in neuroscience\u2013systems, environment, and whole organism research",
-        "year": "2025/3/4",
-        "publisher": "Genomic Psychiatry",
-        "author": "Melissa Perreault",
-        "url": "https://genomicpress.kglmeridian.com/view/journals/genpsych/1/3/article-p6.xml",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "3s1wT3WcHBgC": {
-        "title": "Indigenous data protection in wastewater surveillance: balancing public health monitoring with privacy rights",
-        "year": "2025/2/25",
-        "publisher": "Genomic Psychiatry",
-        "author": "Melissa L Perreault, Lawrence D Goodridge",
-        "url": "https://genomicpress.kglmeridian.com/view/journals/genpsych/aop/article-10.61373-gp025p.0008/article-10.61373-gp025p.0008.xml",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "SeFeTyx0c_EC": {
-        "title": "Two-Eyed Seeing and other Indigenous perspectives for neuroscience",
-        "year": "2025/2/6",
-        "publisher": "N",
-        "author": "J Illes, ML Perreault, K Bassil, JG Bjaalie, RL Taylor-Bragge, H Chneiweiss, TR Gregory, BN Kumar, OP Matshabane, AL Svalastog, MR Velarde",
-        "url": "https://www.nature.com/articles/s41586-024-08437-2",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "HoB7MX3m0LUC": {
-        "title": "Prenatal exposure to valproic acid induces sex-specific alterations in rat cortical and hippocampal neuronal structure and function in vitro",
-        "year": "2025/1/10",
-        "publisher": "Progress in Neuro-Psychopharmacology and Biological Psychiatry",
-        "author": "Olivia OF Williams, Madeleine Coppolino, Cecilia B Micelli, Ryan T McCallum, Paula T Henry-Duru, Joshua D Manduca, Jasmin Lalonde, Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0278584624002902",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "u_35RYKgDlwC": {
-        "title": "Indigenous epistemologies, Two-Eyed Seeing, and the philosophy, practice, and applications of brain sciences",
-        "year": "2025/4/3",
-        "publisher": "A",
-        "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre McLachlan, Michael Yellow Bird, Melissa L Perreault",
-        "url": "https://scholar.google.com/scholar?cluster=1648153602223541821&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "zA6iFVUQeVQC": {
-        "title": "Authenticity in capacity-building for neuroscience: Indigenous scholarship, teaching, and care",
-        "year": "2025/2/27",
-        "publisher": "A",
-        "author": "Melissa L Perreault, Rudi Taylor-Bragge, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
-        "url": "https://www.sciencedirect.com/science/article/abs/pii/S2589295925000037",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "rO6llkc54NcC": {
-        "title": "THE CANNABIS FLAVENOIDS CANNFLAVIN A AND B EXHIBIT THERAPEUTIC PROPERTIES IN A RODENT MODEL SYSTEM OF AUTISM SPECTRUM DISORDERS",
-        "year": "2024/12/1",
-        "publisher": "S",
-        "author": "Olivia Williams, Joshua Manduca, Tariq Akhtar, Melissa Perreault",
-        "url": "https://scholar.google.com/scholar?cluster=7051216973587814208&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "pqnbT2bcN3wC": {
-        "title": "Prenatal exposure to valproic acid induces sex-specific alterations in cortical and hippocampal neuronal structure and function in rats",
-        "year": "2024/9/5",
-        "publisher": "bioRxiv",
-        "author": "Olivia OF Williams, Madeleine Coppolino, Cecilia B Micelli, Ryan T McCallum, Paula T Henry-Duru, Joshua D Manduca, Jasmin Lalonde, Melissa L Perreault",
-        "url": "https://www.biorxiv.org/content/10.1101/2024.09.03.611039.abstract",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "g5m5HwL7SMYC": {
-        "title": "Sex differences in neuronal oscillatory activity and memory in the methylazoxymethanol acetate model of schizophrenia",
-        "year": "2024/5/1",
-        "publisher": "Schizophrenia Research",
-        "author": "Abdalla M Albeely, Olivia OF Williams, Colin R Blight, Rachel-Karson Th\u00e9riault, Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0920996424001555",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "35N4QoGY0k4C": {
-        "title": "Opportunistically using a Chronic Unpredictable Stress study to investigate \u2018inactive-but-awake\u2019behaviour as a potential welfare indicator in laboratory rats",
-        "year": "2024/5/1",
-        "publisher": "Applied Animal Behaviour Science",
-        "author": "LE Young, RT McCallum, Melissa L Perreault, GJ Mason",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0168159124000972",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "ldfaerwXgEUC": {
-        "title": "Correction: Nrf2 activation rescues stress-induced depression-like behaviour and inflammatory responses in male but not female rats",
-        "year": "2024/4/3",
-        "publisher": "Biology of sex Differences",
-        "author": "Ryan T McCallum, Rachel-Karson Th\u00e9riault, Joshua D Manduca, Isaac SB Russell, Angel M Culmer, Janan Shoja Doost, Tami A Martino, Melissa L Perreault",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10988937/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "vV6vV6tmYwMC": {
-        "title": "Nrf2 activation rescues stress-induced depression-like behaviour and inflammatory responses in male but not female rats",
-        "year": "2024/2/13",
-        "publisher": "Biology of sex Differences",
-        "author": "Ryan T McCallum, Rachel-Karson Th\u00e9riault, Joshua D Manduca, Isaac SB Russell, Angel M Culmer, Janan Shoja Doost, Tami A Martino, Melissa L Perreault",
-        "url": "https://link.springer.com/article/10.1186/s13293-024-00589-0",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "70eg2SAEIzsC": {
-        "title": "Consideration of Research Approaches in Systems Neurobiology",
-        "year": "2024/1/1",
-        "publisher": "E",
-        "author": "Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2667174323001416",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "M05iB0D1s5AC": {
-        "title": "Sex Differences in Cortical Gene Expression Patterns During Development in a Model System of Autism Spectrum Disorders",
-        "year": "2023/12/1",
-        "publisher": "S",
-        "author": "Olivia Williams, Ryan McCallum, Melissa Perreault",
-        "url": "https://scholar.google.com/scholar?cluster=15083216735727646289&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "lSLTfruPkqcC": {
-        "title": "A journey with psychedelic mushrooms: From historical relevance to biology, cultivation, medicinal uses, biotechnology, and beyond",
-        "year": "2023/12/1",
-        "publisher": "E",
-        "author": "Marco Pepe, Mohsen Hesami, Karla A de la Cerda, Melissa L Perreault, Tom Hsiang, Andrew Maxwell Phineas Jones",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0734975023001544",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "NaGl4SEjCO4C": {
-        "title": "Bipolar disorder-iPSC derived neural progenitor cells exhibit dysregulation of store-operated Ca2+ entry and accelerated differentiation",
-        "year": "2023/12",
-        "publisher": "Molecular Psychiatry",
-        "author": "Tristen Hewitt, Beg\u00fcm Alural, Manali Tilak, Jennifer Wang, Natalina Becke, Ellis Chartley, Melissa Perreault, Stephen J Haggarty, Steven D Sheridan, Roy H Perlis, Nina Jones, Nikolaos Mellios, Jasmin Lalonde",
-        "url": "https://www.nature.com/articles/s41380-023-02152-6",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "J_g5lzvAfSwC": {
-        "title": "Recruitment and engagement of Indigenous peoples in brain-related health research",
-        "year": "2023/10",
-        "publisher": "S",
-        "author": "Miles Schaffrick, Melissa L Perreault, Louise Harding, Judy Illes",
-        "url": "https://link.springer.com/article/10.1007/s12152-023-09528-z",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "ns9cj8rnVeAC": {
-        "title": "Beyond the binary: Gender inclusivity in schizophrenia research",
-        "year": "2023/10/1",
-        "publisher": "E",
-        "author": "Caitlin J Nolan, Troy A Roepke, Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0006322323011691",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "RGFaLdJalmkC": {
-        "title": "Cortical dopamine D5 receptors regulate neuronal circuit oscillatory activity and memory in rats",
-        "year": "2023/9",
-        "publisher": "CNS Neuroscience & Therapeutics",
-        "author": "Abdalla M Albeely, Caitlin J Nolan, Duncan J Rasmussen, Craig DC Bailey, Melissa L Perreault",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cns.14210",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "RYcK_YlVTxYC": {
-        "title": "A simple, lightweight, and low-cost customizable multielectrode array for local field potential recordings",
-        "year": "2023/8/1",
-        "publisher": "ENeuro",
-        "author": "Richard Quansah Amissah, Abdalla M Albeely, Elise M Bragg, Melissa L Perreault, Wilder T Doucette, Jibran Y Khokhar",
-        "url": "https://www.eneuro.org/content/10/8/ENEURO.0212-23.2023.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "GnPB-g6toBAC": {
-        "title": "Understanding and Rebalancing: A Rapid Scoping Review of Cannabis Research Among Indigenous People",
-        "year": "2023/5/1",
-        "publisher": "M",
-        "author": "Miles Schaffrick, Melissa L Perreault, A Maxwell P Jones, Judy Illes",
-        "url": "https://www.liebertpub.com/doi/abs/10.1089/can.2022.0251",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "JV2RwH3_ST0C": {
-        "title": "An indigenous lens on priorities for the Canadian brain research strategy",
-        "year": "2023/1",
-        "publisher": "Canadian Journal of Neurological Sciences",
-        "author": "Melissa L Perreault, Malcolm King, Chelsea Gabel, Christopher J Mushquash, Yves De Koninck, Ashley Lawson, Caterina Marra, Caroline M\u00e9nard, Jennie Z Young, Judy Illes",
-        "url": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/an-indigenous-lens-on-priorities-for-the-canadian-brain-research-strategy/B4B4CBDEF6837D55FA31A3BDCC38DC23",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "O3NaXMp0MMsC": {
-        "title": "Sexual Dimorphisms in Neuronal Structure, Function, and Behavior in a Model System of Autism Spectrum Disorders",
-        "year": "2022/12/1",
-        "publisher": "S",
-        "author": "Olivia Williams, Madeleine Coppolino, Cecilia Micelli, Melissa Perreault",
-        "url": "https://scholar.google.com/scholar?cluster=16589148185487994658&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "j3f4tGmQtD8C": {
-        "title": "GSK-3\u03b2 disrupts neuronal oscillatory function to inhibit learning and memory in male rats",
-        "year": "2022/7",
-        "publisher": "Cellular and molecular neurobiology",
-        "author": "Abdalla M Albeely, Olivia OF Williams, Melissa L Perreault",
-        "url": "https://link.springer.com/article/10.1007/s10571-020-01020-z",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "BqipwSGYUEgC": {
-        "title": "Sex differences in dendritic morphology in the valproic acid (VPA) model of autism",
-        "year": "2022/6/2",
-        "publisher": "C",
-        "author": "Olivia OF Williams, Madeleine Coppolino, Cecilia B Micelli, Melissa L Perreault",
-        "url": "https://scholar.google.com/scholar?cluster=2411321918407443375&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "YFjsv_pBGBYC": {
-        "title": "The 43rd Annual Meeting of the Canadian College of Neuropsychopharmacology, November 4, 2021Role of histone 3.3 lysine 27 methylation in conferring enduring stress \u2026",
-        "year": "2022/6/2",
-        "publisher": "J",
-        "author": "Ang\u00e9lica Torres-Berr\u00edo, Sidney Yap, Danielle Baribeau, Ashraf Mahmud, Faranak Vahid-Ansari, Philip Vassilev, Giovanni Hernandez, Amanda Larosa, Adithi Sundarakrishnan, Kelly Perlman, Kayla D Stone, Shusheng Wang, Andrea H Pantoja Urban, Kazunari Yoshida, Maisha Iqbal, Kelly Smart, Leen Magarbeh, Sneha Chenji, Hajer E Algallal, Donovan M Ashby, Laurence Dion-Albert, Shankar Tumati, Clara Tapia, Jose Maria Restrepo, Anjali Chawla, Nada A Sallam, Thomas Lapointe, Rixing Lin, Travis Francis, Sri Mahavir Agarwal, Moushumi Nath, Orna Issler, Duncan Noble, Jasmine D Cakmak, Alice Morgunova, Min Zhang, Lani Cupo, Caitlin J Nolan, Agn\u00e8s Belkacem, Olivia OF Williams, Mikaela K Dimick, Olivier Percie du Sert, Allyson K Andrade, Caleb J Browne, Jonathan CW Liu, Nana Baidoo, Gareth M Rurak, Aarthi Ramakrishnan, Ang\u00e9lica Minier-Toribio, Eric M Parise, Freddyson J Mart\u00ednez-Rivera, Yentl Y van der Zee, Omar Sial, Benjamin Garc\u00eda, Kristian Helin, Simone Sidoli, Li Shen, Eric J Nestler, Jessica Luki, Christopher C Hanstock, Peter Seres, Tami Shandro, Sarah Hanstock, Alynna Lirette, Huaying Helen Zhaoa, Katherine J Aitchison, Jean-Michel Le Melledo, Evdokia Anagnostou, Cecilia Flores, Amin Zahrai, Mireille Daigle, Paul R Albert, Samuel Richer, Nicole Brown, Michel Giroux, Tanya Capolicchio, Katherina Estrada, Xiong Long, Tian Rui Zhang, Alice S Wong, Benjamin CM Fung, Tak Pan Wong, Paul Clarke, Rapha\u00ebl Chouinard-Watkins, Arnaud Tanti, Giulia Cisbani, Massimiliano Orri, Gustavo Turecki, Richard P Bazinet, Naguib Mechawar, Rose Swansburg, Frank P MacMaster, Karen M Barlow, Gina Dimitropoulos, Jennifer NK Nyarko, Maa O Quartey, Ryan M Heistad, Christopher P Phenix, Darrell D Mousseau, Amelie Mittermaier, Yona Lunsky, James L Kennedy, Pushpal Desarkar, Daniel J Mueller, Sylvia ML Cox, Natalia Jaworska, Maria Tippler, Natalie Castellanos-Ryan, Sophie Parent, Alain Dagher, Frank Vitaro, Mara Brendgen, Michel Boivin, Robert O Pihl, Sylvana M C\u00f4t\u00e9, Richard E Tremblay, Jean R S\u00e9guin, Marco Leyton, Patrick D Skosnik, David Matuskey, Nabeel Nabulsi, Jim Ropchan, Zachary Felchner, Henry Huang, Kelly P Cosgrove, Ansel T Hillmer, Ilona Gorbovskaya, Bernard Le Foll, Reuven Jhirad, Richard Wells, Daniel J M\u00fcller, Cynthia Kahl, Anne-No\u00ebl Samaha, Alexander McGirr, Alice Cadoret, Ellen Doney, Fernanda Neutzling Kaufmann, Katarzyna A Dudek, Beatrice Daigle, Lyonna F Parise, Flurin Cathomas, Nalia Samba, Natalie Hudson, Manon Lebel, Matthew Campbell, Caroline Menard, Andrew Davis, Krushnaa Sankhe, Krista L Lanct\u00f4t, Nathan Herrmann",
-        "url": "https://www.jpn.ca/content/47/3_Suppl_1/S1.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "NMxIlDl6LWMC": {
-        "title": "Human cerebral spheroids undergo 4-aminopyridine-induced, activity associated changes in cellular composition and microrna expression",
-        "year": "2022/6/1",
-        "publisher": "Scientific Reports",
-        "author": "Thomas Parmentier, Fiona MK James, Elizabeth Hewitson, Craig Bailey, Nicholas Werry, Steven D Sheridan, Roy H Perlis, Melissa L Perreault, Luis Gaitero, Jasmin Lalonde, Jonathan LaMarre",
-        "url": "https://www.nature.com/articles/s41598-022-13071-x",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "blknAaTinKkC": {
-        "title": "Human Cerebral Spheroids Undergo Activity Dependent Changes In Cellular Composition And Microrna Expression",
-        "year": "2022/2/6",
-        "publisher": "bioRxiv",
-        "author": "Thomas Parmentier, Fiona James, Elizabeth Hewitson, Craig Bailey, Nicholas Werry, Steve D Sheridan, Roy H Perlis, Melissa Perreault, Luis Gaitero, Jasmin Lalonde, Jonathan LaMarre",
-        "url": "https://www.biorxiv.org/content/10.1101/2022.02.04.478858.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "iH-uZ7U-co4C": {
-        "title": "Cannabis vapor exposure alters neural circuit oscillatory activity in a neurodevelopmental model of schizophrenia: exploring the differential impact of cannabis constituents",
-        "year": "2022/1/1",
-        "publisher": "Schizophrenia Bulletin Open",
-        "author": "Bryan W Jenkins, Shoshana Buckhalter, Melissa L Perreault, Jibran Y Khokhar",
-        "url": "https://academic.oup.com/schizbullopen/article-abstract/3/1/sgab052/6432326",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "maZDTaKrznsC": {
-        "title": "Sex differences in neuronal systems function and behaviour: beyond a single diagnosis in autism spectrum disorders",
-        "year": "2021/12/9",
-        "publisher": "N",
-        "author": "Olivia OF Williams, Madeleine Coppolino, Melissa L Perreault",
-        "url": "https://www.nature.com/articles/s41398-021-01757-1",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "M3NEmzRMIkIC": {
-        "title": "A female-specific role for the EphA2 Receptor within the prefrontal cortex in mediating depression-like behaviours in rats",
-        "year": "2021/12/1",
-        "publisher": "S",
-        "author": "Rachel-Karson Theriault, Joshua Manduca, Melissa Perreault",
-        "url": "https://scholar.google.com/scholar?cluster=7470194805087136890&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "k_IJM867U9cC": {
-        "title": "Sex differences in dopamine receptors and relevance to neuropsychiatric disorders",
-        "year": "2021/9/11",
-        "publisher": "M",
-        "author": "Olivia OF Williams, Madeleine Coppolino, Susan R George, Melissa L Perreault",
-        "url": "https://www.mdpi.com/2076-3425/11/9/1199",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "isC4tDSrTZIC": {
-        "title": "Glycogen synthase kinase-3: a focal point for advancing pathogenic inflammation in depression",
-        "year": "2021/9/1",
-        "publisher": "M",
-        "author": "Ryan T McCallum, Melissa L Perreault",
-        "url": "https://www.mdpi.com/2073-4409/10/9/2270",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "TFP_iSt0sucC": {
-        "title": "The antidepressant-like and analgesic effects of kratom alkaloids are accompanied by changes in low frequency oscillations but not \u0394FosB accumulation",
-        "year": "2021/8/3",
-        "publisher": "Frontiers in Pharmacology",
-        "author": "Shoshana Buckhalter, Eric Soubeyrand, Sarah AE Ferrone, Duncan J Rasmussen, Joshua D Manduca, M Sameer Al-Abdul-Wahid, Jude A Frie, Jibran Y Khokhar, Tariq A Akhtar, Melissa L Perreault",
-        "url": "https://www.frontiersin.org/articles/10.3389/fphar.2021.696461/full",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "bEWYMUwI8FkC": {
-        "title": "Sex-specific cannabidiol-and iloperidone-induced neuronal activity changes in an in vitro MAM model system of schizophrenia",
-        "year": "2021/5/24",
-        "publisher": "International Journal of Molecular Sciences",
-        "author": "Rachel-Karson Th\u00e9riault, Myles St-Denis, Tristen Hewitt, Jibran Y Khokhar, Jasmin Lalonde, Melissa L Perreault",
-        "url": "https://www.mdpi.com/1422-0067/22/11/5511",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "r0BpntZqJG4C": {
-        "title": "Sex differences in innate and adaptive neural oscillatory patterns link resilience and susceptibility to chronic stress in rats",
-        "year": "2021/3/1",
-        "publisher": "Journal of Psychiatry and Neuroscience",
-        "author": "Rachel-Karson Th\u00e9riault, Joshua D Manduca, Melissa L Perreault",
-        "url": "https://www.jpn.ca/content/46/2/E258.short",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "4JMBOYKVnBMC": {
-        "title": "Impact of Vapourized Cannabis Flower on Schizophrenia-Relevant Neural Circuitry and Behaviour in a Neurodevelopmental Rat Model of Schizophrenia",
-        "year": "2020/12/1",
-        "publisher": "S",
-        "author": "Bryan Jenkins, Shoshana Buckhalter, Melissa Perreault, Jibran Khokhar",
-        "url": "https://scholar.google.com/scholar?cluster=6938508873124216458&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "_Qo2XoVZTnwC": {
-        "title": "Transient dose-dependent effects of ketamine on neural oscillatory activity in Wistar-Kyoto rats",
-        "year": "2020/8/10",
-        "publisher": "Neuroscience",
-        "author": "Joshua D Manduca, Rachel-Karson Th\u00e9riault, Olivia OF Williams, Duncan J Rasmussen, Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0306452220303067",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "e5wmG9Sq2KIC": {
-        "title": "Glycogen synthase kinase-3: The missing link to aberrant circuit function in disorders of cognitive dysfunction?",
-        "year": "2020/7/1",
-        "publisher": "A",
-        "author": "Joshua D Manduca, Rachel-Karson Th\u00e9riault, Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S1043661820311270",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "HDshCWvjkbEC": {
-        "title": "Acute mitragynine administration suppresses cortical oscillatory power and systems theta coherence in rats",
-        "year": "2020/7",
-        "publisher": "Journal of Psychopharmacology",
-        "author": "Rachel-Karson Th\u00e9riault, Joshua D Manduca, Colin R Blight, Jibran Y Khokhar, Tariq A Akhtar, Melissa L Perreault",
-        "url": "https://journals.sagepub.com/doi/abs/10.1177/0269881120914223",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "hFOr9nPyWt4C": {
-        "title": "Sex difference in dopamine D1-D2 receptor complex expression and signaling affects depression-and anxiety-like behaviors",
-        "year": "2020/12",
-        "publisher": "Biology of sex differences",
-        "author": "Ahmed Hasbi, Tuan Nguyen, Haneen Rahal, Joshua D Manduca, Sharon Miksys, Rachel F Tyndale, Bertha K Madras, Melissa L Perreault, Susan R George",
-        "url": "https://link.springer.com/article/10.1186/s13293-020-00285-9",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
+    "Name": "Unknown",
+    "total_publications": "0",
+    "publications": {}
   },
   "wHX6pyUAAAAJ": {
     "Name": "Hugo Asselin",
@@ -28374,73 +27995,9 @@
     }
   },
   "N_aXi34AAAAJ": {
-    "Name": "Tyler P Cobb",
-    "total_publications": "7",
-    "publications": {
-      "9ZlFYXVOiuMC": {
-        "title": "Effects of natural land cover, anthropogenic disturbance, space, and climate on oribatid mite communities in Canada\u2019s oil sands region",
-        "year": "2023/3/23",
-        "publisher": "Diversity",
-        "author": "Lisa M Lumley, Ermias T Azeria, Victoria A Giacobbo, Tyler P Cobb",
-        "url": "https://www.mdpi.com/1424-2818/15/4/469",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "4DMP91E08xMC": {
-        "title": "The contribution of insects to global forest deadwood decomposition",
-        "year": "2021/9/2",
-        "publisher": "Nature",
-        "author": "Sebastian Seibold, Werner Rammer, Torsten Hothorn, Rupert Seidl, Michael D Ulyshen, Janina Lorz, Marc W Cadotte, David B Lindenmayer, Yagya P Adhikari, Roxana Arag\u00f3n, Soyeon Bae, Petr Baldrian, Hassan Barimani Varandi, Jos Barlow, Claus B\u00e4ssler, Jacques Beauch\u00eane, Erika Berenguer, Rodrigo S Bergamin, Tone Birkemoe, Gergely Boros, Roland Brandl, Herv\u00e9 Brustel, Philip J Burton, Yvonne T Cakpo-Tossou, Jorge Castro, Eug\u00e9nie Cateau, Tyler P Cobb, Nina Farwig, Romina D Fern\u00e1ndez, Jennifer Firn, Kee Seng Gan, Grizelle Gonz\u00e1lez, Martin M Gossner, Jan C Habel, Christian H\u00e9bert, Christoph Heibl, Osmo Heikkala, Andreas Hemp, Claudia Hemp, Joakim Hj\u00e4lt\u00e9n, Stefan Hotes, Jari Kouki, Thibault Lachat, Jie Liu, Yu Liu, Ya-Huang Luo, Damasa M Macandog, Pablo E Martina, Sharif A Mukul, Baatarbileg Nachin, Kurtis Nisbet, John O\u2019halloran, Anne Oxbrough, Jeev Nath Pandey, Tom\u00e1\u0161 Pavl\u00ed\u010dek, Stephen M Pawson, Jacques S Rakotondranary, Jean-Baptiste Ramanamanjato, Liana Rossi, J\u00fcrgen Schmidl, Mark Schulze, Stephen Seaton, Marisa J Stone, Nigel E Stork, Byambagerel Suran, Anne Sverdrup-Thygeson, Simon Thorn, Ganesh Thyagarajan, Timothy J Wardlaw, Wolfgang W Weisser, Sungsoo Yoon, Naili Zhang, J\u00f6rg M\u00fcller",
-        "url": "https://www.nature.com/articles/s41586-021-03740-8",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "aqlVkmm33-oC": {
-        "title": "New Water Boatman Records from Alberta, Canada (Hemiptera: Corixidae)",
-        "year": "2021/5",
-        "publisher": "Entomological News",
-        "author": "Alexander Lapierre, Robert Hinchliffe, Cheryl Tebby, Tyler Cobb",
-        "url": "https://bioone.org/journals/entomological-news/volume-129/issue-5/021.129.0506/New-Water-Boatman-Records-from-Alberta-Canada-Hemiptera-Corixidae/10.3157/021.129.0506.short",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "qxL8FJ1GzNcC": {
-        "title": "Estimating retention benchmarks for salvage logging to protect biodiversity",
-        "year": "2020/9/21",
-        "publisher": "Nature communications",
-        "author": "Simon Thorn, Anne Chao, Kostadin B Georgiev, J\u00f6rg M\u00fcller, Claus B\u00e4ssler, John L Campbell, Jorge Castro, Yan-Han Chen, Chang-Yong Choi, Tyler P Cobb, Daniel C Donato, Ewa Durska, Ellen Macdonald, Heike Feldhaar, Joseph B Fontaine, Paula J Fornwalt, Raquel Mar\u00eda Hern\u00e1ndez Hern\u00e1ndez, Richard L Hutto, Matti Koivula, Eun-Jae Lee, David Lindenmayer, Grzegorz Mikusi\u0144ski, Martin K Obrist, Michal Perl\u00edk, Josep Rost, Kaysandra Waldron, Beat Wermelinger, Ingmar Wei\u00df, Micha\u0142 \u017bmihorski, Alexandro B Leverkus",
-        "url": "https://www.nature.com/articles/s41467-020-18612-4",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "M3ejUd6NZC8C": {
-        "title": "Mercury elevator in lakes: a novel vector of methylmercury transfer to fish via migratory invertebrates",
-        "year": "2020/6/22",
-        "publisher": "Environmental Science & Technology Letters",
-        "author": "Britt D Hall, Tyler P Cobb, Mark D Graham, Raymond H Hesslein, Karen A Kidd, Richard Vogt, Peter R Leavitt",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.estlett.0c00446",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "KlAtU1dfN6UC": {
-        "title": "A new species of rake-legged mite, Caeculus cassiopeiae (Prostigmata, Caeculidae), from Canada and a systematic analysis of its genus",
-        "year": "2020/4/13",
-        "publisher": "ZooKeys",
-        "author": "Jared Bernard, Lisa M Lumley, Matthias Buck, Tyler P Cobb",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7170984/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "QIV2ME_5wuYC": {
-        "title": "A new species of rake-legged mite, Caeculus cassiopeiae (Prostigmata, Caeculidae), from Canada and a systematic analysis of its genus. ZooKeys, 926, 1\u201323",
-        "year": "2020/4/13",
-        "publisher": "Pensoft Publishers",
-        "author": "Jared Bernard,Lisa M. Lumley,Matthias Buck,Tyler P. Cobb",
-        "url": "https://doi.org/10.3897/zookeys.926.48741",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
-      }
-    }
+    "Name": "Unknown",
+    "total_publications": "0",
+    "publications": {}
   },
   "CWT4iMAAAAAJ": {
     "Name": "Jori Harrison",

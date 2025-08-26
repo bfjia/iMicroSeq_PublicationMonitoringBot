@@ -3,12 +3,27 @@
     "Name": "Amina Stoddart",
     "total_new": "1",
     "publications": {
-      "WA5NYHcadZ8C": {
-        "title": "Investigation of process changes and microbial community dynamics to improve Ammonia removal in rotating biological contactors treating domestic and industrial wastewater",
-        "year": "2025/9/1",
-        "publisher": "Journal of Water Process Engineering",
-        "author": "Sarah Organ, Zachary Bishoff, Nicole McCormick, Hong Gu, Joseph Bielawski, Amina K Stoddart",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2214714425016162",
+      "Mojj43d5GZwC": {
+        "title": "Impact of material properties for improved Pseudomonas aeruginosa biofilm inactivation with 280 nm UV LEDs",
+        "year": "2025/8/23",
+        "publisher": "Scientific Reports",
+        "author": "Toni J Mullin, Sean A MacIsaac, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://www.nature.com/articles/s41598-025-15192-5",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "SmBwcwUAAAAJ": {
+    "Name": "Graham Gagnon",
+    "total_new": "1",
+    "publications": {
+      "wE-fMHVdjMkC": {
+        "title": "Impact of material properties for improved Pseudomonas aeruginosa biofilm inactivation with 280 nm UV LEDs",
+        "year": "2025/8/23",
+        "publisher": "Scientific Reports",
+        "author": "Toni J Mullin, Sean A MacIsaac, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://www.nature.com/articles/s41598-025-15192-5",
         "firstOrLast": true,
         "datasource": "Scholars"
       }
