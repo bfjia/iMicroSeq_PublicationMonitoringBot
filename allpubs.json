@@ -5149,7 +5149,7 @@
   },
   "BC6T6L-UY8gC": {
     "Name": "Caren Helbing",
-    "total_publications": "70",
+    "total_publications": "71",
     "publications": {
       "lmc2jWPfTJgC": {
         "title": "Changes in histone abundance and post-translational modifications in Rana [Lithobates] catesbeiana tissues during temperature-mediated thyroid hormone-induced metamorphosis",
@@ -5267,6 +5267,15 @@
         "url": "https://www.sciencedirect.com/science/article/pii/S1574954124005168",
         "firstOrLast": false,
         "datasource": "Scholars"
+      },
+      "e_rmSamDkqQC": {
+        "title": "Correction to \u201cA Metadata Checklist and Data Formatting Guidelines to Make eDNA FAIR (Findable, Accessible, Interoperable, and Reusable)\u201d",
+        "year": "2025/5",
+        "publisher": "Wiley",
+        "author": "Miwa Takahashi,Tobias Guldberg Fr\u00f8slev,Joana Paup\u00e9rio,Bettina Thalinger,Katy Klymus,Caren C. Helbing,Cecilia Villacorta\u2010Rath,Katherine Silliman,Luke R. Thompson,Sean P. Jungbluth,Suk Yee Yong,Stephen Formel,Gareth Jenkins,Martin Laporte,Bruce Deagle,Sachit Rajbhandari,Thomas Stjernegaard Jeppesen,Andrew Bissett,Christopher Jerde,Erin E. Hahn,Lynn M. Schriml,Christopher Hunter,Peggy Newman,Peter Woollard,Lynsey R. Harper,Nicholas Dunn,Katrina West,Rachel Haderl\u00e9,Shaun Wilkinson,Neha Acharya\u2010Patel,Mark Louie D. Lopez,Guy Cochrane,Oliver Berry",
+        "url": "https://doi.org/10.1002/edn3.70100",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
       },
       "VaXvl8Fpj5cC": {
         "title": "Investigating the immunomodulatory ability of peptides targeting poultry pathogens",
