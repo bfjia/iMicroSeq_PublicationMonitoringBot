@@ -5812,7 +5812,7 @@
   },
   "ceQ3BE0AAAAJ": {
     "Name": "M\u00e9lanie Courtot",
-    "total_publications": "2",
+    "total_publications": "3",
     "publications": {
       "B3FOqHPlNUQC": {
         "title": "Abstract A006: Data Curation and Knowledge Integration Pipeline for Biomarker Discovery",
@@ -5831,6 +5831,15 @@
         "url": "https://osf.io/z79vk_v1/",
         "firstOrLast": false,
         "datasource": "Scholars"
+      },
+      "geHnlv5EZngC": {
+        "title": "LLM-based data extraction for a large cancer registry, the Ontario Hereditary Cancer Research Network",
+        "year": "2025/8/26",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Andres Felipe Melani De La Hoz,Jochen Weile,Pratham Hemlani,Elif Tuzlali,Sarah Ridd,Brandon Chan,Lauren K. Hughes,Kathy Chun,Harriet Feilotter,Daria Grafodatskaya,Jordan Lerner-Ellis,Laila Schenkel,Amanda Smith,Andrea Vaags,Hong Wang,Raymond H. Kim,Lincoln Stein,Benjamin Haibe-Kains,Melanie Courtot",
+        "url": "https://doi.org/10.1101/2025.08.20.25334127",
+        "firstOrLast": true,
+        "datasource": "CrossRef"
       }
     }
   },
@@ -11796,15 +11805,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "RVqaWcrwK10C": {
-        "title": "Omics multi-layers networks provide novel mechanistic and functional insights into fat storage and lipid metabolism in poultry (vol 12, 646297, 2021)",
-        "year": "2025/3/6",
-        "publisher": "FRONTIERS IN GENETICS",
-        "author": "Farzad Ghafouri, Abolfazl Bahrami, Mostafa Sadeghi, Seyed Reza Miraei-Ashtiani, Maryam Bakherad, Herman W Barkema, Samantha Larose",
-        "url": "https://scholar.google.com/scholar?cluster=3182279303620782891&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "QeguYG95ZbAC": {
         "title": "Corrigendum: Omics multi-layers networks provide novel mechanistic and functional insights into fat storage and lipid metabolism in poultry",
         "year": "2025/3/6",
@@ -11823,30 +11823,12 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "6pF0wJmtdfAC": {
-        "title": "lncRNA-miRNA-mRNA ceRNA Network Involved in Sheep Prolificacy: An Integrated Approach.(vol 13, 1295, 2022)",
-        "year": "2025/3/1",
-        "publisher": "GENES",
-        "author": "Masoumeh Sadeghi, Abolfazl Bahrami, Aliakbar Hasankhani, Hamed Kioumarsi, Reza Nouralizadeh, Sarah Ali Abdulkareem, Farzad Ghafouri, Herman W Barkema",
-        "url": "https://scholar.google.com/scholar?cluster=8673032985114413168&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "QAOzB4mb83kC": {
         "title": "Correction: Sadeghi et al. lncRNA\u2013miRNA\u2013mRNA ceRNA Network Involved in Sheep Prolificacy: An Integrated Approach. Genes 2022, 13, 1295",
         "year": "2025/2/28",
         "publisher": "Genes",
         "author": "Masoumeh Sadeghi, Abolfazl Bahrami, Aliakbar Hasankhani, Hamed Kioumarsi, Reza Nouralizadeh, Sarah Ali Abdulkareem, Farzad Ghafouri, Herman W Barkema",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11913319/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "mJbmKSuM8toC": {
-        "title": "Integrated network analysis to identify key modules and potential hub genes involved in bovine respiratory disease: a systems biology approach (vol 12, 753839, 2021)",
-        "year": "2025/2/20",
-        "publisher": "FRONTIERS IN GENETICS",
-        "author": "Aliakbar Hasankhani, Abolfazl Bahrami, Negin Sheybani, Farhang Fatehi, Roxana Abadeh, Hamid Ghaem Maghami Farahani, Mohammad Reza Bahreini Behzadi, Ghazaleh Javanmard, Sadegh Isapour, Hosein Khadem, Herman W Barkema",
-        "url": "https://scholar.google.com/scholar?cluster=4075260456999640796&hl=en&oi=scholarr",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -11857,15 +11839,6 @@
         "author": "Aliakbar Hasankhani, Abolfazl Bahrami, Negin Sheybani, Farhang Fatehi, Roxana Abadeh, Hamid Ghaem Maghami Farahani, Mohammad Reza Bahreini Behzadi, Ghazaleh Javanmard, Sadegh Isapour, Hosein Khadem, Herman W Barkema",
         "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1572285/full",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "Yw6v6SrDvuUC": {
-        "title": "Construction of a circRNA-lincRNA-lncRNA-miRNA-mRNA ceRNA regulatory network identifies genes and pathways linked to goat fertility (vol 14, 1195480, 2023)",
-        "year": "2025/2/18",
-        "publisher": "FRONTIERS IN GENETICS",
-        "author": "Farzad Ghafouri, Mostafa Sadeghi, Abolfazl Bahrami, Masoumeh Naserkheil, Vahid Dehghanian Reyhan, Arash Javanmard, Seyed Reza Miraei-Ashtiani, Soheila Ghahremani, Herman W Barkema, Rostam Abdollahi-Arpanahi, John P Kastelic",
-        "url": "https://scholar.google.com/scholar?cluster=17036035269488122526&hl=en&oi=scholarr",
-        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "3x-KLxxGyuUC": {
@@ -12300,15 +12273,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "ovGv7akYl-cC": {
-        "title": "Use of a serious game in teaching bovine veterinarians clinical communication skills: a pilot study",
-        "year": "2023/4/1",
-        "publisher": "E",
-        "author": "Linda Dorrestein, Jolanda Jansen, Tessa Plagis, Caroline Ritter, Herman Barkema",
-        "url": "https://scholar.google.com/scholar?cluster=6840107320986727940&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "HqhvjgTjE9cC": {
         "title": "Use of a serious game in teaching bovine veterinarians clinical communication skills: a pilot study: Presenter (s): Linda Dorrestein, University of Calgary, Faculty of \u2026",
         "year": "2023/4/1",
@@ -12612,6 +12576,51 @@
         "publisher": "Frontiers in Veterinary Science",
         "author": "Mariana Fonseca, Luke C Heider, David L\u00e9ger, J Trenton Mcclure, Daniella Rizzo, Simon Dufour, David F Kelton, David Renaud, Herman W Barkema, Javier Sanchez",
         "url": "https://www.frontiersin.org/articles/10.3389/fvets.2021.799622/full",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "sJK75vZXtG0C": {
+        "title": "Multi-omics integration and network analysis reveal potential hub genes and genetic mechanisms regulating bovine mastitis",
+        "year": "2022/1/11",
+        "publisher": "Current Issues in Molecular Biology",
+        "author": "Masoumeh Naserkheil, Farzad Ghafouri, Sonia Zakizadeh, Nasrollah Pirany, Zeinab Manzari, Sholeh Ghorbani, Mohammad Hossein Banabazi, Mohammad Reza Bakhtiarizadeh, Md Amdadul Huq, Mi Na Park, Herman W Barkema, Deukmin Lee, Kwan-Sik Min",
+        "url": "https://www.mdpi.com/1467-3045/44/1/23",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "-38epGy1wY0C": {
+        "title": "Klebsiella pneumoniae",
+        "year": "2022",
+        "publisher": "Unknown",
+        "author": "Bingchun Liang, Wenpeng Zhao, Bo Han, Herman W Barkema, Yan D Niu, Yongxia Liu, John P Kastelic, Jian Gao",
+        "url": "https://www.academia.edu/download/110845787/pdf.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "iKswqCX-FLkC": {
+        "title": "A cross-sectional study on antimicrobial use and calf management practices in Canadian preweaned dairy calves.",
+        "year": "2022/1/1",
+        "publisher": "E",
+        "author": "T Uyama, D Renaud, D Leger, D Rizzo, E Morrison, E de Jong, K McCubbin, H Barkema, S Dufour, J Sanchez, L Heider, J McClure, S LeBlanc, C Winder, D Kelton",
+        "url": "https://scholar.google.com/scholar?cluster=13909192190086576438&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "yZoBfgUKqwcC": {
+        "title": "Understanding Canadian dairy farmers' perspectives on outdoor access for dairy cows using an online questionnaire",
+        "year": "2022/1/1",
+        "publisher": "E",
+        "author": "AMC Smid, M Jarbeau, V Boone, S Sinclair, HW Barkema",
+        "url": "https://scholar.google.com/scholar?cluster=10880778269876520520&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "eFf2swCANGcC": {
+        "title": "Crohn\u2019s disease therapeutic dietary intervention (CD-TDI): study protocol for a randomised controlled trial",
+        "year": "2022/1/1",
+        "publisher": "BMJ Open Gastroenterology",
+        "author": "Maitreyi Raman, Christopher Ma, Lorian M Taylor, Levinus A Dieleman, Georgios V Gkoutos, Jeff K Vallance, Kathy D McCoy, Ian Lewis, Humberto Jijon, Derek M McKay, David M Mutch, Herman W Barkema, Deanna Gibson, Marcus Rauch, Subrata Ghosh",
+        "url": "https://bmjopengastro.bmj.com/content/9/1/e000841.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -15813,15 +15822,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "uENYxwZKF5gC": {
-        "title": "A Predictive Tool for Ability to Remain at Home After Cancer Surgery in Older Adults",
-        "year": "2025/8/1",
-        "publisher": "JAMA surgery",
-        "author": "Julie Hallet, Alyson L Mahar, Wing C Chan, Daniel I McIsaac, Natalie Coburn, Anna Gombay, Matthew Guttman, Barbara Haas, Amy Hsu, Frances C Wright, Lesley Gotlib-Conn, Anna Ding, Jessica Armah, Tyler Chesney, Doug Manuel, Grace Palladino, Pietro Galuzzo",
-        "url": "https://jamanetwork.com/journals/jamasurgery/article-abstract/2835788",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "3eo-xq64HD0C": {
         "title": "Minimum Legal Age of Nonmedical Cannabis Purchase Laws and Cannabis-Related Hospitalizations in Canada, 2015 to 2022",
         "year": "2025/7",
@@ -16665,6 +16665,15 @@
         "publisher": "R",
         "author": "Authors presented in alphabetical order, Eric Arts, Stephen Brown, David Bulir, Trevor C Charles, Christopher T DeGroot, Robert Delatolla, Jean-Paul Desaulniers, Elizabeth A Edwards, Meghan Fuzzen, Kimberley Gilbride, Jodi Gilchrist, Lawrence Goodridge, Tyson E Graber, Marc Habash, Peter J\u00fcni, Andrea Kirkwood, James Knockleby, Christopher Kyle, Chrystal Landgraff, Chand Mangat, Douglas G Manuel, R Michael McKay, Edgard Mejia, Aleksandra Mloszewska, Banu Ormeci, Claire Oswald, Sarah Jane Payne, Hui Peng, Shelley Peterson, Art FY Poon, Mark R Servos, Denina Simmons, Jianxian Sun, Minqing Yang, Gustavo Ybazeta",
         "url": "https://www.researchsquare.com/article/rs-1439969/latest",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "cqul0IHDQ48C": {
+        "title": "Community Surveillance of Omicron in Ontario: Wastewater-based Epidemiology Comes of Age.",
+        "year": "2022/3/15",
+        "publisher": "Unknown",
+        "author": "Eric Arts, Stephen Brown, David Bulir, Trevor C Charles, Christopher T DeGroot, Robert Delatolla, J Desaulniers, Elizabeth A Edwards, Meghan Fuzzen, Kimberley Gilbride, Jodi Gilchrist, Lawrence Goodridge, Tyson E Graber, Marc Habash, Peter J\u00fcni, Andrea Kirkwood, James Knockleby, Christopher Kyle, Chrystal Landgraff, Chand Mangat, Douglas G Manuel, R Michael McKay, Edgard Mejia, Aleksandra Mloszewska, Banu Ormeci, Claire Oswald, Sarah Jane Payne, Hui Peng, Shelley Peterson, AF Poon, MR Servos, Denina Simmons, Jianxian Sun, Minqing Yang, Gustavo Ybazeta",
+        "url": "https://europepmc.org/article/ppr/ppr468647",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -25956,12 +25965,30 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "Nnq8S6OXqDYC": {
+        "title": "From fetus to 8: the CHILD Cohort Study",
+        "year": "2024/10/11",
+        "publisher": "American Journal of Epidemiology",
+        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
+        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "8p8iYwVyaVcC": {
         "title": "Mapping Neighborhood-Level Drivers of Type 2 Diabetes: A Predictive-Causal Approach for Precision Public Health",
         "year": "2025/6/6",
         "publisher": "Unknown",
         "author": "Mohammad Noaeen, Amirhosein Rostami, Ibrahim Ghanem, Olli Saarela, Karim Keshavjee, Jeffrey R Brook, Zahra Shakeri",
         "url": "https://www.researchsquare.com/article/rs-6648511/latest",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "NZNkWSpQBv0C": {
+        "title": "Assessment of long-term exposure to traffic-related air pollution: An exposure framework",
+        "year": "2024/11/16",
+        "publisher": "N",
+        "author": "Allison P Patton, Hanna Boogaard, Danielle Vienneau, Jeffrey R Brook, Audrey Smargiassi, Meltem Kutlar Joss, Adam A Szpiro, Sharon K Sagiv, Evangelia Samoli, Barbara Hoffmann, Howard H Chang, Richard W Atkinson, Jennifer Weuve, Francesco Forastiere, Fred W Lurmann, Gerard Hoek",
+        "url": "https://www.nature.com/articles/s41370-024-00731-5",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -26055,15 +26082,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "NZNkWSpQBv0C": {
-        "title": "Assessment of long-term exposure to traffic-related air pollution: An exposure framework",
-        "year": "2024/11/16",
-        "publisher": "N",
-        "author": "Allison P Patton, Hanna Boogaard, Danielle Vienneau, Jeffrey R Brook, Audrey Smargiassi, Meltem Kutlar Joss, Adam A Szpiro, Sharon K Sagiv, Evangelia Samoli, Barbara Hoffmann, Howard H Chang, Richard W Atkinson, Jennifer Weuve, Francesco Forastiere, Fred W Lurmann, Gerard Hoek",
-        "url": "https://www.nature.com/articles/s41370-024-00731-5",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "MGPUR4WVBMEC": {
         "title": "Campus\u2013Community Partnership to Characterize Air Pollution in a Neighborhood Impacted by Major Transportation Infrastructure",
         "year": "2024/11/1",
@@ -26088,15 +26106,6 @@
         "publisher": "Translational psychiatry",
         "author": "Sarina Abrishamcar, Beryl C Zhuang, Mara Thomas, Nicole Gladish, Julia L MacIsaac, Meaghan J Jones, Elinor Simons, Theo J Moraes, Piush J Mandhane, Jeffrey R Brook, Padmaja Subbarao, Stuart E Turvey, Edith Chen, Gregory E Miller, Michael S Kobor, Anke H\u00fcls",
         "url": "https://www.nature.com/articles/s41398-024-03148-8",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "Nnq8S6OXqDYC": {
-        "title": "From fetus to 8: the CHILD Cohort Study",
-        "year": "2024/10/11",
-        "publisher": "American Journal of Epidemiology",
-        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
-        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
         "firstOrLast": false,
         "datasource": "Scholars"
       },

@@ -1,1 +1,83 @@
-{}
+{
+  "ceQ3BE0AAAAJ": {
+    "Name": "M\u00e9lanie Courtot",
+    "total_new": "1",
+    "publications": {
+      "geHnlv5EZngC": {
+        "title": "LLM-based data extraction for a large cancer registry, the Ontario Hereditary Cancer Research Network",
+        "year": "2025/8/26",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Andres Felipe Melani De La Hoz,Jochen Weile,Pratham Hemlani,Elif Tuzlali,Sarah Ridd,Brandon Chan,Lauren K. Hughes,Kathy Chun,Harriet Feilotter,Daria Grafodatskaya,Jordan Lerner-Ellis,Laila Schenkel,Amanda Smith,Andrea Vaags,Hong Wang,Raymond H. Kim,Lincoln Stein,Benjamin Haibe-Kains,Melanie Courtot",
+        "url": "https://doi.org/10.1101/2025.08.20.25334127",
+        "firstOrLast": true,
+        "datasource": "CrossRef"
+      }
+    }
+  },
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
+    "total_new": "5",
+    "publications": {
+      "sJK75vZXtG0C": {
+        "title": "Multi-omics integration and network analysis reveal potential hub genes and genetic mechanisms regulating bovine mastitis",
+        "year": "2022/1/11",
+        "publisher": "Current Issues in Molecular Biology",
+        "author": "Masoumeh Naserkheil, Farzad Ghafouri, Sonia Zakizadeh, Nasrollah Pirany, Zeinab Manzari, Sholeh Ghorbani, Mohammad Hossein Banabazi, Mohammad Reza Bakhtiarizadeh, Md Amdadul Huq, Mi Na Park, Herman W Barkema, Deukmin Lee, Kwan-Sik Min",
+        "url": "https://www.mdpi.com/1467-3045/44/1/23",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "-38epGy1wY0C": {
+        "title": "Klebsiella pneumoniae",
+        "year": "2022",
+        "publisher": "Unknown",
+        "author": "Bingchun Liang, Wenpeng Zhao, Bo Han, Herman W Barkema, Yan D Niu, Yongxia Liu, John P Kastelic, Jian Gao",
+        "url": "https://www.academia.edu/download/110845787/pdf.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "iKswqCX-FLkC": {
+        "title": "A cross-sectional study on antimicrobial use and calf management practices in Canadian preweaned dairy calves.",
+        "year": "2022/1/1",
+        "publisher": "E",
+        "author": "T Uyama, D Renaud, D Leger, D Rizzo, E Morrison, E de Jong, K McCubbin, H Barkema, S Dufour, J Sanchez, L Heider, J McClure, S LeBlanc, C Winder, D Kelton",
+        "url": "https://scholar.google.com/scholar?cluster=13909192190086576438&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "yZoBfgUKqwcC": {
+        "title": "Understanding Canadian dairy farmers' perspectives on outdoor access for dairy cows using an online questionnaire",
+        "year": "2022/1/1",
+        "publisher": "E",
+        "author": "AMC Smid, M Jarbeau, V Boone, S Sinclair, HW Barkema",
+        "url": "https://scholar.google.com/scholar?cluster=10880778269876520520&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "eFf2swCANGcC": {
+        "title": "Crohn\u2019s disease therapeutic dietary intervention (CD-TDI): study protocol for a randomised controlled trial",
+        "year": "2022/1/1",
+        "publisher": "BMJ Open Gastroenterology",
+        "author": "Maitreyi Raman, Christopher Ma, Lorian M Taylor, Levinus A Dieleman, Georgios V Gkoutos, Jeff K Vallance, Kathy D McCoy, Ian Lewis, Humberto Jijon, Derek M McKay, David M Mutch, Herman W Barkema, Deanna Gibson, Marcus Rauch, Subrata Ghosh",
+        "url": "https://bmjopengastro.bmj.com/content/9/1/e000841.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
+    "total_new": "1",
+    "publications": {
+      "cqul0IHDQ48C": {
+        "title": "Community Surveillance of Omicron in Ontario: Wastewater-based Epidemiology Comes of Age.",
+        "year": "2022/3/15",
+        "publisher": "Unknown",
+        "author": "Eric Arts, Stephen Brown, David Bulir, Trevor C Charles, Christopher T DeGroot, Robert Delatolla, J Desaulniers, Elizabeth A Edwards, Meghan Fuzzen, Kimberley Gilbride, Jodi Gilchrist, Lawrence Goodridge, Tyson E Graber, Marc Habash, Peter J\u00fcni, Andrea Kirkwood, James Knockleby, Christopher Kyle, Chrystal Landgraff, Chand Mangat, Douglas G Manuel, R Michael McKay, Edgard Mejia, Aleksandra Mloszewska, Banu Ormeci, Claire Oswald, Sarah Jane Payne, Hui Peng, Shelley Peterson, AF Poon, MR Servos, Denina Simmons, Jianxian Sun, Minqing Yang, Gustavo Ybazeta",
+        "url": "https://europepmc.org/article/ppr/ppr468647",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
