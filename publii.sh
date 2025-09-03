@@ -8,7 +8,7 @@ handle_error() {
 	python slackConnector.py --message "The script errored out. Please see log attached." --file publii.log
 }
 
-trap handle_error ERR
+#trap handle_error ERR
 
 git pull
 

@@ -1,29 +1,59 @@
 {
-  "poQrlhAAAAAJ": {
-    "Name": "Peter A. Vanrolleghem",
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
     "total_new": "1",
     "publications": {
-      "wW8w_uPXRNAC": {
-        "title": "Erratum: Water Quality Research Journal, 60 (1): 38\u201359: Empowering water utilities: Crafting an end-user-friendly reliability ranking for evaluating satellite remote \u2026",
-        "year": "2025/5/1",
-        "publisher": "Water Quality Research Journal",
-        "author": "Timothy J Malthus, Filippo Nelli, Negar Taheriashtiani, Peter A Vanrolleghem, Nicolas D Crosbie, Arash Zamyadi",
-        "url": "https://scholar.google.com/scholar?cluster=4391904533249171325&hl=en&oi=scholarr",
+      "S16KYo8Pm5AC": {
+        "title": "Surveillance of European green crab (Carcinus maenas) and monitoring of three native crab species using different environmental DNA collection methods",
+        "year": "2025/8/30",
+        "publisher": "Global Ecology and Conservation",
+        "author": "Mark Louie D Lopez, Nathaniel Zamora, Amy Migneault, Graeme K Knowles, Jacob J Imbery, Eleanor Brouard-John, Zachary Hummel, Kalina Hunter, Sibylla Helms, Caren C Helbing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2351989425004342",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
+    "total_new": "1",
+    "publications": {
+      "_5tno0g5mFcC": {
+        "title": "Review 3:\" West Nile Virus (Orthoflavivirus nilense) RNA Concentrations in Wastewater Solids at Five Wastewater Treatment Plants in the United States\"",
+        "year": "2025/5/13",
+        "publisher": "Rapid Reviews Infectious Diseases",
+        "author": "Robert McKay",
+        "url": "https://rrid.mitpress.mit.edu/pub/08jd3fp0/release/1",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "U3rqorsAAAAJ": {
-    "Name": "Doug Manuel",
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
     "total_new": "1",
     "publications": {
-      "V0QqM0Py3VsC": {
-        "title": "Linguistic factors and COVID-19 outcomes among long-term care residents in Ontario, Canada",
-        "year": "2025/8/28",
-        "publisher": "BMC geriatrics",
-        "author": "Michael Reaume, Ricardo Batista, Haris Imsirovic, Lise M Bjerre, Claire E Kendall, Louise Bouchard, Alain P Gauthier, Josette-Ren\u00e9e Landry, Marie-H\u00e9l\u00e8ne Chomienne, Mwali Muray, Amy Hsu, Denis Prud\u2019homme, Doug G Manuel, Peter Tanuseputro",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12392623/",
+      "Fu2w8maKXqMC": {
+        "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
+        "year": "2025/7/1",
+        "publisher": "International Journal of Hygiene and Environmental Health",
+        "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "BZgRYfkAAAAJ": {
+    "Name": "Dominic Frigon",
+    "total_new": "1",
+    "publications": {
+      "kO05sadLmrgC": {
+        "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
+        "year": "2025/7/1",
+        "publisher": "International Journal of Hygiene and Environmental Health",
+        "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
