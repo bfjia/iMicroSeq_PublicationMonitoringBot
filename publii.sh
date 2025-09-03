@@ -5,10 +5,10 @@
 
 
 handle_error() {
-	python slackConnector.py --message "The script errored out. Please see log attached." --file publii.log
+	python slackConnector.py --message "The script errored out. Please see log attached." --file publii.log --channel "C09D86E4T5H"
 }
 
-#trap handle_error ERR
+trap handle_error ERR
 
 git pull
 
@@ -24,11 +24,15 @@ echo "There are $(wc -l < authors.txt) authors in the list to monitor."
 #Find publications
 python ./FindPublications.py
 
-#Post the message into Slack
-python slackConnector.py --messagefile msg.md --channel "C097CKA5U4X"
+#Post the message into the correct slack channel
+if grep -q "\[INFO\]" msg.md && grep -q "No new publication found." msg.md; then
+    python slackConnector.py --messagefile msg.md --channel "C09D86E4T5H"
+else
+    python slackConnector.py --messagefile msg.md --channel "C097CKA5U4X"
+fi
 
 #While in QA, post the logs too. 
-python slackConnector.py --message "Logs are temporarily attached for debugging purposes only, if needed." --channel "C097CKA5U4X" --file publii.log
+python slackConnector.py --message "Logs are temporarily attached for debugging purposes only, if needed." --channel "C09D86E4T5H" --file publii.log
 
 
 dateNow=$(date +%Y%m%d)
