@@ -372,7 +372,7 @@ if __name__ == "__main__":
 
     Msg = ""
     if len(deltaJson) > 0:
-        Msg = "[NEW!]\n\n"
+        Msg = ""
         for authorID in deltaJson:
             #if len(deltaJson[authorID]['publications']) > 1:
                 #Msg = Msg + deltaJson[authorID]['Name'] + " has new publications: \n"
@@ -395,8 +395,10 @@ if __name__ == "__main__":
                 Msg = Msg + "* "
                 if pub["firstOrLast"]:
                     Msg = Msg + "[First or Senior Author] "
-                Msg = Msg + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n"
-
+                Msg = Msg + pub['title'] + ". Published in " + pub['publisher'] + ". " + pub['url'] + "\n"
+            
+            #add an additional \n to make it more readable between authors
+            Msg = Msg + "\n"
                 #Msg = Msg + "Congratulations!\n\n"
             # else:
             #     for pubID in deltaJson[authorID]['publications']:
@@ -407,7 +409,7 @@ if __name__ == "__main__":
             #         else:
             #             print("[WARNING] Some how picked up a old publication in delta Json: (" + 
             #                   pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
-        if Msg == "[NEW!]\n\n":
+        if Msg == "":
             Msg = "[INFO]\nNo new publication found."
     else:
         Msg = "[INFO]\nNo new publication found."
