@@ -25,8 +25,7 @@ if [ "$(basename "$PWD")" = "tests" ]; then
 	python ./FindPublications.py
 
 	#Post the message into Slack
-	python slackConnector.py --message "[TEST] A message that found new publications should appear below." --channel "C09D86E4T5H"
-	python slackConnector.py --message "[TEST] A message for new publications should appear in the _publications channel" --channel "C097CKA5U4X"
+	python slackConnector.py --message "[TEST] A message that found new publications should in the _publications channel" --channel "C09D86E4T5H"
 	if grep -q "\[INFO\]" msg.md && grep -q "No new publication found." msg.md; then
 		python slackConnector.py --messagefile msg.md --channel "C09D86E4T5H"
 	else

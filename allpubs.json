@@ -951,11 +951,11 @@
       "PR6Y55bgFSsC": {
         "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
         "year": "2025/7/7",
-        "publisher": "American Chemical Society (ACS)",
-        "author": "Md Pervez Kabir,Julio Plaza-Diaz,\u00c9lisabeth Mercier,Patrick M. D\u2019Aoust,Lawrence Goodridge,Opeyemi U. Lawal,Shen Wan,Nada Hegazy,Tram Nguyen,Chandler Wong,Felix Addo,Elizabeth Renouf,Tyson E. Graber,Robert Delatolla",
-        "url": "https://doi.org/10.1021/acsestwater.5c00142",
+        "publisher": "ACS Es&t Water",
+        "author": "Md Pervez Kabir, Julio Plaza-Diaz, \u00c9lisabeth Mercier, Patrick M D\u2019Aoust, Lawrence Goodridge, Opeyemi U Lawal, Shen Wan, Nada Hegazy, Tram Nguyen, Chandler Wong, Felix Addo, Elizabeth Renouf, Tyson E Graber, Robert Delatolla",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.5c00142",
         "firstOrLast": true,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "1yQoGdGgb4wC": {
         "title": "Passive sampling for genomic surveillance of SARS-CoV-2 in wastewater resource recovery facility: Insights for pandemic preparedness",
@@ -1720,9 +1720,9 @@
         "datasource": "Scholars"
       },
       "Ak0FvsSvgGUC": {
-        "title": "Hepatitis E virus seroprevalence is increased amongst pancreatic insufficient adults with cystic fibrosis\u2013A single centre study",
+        "title": "Hepatitis E virus seroprevalence is increased amongst pancreatic insufficient adults with cystic fibrosis-A single centre study",
         "year": "2025/8/20",
-        "publisher": "Journal of Cystic Fibrosis",
+        "publisher": "Journal of cystic fibrosis: official journal of the European Cystic Fibrosis Society",
         "author": "Barbara J Waddell, Christina S Thornton, Yasaman Ghazi, Jiah Jang, Stephen Congly, Bradley S Quon, Michael D Parkins",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40841296/",
         "firstOrLast": true,
@@ -2619,11 +2619,11 @@
       "b1wdh0AR-JQC": {
         "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
         "year": "2025/7/7",
-        "publisher": "American Chemical Society (ACS)",
-        "author": "Md Pervez Kabir,Julio Plaza-Diaz,\u00c9lisabeth Mercier,Patrick M. D\u2019Aoust,Lawrence Goodridge,Opeyemi U. Lawal,Shen Wan,Nada Hegazy,Tram Nguyen,Chandler Wong,Felix Addo,Elizabeth Renouf,Tyson E. Graber,Robert Delatolla",
-        "url": "https://doi.org/10.1021/acsestwater.5c00142",
+        "publisher": "ACS Es&t Water",
+        "author": "Md Pervez Kabir, Julio Plaza-Diaz, \u00c9lisabeth Mercier, Patrick M D\u2019Aoust, Lawrence Goodridge, Opeyemi U Lawal, Shen Wan, Nada Hegazy, Tram Nguyen, Chandler Wong, Felix Addo, Elizabeth Renouf, Tyson E Graber, Robert Delatolla",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.5c00142",
         "firstOrLast": false,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "kuK5TVdYjLIC": {
         "title": "Draft genome sequences of multiple Salmonella enterica serotypes isolated from eight different animals in Nigeria",
@@ -3221,12 +3221,12 @@
       },
       "JoZmwDi-zQgC": {
         "title": "Fate of Escherichia coli O157: H7, Salmonella, and Listeria monocytogenes on whole cantaloupe and watermelon surfaces during storage",
-        "year": "2023/6/9",
-        "publisher": "Elsevier BV",
-        "author": "Zeynal Topalcengiz,Joyjit Saha,Loretta  M. Friedrich,Lawrence Goodridge,Michelle Danyluk",
-        "url": "https://doi.org/10.2139/ssrn.4471803",
+        "year": "2022",
+        "publisher": "Salmonella, And Listeria Monocytogenes On Whole Cantaloupe and Watermelon Surfaces During Storage",
+        "author": "Zeynal Topalcengiz, Joyjit Saha, Loretta M Friedrich, Lawrence Goodridge, Michelle Danyluk",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4471803",
         "firstOrLast": false,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "AXPGKjj_ei8C": {
         "title": "Salmonella enterica subsp. enterica virulence potential can be linked to higher survival within a dynamic in vitro human gastrointestinal model",
@@ -3920,12 +3920,12 @@
       },
       "FqgNCDrbZD8C": {
         "title": "Complete genome sequences of two distinct strains of Serratia marcescens isolated from contaminated platelet concentrates from Canadian donors. Microbiol Resour Announc 9 \u2026",
-        "year": "2020/10/8",
-        "publisher": "American Society for Microbiology",
-        "author": "Alexander Diamandas,Roel Mikhail Razon,Ellen Sykes,Ayush Kumar,Sandra Ramirez-Arcos,Ann Karen C. Brassinga",
-        "url": "https://doi.org/10.1128/mra.00829-20",
+        "year": "2020",
+        "publisher": "Unknown",
+        "author": "A Diamandas, RM Razon, E Sykes, A Kumar, S Ramirez-Arcos, AKC Brassinga",
+        "url": "https://www.academia.edu/download/104373634/e00829-20.full.pdf",
         "firstOrLast": false,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       }
     }
   },
@@ -4275,7 +4275,7 @@
       "-R_Z4shfoosC": {
         "title": "Divergent trends in structural landscape connectivity from historic and potential future grassland conversion in Alberta, Canada",
         "year": "2025/8/1",
-        "publisher": "PloS one",
+        "publisher": "Plos one",
         "author": "Hossam E Abdel Moniem, Majid Iravani, Tim McAllister, Kim Ominski, Helene H Wagner",
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325729",
         "firstOrLast": false,
@@ -4556,7 +4556,7 @@
         "year": "2024/9/24",
         "publisher": "B",
         "author": "Sophie Bertrand, J Upton, E Murphy, Laurence Shalloo, M Murphy, IJM De Boer, Peter Groot Koerkamp, Stephanie A Terry, Carlos M Romero, Alex V Chaves, Tim McAllister, Elie Jami, Itzhak Mizrahi, Jack B Hetherington, Pablo Juliano, Rodolfo Garcia-Flores",
-        "url": "https://books.google.com/books?hl=en&lr=&id=iq15EQAAQBAJ&oi=fnd&pg=PA1983&dq=info:uoOEu0gwZdEJ:scholar.google.com&ots=nDTj-qaD-m&sig=ePA2jXRCvx2NvXPxJmtfZBk-VFY",
+        "url": "https://books.google.com/books?hl=en&lr=&id=iq15EQAAQBAJ&oi=fnd&pg=PA1983&dq=info:uoOEu0gwZdEJ:scholar.google.com&ots=nDTlUycIWd&sig=wjbHgp4dxPrEN_h0V-wpuHCypGI",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -4868,12 +4868,12 @@
       },
       "6Dd5luMImnEC": {
         "title": "In Silico Analysis of Shiga Toxin-Producing Escherichia coli O157: H7 Strains from Presumptive Super-and Low-Shedder Cattle. Toxins 2024, 16, 86",
-        "year": "2024/2/5",
-        "publisher": "MDPI AG",
-        "author": "Emmanuel W. Bumunang,Vinicius S. Castro,Trevor Alexander,Rahat Zaheer,Tim A. McAllister,Le Luo Guan,Kim Stanford",
-        "url": "https://doi.org/10.3390/toxins16020086",
+        "year": "2024",
+        "publisher": "Unknown",
+        "author": "EW Bumunang, VS Castro, T Alexander, R Zaheer, TA McAllister, LL Guan, K Stanford",
+        "url": "https://www.researchgate.net/profile/Vinicius-Castro-8/publication/377977176_In_Silico_Analysis_of_Shiga_Toxin-Producing_Escherichia_coli_O157H7_Strains_from_Presumptive_Super-_and_Low-Shedder_Cattle/links/65c116781e1ec12eff7613aa/In-Silico-Analysis-of-Shiga-Toxin-Producing-Escherichia-coli-O157H7-Strains-from-Presumptive-Super-and-Low-Shedder-Cattle.pdf",
         "firstOrLast": false,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "qzuIxkxWBNsC": {
         "title": "Linking active rectal mucosa-attached microbiota to host immunity reveals its role in host",
@@ -4997,7 +4997,7 @@
         "year": "2023/10/11",
         "publisher": "Rumen Microbiome: Interacting with Host Genetics, Dietary Nutrients Metabolism, Animal Production, and Environment",
         "author": "E\u00f3in O'Hara, Stephanie A Terry, Paul Moote, Karen A Beauchemin, Tim A McAllister, D Wade Abbott, Robert J Gruninger",
-        "url": "https://books.google.com/books?hl=en&lr=&id=WE3cEAAAQBAJ&oi=fnd&pg=PA105&dq=info:wLAUOyq3UewJ:scholar.google.com&ots=SDt5JmtplH&sig=fxNtXNhYynK4sYAyDnnpDnlHqAc",
+        "url": "https://books.google.com/books?hl=en&lr=&id=WE3cEAAAQBAJ&oi=fnd&pg=PA105&dq=info:wLAUOyq3UewJ:scholar.google.com&ots=SDt9BtuomM&sig=4Q-P-KDfuJg4jzHteNLvyS8yrqM",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -5141,7 +5141,7 @@
         "year": "2023/5/6",
         "publisher": "Carbohydrate-Protein Interactions: Methods and Protocols",
         "author": "Robert J Gruninger, Adrian Tsang, Tim A McAllister",
-        "url": "https://books.google.com/books?hl=en&lr=&id=eIW9EAAAQBAJ&oi=fnd&pg=PA305&dq=info:V4KCNLBbKC4J:scholar.google.com&ots=kXM6KbdQXO&sig=xEjS_MrB_vvS5qVLVk5MHwDeY60",
+        "url": "https://books.google.com/books?hl=en&lr=&id=eIW9EAAAQBAJ&oi=fnd&pg=PA305&dq=info:V4KCNLBbKC4J:scholar.google.com&ots=kXMaCiePYS&sig=f-mStpYm6R31d3P01q_8cG3E-bo",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -5199,11 +5199,11 @@
       "oNZyr7d5Mn4C": {
         "title": "Conserved Sequence Identification Within Large Genomic Datasets Using \u2018Unikseq2\u2019: Application in Environmental DNA Assay Development",
         "year": "2025/7/11",
-        "publisher": "Wiley",
-        "author": "Mark Louie D. Lopez,Ren\u00e9 L. Warren,Michael J. Allison,Lauren Coombe,Jacob J. Imbery,Inanc Birol,Caren C. Helbing",
-        "url": "https://doi.org/10.1111/1755-0998.70014",
+        "publisher": "Molecular Ecology Resources",
+        "author": "Mark Louie D Lopez, Ren\u00e9 L Warren, Michael J Allison, Lauren Coombe, Jacob J Imbery, Inanc Birol, Caren C Helbing",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.70014",
         "firstOrLast": true,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "-FonjvnnhkoC": {
         "title": "Sedimentary DNA Metabarcoding and Indigenous Knowledge Reconstruct Natural and Anthropogenic Disturbances to a Freshwater Lake in the Oil Sands Region of Alberta, Canada",
@@ -6501,11 +6501,11 @@
       "maZDTaKrznsC": {
         "title": "Genes on the Move: Exploring the Resistome of Viable Isolates from a First Nation Community in Manitoba",
         "year": "2025/7/11",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Rudra Patel,Jocelyn Zambrano-Alvarado,Nick Rudin,Karl Zhang,Adetola Adeniji,M. Moniruzzaman,Miguel Uyaguari-Diaz",
-        "url": "https://doi.org/10.1101/2025.07.11.664311",
+        "publisher": "bioRxiv",
+        "author": "Rudra Patel, Jocelyn Zambrano-Alvarado, Nick Rudin, Karl Zhang, Adetola Adeniji, M Moniruzzaman, Miguel Uyaguari-Diaz",
+        "url": "https://www.biorxiv.org/content/10.1101/2025.07.11.664311.abstract",
         "firstOrLast": true,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "iH-uZ7U-co4C": {
         "title": "Impact of fall ammonia fluctuations on winter nitrification in moving bed biofilm reactors",
@@ -6653,7 +6653,7 @@
         "year": "2025/8/19",
         "publisher": "The Journal of Infectious Diseases",
         "author": "Adam S Komorowski, Michael G Surette, Laura Rossi, Dominique Tertigas, Mark Gaskin, Shahrokh Shekarriz, Andrew G McArthur, Marek Smieja, Dominik Mertz",
-        "url": "https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiaf392/8234401",
+        "url": "https://academic.oup.com/jid/advance-article-abstract/doi/10.1093/infdis/jiaf392/8234401",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -7190,12 +7190,12 @@
       },
       "_Re3VWB3Y0AC": {
         "title": "Additional file 4 of The origins and genomic diversity of American Civil War Era smallpox vaccine strains",
-        "year": "2020/7/20",
-        "publisher": "Springer Science and Business Media LLC",
-        "author": "Ana T. Duggan,Jennifer Klunk,Ashleigh F. Porter,Anna N. Dhody,Robert Hicks,Geoffrey L. Smith,Margaret Humphreys,Andrea M. McCollum,Whitni B. Davidson,Kimberly Wilkins,Yu Li,Amanda Burke,Hanna Polasky,Lowell Flanders,Debi Poinar,Amogelang R. Raphenya,Tammy T. Y. Lau,Brian Alcock,Andrew G. McArthur,G. Brian Golding,Edward C. Holmes,Hendrik N. Poinar",
-        "url": "https://doi.org/10.1186/s13059-020-02079-z",
+        "year": "2020",
+        "publisher": "Unknown",
+        "author": "Brian Alcock, Amanda Burke, Whitni B Davidson, Anna N Dhody, Ana T Duggan, Lowell Flanders, G Brian Golding, Robert Hicks, Edward C Holmes, Margaret Humphreys, Jennifer Klunk, Tammy TY Lau, Yu Li, Andrew G McArthur, Andrea M McCollum, Debi Poinar, Hendrik N Poinar, Hanna Polasky, Ashleigh F Porter, Amogelang R Raphenya, Geoffrey L Smith, Kimberly Wilkins",
+        "url": "https://stacks.cdc.gov/view/cdc/126708",
         "firstOrLast": false,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       }
     }
   },
@@ -10264,8 +10264,8 @@
         "datasource": "Scholars"
       },
       "kJDgFkosVoMC": {
-        "title": "Isothermal Amplification as a Water Safety Tool: Rapid Detection of Viruses in Surface Water and Wastewater",
-        "year": "2025/7/10",
+        "title": "Isothermal amplification as a water safety tool: rapid detection of viruses in surface water and wastewater",
+        "year": "2025/8/21",
         "publisher": "Royal Society of Chemistry (RSC)",
         "author": "Emalie K. Hayes,Madison T. Gouthro,Graham A. Gagnon",
         "url": "https://doi.org/10.1039/d5ew00092k",
@@ -10436,12 +10436,12 @@
       },
       "2l5NCbZemmgC": {
         "title": "Advancing global priorities in water research and technology",
-        "year": "2025/2/21",
-        "publisher": "Royal Society of Chemistry (RSC)",
+        "year": "2024",
+        "publisher": "Environmental Science: Water Research & Technology",
         "author": "Graham Gagnon",
-        "url": "https://doi.org/10.1039/d3ew90050a",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2024/ew/d3ew90050a",
         "firstOrLast": true,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "kzcSZmkxUKAC": {
         "title": "Biodegradation of 1, 4-dioxane in a continuous-flow bioelectrochemical reactor by biofilm of Pseudonocardia dioxanivorans CB1190 and microbial community on conductive carriers",
@@ -10574,27 +10574,27 @@
         "year": "2023",
         "publisher": "Unknown",
         "author": "Carlos Jaser Lara de Larrea, G Gagnon",
-        "url": "https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/item.aspx?idNumber=1415669161",
+        "url": "https://scholar.google.com/scholar?cluster=16180693565749979001&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
       "pAkWuXOU-OoC": {
         "title": "Microbiome and hydraulic performance changes of drinking water biofilters during disruptive events-media replacement, lake diatom bloom, and chlorination",
-        "year": "2025/7/16",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "Leili Abkar,Anita Taylor,Amina Stoddart,Graham Gagnon",
-        "url": "https://doi.org/10.1039/d2ew00578f",
+        "year": "2023",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "Leili Abkar, Anita Taylor, Amina Stoddart, Graham Gagnon",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2023/ew/d2ew00578f",
         "firstOrLast": true,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "1DsIQWDZLl8C": {
         "title": "Understanding the impact of different source water types on the biofilm characteristics and microbial communities of manganese removing biofilters",
-        "year": "2025/2/21",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "N. E. McCormick,M. Earle,A. K. Stoddart,M. G. I. Langille,G. A. Gagnon",
-        "url": "https://doi.org/10.1039/d2ew00568a",
+        "year": "2023",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "NE McCormick, M Earle, AK Stoddart, MGI Langille, GA Gagnon",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2022/ew/d2ew00568a",
         "firstOrLast": false,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "kWvqk_afx_IC": {
         "title": "Calibration of high performance size exclusion chromatography (HPSEC) for molecular weight estimation of aquatic humic substances",
@@ -10796,39 +10796,39 @@
       },
       "-jrNzM816MMC": {
         "title": "Sodium silicate and hexametaphosphate promote the release of (oxyhydr) oxide nanoparticles from corroding iron",
-        "year": "2025/5/9",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "Benjamin F. Trueman,Javier Locsin,Evelyne Dor\u00e9,Kalli Hood,Graham A. Gagnon",
-        "url": "https://doi.org/10.1039/d2va00199c",
+        "year": "2022",
+        "publisher": "Environmental Science: Advances",
+        "author": "Benjamin F Trueman, Javier Locsin, Evelyne Dor\u00e9, Kalli Hood, Graham A Gagnon",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2022/va/d2va00199c",
         "firstOrLast": true,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "OBSaB-F7qqsC": {
         "title": "Role of natural organic matter and hardness on lead release from galvanic corrosion",
-        "year": "2025/7/26",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "Patrick W. King,Sigrid Peldszus,Anushka Mishrra,Benjamin F. Trueman,Kimia Aghasadeghi,Graham A. Gagnon,Daniel E. Giammar,Peter M. Huck",
-        "url": "https://doi.org/10.1039/d1ew00903f",
+        "year": "2022",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "Patrick W King, Sigrid Peldszus, Anushka Mishrra, Benjamin F Trueman, Kimia Aghasadeghi, Graham A Gagnon, Daniel E Giammar, Peter M Huck",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2022/ew/d1ew00903f",
         "firstOrLast": false,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "yxmsSjX2EkcC": {
         "title": "Development of a rapid pre-concentration protocol and a magnetic beads-based RNA extraction method for SARS-CoV-2 detection in raw municipal wastewater",
-        "year": "2025/7/24",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "A. L. Parra-Guardado,C. L. Sweeney,E. K. Hayes,B. F. Trueman,Y. Huang,R. C. Jamieson,J. L. Rand,G. A. Gagnon,A. K. Stoddart",
-        "url": "https://doi.org/10.1039/d1ew00539a",
+        "year": "2022",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "AL Parra-Guardado, CL Sweeney, EK Hayes, BF Trueman, Y Huang, RC Jamieson, JL Rand, GA Gagnon, AK Stoddart",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2022/ew/d1ew00539a",
         "firstOrLast": false,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "-mN3Mh-tlDkC": {
         "title": "Effect of sodium silicate on drinking water biofilm development",
-        "year": "2021/9/15",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Sebastian Munoz,Benjamin F. Trueman,Bofu Li,Graham A. Gagnon",
-        "url": "https://doi.org/10.1101/2021.09.15.460503",
+        "year": "2022",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "Sebastian Munoz, Benjamin F Trueman, Bofu Li, Graham A Gagnon",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2022/ew/d1ew00682g",
         "firstOrLast": true,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "1yWc8FF-_SYC": {
         "title": "Biological and physico-chemical mechanisms accelerating the acclimation of Mn-removing biofilters",
@@ -10958,12 +10958,12 @@
       },
       "WHdLCjDvYFkC": {
         "title": "Specificity of UV-C LED Disinfection Efficacy for Three N95 Respirators",
-        "year": "2021/7/28",
-        "publisher": "Springer Science and Business Media LLC",
-        "author": "C. Carolina Ontiveros,David C. Shoults,Sean MacIsaac,Kyle D. Rauch,Crystal L. Sweeney,Amina K. Stoddart,Graham A. Gagnon",
-        "url": "https://doi.org/10.1038/s41598-021-94810-4",
+        "year": "2021",
+        "publisher": "Scientific Reports",
+        "author": "C Carolina Ontiveros, David C Shoults, Sean MacIsaac, Kyle D Rauch, Crystal L Sweeney, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://www.nature.com/articles/s41598-021-94810-4",
         "firstOrLast": true,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "FiytvqdAVhgC": {
         "title": "Chemical recovery and browning of Nova Scotia surface waters in response to declining acid deposition",
@@ -10976,12 +10976,12 @@
       },
       "IaI1MmNe2tcC": {
         "title": "Impact of sodium silicate on lead release from lead (II) carbonate",
-        "year": "2025/2/21",
-        "publisher": "Royal Society of Chemistry (RSC)",
-        "author": "Bofu Li,Benjamin F. Trueman,Javier M. Locsin,Yaohuan Gao,Mohammad Shahedur Rahman,Yuri Park,Graham A. Gagnon",
-        "url": "https://doi.org/10.1039/d0ew00886a",
+        "year": "2021",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "Bofu Li, Benjamin F Trueman, Javier M Locsin, Yaohuan Gao, Mohammad Shahedur Rahman, Yuri Park, Graham A Gagnon",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2021/ew/d0ew00886a",
         "firstOrLast": true,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "j7_hQOaDUrUC": {
         "title": "Predicting manganese and iron precipitation in drinking water biofilters",
@@ -14087,10 +14087,10 @@
     "publications": {
       "RSvx26AYfG8C": {
         "title": "Design considerations for a Digital Twin built to improve nitrification performance at a water resource recovery facility",
-        "year": "2025/7/18",
+        "year": "2025/8/1",
         "publisher": "Water Science & Technology",
         "author": "Jeffrey Sparks, Charles B Bott, Peter A Vanrolleghem",
-        "url": "https://iwaponline.com/wst/article/doi/10.2166/wst.2025.106/108811",
+        "url": "https://iwaponline.com/wst/article/92/3/471/108811",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -15854,7 +15854,16 @@
         "year": "2025/8/13",
         "publisher": "PLOS Digital Health",
         "author": "Wenshan Li, Luke Turcotte, Amy T Hsu, Robert Talarico, Danial Qureshi, Colleen Webber, Steven Hawken, Peter Tanuseputro, Douglas G Manuel, Greg Huyer",
-        "url": "https://journals.plos.org/digitalhealth/article/file?id=10.1371/journal.pdig.0000987&type=printable",
+        "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pdig.0000987&type=printable",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "uENYxwZKF5gC": {
+        "title": "A Predictive Tool for Ability to Remain at Home After Cancer Surgery in Older Adults",
+        "year": "2025/8/1",
+        "publisher": "JAMA surgery",
+        "author": "Julie Hallet, Alyson L Mahar, Wing C Chan, Daniel I McIsaac, Natalie Coburn, Anna Gombay, Matthew Guttman, Barbara Haas, Amy Hsu, Frances C Wright, Lesley Gotlib-Conn, Anna Ding, Jessica Armah, Tyler Chesney, Doug Manuel, Grace Palladino, Pietro Galuzzo",
+        "url": "https://jamanetwork.com/journals/jamasurgery/article-abstract/2835788",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -16692,15 +16701,6 @@
         "publisher": "Nutrients",
         "author": "Said Yousef, Ian Colman, Manny Papadimitropoulos, Douglas Manuel, Alomgir Hossain, MoezAlIslam Faris, George A Wells",
         "url": "https://www.mdpi.com/2072-6643/14/9/1760",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "6FFC2c45_UYC": {
-        "title": "Community Surveillance of Omicron in Ontario: Wastewater-based Epidemiology Comes of Age.",
-        "year": "2022/3/15",
-        "publisher": "R",
-        "author": "Authors presented in alphabetical order, Eric Arts, Stephen Brown, David Bulir, Trevor C Charles, Christopher T DeGroot, Robert Delatolla, Jean-Paul Desaulniers, Elizabeth A Edwards, Meghan Fuzzen, Kimberley Gilbride, Jodi Gilchrist, Lawrence Goodridge, Tyson E Graber, Marc Habash, Peter J\u00fcni, Andrea Kirkwood, James Knockleby, Christopher Kyle, Chrystal Landgraff, Chand Mangat, Douglas G Manuel, R Michael McKay, Edgard Mejia, Aleksandra Mloszewska, Banu Ormeci, Claire Oswald, Sarah Jane Payne, Hui Peng, Shelley Peterson, Art FY Poon, Mark R Servos, Denina Simmons, Jianxian Sun, Minqing Yang, Gustavo Ybazeta",
-        "url": "https://www.researchsquare.com/article/rs-1439969/latest",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -17830,13 +17830,13 @@
         "datasource": "Scholars"
       },
       "XiVPGOgt02cC": {
-        "title": "NGBO: Introducing-omics contextual data to biobanking ontology",
-        "year": "2025/8/7",
-        "publisher": "Bioinformatics Advances",
-        "author": "Dalia Alghamdi, Damion M Dooley, Mannar Samman, Ali AlFaiz, William WL Hsiao",
-        "url": "https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf131/8224585",
+        "title": "Next generation biobanking ontology: introducing\u2013omics contextual data to biobanking ontology",
+        "year": "2024/12/26",
+        "publisher": "Oxford University Press (OUP)",
+        "author": "Dalia Alghamdi,Damion M Dooley,Mannar Samman,Ali AlFaiz,William W L Hsiao",
+        "url": "https://doi.org/10.1093/bioadv/vbaf131",
         "firstOrLast": true,
-        "datasource": "Scholars"
+        "datasource": "CrossRef"
       },
       "4fKUyHm3Qg0C": {
         "title": "The Canadian VirusSeq Data Portal and Duotang: open resources for SARS-CoV-2 viral sequences and genomic epidemiology",
@@ -18526,11 +18526,11 @@
         "datasource": "Scholars"
       },
       "QKtdBID3u5MC": {
-        "title": "Incremental immunogenicity of multiple doses of SARS-CoV-2 vaccination in patients with haematological malignancies",
+        "title": "Incremental immunogenicity of multiple doses of SARS\u2010CoV\u20102 vaccination in patients with haematological malignancies",
         "year": "2025/8/1",
         "publisher": "British Journal of Haematology",
-        "author": "Abi Vijenthira, Sita Bhella, Katrina Hueniken, Allison M Wilkin, Michael Sebag, Peng Wang, Lisa K Hicks, Annette E Hay, Sarit Assouline, Amaris Balitsky, Graeme Fraser, Joy Mangel, Carolyn Owen, Anthony Reiman, Laurie Sehn, Heather Sutherland, Corey Arnold, Tamara Leite, Erinn McCarthy, Angela Crawley, Curtis Cooper, Marc-Andre Langlois, Arianne C Buchan",
-        "url": "https://www.ovid.com/journals/bjha/abstract/10.1111/bjh.70054~incremental-immunogenicity-of-multiple-doses-of-sars-cov-2",
+        "author": "Abi Vijenthira, Sita Bhella, Katrina Hueniken, Allison M Wilkin, Michael Sebag, Peng Wang, Lisa K Hicks, Annette E Hay, Sarit Assouline, Amaris Balitsky, Graeme Fraser, Joy Mangel, Carolyn Owen, Anthony Reiman, Laurie Sehn, Heather Sutherland, Corey Arnold, Tamara Leite, Erinn McCarthy, Angela Crawley, Curtis Cooper, Marc\u2010Andre Langlois, C Arianne Buchan, VIP Study Investigators",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/bjh.70054",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -21190,7 +21190,7 @@
         "datasource": "Scholars"
       },
       "1EqfMoDn7-AC": {
-        "title": "Suspended solids and optimal RNase inhibitors impact the partitioning and decay of SARS-CoV-2 in wastewater",
+        "title": "Suspended Solids and Optimal RNase Inhibitors Impact the Partitioning and Decay of SARS-CoV-2 in Wastewater",
         "year": "2024/12/3",
         "publisher": "ACS ES&T Water",
         "author": "Fernando Sanchez-Quete, Lawrence Chiang, Felipe Caldera Sequeira, Eyerusalem Goitom, Alexandra Tsitouras, Thomas Maere, Peter A Vanrolleghem, Sarah Dorner, Dominic Frigon, Stephanie K Loeb",
@@ -21208,7 +21208,7 @@
         "datasource": "Scholars"
       },
       "eFf2swCANGcC": {
-        "title": "Combining short-and long-read sequencing technologies to identify SARS-CoV-2 variants in wastewater",
+        "title": "Combining Short-and Long-Read Sequencing Technologies to Identify SARS-CoV-2 Variants in Wastewater",
         "year": "2024/9/21",
         "publisher": "Viruses",
         "author": "Gabrielle Jayme, Ju-Ling Liu, Jose Hector Galvez, Sarah Julia Reiling, Sukriye Celikkol, Arnaud N\u2019Guessan, Sally Lee, Shu-Huang Chen, Alexandra Tsitouras, Fernando Sanchez-Quete, Thomas Maere, Eyerusalem Goitom, Mounia Hachad, Elisabeth Mercier, Stephanie Katharine Loeb, Peter A Vanrolleghem, Sarah Dorner, Robert Delatolla, B Jesse Shapiro, Dominic Frigon, Jiannis Ragoussis, Terrance P Snutch",
@@ -21257,7 +21257,7 @@
         "year": "2023/8/2",
         "publisher": "Frontiers in Public Health",
         "author": "Marc-Denis Rioux, Fran\u00e7ois Guillemette, Karine Lemarchand, Kim Doiron, Jean-Fran\u00e7ois Lemay, Thomas Maere, Patrick Dolc\u00e9, Patrik Quessy, Nanouk Abonnenc, Peter A Vanrolleghem, Dominic Frigon",
-        "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1141837/full",
+        "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2023.1141837/full",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -21389,12 +21389,12 @@
       },
       "hefNtdE4IMkC": {
         "title": "Plant-wide systems microbiology for the wastewater industry",
-        "year": "2021",
-        "publisher": "Environmental Science: Water Research & Technology",
-        "author": "Marta Cerruti, Bing Guo, Robert Delatolla, Nadieh De Jonge, Aleida Hommes-De Vos Van Steenwijk, Paul Kadota, Christopher E Lawson, Ted Mao, Margreet J Oosterkamp, Fabrizio Sabba, Mikkel Stokholm-Bjerregaard, Ian Watson, Dominic Frigon, David G Weissbrodt",
-        "url": "https://pubs.rsc.org/en/content/articlehtml/2021/ew/d1ew00231g",
+        "year": "2025/6/11",
+        "publisher": "Royal Society of Chemistry (RSC)",
+        "author": "Marta Cerruti,Bing Guo,Robert Delatolla,Nadieh de Jonge,Aleida Hommes - de Vos van Steenwijk,Paul Kadota,Christopher E. Lawson,Ted Mao,Margreet J. Oosterkamp,Fabrizio Sabba,Mikkel Stokholm-Bjerregaard,Ian Watson,Dominic Frigon,David G. Weissbrodt",
+        "url": "https://doi.org/10.1039/d1ew00231g",
         "firstOrLast": false,
-        "datasource": "Scholars"
+        "datasource": "CrossRef"
       }
     }
   },
@@ -24317,7 +24317,7 @@
         "year": "2025/7/31",
         "publisher": "Frontiers in Science",
         "author": "Paula Fern\u00e1ndez-G\u00f3mez, Dara Leong, Gabriele Berg, Fiona Brennan, Tancredi Caruso, Trevor C Charles, Luca S Cocolin, Lene Lange, Olivia McAuliffe, Emmanuelle Maguin, Orla O\u2019Sullivan, Yolanda Sanz, Inga Sarand, Angela Sessitsch, Hauke Smidt, Nicholas Brereton, Marco Candela, John Kenny, Tanja Kostic, Jennifer Mahony, Martin Wagner, Paul D Cotter",
-        "url": "https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1575468/full",
+        "url": "https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1575468/full?utm_source=linkedin&utm_medium=cpc&utm_campaign=aw_fsci-foo_08-25_fsci_en_dat_pcit_pcit_reg13&utm_content=video",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -24326,7 +24326,7 @@
         "year": "2025/7/1",
         "publisher": "Investigative Ophthalmology & Visual Science",
         "author": "Yang Yang, Ying Hon Sze, Houjiang Zhou, Winky Wing Man Ko, Yuanliang Zhang, Kecheng Li, Qi Zhang, King Kit Li, Trevor C Charles, Chi-ho To, Qian Zhao, Thomas Chuen Lam",
-        "url": "https://iovs.arvojournals.org/article.aspx?articleid=2810604",
+        "url": "https://tvst.arvojournals.org/article.aspx?articleid=2810604",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -25021,7 +25021,7 @@
         "title": "Two-Eyed Seeing and other Indigenous perspectives for neuroscience",
         "year": "2025/2/6",
         "publisher": "N",
-        "author": "Judy Illes, Melissa L Perreault, Katherine Bassil, Jan G Bjaalie, Rudi Louis Taylor-Bragge, Herv\u00e9 Chneiweiss, TR Gregory, BN Kumar, OP Matshabane, Anna Lydia Svalastog, MR Velarde",
+        "author": "J Illes, ML Perreault, K Bassil, JG Bjaalie, RL Taylor-Bragge, H Chneiweiss, TR Gregory, BN Kumar, OP Matshabane, AL Svalastog, MR Velarde",
         "url": "https://www.nature.com/articles/s41586-024-08437-2",
         "firstOrLast": false,
         "datasource": "Scholars"
@@ -25030,26 +25030,26 @@
         "title": "Prenatal exposure to valproic acid induces sex-specific alterations in rat cortical and hippocampal neuronal structure and function in vitro",
         "year": "2025/1/10",
         "publisher": "Progress in Neuro-Psychopharmacology and Biological Psychiatry",
-        "author": "Olivia OF Williams, Madeleine Coppolino, Cecilia B Micelli, Ryan T Mccallum, Paula T Henry-Duru, Joshua D Manduca, Jasmin Lalonde, Melissa L Perreault",
+        "author": "Olivia OF Williams, Madeleine Coppolino, Cecilia B Micelli, Ryan T McCallum, Paula T Henry-Duru, Joshua D Manduca, Jasmin Lalonde, Melissa L Perreault",
         "url": "https://www.sciencedirect.com/science/article/pii/S0278584624002902",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
       "u_35RYKgDlwC": {
         "title": "Indigenous epistemologies, Two-Eyed Seeing, and the philosophy, practice, and applications of brain sciences",
-        "year": "2025/1/1",
+        "year": "2025/4/3",
         "publisher": "A",
-        "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre D McLachlan, Michael Yellow Bird, Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000049",
+        "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre McLachlan, Michael Yellow Bird, Melissa L Perreault",
+        "url": "https://scholar.google.com/scholar?cluster=1648153602223541821&hl=en&oi=scholarr",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
       "zA6iFVUQeVQC": {
         "title": "Authenticity in capacity-building for neuroscience: Indigenous scholarship, teaching, and care",
-        "year": "2025/1/1",
+        "year": "2025/2/27",
         "publisher": "A",
-        "author": "Melissa L Perreault, Rudi L Taylor-Bragge, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000037",
+        "author": "Melissa L Perreault, Rudi Taylor-Bragge, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S2589295925000037",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -25180,7 +25180,7 @@
         "datasource": "Scholars"
       },
       "GnPB-g6toBAC": {
-        "title": "Understanding and rebalancing: A rapid scoping review of cannabis research among Indigenous people",
+        "title": "Understanding and Rebalancing: A Rapid Scoping Review of Cannabis Research Among Indigenous People",
         "year": "2023/5/1",
         "publisher": "M",
         "author": "Miles Schaffrick, Melissa L Perreault, A Maxwell P Jones, Judy Illes",
@@ -25361,7 +25361,7 @@
       },
       "hFOr9nPyWt4C": {
         "title": "Sex difference in dopamine D1-D2 receptor complex expression and signaling affects depression-and anxiety-like behaviors",
-        "year": "2020/2/22",
+        "year": "2020/12",
         "publisher": "Biology of sex differences",
         "author": "Ahmed Hasbi, Tuan Nguyen, Haneen Rahal, Joshua D Manduca, Sharon Miksys, Rachel F Tyndale, Bertha K Madras, Melissa L Perreault, Susan R George",
         "url": "https://link.springer.com/article/10.1186/s13293-020-00285-9",
@@ -25379,7 +25379,7 @@
         "year": "2025/8/1",
         "publisher": "Revue canadienne de service social",
         "author": "H\u00e9l\u00e8ne Pourcelot, Oscar Labra, Hugo Asselin",
-        "url": null,
+        "url": "https://www.erudit.org/en/journals/cswr/2025-v42-n1-cswr010140/1119016ar/abstract/",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -28523,12 +28523,12 @@
       },
       "QIV2ME_5wuYC": {
         "title": "A new species of rake-legged mite, Caeculus cassiopeiae (Prostigmata, Caeculidae), from Canada and a systematic analysis of its genus. ZooKeys, 926, 1\u201323",
-        "year": "2020",
-        "publisher": "Unknown",
-        "author": "J Bernard, LM Lumley, M Buck, TP Cobb",
-        "url": "https://scholar.google.com/scholar?cluster=7421949558689379210&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
+        "year": "2020/4/13",
+        "publisher": "Pensoft Publishers",
+        "author": "Jared Bernard,Lisa M. Lumley,Matthias Buck,Tyler P. Cobb",
+        "url": "https://doi.org/10.3897/zookeys.926.48741",
+        "firstOrLast": true,
+        "datasource": "CrossRef"
       }
     }
   },
@@ -28622,11 +28622,11 @@
       "mVmsd5A6BfQC": {
         "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
         "year": "2025/7/7",
-        "publisher": "American Chemical Society (ACS)",
-        "author": "Md Pervez Kabir,Julio Plaza-Diaz,\u00c9lisabeth Mercier,Patrick M. D\u2019Aoust,Lawrence Goodridge,Opeyemi U. Lawal,Shen Wan,Nada Hegazy,Tram Nguyen,Chandler Wong,Felix Addo,Elizabeth Renouf,Tyson E. Graber,Robert Delatolla",
-        "url": "https://doi.org/10.1021/acsestwater.5c00142",
+        "publisher": "ACS Es&t Water",
+        "author": "Md Pervez Kabir, Julio Plaza-Diaz, \u00c9lisabeth Mercier, Patrick M D\u2019Aoust, Lawrence Goodridge, Opeyemi U Lawal, Shen Wan, Nada Hegazy, Tram Nguyen, Chandler Wong, Felix Addo, Elizabeth Renouf, Tyson E Graber, Robert Delatolla",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.5c00142",
         "firstOrLast": false,
-        "datasource": "CrossRef"
+        "datasource": "Scholars"
       },
       "Wp0gIr-vW9MC": {
         "title": "Passive sampling for genomic surveillance of SARS-CoV-2 in wastewater resource recovery facility: Insights for pandemic preparedness",
