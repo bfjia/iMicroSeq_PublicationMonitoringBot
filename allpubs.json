@@ -4578,15 +4578,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "D52hNgOu9GcC": {
-        "title": "Environmental impacts associated with the removal of productivity enhancing technologies from three different post-weaning feed management strategies in Saskatchewan: A case study",
-        "year": "2024/9/1",
-        "publisher": "O",
-        "author": "Sydney Fortier, Tim A McAllister, Deanne Fulawka, Getahun Legesse, Genet Mengistu, Isaac Aboagye, H Lardner, Mario Tenuta, Kim H Ominski",
-        "url": "https://scholar.google.com/scholar?cluster=1139705669915732598&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "ZuSUVyMx-TgC": {
         "title": "PSXI-5 Transforming retailer\u2019s food waste into silage for sustainable animal nutrition",
         "year": "2024/9/1",
@@ -4874,6 +4865,15 @@
         "url": "https://doi.org/10.3390/toxins16020086",
         "firstOrLast": false,
         "datasource": "CrossRef"
+      },
+      "D52hNgOu9GcC": {
+        "title": "Environmental impacts associated with the removal of productivity enhancing technologies from three different post-weaning feed management strategies in Saskatchewan: A case study",
+        "year": "2024/9/1",
+        "publisher": "O",
+        "author": "Sydney Fortier, Tim A McAllister, Deanne Fulawka, Getahun Legesse, Genet Mengistu, Isaac Aboagye, H Lardner, Mario Tenuta, Kim H Ominski",
+        "url": "https://scholar.google.com/scholar?cluster=1139705669915732598&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
       },
       "qzuIxkxWBNsC": {
         "title": "Linking active rectal mucosa-attached microbiota to host immunity reveals its role in host",
@@ -8982,6 +8982,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "hCrLmN-GePgC": {
+        "title": "Metagenomic Insights into the Impact of Nutrition on Human Gut Microbiota and Associated Disease Risk",
+        "year": "2025/7/18",
+        "publisher": "MDPI AG",
+        "author": "Preethi Balasundaram,Kirti Dubli,Francisco Aleman,Rinku Chaudhari,Sarvesh Vettrivelan,Amrita Kaur,Raman Kapoor,Casey Hubert,Raja Singh,Anmol Kapoor,Minal BorkarTripathi",
+        "url": "https://doi.org/10.20944/preprints202507.1551.v1",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      },
       "_axFR9aDTf0C": {
         "title": "Predicting hydrocarbon presence in marine cold seep sediments using machine learning models trained with benthic bacterial 16S rRNA taxonomy",
         "year": "2025/8/20",
@@ -9105,15 +9114,6 @@
         "publisher": "MDPI AG",
         "author": "Francisco Aleman,Preethi Balasundaram,Kirti Dubli,Rinku Chaudhari,Casey Hubert,Anmol Kapoor,Raja Singh,Minal Borkar Tripathi",
         "url": "https://doi.org/10.20944/preprints202507.1587.v1",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      },
-      "hCrLmN-GePgC": {
-        "title": "Metagenomic Insights into the Impact of Nutrition on Human Gut Microbiota and Associated Disease Risk",
-        "year": "2025/7/18",
-        "publisher": "MDPI AG",
-        "author": "Preethi Balasundaram,Kirti Dubli,Francisco Aleman,Rinku Chaudhari,Sarvesh Vettrivelan,Amrita Kaur,Raman Kapoor,Casey Hubert,Raja Singh,Anmol Kapoor,Minal BorkarTripathi",
-        "url": "https://doi.org/10.20944/preprints202507.1551.v1",
         "firstOrLast": false,
         "datasource": "CrossRef"
       },
@@ -13636,8 +13636,17 @@
   },
   "S2HhkvEAAAAJ": {
     "Name": "Sarah Dorner",
-    "total_publications": "49",
+    "total_publications": "50",
     "publications": {
+      "_Re3VWB3Y0AC": {
+        "title": "Characterization of Per-and Polyfluoroalkyl Substances in Drinking Water Sources in the Greater Montreal Area, Quebec, Canada",
+        "year": "2025/9/2",
+        "publisher": "ACS ES&T Water",
+        "author": "Ignacio M Ceballos, Hadia Terro, Benoit Barbeau, Natasha McQuaid, S\u00e9bastien Sauv\u00e9, Sarah Dorner",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.5c00562",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "Fu2w8maKXqMC": {
         "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
         "year": "2025/7/1",
@@ -15804,12 +15813,30 @@
     "Name": "Doug Manuel",
     "total_publications": "100",
     "publications": {
+      "ItgTnG0mAXQC": {
+        "title": "Sex Differences in Cardiovascular Health Status and Long-Term Outcomes in a Primary Prevention Cohort",
+        "year": "2025/10/1",
+        "publisher": "JACC: Advances",
+        "author": "Maneesh Sud, Areeba Chaudhry, Feng Qui, Olivia Haldenby, Lucas C Godoy, Peter C Austin, Idan Roifman, Douglas Manuel, Dean T Eurich, Harindra C Wijeysundera, Mina Madan, Thao Huynh, Dennis T Ko",
+        "url": "https://www.jacc.org/doi/abs/10.1016/j.jacadv.2025.102108",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "DPnopAH2kssC": {
         "title": "Unpaid Caregiver Characteristics Associated With Retirement From the Labor Force: A Matched Case-Control Study Using CLSA Data",
         "year": "2025/10/1",
         "publisher": "Journal of the American Medical Directors Association",
         "author": "Derek R Manis, Wenshan Li, Reiko Okamoto, Stacey Fisher, Colleen Webber, Vanessa Taler, Douglas G Manuel, Amy T Hsu",
         "url": "https://www.jamda.com/article/S1525-8610(25)00259-2/abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "IjbvboqL_eAC": {
+        "title": "Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats",
+        "year": "2025/9/2",
+        "publisher": "Open Research Europe",
+        "author": "Fotis Psomopoulos, Colman O\u2019Cathail, Natasa Anastasiadou, Clementina Cocuzza, Wim L Cuypers, Olateju Idowu, Konstantinos Kyritsis, Katharina B Lauer, Marialuisa Lavitrano, Gabriele Leoni, Ju-Ling Liu, Guerrino Macori, Giulio Mannar\u00e0, Douglas G Manuel, Marianna Martinelli, Rosario Musumeci, Aitana Neves, Nikos Pechlivanis, Mauro Petrillo, Jiannis Ragoussis, Nadim Rahman, Katarina \u00d6jefors Stark, Mathew Thomson, Matthew J Wade, Michael Wright, ELIXIR Wastewater Surveillance Working Group",
+        "url": "https://open-research-europe.ec.europa.eu/articles/5-267",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -15855,15 +15882,6 @@
         "publisher": "PLOS Digital Health",
         "author": "Wenshan Li, Luke Turcotte, Amy T Hsu, Robert Talarico, Danial Qureshi, Colleen Webber, Steven Hawken, Peter Tanuseputro, Douglas G Manuel, Greg Huyer",
         "url": "https://journals.plos.org/digitalhealth/article/file?id=10.1371/journal.pdig.0000987&type=printable",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "uENYxwZKF5gC": {
-        "title": "A Predictive Tool for Ability to Remain at Home After Cancer Surgery in Older Adults",
-        "year": "2025/8/1",
-        "publisher": "JAMA surgery",
-        "author": "Julie Hallet, Alyson L Mahar, Wing C Chan, Daniel I McIsaac, Natalie Coburn, Anna Gombay, Matthew Guttman, Barbara Haas, Amy Hsu, Frances C Wright, Lesley Gotlib-Conn, Anna Ding, Jessica Armah, Tyler Chesney, Doug Manuel, Grace Palladino, Pietro Galuzzo",
-        "url": "https://jamanetwork.com/journals/jamasurgery/article-abstract/2835788",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -16694,15 +16712,6 @@
         "url": "https://academic.oup.com/ofid/article-abstract/9/5/ofac156/6555707",
         "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "0IGl3jR3yJEC": {
-        "title": "Vitamin D and chronic diseases among first-generation immigrants: a large-scale study using Canadian health measures survey (CHMS) data",
-        "year": "2022/4/22",
-        "publisher": "Nutrients",
-        "author": "Said Yousef, Ian Colman, Manny Papadimitropoulos, Douglas Manuel, Alomgir Hossain, MoezAlIslam Faris, George A Wells",
-        "url": "https://www.mdpi.com/2072-6643/14/9/1760",
-        "firstOrLast": false,
-        "datasource": "Scholars"
       }
     }
   },
@@ -16842,6 +16851,15 @@
     "Name": "Jiannis Ragoussis",
     "total_publications": "100",
     "publications": {
+      "rbm3iO8VlycC": {
+        "title": "Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats",
+        "year": "2025/9/2",
+        "publisher": "Open Research Europe",
+        "author": "Fotis Psomopoulos, Colman O\u2019Cathail, Natasa Anastasiadou, Clementina Cocuzza, Wim L Cuypers, Olateju Idowu, Konstantinos Kyritsis, Katharina B Lauer, Marialuisa Lavitrano, Gabriele Leoni, Ju-Ling Liu, Guerrino Macori, Giulio Mannar\u00e0, Douglas G Manuel, Marianna Martinelli, Rosario Musumeci, Aitana Neves, Nikos Pechlivanis, Mauro Petrillo, Jiannis Ragoussis, Nadim Rahman, Katarina \u00d6jefors Stark, Mathew Thomson, Matthew J Wade, Michael Wright, ELIXIR Wastewater Surveillance Working Group",
+        "url": "https://open-research-europe.ec.europa.eu/articles/5-267",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "69ZgNCALVd0C": {
         "title": "No evidence that human GIGYF2 interacts with GRB10: implications for human disease",
         "year": "2025/9/1",
@@ -17730,15 +17748,6 @@
         "publisher": "Human mutation",
         "author": "Paula S Felicio, Rebeca S Grasel, Natalia Campacci, Andre E de Paula, Henrique CR Galv\u00e3o, Giovana T Torrezan, Cristina S Sabato, Gabriela C Fernandes, Cristiano P Souza, Rodrigo D Michelli, Carlos E Andrade, Bruna Dur\u00e3es De Figueiredo Barros, Marcus M Matsushita, Timoth\u00e9e Revil, Jiannis Ragoussis, Fergus J Couch, Steven N Hart, Rui M Reis, Matias E Melendez, Patricia N Tonin, Dirce M Carraro, Edenir I Palmero",
         "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.24158",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "tYavs44e6CUC": {
-        "title": "Abstract SP112: Spatial variance signatures/Intra-tumor zonation in TNBC",
-        "year": "2021/2/15",
-        "publisher": "Cancer Research",
-        "author": "M Park, C Mart\u00ednez Ramirez, Y Yang, A Blanchet-Cohen, H Kuasne, A Fortier, J Ragoussis, P Savage, A Omeroglou, S Meterissian, S Costantino, C Kleinman",
-        "url": "https://aacrjournals.org/cancerres/article-abstract/81/4_Supplement/SP112/649041",
         "firstOrLast": false,
         "datasource": "Scholars"
       }

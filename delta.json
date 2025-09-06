@@ -1,1 +1,56 @@
-{}
+{
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
+    "total_new": "1",
+    "publications": {
+      "_Re3VWB3Y0AC": {
+        "title": "Characterization of Per-and Polyfluoroalkyl Substances in Drinking Water Sources in the Greater Montreal Area, Quebec, Canada",
+        "year": "2025/9/2",
+        "publisher": "ACS ES&T Water",
+        "author": "Ignacio M Ceballos, Hadia Terro, Benoit Barbeau, Natasha McQuaid, S\u00e9bastien Sauv\u00e9, Sarah Dorner",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.5c00562",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
+    "total_new": "2",
+    "publications": {
+      "ItgTnG0mAXQC": {
+        "title": "Sex Differences in Cardiovascular Health Status and Long-Term Outcomes in a Primary Prevention Cohort",
+        "year": "2025/10/1",
+        "publisher": "JACC: Advances",
+        "author": "Maneesh Sud, Areeba Chaudhry, Feng Qui, Olivia Haldenby, Lucas C Godoy, Peter C Austin, Idan Roifman, Douglas Manuel, Dean T Eurich, Harindra C Wijeysundera, Mina Madan, Thao Huynh, Dennis T Ko",
+        "url": "https://www.jacc.org/doi/abs/10.1016/j.jacadv.2025.102108",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "IjbvboqL_eAC": {
+        "title": "Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats",
+        "year": "2025/9/2",
+        "publisher": "Open Research Europe",
+        "author": "Fotis Psomopoulos, Colman O\u2019Cathail, Natasa Anastasiadou, Clementina Cocuzza, Wim L Cuypers, Olateju Idowu, Konstantinos Kyritsis, Katharina B Lauer, Marialuisa Lavitrano, Gabriele Leoni, Ju-Ling Liu, Guerrino Macori, Giulio Mannar\u00e0, Douglas G Manuel, Marianna Martinelli, Rosario Musumeci, Aitana Neves, Nikos Pechlivanis, Mauro Petrillo, Jiannis Ragoussis, Nadim Rahman, Katarina \u00d6jefors Stark, Mathew Thomson, Matthew J Wade, Michael Wright, ELIXIR Wastewater Surveillance Working Group",
+        "url": "https://open-research-europe.ec.europa.eu/articles/5-267",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "ThjB_RcAAAAJ": {
+    "Name": "Jiannis Ragoussis",
+    "total_new": "1",
+    "publications": {
+      "rbm3iO8VlycC": {
+        "title": "Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats",
+        "year": "2025/9/2",
+        "publisher": "Open Research Europe",
+        "author": "Fotis Psomopoulos, Colman O\u2019Cathail, Natasa Anastasiadou, Clementina Cocuzza, Wim L Cuypers, Olateju Idowu, Konstantinos Kyritsis, Katharina B Lauer, Marialuisa Lavitrano, Gabriele Leoni, Ju-Ling Liu, Guerrino Macori, Giulio Mannar\u00e0, Douglas G Manuel, Marianna Martinelli, Rosario Musumeci, Aitana Neves, Nikos Pechlivanis, Mauro Petrillo, Jiannis Ragoussis, Nadim Rahman, Katarina \u00d6jefors Stark, Mathew Thomson, Matthew J Wade, Michael Wright, ELIXIR Wastewater Surveillance Working Group",
+        "url": "https://open-research-europe.ec.europa.eu/articles/5-267",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
