@@ -4272,6 +4272,15 @@
     "Name": "Tim A. McAllister",
     "total_publications": "100",
     "publications": {
+      "WIVIxizkzXoC": {
+        "title": "Nutritional Challenges Related to Animal Welfare in Feedlot and Dairy Cattle",
+        "year": "2025/9/3",
+        "publisher": "E",
+        "author": "Tim McAllister, Terry Engle",
+        "url": "https://www.vetfood.theclinics.com/article/S0749-0720(25)00039-8/abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "-R_Z4shfoosC": {
         "title": "Divergent trends in structural landscape connectivity from historic and potential future grassland conversion in Alberta, Canada",
         "year": "2025/8/1",
@@ -5161,15 +5170,6 @@
         "author": "E\u00f3in O\u2019Hara, Stephanie A Terry, Paul Moote, Karen A Beauchemin, Tim A McAllister, D Wade Abbott, Robert J Gruninger",
         "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2023.1104667/full",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "1AS7WB7zg6gC": {
-        "title": "Comparative genomic analysis of enterococci across sectors of the one health continuum",
-        "year": "2023/3/11",
-        "publisher": "Microorganisms",
-        "author": "Sani-e-Zehra Zaidi, Rahat Zaheer, Dominic Poulin-Laprade, Andrew Scott, Muhammad Attiq Rehman, Moussa Diarra, Edward Topp, Gary Van Domselaar, Athanasios Zovoilis, Tim A McAllister",
-        "url": "https://www.mdpi.com/2076-2607/11/3/727",
-        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
@@ -15885,6 +15885,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "uENYxwZKF5gC": {
+        "title": "A Predictive Tool for Ability to Remain at Home After Cancer Surgery in Older Adults",
+        "year": "2025/8/1",
+        "publisher": "JAMA surgery",
+        "author": "Julie Hallet, Alyson L Mahar, Wing C Chan, Daniel I McIsaac, Natalie Coburn, Anna Gombay, Matthew Guttman, Barbara Haas, Amy Hsu, Frances C Wright, Lesley Gotlib-Conn, Anna Ding, Jessica Armah, Tyler Chesney, Doug Manuel, Grace Palladino, Pietro Galuzzo",
+        "url": "https://jamanetwork.com/journals/jamasurgery/article-abstract/2835788",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "3eo-xq64HD0C": {
         "title": "Minimum Legal Age of Nonmedical Cannabis Purchase Laws and Cannabis-Related Hospitalizations in Canada, 2015 to 2022",
         "year": "2025/7",
@@ -16278,6 +16287,24 @@
         "publisher": "Diagnostic and Prognostic Research",
         "author": "Laura C Rosella, Mackenzie Hurst, Meghan O\u2019Neill, Lief Pagalan, Lori Diemert, Kathy Kornas, Andy Hong, Stacey Fisher, Douglas G Manuel",
         "url": "https://link.springer.com/article/10.1186/s41512-024-00165-5",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "zI9YInTrFVIC": {
+        "title": "End of life interventions in cancer patients",
+        "year": "2024",
+        "publisher": "B",
+        "author": "Colleen Webber, Shuaib Hafid, Anastasia Gayowsky, Michelle Howard, Peter Tanuseputro, Aaron Jones, Mary Scott, Amy T Hsu, James Downar, Douglas Manuel, Sarina R Isenberg",
+        "url": "https://macsphere.mcmaster.ca/handle/11375/32278",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "bGIpCNGh66kC": {
+        "title": "Continuity of care with the primary care physician and involvement of other physicians in the last year of life in community-dwelling adults: A retrospective population-based study",
+        "year": "2024",
+        "publisher": "B",
+        "author": "Michelle Howard, Shuiab Hafid, Sarina R Isenberg, Colleen Webber, James Downar, Anastasia Gayowsky, Aaron Jones, Mary Scott, Amy T Hsu, Katrin Conen, Douglas Manuel, Peter Tanuseputro",
+        "url": "https://macsphere.mcmaster.ca/bitstream/11375/32277/1/Howard%20article%20accepted.pdf",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -16683,33 +16710,6 @@
         "publisher": "Canadian Journal of Public Health",
         "author": "Christine Warren, Erin Hobin, Douglas G Manuel, Laura N Anderson, David Hammond, Mahsa Jessri, JoAnne Arcand, Mary L\u2019Abb\u00e9, Ye Li, Laura C Rosella, Heather Manson, Brendan T Smith",
         "url": "https://link.springer.com/article/10.17269/s41997-021-00602-8",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "RjbMpExGKWAC": {
-        "title": "A Population-Based Analysis of Long-Term Outcomes Among Older Adults Requiring Unexpected Intensive Care Unit Admission After Cancer Surgery (vol 28, pg 7014, 2021)",
-        "year": "2022/5/1",
-        "publisher": "ANNALS OF SURGICAL ONCOLOGY",
-        "author": "Bourke W Tillmann, Julie Hallet, Matthew P Guttman, Natalie Coburn, Tyler Chesney, Jesse Zuckerman, Alyson Mahar, Victoria Zuk, Wing C Chan, Barbara Haas, Amy Hsu, Amy Hsu, Douglas Manuel, Frances Wright, Dov Gandell, Ines Menjak, Lesley Gotlib-Conn, Grace Paladino, Pietro Galuzzo",
-        "url": "https://scholar.google.com/scholar?cluster=13661034756942197114&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "vkAjbg6qVbQC": {
-        "title": "Longer term health system response to the COVID-19 pandemic on the management of respiratory conditions",
-        "year": "2022/5",
-        "publisher": "A",
-        "author": "T Kendzerska, JM Fitzgerald, DT Zhu, M Pugliese, D Manuel, M Sadatsafavi, M Povitz, T Stukel, T To, SD Aaron, S Mulpuru, M Chin, C Kendall, R Robillard, AS Gershon",
-        "url": "https://www.atsjournals.org/doi/pdf/10.1164/ajrccm-conference.2022.205.1_MeetingAbstracts.A1066",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "FlNF6OXwGF0C": {
-        "title": "Screening large population health databases for potential coronavirus disease 2019 therapeutics: A pharmacopeia-wide association study of commonly prescribed medications",
-        "year": "2022/5/1",
-        "publisher": "Open Forum Infectious Diseases",
-        "author": "Derek R MacFadden, Kevin Brown, Sarah A Buchan, Hannah Chung, Rob Kozak, Jeffrey C Kwong, Doug Manuel, Samira Mubareka, Nick Daneman",
-        "url": "https://academic.oup.com/ofid/article-abstract/9/5/ofac156/6555707",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
