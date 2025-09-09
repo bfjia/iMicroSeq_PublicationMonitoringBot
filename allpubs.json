@@ -4290,15 +4290,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "1DdUqAzPfXgC": {
-        "title": "Ensiling of Food Waste for Subsequent Inclusion in Ruminant Diets",
-        "year": "2025/7/14",
-        "publisher": "Canadian Journal of Animal Science",
-        "author": "Janine Hansen, Kim Ominski, Stephanie A Terry, Vicky Garcia, K Stanford, Tim A McAllister",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjas-2025-0021",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "8LfMcXwVQboC": {
         "title": "Agronomic Characteristics and Nutritive Value of Purple Prairie Clover (Dalea purpurea Vent) Grown in Irrigated and Dryland Conditions in Western Canada",
         "year": "2025/7/2",
@@ -4315,6 +4306,15 @@
         "author": "Brian Warr, Sarah Parker, Karen Schwartzkopf-Genswein, Tim McAllister, Murray Jelinski",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40671898/",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "1DdUqAzPfXgC": {
+        "title": "Ensiling of Food Waste for Subsequent Inclusion in Ruminant Diets",
+        "year": "2025/7/14",
+        "publisher": "Canadian Journal of Animal Science",
+        "author": "Janine Hansen, Kim Ominski, Stephanie A Terry, Vicky Garcia, K Stanford, Tim A McAllister",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjas-2025-0021",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "LAaCg2gyLagC": {
@@ -5176,7 +5176,7 @@
   },
   "BC6T6L-UY8gC": {
     "Name": "Caren Helbing",
-    "total_publications": "71",
+    "total_publications": "72",
     "publications": {
       "lmc2jWPfTJgC": {
         "title": "Changes in histone abundance and post-translational modifications in Rana [Lithobates] catesbeiana tissues during temperature-mediated thyroid hormone-induced metamorphosis",
@@ -5303,6 +5303,15 @@
         "url": "https://www.sciencedirect.com/science/article/pii/S1574954124005168",
         "firstOrLast": false,
         "datasource": "Scholars"
+      },
+      "i2xiXl-TujoC": {
+        "title": "Correction to \u201cA Metadata Checklist and Data Formatting Guidelines to Make eDNA FAIR (Findable, Accessible, Interoperable, and Reusable)\u201d",
+        "year": "2025/5",
+        "publisher": "Wiley",
+        "author": "Miwa Takahashi,Tobias Guldberg Fr\u00f8slev,Joana Paup\u00e9rio,Bettina Thalinger,Katy Klymus,Caren C. Helbing,Cecilia Villacorta\u2010Rath,Katherine Silliman,Luke R. Thompson,Sean P. Jungbluth,Suk Yee Yong,Stephen Formel,Gareth Jenkins,Martin Laporte,Bruce Deagle,Sachit Rajbhandari,Thomas Stjernegaard Jeppesen,Andrew Bissett,Christopher Jerde,Erin E. Hahn,Lynn M. Schriml,Christopher Hunter,Peggy Newman,Peter Woollard,Lynsey R. Harper,Nicholas Dunn,Katrina West,Rachel Haderl\u00e9,Shaun Wilkinson,Neha Acharya\u2010Patel,Mark Louie D. Lopez,Guy Cochrane,Oliver Berry",
+        "url": "https://doi.org/10.1002/edn3.70100",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
       },
       "VaXvl8Fpj5cC": {
         "title": "Investigating the immunomodulatory ability of peptides targeting poultry pathogens",
@@ -11742,6 +11751,15 @@
     "Name": "Herman W. Barkema",
     "total_publications": "100",
     "publications": {
+      "fF_gHTpLxhAC": {
+        "title": "Validity evidence for communication skills assessment in health professions education: a scoping review",
+        "year": "2025/9/1",
+        "publisher": "B",
+        "author": "Linda Dorrestein, Caroline Ritter, Zo\u00eb De Mol, Maureen Wichtel, Julie Cary, Courtney Vengrin, Elpida Artemiou, Cindy L Adams, Heather Ganshorn, Jason B Coe, H Barkema, Kent G Hecker",
+        "url": "https://bmjopen.bmj.com/content/15/9/e096799.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "1Aeql8wG3wEC": {
         "title": "Early-life shedding and environmental presence of Mycobacterium avium ssp. paratuberculosis in Chilean dairy calves",
         "year": "2025/8/20",
@@ -12630,15 +12648,6 @@
         "publisher": "E",
         "author": "AMC Smid, M Jarbeau, V Boone, S Sinclair, HW Barkema",
         "url": "https://scholar.google.com/scholar?cluster=10880778269876520520&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "eFf2swCANGcC": {
-        "title": "Crohn\u2019s disease therapeutic dietary intervention (CD-TDI): study protocol for a randomised controlled trial",
-        "year": "2022/1/1",
-        "publisher": "BMJ Open Gastroenterology",
-        "author": "Maitreyi Raman, Christopher Ma, Lorian M Taylor, Levinus A Dieleman, Georgios V Gkoutos, Jeff K Vallance, Kathy D McCoy, Ian Lewis, Humberto Jijon, Derek M McKay, David M Mutch, Herman W Barkema, Deanna Gibson, Marcus Rauch, Subrata Ghosh",
-        "url": "https://bmjopengastro.bmj.com/content/9/1/e000841.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }

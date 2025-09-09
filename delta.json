@@ -1,47 +1,29 @@
 {
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
     "total_new": "1",
     "publications": {
-      "WIVIxizkzXoC": {
-        "title": "Nutritional Challenges Related to Animal Welfare in Feedlot and Dairy Cattle",
-        "year": "2025/9/3",
-        "publisher": "E",
-        "author": "Tim McAllister, Terry Engle",
-        "url": "https://www.vetfood.theclinics.com/article/S0749-0720(25)00039-8/abstract",
-        "firstOrLast": true,
-        "datasource": "Scholars"
+      "i2xiXl-TujoC": {
+        "title": "Correction to \u201cA Metadata Checklist and Data Formatting Guidelines to Make eDNA FAIR (Findable, Accessible, Interoperable, and Reusable)\u201d",
+        "year": "2025/5",
+        "publisher": "Wiley",
+        "author": "Miwa Takahashi,Tobias Guldberg Fr\u00f8slev,Joana Paup\u00e9rio,Bettina Thalinger,Katy Klymus,Caren C. Helbing,Cecilia Villacorta\u2010Rath,Katherine Silliman,Luke R. Thompson,Sean P. Jungbluth,Suk Yee Yong,Stephen Formel,Gareth Jenkins,Martin Laporte,Bruce Deagle,Sachit Rajbhandari,Thomas Stjernegaard Jeppesen,Andrew Bissett,Christopher Jerde,Erin E. Hahn,Lynn M. Schriml,Christopher Hunter,Peggy Newman,Peter Woollard,Lynsey R. Harper,Nicholas Dunn,Katrina West,Rachel Haderl\u00e9,Shaun Wilkinson,Neha Acharya\u2010Patel,Mark Louie D. Lopez,Guy Cochrane,Oliver Berry",
+        "url": "https://doi.org/10.1002/edn3.70100",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
       }
     }
   },
-  "U3rqorsAAAAJ": {
-    "Name": "Doug Manuel",
-    "total_new": "3",
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
+    "total_new": "1",
     "publications": {
-      "uENYxwZKF5gC": {
-        "title": "A Predictive Tool for Ability to Remain at Home After Cancer Surgery in Older Adults",
-        "year": "2025/8/1",
-        "publisher": "JAMA surgery",
-        "author": "Julie Hallet, Alyson L Mahar, Wing C Chan, Daniel I McIsaac, Natalie Coburn, Anna Gombay, Matthew Guttman, Barbara Haas, Amy Hsu, Frances C Wright, Lesley Gotlib-Conn, Anna Ding, Jessica Armah, Tyler Chesney, Doug Manuel, Grace Palladino, Pietro Galuzzo",
-        "url": "https://jamanetwork.com/journals/jamasurgery/article-abstract/2835788",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "zI9YInTrFVIC": {
-        "title": "End of life interventions in cancer patients",
-        "year": "2024",
+      "fF_gHTpLxhAC": {
+        "title": "Validity evidence for communication skills assessment in health professions education: a scoping review",
+        "year": "2025/9/1",
         "publisher": "B",
-        "author": "Colleen Webber, Shuaib Hafid, Anastasia Gayowsky, Michelle Howard, Peter Tanuseputro, Aaron Jones, Mary Scott, Amy T Hsu, James Downar, Douglas Manuel, Sarina R Isenberg",
-        "url": "https://macsphere.mcmaster.ca/handle/11375/32278",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "bGIpCNGh66kC": {
-        "title": "Continuity of care with the primary care physician and involvement of other physicians in the last year of life in community-dwelling adults: A retrospective population-based study",
-        "year": "2024",
-        "publisher": "B",
-        "author": "Michelle Howard, Shuiab Hafid, Sarina R Isenberg, Colleen Webber, James Downar, Anastasia Gayowsky, Aaron Jones, Mary Scott, Amy T Hsu, Katrin Conen, Douglas Manuel, Peter Tanuseputro",
-        "url": "https://macsphere.mcmaster.ca/bitstream/11375/32277/1/Howard%20article%20accepted.pdf",
+        "author": "Linda Dorrestein, Caroline Ritter, Zo\u00eb De Mol, Maureen Wichtel, Julie Cary, Courtney Vengrin, Elpida Artemiou, Cindy L Adams, Heather Ganshorn, Jason B Coe, H Barkema, Kent G Hecker",
+        "url": "https://bmjopen.bmj.com/content/15/9/e096799.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
