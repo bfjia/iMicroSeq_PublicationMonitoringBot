@@ -9216,15 +9216,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "ClCfbGk0d_YC": {
-        "title": "Novel oil-associated bacteria in Arctic seawater exposed to different nutrient biostimulation regimes",
-        "year": "2024/3/23",
-        "publisher": "Unknown",
-        "author": "Davila Aleman FD, MA Bautista, J McCalder, K Jobin, SM Murphy, B Else, CR Hubert",
-        "url": "https://europepmc.org/article/ppr/ppr826621",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "g3aElNc5_aQC": {
         "title": "Cold seep formation from salt diapir\u2013controlled deep biosphere oases",
         "year": "2024/3/19",
@@ -9258,6 +9249,15 @@
         "publisher": "American Geophysical Union, Ocean Sciences Meeting",
         "author": "Manuel Bringue, Casey RJ Hubert, Jianwei Chen, Oye Adebayo, Andy Mort, Rachel Robinson, Jason ME Ahad, Heather D Dettman, Nayereh Saborimanesh, Christine Ridenour, Kenneth Lee",
         "url": "https://ui.adsabs.harvard.edu/abs/2024AGUOSCB11A...1B/abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "ClCfbGk0d_YC": {
+        "title": "Novel oil-associated bacteria in Arctic seawater exposed to different nutrient biostimulation regimes",
+        "year": "2024/3/23",
+        "publisher": "Unknown",
+        "author": "Davila Aleman FD, MA Bautista, J McCalder, K Jobin, SM Murphy, B Else, CR Hubert",
+        "url": "https://europepmc.org/article/ppr/ppr826621",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
