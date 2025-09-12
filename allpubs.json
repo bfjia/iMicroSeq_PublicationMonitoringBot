@@ -6498,6 +6498,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "TQgYirikUcIC": {
+        "title": "Seasonal Patterns of Viromes in Urban Aquatic Environments of Manitoba",
+        "year": "2024/3/7",
+        "publisher": "bioRxiv",
+        "author": "Jhannelle D Francis, Miguel Uyaguari",
+        "url": "https://www.biorxiv.org/content/10.1101/2024.03.06.583751.abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "M3NEmzRMIkIC": {
         "title": "Identification of Acinetobacter radioresistens in wastewater effluent from a First Nation reserve in Manitoba, Canada",
         "year": "2025/7/31",
@@ -6558,15 +6567,6 @@
         "publisher": "Plos one",
         "author": "Maritza C\u00e1rdenas-Calle, Leandro Pati\u00f1o, Beatriz Pernia, Roberto Erazo, Carlos Mu\u00f1oz, Magaly Valencia-Avellan, Mariana Lozada, Mary Regato-Arrata, Miguel Barrera, Segundo Aquino, Stefania Fuentes, Javier Duque, Luis Vel\u00e1zquez-Araque, Bertha Carpio, Carlos M\u00e9ndez-Roman, Carlos Calle, Guillermo C\u00e1rdenas, David Guizado-Herrera, Clara Luc\u00eda Tello, Ver\u00f3nica Bravo-Basantes, Jhannelle Francis, Miguel Uyaguari",
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302000",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "TQgYirikUcIC": {
-        "title": "Seasonal Patterns of Viromes in Urban Aquatic Environments of Manitoba",
-        "year": "2024/3/7",
-        "publisher": "bioRxiv",
-        "author": "Jhannelle D Francis, Miguel Uyaguari",
-        "url": "https://www.biorxiv.org/content/10.1101/2024.03.06.583751.abstract",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
