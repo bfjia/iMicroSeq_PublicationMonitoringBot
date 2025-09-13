@@ -15840,6 +15840,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "OkCShBBh3G8C": {
+        "title": "City-wide Built Environment SARS-CoV-2 Detection for COVID-19 Surveillance",
+        "year": "2025/3/7",
+        "publisher": "medRxiv",
+        "author": "Derek R MacFadden, Michael Fralick, Caroline Nott, Jason A Moggridge, Alexandra MA Hicks, Tamara Van Bakel, Evgueni Doukhanine, Aaron Hinz, Nisha Thampi, Pascal Bastien, Sarah Mansour, Engluy Khov, Tasha Burhunduli, Douglas G Manuel, Alex Wong, Rees Kassen",
+        "url": "https://www.medrxiv.org/content/10.1101/2025.03.06.25323509.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "IjbvboqL_eAC": {
         "title": "Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats",
         "year": "2025/9/2",
@@ -15954,15 +15963,6 @@
         "publisher": "JAMA Network Open",
         "author": "Ramtin Hakimjavadi, Christina Y Yin, Mary Scott, Robert Talarico, Tim Ramsay, Colleen Webber, Douglas Manuel, Aliza Moledina, Amy T Hsu, Celeste Fung, Sharon Kaasalainen, Jackie Kierulf, Frank Molnar, Sandy Shamon, Beno\u00eet Robert, Paul E Ronksley, Peter Tanuseputro, Kumanan Wilson, Daniel Kobewka",
         "url": "https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2833182",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "OkCShBBh3G8C": {
-        "title": "City-wide Built Environment SARS-CoV-2 Detection for COVID-19 Surveillance",
-        "year": "2025/3/7",
-        "publisher": "medRxiv",
-        "author": "Derek R MacFadden, Michael Fralick, Caroline Nott, Jason A Moggridge, Alexandra MA Hicks, Tamara Van Bakel, Evgueni Doukhanine, Aaron Hinz, Nisha Thampi, Pascal Bastien, Sarah Mansour, Engluy Khov, Tasha Burhunduli, Douglas G Manuel, Alex Wong, Rees Kassen",
-        "url": "https://www.medrxiv.org/content/10.1101/2025.03.06.25323509.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -19878,6 +19878,15 @@
     "Name": "Rees Kassen",
     "total_publications": "39",
     "publications": {
+      "PELIpwtuRlgC": {
+        "title": "City-wide Built Environment SARS-CoV-2 Detection for COVID-19 Surveillance",
+        "year": "2025/3/7",
+        "publisher": "medRxiv",
+        "author": "Derek R MacFadden, Michael Fralick, Caroline Nott, Jason A Moggridge, Alexandra MA Hicks, Tamara Van Bakel, Evgueni Doukhanine, Aaron Hinz, Nisha Thampi, Pascal Bastien, Sarah Mansour, Engluy Khov, Tasha Burhunduli, Douglas G Manuel, Alex Wong, Rees Kassen",
+        "url": "https://www.medrxiv.org/content/10.1101/2025.03.06.25323509.abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "dTyEYWd-f8wC": {
         "title": "SARS-CoV-2 detection is independent of microbiome composition on surfaces in a major Ontario hospital",
         "year": "2025/6/3",
@@ -19894,15 +19903,6 @@
         "author": "Samara T Choudhury, Kathryn R Piper, Manuela Montoya-Giraldo, Odion O Ikhimiukor, Jeremy R Dettman, Rees Kassen, Cheryl P Andam",
         "url": "https://journals.asm.org/doi/abs/10.1128/msystems.00301-25",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "PELIpwtuRlgC": {
-        "title": "City-wide Built Environment SARS-CoV-2 Detection for COVID-19 Surveillance",
-        "year": "2025/3/7",
-        "publisher": "medRxiv",
-        "author": "Derek R MacFadden, Michael Fralick, Caroline Nott, Jason A Moggridge, Alexandra MA Hicks, Tamara Van Bakel, Evgueni Doukhanine, Aaron Hinz, Nisha Thampi, Pascal Bastien, Sarah Mansour, Engluy Khov, Tasha Burhunduli, Douglas G Manuel, Alex Wong, Rees Kassen",
-        "url": "https://www.medrxiv.org/content/10.1101/2025.03.06.25323509.abstract",
-        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "_B80troHkn4C": {
