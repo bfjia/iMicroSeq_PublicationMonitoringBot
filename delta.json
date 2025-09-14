@@ -1,1 +1,17 @@
-{}
+{
+  "mBdtjsQAAAAJ": {
+    "Name": "Antonio Ruzzini",
+    "total_new": "1",
+    "publications": {
+      "mVmsd5A6BfQC": {
+        "title": "Enhanced metagenomic surveillance for bovine respiratory disease pathogens and antimicrobial resistance by hybridization capture sequencing",
+        "year": "2025/9/10",
+        "publisher": "Applied and Environmental Microbiology",
+        "author": "Jennifer N Russell, Dani\u00ebl Kos, Elhem Yacoub, Ashton N Sies, Brian Warr, Murray Jelinski, Antonio Ruzzini, Andrew DS Cameron",
+        "url": "https://journals.asm.org/doi/abs/10.1128/aem.00977-25",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
