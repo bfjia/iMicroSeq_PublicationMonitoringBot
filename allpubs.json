@@ -3,15 +3,6 @@
     "Name": "Fiona Brinkman",
     "total_publications": "38",
     "publications": {
-      "sszUF3NjhM4C": {
-        "title": "From fetus to 8: the CHILD Cohort Study",
-        "year": "2024/10/11",
-        "publisher": "American Journal of Epidemiology",
-        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
-        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "kWvqk_afx_IC": {
         "title": "VIRUS-MVP: A framework for comprehensive surveillance of viral mutations and their functional impacts",
         "year": "2025/2/17",
@@ -37,6 +28,15 @@
         "author": "Erin E Gill, Baofeng Jia, Carmen Lia Murall, Rapha\u00ebl Poujol, Muhammad Zohaib Anwar, Nithu Sara John, Justin Richardsson, Ashley Hobb, Abayomi S Olabode, Alexandru Lepsa, Ana T Duggan, Andrea D Tyler, Arnaud N'Guessan, Atul Kachru, Brandon Chan, Catherine Yoshida, Christina K Yung, David Bujold, Dusan Andric, Edmund Su, Emma J Griffiths, Gary Van Domselaar, Gordon W Jolly, Heather KE Ward, Henrich Feher, Jared Baker, Jared T Simpson, Jaser Uddin, Jiannis Ragoussis, Jon Eubank, J\u00f6rg H Fritz, Jos\u00e9 H\u00e9ctor G\u00e1lvez, Karen Fang, Kim Cullion, Leonardo Rivera, Linda Xiang, Matthew A Croxen, Mitchell Shiell, Natalie Prystajecky, Pierre-Olivier Quirion, Rosita Bajari, Samantha Rich, Samira Mubareka, Sandrine Moreira, Scott Cain, Steven G Sutcliffe, Susanne A Kraemer, Yelizar Alturmessov, Yann Joly, CPHLN Consortium**, CanCOGeN Consortium**, VirusSeq Data Portal Academic and Health Network**, Marc Fiume, Terrance P Snutch, Cindy Bell, Catalina Lopez-Correa, Julie G Hussin, Jeffrey B Joy, Caroline Colijn, Paul MK Gordon, William WL Hsiao, Art FY Poon, Natalie C Knox, M\u00e9lanie Courtot, Lincoln Stein, Sarah P Otto, Guillaume Bourque, B Jesse Shapiro, Fiona SL Brinkman",
         "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001293",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "sszUF3NjhM4C": {
+        "title": "From fetus to 8: the CHILD Cohort Study",
+        "year": "2024/10/11",
+        "publisher": "American Journal of Epidemiology",
+        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
+        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "NDuN12AVoxsC": {
@@ -4272,6 +4272,24 @@
     "Name": "Tim A. McAllister",
     "total_publications": "100",
     "publications": {
+      "CLPBug3NTQYC": {
+        "title": "Chemical and bioassay-based characterization of the growth promoter ractopamine in beef cattle manure",
+        "year": "2025/9/12",
+        "publisher": "Environmental Toxicology and Chemistry",
+        "author": "JK Challis, Jenna Cantin, Jocelyn Thresher, Anthony W Curtis, Paul D Jones, Markus Brinkmann, Natacha Hogan, John P Giesy, Tim A McAllister, Francis J Larney",
+        "url": "https://academic.oup.com/etc/advance-article/doi/10.1093/etojnl/vgaf211/8252989",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "YJSMXgW81ikC": {
+        "title": "Effect of Inoculation of Lactic Acid Bacteria and Fibrolytic Enzymes on Microbiota in the Terminal and Aerobically Exposed Short-Growing Season Whole-Plant Corn Silage",
+        "year": "2025/9/10",
+        "publisher": "Fermentation",
+        "author": "Chunli Li, Jayakrishnan Nair, Eric Chevaux, Tim A McAllister, Yuxi Wang",
+        "url": "https://www.mdpi.com/2311-5637/11/9/530",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "WIVIxizkzXoC": {
         "title": "Nutritional Challenges Related to Animal Welfare in Feedlot and Dairy Cattle",
         "year": "2025/9/3",
@@ -4569,15 +4587,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "l07DEcJES74C": {
-        "title": "Liver abscess microbiota of beef cattle administered in-feed tylosin differ according to abscess size and fraction",
-        "year": "2024/9/1",
-        "publisher": "O",
-        "author": "Robert J Gruninger, Eoin O'Hara, Rahat Zaheer, Sara Andres-Lasheras, Tim A McAllister",
-        "url": "https://scholar.google.com/scholar?cluster=9678170590928538999&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "qmyJBmpVKbYC": {
         "title": "Strategies for improving the efficiency of rumen function",
         "year": "2024/9/1",
@@ -4585,6 +4594,24 @@
         "author": "Robert J Gruninger, Eoin O'Hara, Stephanie A Terry, Nikita A Payne, Megan M Dubois, Tim A McAllister, Gabriel O Ribeiro Jr",
         "url": "https://scholar.google.com/scholar?cluster=8762874402910109721&hl=en&oi=scholarr",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "D52hNgOu9GcC": {
+        "title": "Environmental impacts associated with the removal of productivity enhancing technologies from three different post-weaning feed management strategies in Saskatchewan: A case study",
+        "year": "2024/9/1",
+        "publisher": "O",
+        "author": "Sydney Fortier, Tim A McAllister, Deanne Fulawka, Getahun Legesse, Genet Mengistu, Isaac Aboagye, H Lardner, Mario Tenuta, Kim H Ominski",
+        "url": "https://scholar.google.com/scholar?cluster=1139705669915732598&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "l07DEcJES74C": {
+        "title": "Liver abscess microbiota of beef cattle administered in-feed tylosin differ according to abscess size and fraction",
+        "year": "2024/9/1",
+        "publisher": "O",
+        "author": "Robert J Gruninger, Eoin O'Hara, Rahat Zaheer, Sara Andres-Lasheras, Tim A McAllister",
+        "url": "https://scholar.google.com/scholar?cluster=9678170590928538999&hl=en&oi=scholarr",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "ZuSUVyMx-TgC": {
@@ -4875,15 +4902,6 @@
         "firstOrLast": false,
         "datasource": "CrossRef"
       },
-      "D52hNgOu9GcC": {
-        "title": "Environmental impacts associated with the removal of productivity enhancing technologies from three different post-weaning feed management strategies in Saskatchewan: A case study",
-        "year": "2024/9/1",
-        "publisher": "O",
-        "author": "Sydney Fortier, Tim A McAllister, Deanne Fulawka, Getahun Legesse, Genet Mengistu, Isaac Aboagye, H Lardner, Mario Tenuta, Kim H Ominski",
-        "url": "https://scholar.google.com/scholar?cluster=1139705669915732598&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "qzuIxkxWBNsC": {
         "title": "Linking active rectal mucosa-attached microbiota to host immunity reveals its role in host",
         "year": "2024/1",
@@ -5152,24 +5170,6 @@
         "author": "Robert J Gruninger, Adrian Tsang, Tim A McAllister",
         "url": "https://books.google.com/books?hl=en&lr=&id=eIW9EAAAQBAJ&oi=fnd&pg=PA305&dq=info:V4KCNLBbKC4J:scholar.google.com&ots=kXM6KbdQXO&sig=xEjS_MrB_vvS5qVLVk5MHwDeY60",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "dQJM2trw0wsC": {
-        "title": "Modelling environmental impacts associated with the removal of productivity-enhancing technologies from Canadian feedlots: a case study",
-        "year": "2023/4/24",
-        "publisher": "Canadian Journal of Animal Science",
-        "author": "Emily Boonstra, Isaac A Aboagye, Tim A McAllister, Getahun Legesse, Genet F Mengistu, Deanne L Fulawka, Marcos RC Cordeiro, Gabriel O Ribeiro, Emma McGeough, Kim H Ominski",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjas-2022-0132",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "oQ8ZOKt5vhAC": {
-        "title": "Comparative analysis of macroalgae supplementation on the rumen microbial community: Asparagopsis taxiformis inhibits major ruminal methanogenic, fibrolytic, and volatile \u2026",
-        "year": "2023/4/3",
-        "publisher": "Frontiers in Microbiology",
-        "author": "E\u00f3in O\u2019Hara, Stephanie A Terry, Paul Moote, Karen A Beauchemin, Tim A McAllister, D Wade Abbott, Robert J Gruninger",
-        "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2023.1104667/full",
-        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
@@ -8371,8 +8371,17 @@
   },
   "RX9XNLUAAAAJ": {
     "Name": "Valerie S. Langlois",
-    "total_publications": "67",
+    "total_publications": "68",
     "publications": {
+      "dTyEYWd-f8wC": {
+        "title": "Tracking Aquatic Biodiversity With Environmental DNA: A Study in Quebec's Mining Region",
+        "year": "2025/9",
+        "publisher": "Environmental DNA",
+        "author": "Fidji Sandr\u00e9, Tuan Anh To, Julie Couillard, Annie\u2010Claude B\u00e9lisle, Val\u00e9rie S Langlois",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/edn3.70179",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "PELIpwtuRlgC": {
         "title": "Environmental DNA (eDNA) Quantitative Polymerase Chain Reaction\u2010Based Assays for Surveying 125 Taxa of Importance to North America",
         "year": "2025/5",
@@ -25363,7 +25372,7 @@
   },
   "wHX6pyUAAAAJ": {
     "Name": "Hugo Asselin",
-    "total_publications": "67",
+    "total_publications": "65",
     "publications": {
       "Dip1O2bNi0gC": {
         "title": "Facteurs favorisant l'accessibilit\u00e9 des services sociaux et de sant\u00e9 pour les hommes anicinapek",
@@ -25437,30 +25446,12 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "xtoqd-5pKcoC": {
-        "title": "Wildfire signature of charcoal particles from lake sediments in western quebec: a 14-year retrospective",
-        "year": "2025/2/10",
-        "publisher": "Unknown",
-        "author": "Dorian M Gaboriau, Jonathan Lesven, Jordan Paillard, Jacob D Meyer, S\u00e9bastien Joannin, Andy Hennebelle, Martin P Girardin, Hugo Asselin, Yves Bergeron, Ahmed Adam Ali",
-        "url": "https://hal.science/hal-05222047/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "tYavs44e6CUC": {
         "title": "Multi-proxy analysis of early Holocene vegetation dynamics on the islands of proglacial Lake Ojibway (northeastern America)",
         "year": "2025/2",
         "publisher": "Journal of Quaternary Science",
         "author": "Marianne F. S. Vogel, S\u00e9bastien Joannin, Mebarek Lamara, Hugo Asselin, Adam A. Ali, Sabrina Leclercq, C\u00e9cile Latapy, Franck Richard, Yves Bergeron",
         "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jqs.3682",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "kuK5TVdYjLIC": {
-        "title": "REGIONAL FORUM",
-        "year": "2025/1",
-        "publisher": "Unknown",
-        "author": "Adriana R Aguilar-Melo, Kathleen Church, Anna Krupa, Graeme Morin, Thomas Stevens, Hugo Asselin, Katrine Turgeon",
-        "url": "https://www.researchgate.net/profile/Adriana-Aguilar-Melo/publication/388763891_REGIONAL_FORUM_FISH_HABITAT_COMPENSATION_IN_EEYOU_ISTCHEE_CREE_PERSPECTIVES_SYNTHESIS_REPORT/links/67a53fda461fb56424cc9562/REGIONAL-FORUM-FISH-HABITAT-COMPENSATION-IN-EEYOU-ISTCHEE-CREE-PERSPECTIVES-SYNTHESIS-REPORT.pdf",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -25983,15 +25974,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "Nnq8S6OXqDYC": {
-        "title": "From fetus to 8: the CHILD Cohort Study",
-        "year": "2024/10/11",
-        "publisher": "American Journal of Epidemiology",
-        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
-        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "8p8iYwVyaVcC": {
         "title": "Mapping Neighborhood-Level Drivers of Type 2 Diabetes: A Predictive-Causal Approach for Precision Public Health",
         "year": "2025/6/6",
@@ -26124,6 +26106,15 @@
         "publisher": "Translational psychiatry",
         "author": "Sarina Abrishamcar, Beryl C Zhuang, Mara Thomas, Nicole Gladish, Julia L MacIsaac, Meaghan J Jones, Elinor Simons, Theo J Moraes, Piush J Mandhane, Jeffrey R Brook, Padmaja Subbarao, Stuart E Turvey, Edith Chen, Gregory E Miller, Michael S Kobor, Anke H\u00fcls",
         "url": "https://www.nature.com/articles/s41398-024-03148-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "Nnq8S6OXqDYC": {
+        "title": "From fetus to 8: the CHILD Cohort Study",
+        "year": "2024/10/11",
+        "publisher": "American Journal of Epidemiology",
+        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
+        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -27366,12 +27357,12 @@
     "Name": "Sarah Otto",
     "total_publications": "99",
     "publications": {
-      "W5d1EEiaRJMC": {
-        "title": "F ST between haploids and diploids in species with discrete ploidy phases",
-        "year": "2024/9/4",
-        "publisher": "Journal of Evolutionary Biology",
-        "author": "Kazuhiro Bessho, Sarah P Otto",
-        "url": "https://academic.oup.com/jeb/advance-article-abstract/doi/10.1093/jeb/voae104/7749046",
+      "PzCY1I33v7QC": {
+        "title": "Evolution of cross-tolerance to metals in yeast",
+        "year": "2025/2/14",
+        "publisher": "bioRxiv",
+        "author": "Anna L Bazzicalupo, Penelope C Kahn, Eully Ao, Joel Campbell, Sarah P Otto",
+        "url": "https://www.biorxiv.org/content/10.1101/2025.02.12.637395.abstract",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -27390,15 +27381,6 @@
         "publisher": "Nature Biotechnology",
         "author": "Sarah P Otto, Sean Vidal Edgerton",
         "url": "https://www.nature.com/articles/s41587-025-02636-6",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "PzCY1I33v7QC": {
-        "title": "Evolution of cross-tolerance to metals in yeast",
-        "year": "2025/2/14",
-        "publisher": "bioRxiv",
-        "author": "Anna L Bazzicalupo, Penelope C Kahn, Eully Ao, Joel Campbell, Sarah P Otto",
-        "url": "https://www.biorxiv.org/content/10.1101/2025.02.12.637395.abstract",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -27445,6 +27427,15 @@
         "author": "Nicholas H Ogden, Emily S Acheson, Kevin Brown, David Champredon, Caroline Colijn, Alan Diener, Jonathan Dushoff, David JD Earn, Vanessa Gabriele-Rivet, Marcellin Gangb\u00e8, Steve Guillouzic, Deirdre Hennessy, Valerie Hongoh, Amy Hurford, Lisa Kanary, Michael Li, Victoria Ng, Sarah P Otto, Irena Papst, Erin E Rees, Ashleigh Tuite, Matthew R MacLeod, Carmen Lia Murall, Lisa Waddell, Rania Wasfi, Michael Wolfson",
         "url": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2024-50/issue-10-october-2024/mathematical-modelling-pandemic-preparedness.html",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "W5d1EEiaRJMC": {
+        "title": "F ST between haploids and diploids in species with discrete ploidy phases",
+        "year": "2024/9/4",
+        "publisher": "Journal of Evolutionary Biology",
+        "author": "Kazuhiro Bessho, Sarah P Otto",
+        "url": "https://academic.oup.com/jeb/advance-article-abstract/doi/10.1093/jeb/voae104/7749046",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "zvUQpHOXRJ8C": {
