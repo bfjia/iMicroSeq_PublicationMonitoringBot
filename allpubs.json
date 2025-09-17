@@ -939,15 +939,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "WA5NYHcadZ8C": {
-        "title": "Learning associations of COVID-19 hospitalizations with wastewater viral signals by Markov modulated models",
-        "year": "2024/10/9",
-        "publisher": "arXiv preprint arXiv:2410.07487",
-        "author": "K Ken Peng, Charmaine B Dean, Robert Delatolla, X Joan Hu",
-        "url": "https://arxiv.org/abs/2410.07487",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "PR6Y55bgFSsC": {
         "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
         "year": "2025/7/7",
@@ -1117,6 +1108,15 @@
         "author": "Emma Tomalty, \u00c9lisabeth Mercier, Lakshmi Pisharody, Tram Nguyen, Xin Tian, Md Pervez Kabir, Chandler Wong, Felix Addo, Nada Hegazy, Elizabeth Renouf, Shen Wan, Robert Delatolla",
         "url": "https://www.medrxiv.org/content/10.1101/2024.10.11.24315327.abstract",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "WA5NYHcadZ8C": {
+        "title": "Learning associations of COVID-19 hospitalizations with wastewater viral signals by Markov modulated models",
+        "year": "2024/10/9",
+        "publisher": "arXiv preprint arXiv:2410.07487",
+        "author": "K Ken Peng, Charmaine B Dean, Robert Delatolla, X Joan Hu",
+        "url": "https://arxiv.org/abs/2410.07487",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "olpn-zPbct0C": {
@@ -4308,6 +4308,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "1DdUqAzPfXgC": {
+        "title": "Ensiling of Food Waste for Subsequent Inclusion in Ruminant Diets",
+        "year": "2025/7/14",
+        "publisher": "Canadian Journal of Animal Science",
+        "author": "Janine Hansen, Kim Ominski, Stephanie A Terry, Vicky Garcia, K Stanford, Tim A McAllister",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjas-2025-0021",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "8LfMcXwVQboC": {
         "title": "Agronomic Characteristics and Nutritive Value of Purple Prairie Clover (Dalea purpurea Vent) Grown in Irrigated and Dryland Conditions in Western Canada",
         "year": "2025/7/2",
@@ -4324,15 +4333,6 @@
         "author": "Brian Warr, Sarah Parker, Karen Schwartzkopf-Genswein, Tim McAllister, Murray Jelinski",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40671898/",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "1DdUqAzPfXgC": {
-        "title": "Ensiling of Food Waste for Subsequent Inclusion in Ruminant Diets",
-        "year": "2025/7/14",
-        "publisher": "Canadian Journal of Animal Science",
-        "author": "Janine Hansen, Kim Ominski, Stephanie A Terry, Vicky Garcia, K Stanford, Tim A McAllister",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjas-2025-0021",
-        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "LAaCg2gyLagC": {
@@ -6489,15 +6489,6 @@
     "Name": "Miguel Uyaguari",
     "total_publications": "18",
     "publications": {
-      "k_IJM867U9cC": {
-        "title": "Microbial Consortia in Full-Scale Pre-ozonated Biologically Active Filters Treating a High-DOC Water: Effects of Seasonal and Operational Variations",
-        "year": "2025/6/20",
-        "publisher": "Water Research",
-        "author": "Saeideh Mirzaei, Beata Gorczyca, Miguel Uyaguari, Richard Sparling, Evgeniia Maksimova",
-        "url": "https://www.sciencedirect.com/science/article/pii/S004313542500973X",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "TQgYirikUcIC": {
         "title": "Seasonal Patterns of Viromes in Urban Aquatic Environments of Manitoba",
         "year": "2024/3/7",
@@ -6524,6 +6515,15 @@
         "url": "https://doi.org/10.1101/2025.07.11.664311",
         "firstOrLast": true,
         "datasource": "CrossRef"
+      },
+      "k_IJM867U9cC": {
+        "title": "Microbial Consortia in Full-Scale Pre-ozonated Biologically Active Filters Treating a High-DOC Water: Effects of Seasonal and Operational Variations",
+        "year": "2025/6/20",
+        "publisher": "Water Research",
+        "author": "Saeideh Mirzaei, Beata Gorczyca, Miguel Uyaguari, Richard Sparling, Evgeniia Maksimova",
+        "url": "https://www.sciencedirect.com/science/article/pii/S004313542500973X",
+        "firstOrLast": false,
+        "datasource": "Scholars"
       },
       "iH-uZ7U-co4C": {
         "title": "Impact of fall ammonia fluctuations on winter nitrification in moving bed biofilm reactors",
@@ -6684,6 +6684,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "tKAzc9rXhukC": {
+        "title": "Whole-genome sequencing confirms Shigella flexneri infection in a child with shock and suspected multisystem inflammatory syndrome in children: A case report",
+        "year": "2025/5/28",
+        "publisher": "IDCases",
+        "author": "Sheridan JC Baker, Laura K Erdman, Donald Brody Duncan, Tania Cellucci, Marek Smieja, Cheryl Main, Jeffrey M Pernica, Andrew G McArthur",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2214250925001301",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "NJ774b8OgUMC": {
         "title": "Simultaneous detection of pathogens and antimicrobial resistance genes with the open source, cloud-based, CZ ID platform",
         "year": "2025/12",
@@ -6709,15 +6718,6 @@
         "author": "Kuganya Nirmalarajah, Patryk Aftanas, Shiva Barati, Emily Chien, Gloria Crowl, Amna Faheem, Lubna Farooqi, Alainna J Jamal, Saman Khan, Jonathon D Kotwa, Angel X Li, Mohammad Mozafarihashjin, Jalees A Nasir, Altynay Shigayeva, Winfield Yim, Lily Yip, Xi Zoe Zhong, Kevin Katz, Robert Kozak, Andrew G McArthur, Nick Daneman, Finlay Maguire, Allison J McGeer, Venkata R Duvvuri, Samira Mubareka",
         "url": "https://link.springer.com/article/10.1186/s12879-025-10450-3",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "tKAzc9rXhukC": {
-        "title": "Whole-genome sequencing confirms Shigella flexneri infection in a child with shock and suspected multisystem inflammatory syndrome in children: A case report",
-        "year": "2025/5/28",
-        "publisher": "IDCases",
-        "author": "Sheridan JC Baker, Laura K Erdman, Donald Brody Duncan, Tania Cellucci, Marek Smieja, Cheryl Main, Jeffrey M Pernica, Andrew G McArthur",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2214250925001301",
-        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "_Ybze24A_UAC": {
@@ -11151,6 +11151,33 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "GtLg2Ama23sC": {
+        "title": "Wastewater-based surveillance of respiratory syncytial virus (RSV) genome sequence variations in the Windsor-Essex border region",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Isidora Sekaric, Ana Podadera, Mackenzie Beach, Ryland Corchis-Scott, Ethan Harrop, Qiudi Geng, R Michael McKay, Kenneth KS Ng",
+        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/69/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "9pM33mqn1YgC": {
+        "title": "Application of wastewater and environmental surveillance for pathogenic agents during the 2024 NFL Draft in Detroit, Michigan",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Ryland Corchis-Scott, Ethan Harrop, Qiudi Geng, Mackenzie Beach, John Norton, Andrea Busch, Russell A Faust, Mehdi Aloosh, R Michael McKay",
+        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/95/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "4fGpz3EwCPoC": {
+        "title": "Developing a platform to monitor Highly Pathogenic Avian Influenza (HPAI) virus sequences in wastewater and environmental samples",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Ana Podadera, Ethan Harrop, Cameron Chevalier, Ryland Corchis-Scott, Qiudi Geng, Daniel J Mennill, R Michael McKay, Kenneth KS Ng",
+        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/oralpresentations/18/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "kh2fBNsKQNwC": {
         "title": "Variability of Clinical Metrics in Small Population Communities Drive Perceived Wastewater and Environmental Surveillance Data Quality: Ontario, Canada-Wide Study",
         "year": "2025/3/7",
@@ -11193,33 +11220,6 @@
         "publisher": "Environment & Health",
         "author": "Mackenzie Beach, Ryland Corchis-Scott, Qiudi Geng, Ana M Podadera Gonzalez, Owen Corchis-Scott, Ethan Harrop, John Norton, Andrea Busch, Russell A Faust, Bridget Irwin, Mehdi Aloosh, Kenneth KS Ng, R Michael McKay",
         "url": "https://pubs.acs.org/doi/abs/10.1021/envhealth.4c00168",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "GtLg2Ama23sC": {
-        "title": "Wastewater-based surveillance of respiratory syncytial virus (RSV) genome sequence variations in the Windsor-Essex border region",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Isidora Sekaric, Ana Podadera, Mackenzie Beach, Ryland Corchis-Scott, Ethan Harrop, Qiudi Geng, R Michael McKay, Kenneth KS Ng",
-        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/69/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "9pM33mqn1YgC": {
-        "title": "Application of wastewater and environmental surveillance for pathogenic agents during the 2024 NFL Draft in Detroit, Michigan",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Ryland Corchis-Scott, Ethan Harrop, Qiudi Geng, Mackenzie Beach, John Norton, Andrea Busch, Russell A Faust, Mehdi Aloosh, R Michael McKay",
-        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/95/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "4fGpz3EwCPoC": {
-        "title": "Developing a platform to monitor Highly Pathogenic Avian Influenza (HPAI) virus sequences in wastewater and environmental samples",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Ana Podadera, Ethan Harrop, Cameron Chevalier, Ryland Corchis-Scott, Qiudi Geng, Daniel J Mennill, R Michael McKay, Kenneth KS Ng",
-        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/oralpresentations/18/",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -13654,7 +13654,7 @@
   },
   "S2HhkvEAAAAJ": {
     "Name": "Sarah Dorner",
-    "total_publications": "50",
+    "total_publications": "49",
     "publications": {
       "_Re3VWB3Y0AC": {
         "title": "Characterization of Per-and Polyfluoroalkyl Substances in Drinking Water Sources in the Greater Montreal Area, Quebec, Canada",
@@ -13663,15 +13663,6 @@
         "author": "Ignacio M Ceballos, Hadia Terro, Benoit Barbeau, Natasha McQuaid, S\u00e9bastien Sauv\u00e9, Sarah Dorner",
         "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.5c00562",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "Fu2w8maKXqMC": {
-        "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
-        "year": "2025/7/1",
-        "publisher": "International Journal of Hygiene and Environmental Health",
-        "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
-        "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
-        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "uLbwQdceFCQC": {
@@ -21151,17 +21142,8 @@
   },
   "BZgRYfkAAAAJ": {
     "Name": "Dominic Frigon",
-    "total_publications": "26",
+    "total_publications": "25",
     "publications": {
-      "kO05sadLmrgC": {
-        "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
-        "year": "2025/7/1",
-        "publisher": "International Journal of Hygiene and Environmental Health",
-        "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
-        "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "WIXB4To3Tx4C": {
         "title": "Hydrological and physicochemical parameters associated with SARS-CoV-2 and pepper mild mottle virus wastewater concentrations for a large-combined sewer system",
         "year": "2025/3/1",
@@ -24180,6 +24162,15 @@
     "Name": "Alyssa Overton",
     "total_publications": "12",
     "publications": {
+      "WF5omc3nYNoC": {
+        "title": "AMR Surveillance and Discovery Using Functional Metagenomics in Ontario Wastewater",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Yemurayi Hungwe, Shiv Naik, Aranksha Thakor, Shirley Wong, Jenn Knapp, Samran Prasla, ZiYu Kuang, Alyssa Overton, Julie Hernandez-Salmeron, Sherry Azeez, Zjardyn Liera-Hood, Delaney Nash, Sharujan Satheeswaran, Ria Menon, Trevor Charles",
+        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/109/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "YsMSGLbcyi4C": {
         "title": "Evaluation of sampling methods for genomic surveillance of SARS-CoV-2 variants in aircraft wastewater samples",
         "year": "2025/3/25",
@@ -24197,15 +24188,6 @@
         "url": "https://doi.org/10.1101/2025.07.29.667219",
         "firstOrLast": false,
         "datasource": "CrossRef"
-      },
-      "WF5omc3nYNoC": {
-        "title": "AMR Surveillance and Discovery Using Functional Metagenomics in Ontario Wastewater",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Yemurayi Hungwe, Shiv Naik, Aranksha Thakor, Shirley Wong, Jenn Knapp, Samran Prasla, ZiYu Kuang, Alyssa Overton, Julie Hernandez-Salmeron, Sherry Azeez, Zjardyn Liera-Hood, Delaney Nash, Sharujan Satheeswaran, Ria Menon, Trevor Charles",
-        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/109/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
       },
       "Tyk-4Ss8FVUC": {
         "title": "Genomic surveillance of Canadian airport wastewater samples allows early detection of emerging SARS-CoV-2 lineages",
@@ -24339,6 +24321,24 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "zGnLiCkldm4C": {
+        "title": "AMR Surveillance and Discovery Using Functional Metagenomics in Ontario Wastewater",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Yemurayi Hungwe, Shiv Naik, Aranksha Thakor, Shirley Wong, Jenn Knapp, Samran Prasla, ZiYu Kuang, Alyssa Overton, Julie Hernandez-Salmeron, Sherry Azeez, Zjardyn Liera-Hood, Delaney Nash, Sharujan Satheeswaran, Ria Menon, Trevor Charles",
+        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/109/",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "gToihe7qpOEC": {
+        "title": "Enhancing Wastewater Surveillance: Optimizing Eukaryotic Enrichment for Improved Pathogen Detection",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Shahrzad Zahedifar, Trevor Charles, Andrew Doxey",
+        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/oralpresentations/25/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "5jwsdJSnGWIC": {
         "title": "Evaluation of sampling methods for genomic surveillance of SARS-CoV-2 variants in aircraft wastewater samples",
         "year": "2025/3/25",
@@ -24410,24 +24410,6 @@
         "url": "https://doi.org/10.1186/s12864-025-11700-z",
         "firstOrLast": false,
         "datasource": "CrossRef"
-      },
-      "zGnLiCkldm4C": {
-        "title": "AMR Surveillance and Discovery Using Functional Metagenomics in Ontario Wastewater",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Yemurayi Hungwe, Shiv Naik, Aranksha Thakor, Shirley Wong, Jenn Knapp, Samran Prasla, ZiYu Kuang, Alyssa Overton, Julie Hernandez-Salmeron, Sherry Azeez, Zjardyn Liera-Hood, Delaney Nash, Sharujan Satheeswaran, Ria Menon, Trevor Charles",
-        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/109/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "gToihe7qpOEC": {
-        "title": "Enhancing Wastewater Surveillance: Optimizing Eukaryotic Enrichment for Improved Pathogen Detection",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Shahrzad Zahedifar, Trevor Charles, Andrew Doxey",
-        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/oralpresentations/25/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
       },
       "fBUZQ4zhMLYC": {
         "title": "Engineered Microorganisms For Synthesis Of Polyhydroxyalkanoates",
@@ -24999,12 +24981,30 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
+      "u_35RYKgDlwC": {
+        "title": "Indigenous epistemologies, Two-Eyed Seeing, and the philosophy, practice, and applications of brain sciences",
+        "year": "2025/1/1",
+        "publisher": "A",
+        "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre D McLachlan, Michael Yellow Bird, Melissa L Perreault",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000049",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "ZHo1McVdvXMC": {
         "title": "Melissa Perreault: Thinking big towards a \u201ccomplexity science\u201d approach in neuroscience\u2013systems, environment, and whole organism research",
         "year": "2025/3/4",
         "publisher": "Genomic Psychiatry",
         "author": "Melissa Perreault",
         "url": "https://genomicpress.kglmeridian.com/view/journals/genpsych/1/3/article-p6.xml",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "zA6iFVUQeVQC": {
+        "title": "Authenticity in capacity-building for neuroscience: Indigenous scholarship, teaching, and care",
+        "year": "2025/1/1",
+        "publisher": "A",
+        "author": "Melissa L Perreault, Rudi L Taylor-Bragge, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000037",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -25032,24 +25032,6 @@
         "publisher": "Progress in Neuro-Psychopharmacology and Biological Psychiatry",
         "author": "Olivia OF Williams, Madeleine Coppolino, Cecilia B Micelli, Ryan T Mccallum, Paula T Henry-Duru, Joshua D Manduca, Jasmin Lalonde, Melissa L Perreault",
         "url": "https://www.sciencedirect.com/science/article/pii/S0278584624002902",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "u_35RYKgDlwC": {
-        "title": "Indigenous epistemologies, Two-Eyed Seeing, and the philosophy, practice, and applications of brain sciences",
-        "year": "2025/1/1",
-        "publisher": "A",
-        "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre D McLachlan, Michael Yellow Bird, Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000049",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "zA6iFVUQeVQC": {
-        "title": "Authenticity in capacity-building for neuroscience: Indigenous scholarship, teaching, and care",
-        "year": "2025/1/1",
-        "publisher": "A",
-        "author": "Melissa L Perreault, Rudi L Taylor-Bragge, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000037",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -25372,8 +25354,17 @@
   },
   "wHX6pyUAAAAJ": {
     "Name": "Hugo Asselin",
-    "total_publications": "65",
+    "total_publications": "66",
     "publications": {
+      "ruyezt5ZtCIC": {
+        "title": "Case studies of fish habitat compensation in Eeyou Istchee: Compensation projects prioritize facility over effectiveness",
+        "year": "2025/9",
+        "publisher": "Environmental Management",
+        "author": "Kathleen D. W. Church, Adriana Raquel Aguilar-Melo, Hugo Asselin, Katrine Turgeon",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "Dip1O2bNi0gC": {
         "title": "Facteurs favorisant l'accessibilit\u00e9 des services sociaux et de sant\u00e9 pour les hommes anicinapek",
         "year": "2025/8/1",
@@ -26916,12 +26907,39 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "-FonjvnnhkoC": {
+        "title": "Wastewater-based surveillance of respiratory syncytial virus (RSV) genome sequence variations in the Windsor-Essex border region",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Isidora Sekaric, Ana Podadera, Mackenzie Beach, Ryland Corchis-Scott, Ethan Harrop, Qiudi Geng, R Michael McKay, Kenneth KS Ng",
+        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/69/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "WZBGuue-350C": {
+        "title": "Evaluating the importance of metal ions on inhibitor screening for the SARS-CoV-2 RNA replication complex",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Sehar Sidhu, Ana Podadera, Lucas Campo, Salah Alhajsaleh, Kenneth KS Ng",
+        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/153/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "kz9GbA2Ns4gC": {
         "title": "Involvement of Toxoplasma gondii natural antisense transcripts in cellular stress responses",
         "year": "2025/4/1",
         "publisher": "Experimental Parasitology",
         "author": "Yue Gou, Laura Agudelo Vallejo, Ana Podadera, Kenneth Ng, Sirinart Ananvoranich",
         "url": "https://www.sciencedirect.com/science/article/pii/S0014489425000360",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "oNZyr7d5Mn4C": {
+        "title": "Developing a platform to monitor Highly Pathogenic Avian Influenza (HPAI) virus sequences in wastewater and environmental samples",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Ana Podadera, Ethan Harrop, Cameron Chevalier, Ryland Corchis-Scott, Qiudi Geng, Daniel J Mennill, R Michael McKay, Kenneth KS Ng",
+        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/oralpresentations/18/",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -26958,33 +26976,6 @@
         "publisher": "Photochemistry and Photobiology",
         "author": "Michael S Valic, Mark Zheng, Theo Husby, Keegan Guidolin, Axel Sahovaler, Sharon Tzelnick, Wenlei Jiang, Michael Halim, Pamela Schimmer, Abdullah El\u2010Sayes, Chris J Zhang, Tina Ye, Ivan Kosik, Jason L Townson, Kenneth K Ng, Lili Ding, Juan Chen, Jonathan C Irish, Robert Weersink, Brian C Wilson, Gang Zheng",
         "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/php.14088",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "-FonjvnnhkoC": {
-        "title": "Wastewater-based surveillance of respiratory syncytial virus (RSV) genome sequence variations in the Windsor-Essex border region",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Isidora Sekaric, Ana Podadera, Mackenzie Beach, Ryland Corchis-Scott, Ethan Harrop, Qiudi Geng, R Michael McKay, Kenneth KS Ng",
-        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/69/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "WZBGuue-350C": {
-        "title": "Evaluating the importance of metal ions on inhibitor screening for the SARS-CoV-2 RNA replication complex",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Sehar Sidhu, Ana Podadera, Lucas Campo, Salah Alhajsaleh, Kenneth KS Ng",
-        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/postersessions/153/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "oNZyr7d5Mn4C": {
-        "title": "Developing a platform to monitor Highly Pathogenic Avian Influenza (HPAI) virus sequences in wastewater and environmental samples",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Ana Podadera, Ethan Harrop, Cameron Chevalier, Ryland Corchis-Scott, Qiudi Geng, Daniel J Mennill, R Michael McKay, Kenneth KS Ng",
-        "url": "https://scholar.uwindsor.ca/we-spark-conference/2025/oralpresentations/18/",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
