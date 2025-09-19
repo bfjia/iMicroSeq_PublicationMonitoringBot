@@ -4299,6 +4299,15 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
+      "JtjtGO9FvpUC": {
+        "title": "A guideline to uncover the mode of action of anti-methanogenic feed additives for ruminants",
+        "year": "2025/8/25",
+        "publisher": "E",
+        "author": "A Belanche, A Bannink, J Dijkstra, Z Durmic, F Garcia, FG Santos, S Huws, J Jeyanathan, P Lund, RI Mackie, TA Mcallister, DP Morgavi, S Muetzel, DW Pitta, DR Y\u00e1\u00f1ez-Ruiz, EM Ungerfeld",
+        "url": "https://research.wur.nl/en/publications/a-guideline-to-uncover-the-mode-of-action-of-anti-methanogenic-fe",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "-R_Z4shfoosC": {
         "title": "Divergent trends in structural landscape connectivity from historic and potential future grassland conversion in Alberta, Canada",
         "year": "2025/8/1",
@@ -4587,6 +4596,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "l07DEcJES74C": {
+        "title": "Liver abscess microbiota of beef cattle administered in-feed tylosin differ according to abscess size and fraction",
+        "year": "2024/9/1",
+        "publisher": "O",
+        "author": "Robert J Gruninger, Eoin O'Hara, Rahat Zaheer, Sara Andres-Lasheras, Tim A McAllister",
+        "url": "https://scholar.google.com/scholar?cluster=9678170590928538999&hl=en&oi=scholarr",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "qmyJBmpVKbYC": {
         "title": "Strategies for improving the efficiency of rumen function",
         "year": "2024/9/1",
@@ -4603,15 +4621,6 @@
         "author": "Sydney Fortier, Tim A McAllister, Deanne Fulawka, Getahun Legesse, Genet Mengistu, Isaac Aboagye, H Lardner, Mario Tenuta, Kim H Ominski",
         "url": "https://scholar.google.com/scholar?cluster=1139705669915732598&hl=en&oi=scholarr",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "l07DEcJES74C": {
-        "title": "Liver abscess microbiota of beef cattle administered in-feed tylosin differ according to abscess size and fraction",
-        "year": "2024/9/1",
-        "publisher": "O",
-        "author": "Robert J Gruninger, Eoin O'Hara, Rahat Zaheer, Sara Andres-Lasheras, Tim A McAllister",
-        "url": "https://scholar.google.com/scholar?cluster=9678170590928538999&hl=en&oi=scholarr",
-        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "ZuSUVyMx-TgC": {
@@ -5160,15 +5169,6 @@
         "publisher": "S",
         "author": "Robert J Gruninger, Adrian Tsang, Tim A McAllister",
         "url": "https://link.springer.com/protocol/10.1007/978-1-0716-3151-5_20",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "Ui6Ig_dFDbcC": {
-        "title": "Proteomic Studies Using Mass Spectrometry",
-        "year": "2023/5/6",
-        "publisher": "Carbohydrate-Protein Interactions: Methods and Protocols",
-        "author": "Robert J Gruninger, Adrian Tsang, Tim A McAllister",
-        "url": "https://books.google.com/books?hl=en&lr=&id=eIW9EAAAQBAJ&oi=fnd&pg=PA305&dq=info:V4KCNLBbKC4J:scholar.google.com&ots=kXM6KbdQXO&sig=xEjS_MrB_vvS5qVLVk5MHwDeY60",
         "firstOrLast": true,
         "datasource": "Scholars"
       }
@@ -11241,15 +11241,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "ClCfbGk0d_YC": {
-        "title": "Integrating Machine Learning with Flow-Imaging Microscopy for Automated Monitoring of Algal Blooms",
-        "year": "2024/11/15",
-        "publisher": "bioRxiv",
-        "author": "Farhan Khan, Benjamin Gincley, Andrea Busch, Dienye L Tolofari, John W Norton Jr, Emily Varga, R Michael Mckay, Miguel Fuentes-Cabrera, Tad Slawecki, Ameet J Pinto",
-        "url": "https://www.biorxiv.org/content/10.1101/2024.11.12.623192.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "XoXfffV-tXoC": {
         "title": "Wastewater-based surveillance of SARS-CoV-2: Short-term projection (forecasting), smoothing and outlier identification using Bayesian smoothing",
         "year": "2024/11/1",
@@ -11400,6 +11391,15 @@
         "publisher": "F",
         "author": "Petra M Visser, Robert Michael McKay, George S Bullerjahn",
         "url": "https://books.google.com/books?hl=en&lr=&id=VcXrEAAAQBAJ&oi=fnd&pg=PP1&dq=info:wS46NpmsttcJ:scholar.google.com&ots=uQSw6LHjQu&sig=rTb6A_n2XIDPFxYzzGxlHs9-7Js",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "ClCfbGk0d_YC": {
+        "title": "Integrating Machine Learning with Flow-Imaging Microscopy for Automated Monitoring of Algal Blooms",
+        "year": "2024/11/15",
+        "publisher": "bioRxiv",
+        "author": "Farhan Khan, Benjamin Gincley, Andrea Busch, Dienye L Tolofari, John W Norton Jr, Emily Varga, R Michael Mckay, Miguel Fuentes-Cabrera, Tad Slawecki, Ameet J Pinto",
+        "url": "https://www.biorxiv.org/content/10.1101/2024.11.12.623192.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -14809,8 +14809,17 @@
   },
   "IZQgBh8AAAAJ": {
     "Name": "Rita Isabel Henderson",
-    "total_publications": "44",
+    "total_publications": "45",
     "publications": {
+      "4OULZ7Gr8RgC": {
+        "title": "Increased use of psychiatric medication following incident celiac autoimmunity",
+        "year": "2025/9/15",
+        "publisher": "Journal of Psychosomatic Research",
+        "author": "Quinn Goddard, Gilaad G Kaplan, Stephanie Coward, Tyler Williamson, Scott Patten, Marcia Bruce, Jenny Godley, Rita Henderson, Tara A Whitten, Araba Chintoh, James A King",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022399925003411",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "fPk4N6BV_jEC": {
         "title": "Experiences of persons with spinal cord injury, their family members, and health care providers during transitions in care in Alberta: a qualitative reflexive thematic analysis",
         "year": "2025/5/31",
@@ -15222,6 +15231,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "u1IMlZnpNFQC": {
+        "title": "Clinical and environmental wastewater-based bacteriophage surveillance for high-impact diarrheal diseases, including cholera, in Bangladesh",
+        "year": "2025/7/30",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Marjahan Akhtar,Md. Ariful Amin,Subah Nuzhat Hussain,Nazia Nazrul Nafsi,Nasrin Parvin,Farhana Khanam,Md. Taufiqul Islam,Md. Amirul Islam Bhuiyan,Rahima Afroz,Md. Golam Firoj,Fahima Chowdhury,Ashraful Islam Khan,Mohammad Jubair,Edward T. Ryan,B. Jesse Shapiro,Nicholas R. Thomson,Eric J Nelson,Md. Mustafizur Rahman,Yasmin Ara Begum,Taufiqur Rahman Bhuiyan,Firdausi Qadri",
+        "url": "https://doi.org/10.1101/2025.07.30.25332375",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      },
       "kxd3qP2_5uAC": {
         "title": "Shifts in bacterioplankton during cyanobacterial blooms reflect bloom toxicity and lake trophic state",
         "year": "2025/7/29",
@@ -15302,15 +15320,6 @@
         "url": "https://www.biorxiv.org/content/10.1101/2025.02.19.639072.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "u1IMlZnpNFQC": {
-        "title": "Clinical and environmental wastewater-based bacteriophage surveillance for high-impact diarrheal diseases, including cholera, in Bangladesh",
-        "year": "2025/7/30",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Marjahan Akhtar,Md. Ariful Amin,Subah Nuzhat Hussain,Nazia Nazrul Nafsi,Nasrin Parvin,Farhana Khanam,Md. Taufiqul Islam,Md. Amirul Islam Bhuiyan,Rahima Afroz,Md. Golam Firoj,Fahima Chowdhury,Ashraful Islam Khan,Mohammad Jubair,Edward T. Ryan,B. Jesse Shapiro,Nicholas R. Thomson,Eric J Nelson,Md. Mustafizur Rahman,Yasmin Ara Begum,Taufiqur Rahman Bhuiyan,Firdausi Qadri",
-        "url": "https://doi.org/10.1101/2025.07.30.25332375",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
       },
       "WsFh9Szeq2wC": {
         "title": "Nutrient Enrichment and Connectivity Jointly Shape Bacterioplankton Diversity",
@@ -26860,7 +26869,7 @@
   },
   "c-pNH9UAAAAJ": {
     "Name": "Kenneth K.S. Ng",
-    "total_publications": "37",
+    "total_publications": "38",
     "publications": {
       "xtoqd-5pKcoC": {
         "title": "An engineered redox\u2010switchable streptavidin mutein enables the high\u2010affinity capture and efficient elution of biotinylated ligands",
@@ -27084,6 +27093,15 @@
         "publisher": "Frontiers in Microbiology",
         "author": "Greg Hussack, Martin A Rossotti, Henk van Faassen, Tomohiko Murase, Luiz Eugenio, Joseph D Schrag, Kenneth K-S Ng, Jamshid Tanha",
         "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2023.1110541/full",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "gsN89kCJA0AC": {
+        "title": "Full wwPDB X-ray Structure Validation Report i",
+        "year": "2023",
+        "publisher": "w",
+        "author": "Y Kim, KH Kim",
+        "url": "https://www.academia.edu/download/92108323/bd03adac0e1e6849fc7f7f5bd921e86a3d10.pdf",
         "firstOrLast": false,
         "datasource": "Scholars"
       },

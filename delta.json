@@ -1,1 +1,47 @@
-{}
+{
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "JtjtGO9FvpUC": {
+        "title": "A guideline to uncover the mode of action of anti-methanogenic feed additives for ruminants",
+        "year": "2025/8/25",
+        "publisher": "E",
+        "author": "A Belanche, A Bannink, J Dijkstra, Z Durmic, F Garcia, FG Santos, S Huws, J Jeyanathan, P Lund, RI Mackie, TA Mcallister, DP Morgavi, S Muetzel, DW Pitta, DR Y\u00e1\u00f1ez-Ruiz, EM Ungerfeld",
+        "url": "https://research.wur.nl/en/publications/a-guideline-to-uncover-the-mode-of-action-of-anti-methanogenic-fe",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "IZQgBh8AAAAJ": {
+    "Name": "Rita Isabel Henderson",
+    "total_new": "1",
+    "publications": {
+      "4OULZ7Gr8RgC": {
+        "title": "Increased use of psychiatric medication following incident celiac autoimmunity",
+        "year": "2025/9/15",
+        "publisher": "Journal of Psychosomatic Research",
+        "author": "Quinn Goddard, Gilaad G Kaplan, Stephanie Coward, Tyler Williamson, Scott Patten, Marcia Bruce, Jenny Godley, Rita Henderson, Tara A Whitten, Araba Chintoh, James A King",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022399925003411",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "c-pNH9UAAAAJ": {
+    "Name": "Kenneth K.S. Ng",
+    "total_new": "1",
+    "publications": {
+      "gsN89kCJA0AC": {
+        "title": "Full wwPDB X-ray Structure Validation Report i",
+        "year": "2023",
+        "publisher": "w",
+        "author": "Y Kim, KH Kim",
+        "url": "https://www.academia.edu/download/92108323/bd03adac0e1e6849fc7f7f5bd921e86a3d10.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
