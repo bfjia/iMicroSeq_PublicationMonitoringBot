@@ -3,6 +3,15 @@
     "Name": "Fiona Brinkman",
     "total_publications": "38",
     "publications": {
+      "sszUF3NjhM4C": {
+        "title": "From fetus to 8: the CHILD Cohort Study",
+        "year": "2024/10/11",
+        "publisher": "American Journal of Epidemiology",
+        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
+        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "kWvqk_afx_IC": {
         "title": "VIRUS-MVP: A framework for comprehensive surveillance of viral mutations and their functional impacts",
         "year": "2025/2/17",
@@ -28,15 +37,6 @@
         "author": "Erin E Gill, Baofeng Jia, Carmen Lia Murall, Rapha\u00ebl Poujol, Muhammad Zohaib Anwar, Nithu Sara John, Justin Richardsson, Ashley Hobb, Abayomi S Olabode, Alexandru Lepsa, Ana T Duggan, Andrea D Tyler, Arnaud N'Guessan, Atul Kachru, Brandon Chan, Catherine Yoshida, Christina K Yung, David Bujold, Dusan Andric, Edmund Su, Emma J Griffiths, Gary Van Domselaar, Gordon W Jolly, Heather KE Ward, Henrich Feher, Jared Baker, Jared T Simpson, Jaser Uddin, Jiannis Ragoussis, Jon Eubank, J\u00f6rg H Fritz, Jos\u00e9 H\u00e9ctor G\u00e1lvez, Karen Fang, Kim Cullion, Leonardo Rivera, Linda Xiang, Matthew A Croxen, Mitchell Shiell, Natalie Prystajecky, Pierre-Olivier Quirion, Rosita Bajari, Samantha Rich, Samira Mubareka, Sandrine Moreira, Scott Cain, Steven G Sutcliffe, Susanne A Kraemer, Yelizar Alturmessov, Yann Joly, CPHLN Consortium**, CanCOGeN Consortium**, VirusSeq Data Portal Academic and Health Network**, Marc Fiume, Terrance P Snutch, Cindy Bell, Catalina Lopez-Correa, Julie G Hussin, Jeffrey B Joy, Caroline Colijn, Paul MK Gordon, William WL Hsiao, Art FY Poon, Natalie C Knox, M\u00e9lanie Courtot, Lincoln Stein, Sarah P Otto, Guillaume Bourque, B Jesse Shapiro, Fiona SL Brinkman",
         "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001293",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "sszUF3NjhM4C": {
-        "title": "From fetus to 8: the CHILD Cohort Study",
-        "year": "2024/10/11",
-        "publisher": "American Journal of Epidemiology",
-        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
-        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
-        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "NDuN12AVoxsC": {
@@ -939,6 +939,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "WA5NYHcadZ8C": {
+        "title": "Learning associations of COVID-19 hospitalizations with wastewater viral signals by Markov modulated models",
+        "year": "2024/10/9",
+        "publisher": "arXiv preprint arXiv:2410.07487",
+        "author": "K Ken Peng, Charmaine B Dean, Robert Delatolla, X Joan Hu",
+        "url": "https://arxiv.org/abs/2410.07487",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "PR6Y55bgFSsC": {
         "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
         "year": "2025/7/7",
@@ -1108,15 +1117,6 @@
         "author": "Emma Tomalty, \u00c9lisabeth Mercier, Lakshmi Pisharody, Tram Nguyen, Xin Tian, Md Pervez Kabir, Chandler Wong, Felix Addo, Nada Hegazy, Elizabeth Renouf, Shen Wan, Robert Delatolla",
         "url": "https://www.medrxiv.org/content/10.1101/2024.10.11.24315327.abstract",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "WA5NYHcadZ8C": {
-        "title": "Learning associations of COVID-19 hospitalizations with wastewater viral signals by Markov modulated models",
-        "year": "2024/10/9",
-        "publisher": "arXiv preprint arXiv:2410.07487",
-        "author": "K Ken Peng, Charmaine B Dean, Robert Delatolla, X Joan Hu",
-        "url": "https://arxiv.org/abs/2410.07487",
-        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "olpn-zPbct0C": {
@@ -5176,7 +5176,7 @@
   },
   "BC6T6L-UY8gC": {
     "Name": "Caren Helbing",
-    "total_publications": "72",
+    "total_publications": "73",
     "publications": {
       "oNZyr7d5Mn4C": {
         "title": "Conserved Sequence Identification Within Large Genomic Datasets Using \u2018Unikseq2\u2019: Application in Environmental DNA Assay Development",
@@ -5303,6 +5303,15 @@
         "url": "https://www.sciencedirect.com/science/article/pii/S1574954124005168",
         "firstOrLast": false,
         "datasource": "Scholars"
+      },
+      "SpbeaW3--B0C": {
+        "title": "Efficacy and safety evaluation of artificial intelligence-identified antimicrobial peptides for use against avian pathogenic Escherichia coli in the poultry industry",
+        "year": "2025/9/16",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Emre Demirsoy,Teagan I. Parkin,Anna H. Dema,Shaeleen E. Mihalynuk,Lorissa Corrie,Marika E. Heilker,Haley N. Kuecks-Winger,Anat Yanai,Uluc B. Birol,Michael McIlwee,Kay de Wet,Mathijs Knipscheer,Victoria Bowes,Vanessa Tuytel,Liam Ritchie,Wolfgang K\u00f6ster,Emil Berberov,William R. Cox,Monica Kotkoff,Vanessa C. Thompson,Rene L. Warren,Erin Fraser,Linda M.N. Hoang,Fraser Hof,Fatih Birol,Caren C. Helbing,Inanc Birol",
+        "url": "https://doi.org/10.1101/2025.09.15.675954",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
       },
       "i2xiXl-TujoC": {
         "title": "Correction to \u201cA Metadata Checklist and Data Formatting Guidelines to Make eDNA FAIR (Findable, Accessible, Interoperable, and Reusable)\u201d",
@@ -6489,6 +6498,15 @@
     "Name": "Miguel Uyaguari",
     "total_publications": "18",
     "publications": {
+      "k_IJM867U9cC": {
+        "title": "Microbial Consortia in Full-Scale Pre-ozonated Biologically Active Filters Treating a High-DOC Water: Effects of Seasonal and Operational Variations",
+        "year": "2025/6/20",
+        "publisher": "Water Research",
+        "author": "Saeideh Mirzaei, Beata Gorczyca, Miguel Uyaguari, Richard Sparling, Evgeniia Maksimova",
+        "url": "https://www.sciencedirect.com/science/article/pii/S004313542500973X",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "TQgYirikUcIC": {
         "title": "Seasonal Patterns of Viromes in Urban Aquatic Environments of Manitoba",
         "year": "2024/3/7",
@@ -6515,15 +6533,6 @@
         "url": "https://doi.org/10.1101/2025.07.11.664311",
         "firstOrLast": true,
         "datasource": "CrossRef"
-      },
-      "k_IJM867U9cC": {
-        "title": "Microbial Consortia in Full-Scale Pre-ozonated Biologically Active Filters Treating a High-DOC Water: Effects of Seasonal and Operational Variations",
-        "year": "2025/6/20",
-        "publisher": "Water Research",
-        "author": "Saeideh Mirzaei, Beata Gorczyca, Miguel Uyaguari, Richard Sparling, Evgeniia Maksimova",
-        "url": "https://www.sciencedirect.com/science/article/pii/S004313542500973X",
-        "firstOrLast": false,
-        "datasource": "Scholars"
       },
       "iH-uZ7U-co4C": {
         "title": "Impact of fall ammonia fluctuations on winter nitrification in moving bed biofilm reactors",
@@ -6684,15 +6693,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "tKAzc9rXhukC": {
-        "title": "Whole-genome sequencing confirms Shigella flexneri infection in a child with shock and suspected multisystem inflammatory syndrome in children: A case report",
-        "year": "2025/5/28",
-        "publisher": "IDCases",
-        "author": "Sheridan JC Baker, Laura K Erdman, Donald Brody Duncan, Tania Cellucci, Marek Smieja, Cheryl Main, Jeffrey M Pernica, Andrew G McArthur",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2214250925001301",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "NJ774b8OgUMC": {
         "title": "Simultaneous detection of pathogens and antimicrobial resistance genes with the open source, cloud-based, CZ ID platform",
         "year": "2025/12",
@@ -6718,6 +6718,15 @@
         "author": "Kuganya Nirmalarajah, Patryk Aftanas, Shiva Barati, Emily Chien, Gloria Crowl, Amna Faheem, Lubna Farooqi, Alainna J Jamal, Saman Khan, Jonathon D Kotwa, Angel X Li, Mohammad Mozafarihashjin, Jalees A Nasir, Altynay Shigayeva, Winfield Yim, Lily Yip, Xi Zoe Zhong, Kevin Katz, Robert Kozak, Andrew G McArthur, Nick Daneman, Finlay Maguire, Allison J McGeer, Venkata R Duvvuri, Samira Mubareka",
         "url": "https://link.springer.com/article/10.1186/s12879-025-10450-3",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "tKAzc9rXhukC": {
+        "title": "Whole-genome sequencing confirms Shigella flexneri infection in a child with shock and suspected multisystem inflammatory syndrome in children: A case report",
+        "year": "2025/5/28",
+        "publisher": "IDCases",
+        "author": "Sheridan JC Baker, Laura K Erdman, Donald Brody Duncan, Tania Cellucci, Marek Smieja, Cheryl Main, Jeffrey M Pernica, Andrew G McArthur",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2214250925001301",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "_Ybze24A_UAC": {
@@ -11131,7 +11140,7 @@
   },
   "MNqeC0sAAAAJ": {
     "Name": "Robert Michael McKay",
-    "total_publications": "69",
+    "total_publications": "70",
     "publications": {
       "umqufdRvDiIC": {
         "title": "A Multi-modal Data-Driven Dashboard for Enhanced Public Health Surveillance and Awareness",
@@ -11563,6 +11572,15 @@
         "author": "Brayon J Fremin, Ami S Bhatt, Nikos C Kyrpides, Aditi Sengupta, Alexander Sczyrba, Aline Maria da Silva, Alison Buchan, Amelie Gaudin, Andreas Brune, Ann M Hirsch, Anthony Neumann, Ashley Shade, Axel Visel, Barbara Campbell, Brett Baker, Brian P Hedlund, Byron C Crump, Cameron Currie, Charlene Kelly, Chris Craft, Christina Hazard, Christopher Francis, Christopher W Schadt, Colin Averill, Courtney Mobilian, Dan Buckley, Dana Hunt, Daniel Noguera, David Beck, David L Valentine, David Walsh, Dawn Sumner, Despoina Lymperopoulou, Devaki Bhaya, Donald A Bryant, Elise Morrison, Eoin Brodie, Erica Young, Erik Lilleskov, Eva H\u00f6gfors-R\u00f6nnholm, Feng Chen, Frank Stewart, Graeme W Nicol, Hanno Teeling, Harry R Beller, Hebe Dionisi, Hui-Ling Liao, J Michael Beman, James Stegen, James Tiedje, Janet Jansson, Jean VanderGheynst, Jeanette Norton, Jeff Dangl, Jeffrey Blanchard, Jennifer Bowen, Jennifer Macalady, Jennifer Pett-Ridge, Jeremy Rich, J\u00e9r\u00f4me P Payet, John D Gladden, Jonathan D Raff, Jonathan L Klassen, Jonathan Tarn, Josh Neufeld, Kelly Gravuer, Kirsten Hofmockel, Ko-Hsuan Chen, Konstantinos Konstantinidis, Kristen M DeAngelis, Laila P Partida-Martinez, Laura Meredith, Ludmila Chistoserdova, Mary Ann Moran, Matthew Scarborough, Matthew Schrenk, Matthew Sullivan, Maude David, Michelle A O'Malley, Monica Medina, Mussie Habteselassie, Nicholas D Ward, Nicole Pietrasiak, Olivia U Mason, Patrick O Sorensen, Paulina Estrada de los Santos, Petr Baldrian, R Michael McKay, Rachel Simister, Ramunas Stepanauskas, Rebecca Neumann, Rex Malmstrom, Ricardo Cavicchioli, Robert Kelly, Roland Hatzenpichler, Roman Stocker, Rose Ann Cattolico, Ryan Ziels, Rytas Vilgalys, Sara Blumer-Schuette, Sean Crowe, Simon Roux, Steven Hallam, Steven Lindow, Susan H Brawley, Susannah Tringe, Tanja Woyke, Thea Whitman, Thomas Bianchi, Thomas Mock, Timothy Donohue, Timothy Y James, Udaya C Kalluri, Ulas Karaoz, Vincent Denef, Wen-Tso Liu, William Whitman, Yang Ouyang",
         "url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00770-7?uuid=uuid%3Aa124e3e5-b31e-492a-880c-3db11df5da79",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "2VqYfGB8ITEC": {
+        "title": "Preventing an outbreak of SARS-CoV-2 on campus using wastewater surveillance",
+        "year": "2022/5/20",
+        "publisher": "Unknown",
+        "author": "Abdul Monem Al Riahi, Amr Labak, Ryland Corchis-Scott, Qiudi Geng, Robert Michael McKay",
+        "url": "https://uwindsor.scholaris.ca/items/3df518e1-06f7-4450-bb4f-0763e9212278/full",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "t7zJ5fGR-2UC": {
@@ -13654,7 +13672,7 @@
   },
   "S2HhkvEAAAAJ": {
     "Name": "Sarah Dorner",
-    "total_publications": "49",
+    "total_publications": "51",
     "publications": {
       "_Re3VWB3Y0AC": {
         "title": "Characterization of Per-and Polyfluoroalkyl Substances in Drinking Water Sources in the Greater Montreal Area, Quebec, Canada",
@@ -13663,6 +13681,15 @@
         "author": "Ignacio M Ceballos, Hadia Terro, Benoit Barbeau, Natasha McQuaid, S\u00e9bastien Sauv\u00e9, Sarah Dorner",
         "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.5c00562",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "Fu2w8maKXqMC": {
+        "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
+        "year": "2025/7/1",
+        "publisher": "International Journal of Hygiene and Environmental Health",
+        "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "uLbwQdceFCQC": {
@@ -13734,6 +13761,15 @@
         "publisher": "P",
         "author": "Jean\u2010Baptiste Burnet, Katalin Demeter, Sarah Dorner, Andreas H Farnleitner, Frederik Hammes, AJ Pinto, EI Prest, Mich\u00e8le Pr\u00e9vost, Rebecca Stott, Nikki van Bel",
         "url": "https://www.sciencedirect.com/science/article/pii/S0043135425000351",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "tzM49s52ZIMC": {
+        "title": "Assessing the effectiveness of green infrastructure in mitigating human health risks during aquatic recreational activities in urban areas using QMRA",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Justine Petrucci, Julia Derx, Hannes M\u00fcller-Thomy, Regina Sommer, Sarah Dorner, Jonathan Jalbert, Fran\u00e7oise Bichai",
+        "url": "https://publications.polymtl.ca/68439/",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -21151,8 +21187,26 @@
   },
   "BZgRYfkAAAAJ": {
     "Name": "Dominic Frigon",
-    "total_publications": "25",
+    "total_publications": "27",
     "publications": {
+      "C-Rn0OCouf8C": {
+        "title": "Towards the integration of antibiotic resistance gene mobility into environmental surveillance and risk assessment",
+        "year": "2025/9/16",
+        "publisher": "N",
+        "author": "Uli Kl\u00fcmper, Peiju Fang, Bing Li, Yu Xia, Dominic Frigon, Kerry A Hamilton, Hunter Quon, Thomas U Berendonk, Magali de la Cruz Barron",
+        "url": "https://www.nature.com/articles/s44259-025-00154-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "kO05sadLmrgC": {
+        "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
+        "year": "2025/7/1",
+        "publisher": "International Journal of Hygiene and Environmental Health",
+        "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "WIXB4To3Tx4C": {
         "title": "Hydrological and physicochemical parameters associated with SARS-CoV-2 and pepper mild mottle virus wastewater concentrations for a large-combined sewer system",
         "year": "2025/3/1",
@@ -23931,15 +23985,6 @@
     "Name": "Jennifer Knapp",
     "total_publications": "26",
     "publications": {
-      "Wp0gIr-vW9MC": {
-        "title": "Evaluation of sampling methods for genomic surveillance of SARS-CoV-2 variants in aircraft wastewater samples",
-        "year": "2025/3/25",
-        "publisher": "Unknown",
-        "author": "Opeyemi U Lawal, Valeria R Parreira, Fozia Rizvi, Melinda Precious, Rebecca EV Anderson, Alyssa K Overton, Jennifer J Knapp, Brittany Maxwell, Steven Thomas, Marcos Zambrano, Chrystal Landgraff, Manon D Fleury, Natalie Knox, Trevor C Charles, Lawrence Goodridge",
-        "url": "https://www.researchsquare.com/article/rs-6228463/latest",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "9ZlFYXVOiuMC": {
         "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
         "year": "2025/7/31",
@@ -23948,6 +23993,15 @@
         "url": "https://doi.org/10.1101/2025.07.29.667219",
         "firstOrLast": false,
         "datasource": "CrossRef"
+      },
+      "Wp0gIr-vW9MC": {
+        "title": "Evaluation of sampling methods for genomic surveillance of SARS-CoV-2 variants in aircraft wastewater samples",
+        "year": "2025/3/25",
+        "publisher": "Unknown",
+        "author": "Opeyemi U Lawal, Valeria R Parreira, Fozia Rizvi, Melinda Precious, Rebecca EV Anderson, Alyssa K Overton, Jennifer J Knapp, Brittany Maxwell, Steven Thomas, Marcos Zambrano, Chrystal Landgraff, Manon D Fleury, Natalie Knox, Trevor C Charles, Lawrence Goodridge",
+        "url": "https://www.researchsquare.com/article/rs-6228463/latest",
+        "firstOrLast": false,
+        "datasource": "Scholars"
       },
       "4TOpqqG69KYC": {
         "title": "A comprehensive two-hybrid analysis to explore the Legionella pneumophila effector\u2013effector interactome",
@@ -24171,6 +24225,15 @@
     "Name": "Alyssa Overton",
     "total_publications": "12",
     "publications": {
+      "ufrVoPGSRksC": {
+        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
+        "year": "2025/7/31",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
+        "url": "https://doi.org/10.1101/2025.07.29.667219",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      },
       "WF5omc3nYNoC": {
         "title": "AMR Surveillance and Discovery Using Functional Metagenomics in Ontario Wastewater",
         "year": "2025",
@@ -24188,15 +24251,6 @@
         "url": "https://www.researchsquare.com/article/rs-6228463/latest",
         "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "ufrVoPGSRksC": {
-        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
-        "year": "2025/7/31",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
-        "url": "https://doi.org/10.1101/2025.07.29.667219",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
       },
       "Tyk-4Ss8FVUC": {
         "title": "Genomic surveillance of Canadian airport wastewater samples allows early detection of emerging SARS-CoV-2 lineages",
@@ -24283,7 +24337,7 @@
   },
   "gTkdyfsAAAAJ": {
     "Name": "Trevor Charles",
-    "total_publications": "58",
+    "total_publications": "59",
     "publications": {
       "vxVQT5kDUaMC": {
         "title": "Metabolic insight into the role of microbial interplay in conferring drought stress tolerance in black cumin (Nigella sativa L.)",
@@ -24293,6 +24347,24 @@
         "url": "https://link.springer.com/article/10.1007/s00425-025-04801-2",
         "firstOrLast": false,
         "datasource": "Scholars"
+      },
+      "QBSR9U3j2CEC": {
+        "title": "Genome sequence of N2-fixer Stutzerimonas stutzeri strain MBI-RS3",
+        "year": "2025/9/17",
+        "publisher": "Microbiology Resource Announcements",
+        "author": "Patricia D\u00f6rr de Quadros, Julie E Hernandez-Salmeron, Michael DJ Lynch, Jiujung Cheng, Trevor C Charles",
+        "url": "https://journals.asm.org/doi/abs/10.1128/mra.01192-24",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "lxZgYf9FOvoC": {
+        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
+        "year": "2025/7/31",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
+        "url": "https://doi.org/10.1101/2025.07.29.667219",
+        "firstOrLast": true,
+        "datasource": "CrossRef"
       },
       "ZxXHo_Hcam8C": {
         "title": "Harnessing agri-food system microbiomes for sustainability and human health",
@@ -24392,15 +24464,6 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11823196/",
         "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "lxZgYf9FOvoC": {
-        "title": "A Genome Sequence Variant Monitoring Program for Seasonal Influenza A H3N2 and Respiratory Syncytial Virus A using Wastewater-Based Surveillance in Ontario, Canada",
-        "year": "2025/7/31",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Delaney Nash,Jennifer J. Knapp,Alyssa K. Overton,Yemurayi C. Hungwe,Ria Menon,Jozef I. Nissimov,Trevor C. Charles",
-        "url": "https://doi.org/10.1101/2025.07.29.667219",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
       },
       "K6kyChav4UkC": {
         "title": "Hybrid sequencing reveals the genome of a Chrysochromulina parva virus and highlight its distinct replication strategy",
@@ -24990,30 +25053,12 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "u_35RYKgDlwC": {
-        "title": "Indigenous epistemologies, Two-Eyed Seeing, and the philosophy, practice, and applications of brain sciences",
-        "year": "2025/1/1",
-        "publisher": "A",
-        "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre D McLachlan, Michael Yellow Bird, Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000049",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "ZHo1McVdvXMC": {
         "title": "Melissa Perreault: Thinking big towards a \u201ccomplexity science\u201d approach in neuroscience\u2013systems, environment, and whole organism research",
         "year": "2025/3/4",
         "publisher": "Genomic Psychiatry",
         "author": "Melissa Perreault",
         "url": "https://genomicpress.kglmeridian.com/view/journals/genpsych/1/3/article-p6.xml",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "zA6iFVUQeVQC": {
-        "title": "Authenticity in capacity-building for neuroscience: Indigenous scholarship, teaching, and care",
-        "year": "2025/1/1",
-        "publisher": "A",
-        "author": "Melissa L Perreault, Rudi L Taylor-Bragge, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000037",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -25041,6 +25086,24 @@
         "publisher": "Progress in Neuro-Psychopharmacology and Biological Psychiatry",
         "author": "Olivia OF Williams, Madeleine Coppolino, Cecilia B Micelli, Ryan T Mccallum, Paula T Henry-Duru, Joshua D Manduca, Jasmin Lalonde, Melissa L Perreault",
         "url": "https://www.sciencedirect.com/science/article/pii/S0278584624002902",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "u_35RYKgDlwC": {
+        "title": "Indigenous epistemologies, Two-Eyed Seeing, and the philosophy, practice, and applications of brain sciences",
+        "year": "2025/1/1",
+        "publisher": "A",
+        "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre D McLachlan, Michael Yellow Bird, Melissa L Perreault",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000049",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "zA6iFVUQeVQC": {
+        "title": "Authenticity in capacity-building for neuroscience: Indigenous scholarship, teaching, and care",
+        "year": "2025/1/1",
+        "publisher": "A",
+        "author": "Melissa L Perreault, Rudi L Taylor-Bragge, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000037",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -25974,6 +26037,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "Nnq8S6OXqDYC": {
+        "title": "From fetus to 8: the CHILD Cohort Study",
+        "year": "2024/10/11",
+        "publisher": "American Journal of Epidemiology",
+        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
+        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "8p8iYwVyaVcC": {
         "title": "Mapping Neighborhood-Level Drivers of Type 2 Diabetes: A Predictive-Causal Approach for Precision Public Health",
         "year": "2025/6/6",
@@ -26106,15 +26178,6 @@
         "publisher": "Translational psychiatry",
         "author": "Sarina Abrishamcar, Beryl C Zhuang, Mara Thomas, Nicole Gladish, Julia L MacIsaac, Meaghan J Jones, Elinor Simons, Theo J Moraes, Piush J Mandhane, Jeffrey R Brook, Padmaja Subbarao, Stuart E Turvey, Edith Chen, Gregory E Miller, Michael S Kobor, Anke H\u00fcls",
         "url": "https://www.nature.com/articles/s41398-024-03148-8",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "Nnq8S6OXqDYC": {
-        "title": "From fetus to 8: the CHILD Cohort Study",
-        "year": "2024/10/11",
-        "publisher": "American Journal of Epidemiology",
-        "author": "Kozeta Miliku, Myrtha E Reyna, Maria Medeleanu, Ruixue Dai, Aimee Dubeau, Diana L Lefebvre, Kim Wright, Bassel Dawod, Marshall Beck, Elissa Brooks, Michael Kobor, Qingling Duan, Jeffrey R Brook, Wendy Lou, Fiona SL Brinkman, Geoffrey L Winsor, Justin Cook, Allan B Becker, Elinor Simons, Piushkumar J Mandhane, Theo J Moraes, Meghan B Azad, Malcolm R Sears, Stuart E Turvey, Padmaja Subbarao, CHILD Study Investigators",
-        "url": "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae397/7818298",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -27375,6 +27438,15 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
+      "W5d1EEiaRJMC": {
+        "title": "F ST between haploids and diploids in species with discrete ploidy phases",
+        "year": "2024/9/4",
+        "publisher": "Journal of Evolutionary Biology",
+        "author": "Kazuhiro Bessho, Sarah P Otto",
+        "url": "https://academic.oup.com/jeb/advance-article-abstract/doi/10.1093/jeb/voae104/7749046",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "xIQbs6uk08UC": {
         "title": "The maintenance of genetic polymorphism in sexually antagonistic traits",
         "year": "2023/10/11",
@@ -27436,15 +27508,6 @@
         "author": "Nicholas H Ogden, Emily S Acheson, Kevin Brown, David Champredon, Caroline Colijn, Alan Diener, Jonathan Dushoff, David JD Earn, Vanessa Gabriele-Rivet, Marcellin Gangb\u00e8, Steve Guillouzic, Deirdre Hennessy, Valerie Hongoh, Amy Hurford, Lisa Kanary, Michael Li, Victoria Ng, Sarah P Otto, Irena Papst, Erin E Rees, Ashleigh Tuite, Matthew R MacLeod, Carmen Lia Murall, Lisa Waddell, Rania Wasfi, Michael Wolfson",
         "url": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2024-50/issue-10-october-2024/mathematical-modelling-pandemic-preparedness.html",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "W5d1EEiaRJMC": {
-        "title": "F ST between haploids and diploids in species with discrete ploidy phases",
-        "year": "2024/9/4",
-        "publisher": "Journal of Evolutionary Biology",
-        "author": "Kazuhiro Bessho, Sarah P Otto",
-        "url": "https://academic.oup.com/jeb/advance-article-abstract/doi/10.1093/jeb/voae104/7749046",
-        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "zvUQpHOXRJ8C": {

@@ -1,45 +1,93 @@
 {
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
     "total_new": "1",
     "publications": {
-      "JtjtGO9FvpUC": {
-        "title": "A guideline to uncover the mode of action of anti-methanogenic feed additives for ruminants",
-        "year": "2025/8/25",
-        "publisher": "E",
-        "author": "A Belanche, A Bannink, J Dijkstra, Z Durmic, F Garcia, FG Santos, S Huws, J Jeyanathan, P Lund, RI Mackie, TA Mcallister, DP Morgavi, S Muetzel, DW Pitta, DR Y\u00e1\u00f1ez-Ruiz, EM Ungerfeld",
-        "url": "https://research.wur.nl/en/publications/a-guideline-to-uncover-the-mode-of-action-of-anti-methanogenic-fe",
+      "SpbeaW3--B0C": {
+        "title": "Efficacy and safety evaluation of artificial intelligence-identified antimicrobial peptides for use against avian pathogenic Escherichia coli in the poultry industry",
+        "year": "2025/9/16",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Emre Demirsoy,Teagan I. Parkin,Anna H. Dema,Shaeleen E. Mihalynuk,Lorissa Corrie,Marika E. Heilker,Haley N. Kuecks-Winger,Anat Yanai,Uluc B. Birol,Michael McIlwee,Kay de Wet,Mathijs Knipscheer,Victoria Bowes,Vanessa Tuytel,Liam Ritchie,Wolfgang K\u00f6ster,Emil Berberov,William R. Cox,Monica Kotkoff,Vanessa C. Thompson,Rene L. Warren,Erin Fraser,Linda M.N. Hoang,Fraser Hof,Fatih Birol,Caren C. Helbing,Inanc Birol",
+        "url": "https://doi.org/10.1101/2025.09.15.675954",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      }
+    }
+  },
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
+    "total_new": "1",
+    "publications": {
+      "2VqYfGB8ITEC": {
+        "title": "Preventing an outbreak of SARS-CoV-2 on campus using wastewater surveillance",
+        "year": "2022/5/20",
+        "publisher": "Unknown",
+        "author": "Abdul Monem Al Riahi, Amr Labak, Ryland Corchis-Scott, Qiudi Geng, Robert Michael McKay",
+        "url": "https://uwindsor.scholaris.ca/items/3df518e1-06f7-4450-bb4f-0763e9212278/full",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
+    "total_new": "2",
+    "publications": {
+      "Fu2w8maKXqMC": {
+        "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
+        "year": "2025/7/1",
+        "publisher": "International Journal of Hygiene and Environmental Health",
+        "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "tzM49s52ZIMC": {
+        "title": "Assessing the effectiveness of green infrastructure in mitigating human health risks during aquatic recreational activities in urban areas using QMRA",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Justine Petrucci, Julia Derx, Hannes M\u00fcller-Thomy, Regina Sommer, Sarah Dorner, Jonathan Jalbert, Fran\u00e7oise Bichai",
+        "url": "https://publications.polymtl.ca/68439/",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "IZQgBh8AAAAJ": {
-    "Name": "Rita Isabel Henderson",
-    "total_new": "1",
+  "BZgRYfkAAAAJ": {
+    "Name": "Dominic Frigon",
+    "total_new": "2",
     "publications": {
-      "4OULZ7Gr8RgC": {
-        "title": "Increased use of psychiatric medication following incident celiac autoimmunity",
-        "year": "2025/9/15",
-        "publisher": "Journal of Psychosomatic Research",
-        "author": "Quinn Goddard, Gilaad G Kaplan, Stephanie Coward, Tyler Williamson, Scott Patten, Marcia Bruce, Jenny Godley, Rita Henderson, Tara A Whitten, Araba Chintoh, James A King",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0022399925003411",
+      "C-Rn0OCouf8C": {
+        "title": "Towards the integration of antibiotic resistance gene mobility into environmental surveillance and risk assessment",
+        "year": "2025/9/16",
+        "publisher": "N",
+        "author": "Uli Kl\u00fcmper, Peiju Fang, Bing Li, Yu Xia, Dominic Frigon, Kerry A Hamilton, Hunter Quon, Thomas U Berendonk, Magali de la Cruz Barron",
+        "url": "https://www.nature.com/articles/s44259-025-00154-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "kO05sadLmrgC": {
+        "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
+        "year": "2025/7/1",
+        "publisher": "International Journal of Hygiene and Environmental Health",
+        "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "c-pNH9UAAAAJ": {
-    "Name": "Kenneth K.S. Ng",
+  "gTkdyfsAAAAJ": {
+    "Name": "Trevor Charles",
     "total_new": "1",
     "publications": {
-      "gsN89kCJA0AC": {
-        "title": "Full wwPDB X-ray Structure Validation Report i",
-        "year": "2023",
-        "publisher": "w",
-        "author": "Y Kim, KH Kim",
-        "url": "https://www.academia.edu/download/92108323/bd03adac0e1e6849fc7f7f5bd921e86a3d10.pdf",
-        "firstOrLast": false,
+      "QBSR9U3j2CEC": {
+        "title": "Genome sequence of N2-fixer Stutzerimonas stutzeri strain MBI-RS3",
+        "year": "2025/9/17",
+        "publisher": "Microbiology Resource Announcements",
+        "author": "Patricia D\u00f6rr de Quadros, Julie E Hernandez-Salmeron, Michael DJ Lynch, Jiujung Cheng, Trevor C Charles",
+        "url": "https://journals.asm.org/doi/abs/10.1128/mra.01192-24",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
