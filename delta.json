@@ -1,91 +1,16 @@
 {
-  "zI9NSLcAAAAJ": {
-    "Name": "Andrew G. McArthur",
+  "BZgRYfkAAAAJ": {
+    "Name": "Dominic Frigon",
     "total_new": "1",
     "publications": {
-      "evX43VCCuoAC": {
-        "title": "CARD k-mers: Unmasking the pathogen hosts and genomic contexts of antimicrobial resistance genes in metagenomic sequences",
-        "year": "2025/1/1",
-        "publisher": "bioRxiv",
-        "author": "Mateusz A Wlodarski, Tammy TY Lau, Brian P Alcock, Amogelang R Raphenya, Tiffany E Ta, Finlay Maguire, Robert G Beiko, Andrew G McArthur",
-        "url": "https://www.biorxiv.org/content/10.1101/2025.09.15.676352",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "Et_RonIAAAAJ": {
-    "Name": "Guillaume Bourque",
-    "total_new": "1",
-    "publications": {
-      "SenaEjHFqFYC": {
-        "title": "Altered sperm DNA methylation in overweight men associates with transposable element regulation of paternal origins of risk in children",
-        "year": "2025/9/17",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Sarah Kimmins,Mathieu Schulz,Xiaojian Shao,Romain Lambrot,Christine Lafleur,Donovan Chan,Marie-Charlotte Dumargne,Amanda J Macfarlane,Sergey Moskovtsev,Clifford L Librach,Guillaume bourque,Tomi Pastinen,Hope Weiler,Jacquetta Trasler",
-        "url": "https://doi.org/10.1101/2025.09.15.675616",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      }
-    }
-  },
-  "OmUy3vUAAAAJ": {
-    "Name": "Rob Beiko",
-    "total_new": "1",
-    "publications": {
-      "VaXvl8Fpj5cC": {
-        "title": "CARD k-mers: Unmasking the pathogen hosts and genomic contexts of antimicrobial resistance genes in metagenomic sequences",
-        "year": "2025/1/1",
-        "publisher": "bioRxiv",
-        "author": "Mateusz A Wlodarski, Tammy TY Lau, Brian P Alcock, Amogelang R Raphenya, Tiffany E Ta, Finlay Maguire, Robert G Beiko, Andrew G McArthur",
-        "url": "https://www.biorxiv.org/content/10.1101/2025.09.15.676352",
+      "kO05sadLmrgC": {
+        "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
+        "year": "2025/7/1",
+        "publisher": "International Journal of Hygiene and Environmental Health",
+        "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
         "firstOrLast": false,
         "datasource": "Scholars"
-      }
-    }
-  },
-  "rHFCtWwAAAAJ": {
-    "Name": "Finlay Maguire",
-    "total_new": "1",
-    "publications": {
-      "CHSYGLWDkRkC": {
-        "title": "CARD k-mers: Unmasking the pathogen hosts and genomic contexts of antimicrobial resistance genes in metagenomic sequences",
-        "year": "2025/1/1",
-        "publisher": "bioRxiv",
-        "author": "Mateusz A Wlodarski, Tammy TY Lau, Brian P Alcock, Amogelang R Raphenya, Tiffany E Ta, Finlay Maguire, Robert G Beiko, Andrew G McArthur",
-        "url": "https://www.biorxiv.org/content/10.1101/2025.09.15.676352",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "LghEfpEAAAAJ": {
-    "Name": "Gary Van Domselaar",
-    "total_new": "1",
-    "publications": {
-      "HkunuPqSaCsC": {
-        "title": "Complete genome sequences of two Treponema pallidum subsp. pallidum specimens from Canadian patients",
-        "year": "2025/9/18",
-        "publisher": "Microbiology Resource Announcements",
-        "author": "Nishant Singh, Thomas WA Braukmann, MacKenzie Neale, George S Long, Derek Stein, Paul Van Caeseele, Keith D MacKenzie, Jessica Minion, Gary Van Domselaar, Morag Graham, Andrea Tyler, Samir N Patel, Venkata R Duvvuri, Raymond SW Tsang",
-        "url": "https://journals.asm.org/doi/abs/10.1128/mra.00641-25",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "BPjrrI4AAAAJ": {
-    "Name": "Melissa L Perreault",
-    "total_new": "1",
-    "publications": {
-      "dfsIfKJdRG4C": {
-        "title": "Cannflavin B ameliorates social and anxiety deficits and neuronal systems dysfunction in adolescent rats exposed to prenatal valproic acid",
-        "year": "2025/9/17",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Olivia O F Williams,Madeleine Coppolino,Joshua D Manduca,Taylor C Demers,Paula T Henry-Duru,Talen C Mueller,Eric Soubeyrand,Colby J Perrin,Tariq A Akhtar,Melissa L Perreault",
-        "url": "https://doi.org/10.1101/2025.09.14.676092",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
       }
     }
   }

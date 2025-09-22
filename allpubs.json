@@ -6498,6 +6498,15 @@
     "Name": "Miguel Uyaguari",
     "total_publications": "18",
     "publications": {
+      "k_IJM867U9cC": {
+        "title": "Microbial Consortia in Full-Scale Pre-ozonated Biologically Active Filters Treating a High-DOC Water: Effects of Seasonal and Operational Variations",
+        "year": "2025/6/20",
+        "publisher": "Water Research",
+        "author": "Saeideh Mirzaei, Beata Gorczyca, Miguel Uyaguari, Richard Sparling, Evgeniia Maksimova",
+        "url": "https://www.sciencedirect.com/science/article/pii/S004313542500973X",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "TQgYirikUcIC": {
         "title": "Seasonal Patterns of Viromes in Urban Aquatic Environments of Manitoba",
         "year": "2024/3/7",
@@ -6524,15 +6533,6 @@
         "url": "https://doi.org/10.1101/2025.07.11.664311",
         "firstOrLast": true,
         "datasource": "CrossRef"
-      },
-      "k_IJM867U9cC": {
-        "title": "Microbial Consortia in Full-Scale Pre-ozonated Biologically Active Filters Treating a High-DOC Water: Effects of Seasonal and Operational Variations",
-        "year": "2025/6/20",
-        "publisher": "Water Research",
-        "author": "Saeideh Mirzaei, Beata Gorczyca, Miguel Uyaguari, Richard Sparling, Evgeniia Maksimova",
-        "url": "https://www.sciencedirect.com/science/article/pii/S004313542500973X",
-        "firstOrLast": false,
-        "datasource": "Scholars"
       },
       "iH-uZ7U-co4C": {
         "title": "Impact of fall ammonia fluctuations on winter nitrification in moving bed biofilm reactors",
@@ -6693,15 +6693,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "tKAzc9rXhukC": {
-        "title": "Whole-genome sequencing confirms Shigella flexneri infection in a child with shock and suspected multisystem inflammatory syndrome in children: A case report",
-        "year": "2025/5/28",
-        "publisher": "IDCases",
-        "author": "Sheridan JC Baker, Laura K Erdman, Donald Brody Duncan, Tania Cellucci, Marek Smieja, Cheryl Main, Jeffrey M Pernica, Andrew G McArthur",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2214250925001301",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "NJ774b8OgUMC": {
         "title": "Simultaneous detection of pathogens and antimicrobial resistance genes with the open source, cloud-based, CZ ID platform",
         "year": "2025/12",
@@ -6735,6 +6726,15 @@
         "publisher": "bioRxiv",
         "author": "Mateusz A Wlodarski, Tammy TY Lau, Brian P Alcock, Amogelang R Raphenya, Tiffany E Ta, Finlay Maguire, Robert G Beiko, Andrew G McArthur",
         "url": "https://www.biorxiv.org/content/10.1101/2025.09.15.676352",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "tKAzc9rXhukC": {
+        "title": "Whole-genome sequencing confirms Shigella flexneri infection in a child with shock and suspected multisystem inflammatory syndrome in children: A case report",
+        "year": "2025/5/28",
+        "publisher": "IDCases",
+        "author": "Sheridan JC Baker, Laura K Erdman, Donald Brody Duncan, Tania Cellucci, Marek Smieja, Cheryl Main, Jeffrey M Pernica, Andrew G McArthur",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2214250925001301",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -9915,6 +9915,15 @@
     "Name": "Stephanie Guilherme",
     "total_publications": "7",
     "publications": {
+      "_FxGoFyzp5QC": {
+        "title": "Partitioning and probe-based quantitative PCR assays for the wastewater monitoring of Mycobacterium tuberculosis Complex, M. tuberculosis, and M. Bovis",
+        "year": "2024/1/1",
+        "publisher": "medRxiv",
+        "author": "Tram Bich Nguyen, Elisabeth Mercier, Chandler H Wong, Nada Hegazy, Md Pervez Kabir, Emma Tomalty, Felix Addo, Leonor Ward, Elizabeth Renouf, Shen Wan, Yassen Tcholakov, St\u00e9phanie Guilherme, Robert Delatolla",
+        "url": "https://www.medrxiv.org/content/10.1101/2024.12.18.24319238",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "LkGwnXOMwfcC": {
         "title": "Subchronic Exposure to Regulated Trihalomethanes and Haloacetic Acids: Do We Need to Refine Our Exposure Assessment? A Full-Scale Case Study in a Canadian Municipality",
         "year": "2025/1/6",
@@ -9931,15 +9940,6 @@
         "author": "Alexandra Cassivi, Anne Carabin, Caetano Dorea, Manuel J Rodriguez, St\u00e9phanie Guilherme",
         "url": "https://iwaponline.com/jwh/article/doi/10.2166/wh.2024.246/101774",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "_FxGoFyzp5QC": {
-        "title": "Partitioning and probe-based quantitative PCR assays for the wastewater monitoring of Mycobacterium tuberculosis Complex, M. tuberculosis, and M. Bovis",
-        "year": "2024/1/1",
-        "publisher": "medRxiv",
-        "author": "Tram Bich Nguyen, Elisabeth Mercier, Chandler H Wong, Nada Hegazy, Md Pervez Kabir, Emma Tomalty, Felix Addo, Leonor Ward, Elizabeth Renouf, Shen Wan, Yassen Tcholakov, St\u00e9phanie Guilherme, Robert Delatolla",
-        "url": "https://www.medrxiv.org/content/10.1101/2024.12.18.24319238",
-        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "Y0pCki6q_DkC": {
@@ -21196,7 +21196,7 @@
   },
   "BZgRYfkAAAAJ": {
     "Name": "Dominic Frigon",
-    "total_publications": "26",
+    "total_publications": "27",
     "publications": {
       "C-Rn0OCouf8C": {
         "title": "Towards the integration of antibiotic resistance gene mobility into environmental surveillance and risk assessment",
@@ -21204,6 +21204,15 @@
         "publisher": "N",
         "author": "Uli Kl\u00fcmper, Peiju Fang, Bing Li, Yu Xia, Dominic Frigon, Kerry A Hamilton, Hunter Quon, Thomas U Berendonk, Magali de la Cruz Barron",
         "url": "https://www.nature.com/articles/s44259-025-00154-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "kO05sadLmrgC": {
+        "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
+        "year": "2025/7/1",
+        "publisher": "International Journal of Hygiene and Environmental Health",
+        "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -25062,30 +25071,12 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "u_35RYKgDlwC": {
-        "title": "Indigenous epistemologies, Two-Eyed Seeing, and the philosophy, practice, and applications of brain sciences",
-        "year": "2025/1/1",
-        "publisher": "A",
-        "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre D McLachlan, Michael Yellow Bird, Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000049",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "ZHo1McVdvXMC": {
         "title": "Melissa Perreault: Thinking big towards a \u201ccomplexity science\u201d approach in neuroscience\u2013systems, environment, and whole organism research",
         "year": "2025/3/4",
         "publisher": "Genomic Psychiatry",
         "author": "Melissa Perreault",
         "url": "https://genomicpress.kglmeridian.com/view/journals/genpsych/1/3/article-p6.xml",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "zA6iFVUQeVQC": {
-        "title": "Authenticity in capacity-building for neuroscience: Indigenous scholarship, teaching, and care",
-        "year": "2025/1/1",
-        "publisher": "A",
-        "author": "Melissa L Perreault, Rudi L Taylor-Bragge, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000037",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -25124,6 +25115,24 @@
         "url": "https://doi.org/10.1101/2025.09.14.676092",
         "firstOrLast": true,
         "datasource": "CrossRef"
+      },
+      "u_35RYKgDlwC": {
+        "title": "Indigenous epistemologies, Two-Eyed Seeing, and the philosophy, practice, and applications of brain sciences",
+        "year": "2025/1/1",
+        "publisher": "A",
+        "author": "T Ryan Gregory, Rudi L Taylor-Bragge, Andre D McLachlan, Michael Yellow Bird, Melissa L Perreault",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000049",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "zA6iFVUQeVQC": {
+        "title": "Authenticity in capacity-building for neuroscience: Indigenous scholarship, teaching, and care",
+        "year": "2025/1/1",
+        "publisher": "A",
+        "author": "Melissa L Perreault, Rudi L Taylor-Bragge, Andre D McLachlan, T Ryan Gregory, Roksana Khalid, Katherine Bassil, Anna Lydia Svalastog, Minerva R Velarde, Judy Illes",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2589295925000037",
+        "firstOrLast": true,
+        "datasource": "Scholars"
       },
       "rO6llkc54NcC": {
         "title": "THE CANNABIS FLAVENOIDS CANNFLAVIN A AND B EXHIBIT THERAPEUTIC PROPERTIES IN A RODENT MODEL SYSTEM OF AUTISM SPECTRUM DISORDERS",
