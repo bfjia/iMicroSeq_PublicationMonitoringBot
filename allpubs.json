@@ -939,6 +939,24 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "Y5dfb0dijaUC": {
+        "title": "Partitioning and probe-based quantitative PCR assays for the wastewater monitoring of Mycobacterium tuberculosis Complex, M. tuberculosis, and M. Bovis",
+        "year": "2024/1/1",
+        "publisher": "medRxiv",
+        "author": "Tram Bich Nguyen, Elisabeth Mercier, Chandler H Wong, Nada Hegazy, Md Pervez Kabir, Emma Tomalty, Felix Addo, Leonor Ward, Elizabeth Renouf, Shen Wan, Yassen Tcholakov, St\u00e9phanie Guilherme, Robert Delatolla",
+        "url": "https://www.medrxiv.org/content/10.1101/2024.12.18.24319238",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "WA5NYHcadZ8C": {
+        "title": "Learning associations of COVID-19 hospitalizations with wastewater viral signals by Markov modulated models",
+        "year": "2024/10/9",
+        "publisher": "arXiv preprint arXiv:2410.07487",
+        "author": "K Ken Peng, Charmaine B Dean, Robert Delatolla, X Joan Hu",
+        "url": "https://arxiv.org/abs/2410.07487",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "PR6Y55bgFSsC": {
         "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
         "year": "2025/7/7",
@@ -1110,15 +1128,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "WA5NYHcadZ8C": {
-        "title": "Learning associations of COVID-19 hospitalizations with wastewater viral signals by Markov modulated models",
-        "year": "2024/10/9",
-        "publisher": "arXiv preprint arXiv:2410.07487",
-        "author": "K Ken Peng, Charmaine B Dean, Robert Delatolla, X Joan Hu",
-        "url": "https://arxiv.org/abs/2410.07487",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "olpn-zPbct0C": {
         "title": "Combining Short-and Long-Read Sequencing Technologies to Identify SARS-CoV-2 Variants in Wastewater",
         "year": "2024/9/21",
@@ -1179,15 +1188,6 @@
         "publisher": "Frontiers in Public Health",
         "author": "Nisha Thampi, Elisabeth Mercier, Bosco Paes, James O Edwards, Barry Rodgers-Gray, Robert Delatolla",
         "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2023.1316531/full",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "Y5dfb0dijaUC": {
-        "title": "Partitioning and probe-based quantitative PCR assays for the wastewater monitoring of Mycobacterium tuberculosis Complex, M. tuberculosis, and M. Bovis",
-        "year": "2024/1/1",
-        "publisher": "medRxiv",
-        "author": "Tram Bich Nguyen, Elisabeth Mercier, Chandler H Wong, Nada Hegazy, Md Pervez Kabir, Emma Tomalty, Felix Addo, Leonor Ward, Elizabeth Renouf, Shen Wan, Yassen Tcholakov, St\u00e9phanie Guilherme, Robert Delatolla",
-        "url": "https://www.medrxiv.org/content/10.1101/2024.12.18.24319238",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -4308,6 +4308,51 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "nlmsuG0oqtYC": {
+        "title": "Livestock\u2014an essential component of a circular bioeconomy",
+        "year": "2025/8",
+        "publisher": "O",
+        "author": "Tim A McAllister, Philippe Becquet, Barbara Amon, LEAP TAG, Michael RF Lee",
+        "url": "https://academic.oup.com/af/article/15/4/3/8258459",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "_5pobawY6TYC": {
+        "title": "Applying insights from metrics on circular livestock bioeconomy systems",
+        "year": "2025/8",
+        "publisher": "Animal Frontiers",
+        "author": "Clark Halpern, Tim McAllister, Barbara Amon, Loekie Schreefel, Hannah HE van Zanten",
+        "url": "https://academic.oup.com/af/article/15/4/16/8258457",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "jgpk9vOjLEcC": {
+        "title": "Circular bioeconomy in livestock production: harnessing crop by-products in MERCOSUR/MERCOSUL",
+        "year": "2025/8",
+        "publisher": "Animal Frontiers",
+        "author": "Griselda Meza Ocampos, Adibe Luiz Abdalla, Arnoldo Gonz\u00e1lez Reyna, Tim A McAllister",
+        "url": "https://academic.oup.com/af/article/15/4/44/8258464",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "K5ggCqHMkpcC": {
+        "title": "Role of livestock in circular bioeconomy systems",
+        "year": "2025/8",
+        "publisher": "Animal Frontiers",
+        "author": "Tim A McAllister, Philippe Becquet, Barbara R Amon, LEAP TAG, Michael RF Lee",
+        "url": "https://academic.oup.com/af/article/15/4/7/8258465",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "yY8dUDjMDt8C": {
+        "title": "Can circularity support net-zero agriculture: an exploratory case",
+        "year": "2025/8",
+        "publisher": "Animal Frontiers",
+        "author": "Tim McAllister, Ben Ellert, Henry Janzen",
+        "url": "https://academic.oup.com/af/article/15/4/65/8258463",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "-R_Z4shfoosC": {
         "title": "Divergent trends in structural landscape connectivity from historic and potential future grassland conversion in Alberta, Canada",
         "year": "2025/8/1",
@@ -5126,51 +5171,6 @@
         "url": "https://www.mdpi.com/2079-6382/12/6/960",
         "firstOrLast": true,
         "datasource": "Scholars"
-      },
-      "BZGggv0hN9sC": {
-        "title": "Digestibility of western Canadian finishing beef cattle diets when short-season, high-moisture shelled corn and snaplage partially replace dry-rolled barley grain and barley silage",
-        "year": "2023/5/11",
-        "publisher": "Canadian Journal of Animal Science",
-        "author": "Rachel E Carey, Zachary D Paddock, Gabriel O Ribeiro, Tim A McAllister, Gregory B Penner",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjas-2022-0122",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "tUtwDVdCwjgC": {
-        "title": "Effect of dry or temper rolling of high-or low-protein wheat and its impact on rumen parameters, growth performance, and liver abscesses in feedlot cattle",
-        "year": "2023/5/8",
-        "publisher": "Canadian Journal of Animal Science",
-        "author": "Amanda C Meadows, Stephanie A Terry, Gregory B Penner, Pierre J Hucl, Tim A McAllister, Gabriel O Ribeiro",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/CJAS-2022-0110",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "SEmTV4UfSqwC": {
-        "title": "Analysis of complex carbohydrate composition in plant cell wall using Fourier transform mid-infrared spectroscopy",
-        "year": "2023/5/7",
-        "publisher": "S",
-        "author": "Ajay Badhan, Yuxi Wang, Tim A McAllister",
-        "url": "https://link.springer.com/protocol/10.1007/978-1-0716-3151-5_15",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "A7-hzOuI2KQC": {
-        "title": "Isolation and Preparation of Extracellular Proteins from Lignocellulose-Degrading Fungi for Comparative Proteomic Studies Using Mass Spectrometry",
-        "year": "2023/5/7",
-        "publisher": "S",
-        "author": "Robert J Gruninger, Adrian Tsang, Tim A McAllister",
-        "url": "https://link.springer.com/protocol/10.1007/978-1-0716-3151-5_21",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "I__7AI8a974C": {
-        "title": "Identification of Genes Involved in the Degradation of Lignocellulose Using Comparative Transcriptomics",
-        "year": "2023/5/7",
-        "publisher": "S",
-        "author": "Robert J Gruninger, Adrian Tsang, Tim A McAllister",
-        "url": "https://link.springer.com/protocol/10.1007/978-1-0716-3151-5_20",
-        "firstOrLast": true,
-        "datasource": "Scholars"
       }
     }
   },
@@ -5839,8 +5839,17 @@
   },
   "ceQ3BE0AAAAJ": {
     "Name": "M\u00e9lanie Courtot",
-    "total_publications": "3",
+    "total_publications": "4",
     "publications": {
+      "8AbLer7MMksC": {
+        "title": "LLM-based data extraction for a large cancer registry, the Ontario Hereditary Cancer Research Network",
+        "year": "2025/8/26",
+        "publisher": "Unknown",
+        "author": "AFM De La Hoz, J Weile, P Hemlani, E Tuzlali, S Ridd, B Chan, LK Hughes, K Chun, H Feilotter, D Grafodatskaya, J Lerner-Ellis, L Schenkel, A Smith, A Vaags, H Wang, RH Kim, L Stein, B Haibe-Kains, M Courtot",
+        "url": "https://europepmc.org/article/ppr/ppr1072826",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "B3FOqHPlNUQC": {
         "title": "Abstract A006: Data Curation and Knowledge Integration Pipeline for Biomarker Discovery",
         "year": "2025/7/10",
@@ -13672,7 +13681,7 @@
   },
   "S2HhkvEAAAAJ": {
     "Name": "Sarah Dorner",
-    "total_publications": "50",
+    "total_publications": "51",
     "publications": {
       "_Re3VWB3Y0AC": {
         "title": "Characterization of Per-and Polyfluoroalkyl Substances in Drinking Water Sources in the Greater Montreal Area, Quebec, Canada",
@@ -13681,6 +13690,15 @@
         "author": "Ignacio M Ceballos, Hadia Terro, Benoit Barbeau, Natasha McQuaid, S\u00e9bastien Sauv\u00e9, Sarah Dorner",
         "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.5c00562",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "Fu2w8maKXqMC": {
+        "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
+        "year": "2025/7/1",
+        "publisher": "International Journal of Hygiene and Environmental Health",
+        "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
+        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "uLbwQdceFCQC": {
@@ -14836,7 +14854,7 @@
   },
   "IZQgBh8AAAAJ": {
     "Name": "Rita Isabel Henderson",
-    "total_publications": "45",
+    "total_publications": "46",
     "publications": {
       "4OULZ7Gr8RgC": {
         "title": "Increased use of psychiatric medication following incident celiac autoimmunity",
@@ -15133,6 +15151,15 @@
         "author": "Eric Smith, Katrina Milaney, Rita I Henderson, Lyndon Crowshoe",
         "url": "https://link.springer.com/article/10.1186/s12889-020-10091-y",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "dfsIfKJdRG4C": {
+        "title": "Canadian Medical Education Journal",
+        "year": "2021",
+        "publisher": "Unknown",
+        "author": "Rita Isabel Henderson, Ian Walker, Douglas Myhre, Rachel Ward, Lynden Lindsay Crowshoe",
+        "url": "https://journalhosting.ucalgary.ca/index.php/cmej/article/download/68215/54715?utm_source=consensus",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "e5wmG9Sq2KIC": {
@@ -18265,8 +18292,17 @@
   },
   "OmUy3vUAAAAJ": {
     "Name": "Rob Beiko",
-    "total_publications": "34",
+    "total_publications": "35",
     "publications": {
+      "k8Z6L05lTy4C": {
+        "title": "Impact of Bed Rest on the Gut and Oral Microbiome: Implications for Frailty",
+        "year": "2025/9/1",
+        "publisher": "Canadian Geriatrics Journal",
+        "author": "Monica Alvaro Fuss, Vanessa DeClercq, Susan Howlett, Joanna M Blodgett, Olga Theou, Morgan GI Langille, Robert G Beiko",
+        "url": "https://search.proquest.com/openview/72408c893a7b4d50f4a991eaa870468f/1?pq-origsite=gscholar&cbl=1246350",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "L7CI7m0gUJcC": {
         "title": "ParallelEvolCCM: Quantifying Coevolutionary Patterns Among Genomic Features",
         "year": "2025/6",
@@ -28700,6 +28736,15 @@
     "Name": "Elizabeth M. Renouf",
     "total_publications": "15",
     "publications": {
+      "MXK_kJrjxJIC": {
+        "title": "Partitioning and probe-based quantitative PCR assays for the wastewater monitoring of Mycobacterium tuberculosis Complex, M. tuberculosis, and M. Bovis",
+        "year": "2024/1/1",
+        "publisher": "medRxiv",
+        "author": "Tram Bich Nguyen, Elisabeth Mercier, Chandler H Wong, Nada Hegazy, Md Pervez Kabir, Emma Tomalty, Felix Addo, Leonor Ward, Elizabeth Renouf, Shen Wan, Yassen Tcholakov, St\u00e9phanie Guilherme, Robert Delatolla",
+        "url": "https://www.medrxiv.org/content/10.1101/2024.12.18.24319238",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "mVmsd5A6BfQC": {
         "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
         "year": "2025/7/7",
@@ -28787,15 +28832,6 @@
         "publisher": "medRxiv",
         "author": "Emma Tomalty, \u00c9lisabeth Mercier, Lakshmi Pisharody, Tram Nguyen, Xin Tian, Md Pervez Kabir, Chandler Wong, Felix Addo, Nada Hegazy, Elizabeth Renouf, Shen Wan, Robert Delatolla",
         "url": "https://www.medrxiv.org/content/10.1101/2024.10.11.24315327.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "MXK_kJrjxJIC": {
-        "title": "Partitioning and probe-based quantitative PCR assays for the wastewater monitoring of Mycobacterium tuberculosis Complex, M. tuberculosis, and M. Bovis",
-        "year": "2024/1/1",
-        "publisher": "medRxiv",
-        "author": "Tram Bich Nguyen, Elisabeth Mercier, Chandler H Wong, Nada Hegazy, Md Pervez Kabir, Emma Tomalty, Felix Addo, Leonor Ward, Elizabeth Renouf, Shen Wan, Yassen Tcholakov, St\u00e9phanie Guilherme, Robert Delatolla",
-        "url": "https://www.medrxiv.org/content/10.1101/2024.12.18.24319238",
         "firstOrLast": false,
         "datasource": "Scholars"
       },

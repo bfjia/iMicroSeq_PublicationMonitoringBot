@@ -1,14 +1,110 @@
 {
-  "BZgRYfkAAAAJ": {
-    "Name": "Dominic Frigon",
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "5",
+    "publications": {
+      "nlmsuG0oqtYC": {
+        "title": "Livestock\u2014an essential component of a circular bioeconomy",
+        "year": "2025/8",
+        "publisher": "O",
+        "author": "Tim A McAllister, Philippe Becquet, Barbara Amon, LEAP TAG, Michael RF Lee",
+        "url": "https://academic.oup.com/af/article/15/4/3/8258459",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "_5pobawY6TYC": {
+        "title": "Applying insights from metrics on circular livestock bioeconomy systems",
+        "year": "2025/8",
+        "publisher": "Animal Frontiers",
+        "author": "Clark Halpern, Tim McAllister, Barbara Amon, Loekie Schreefel, Hannah HE van Zanten",
+        "url": "https://academic.oup.com/af/article/15/4/16/8258457",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "jgpk9vOjLEcC": {
+        "title": "Circular bioeconomy in livestock production: harnessing crop by-products in MERCOSUR/MERCOSUL",
+        "year": "2025/8",
+        "publisher": "Animal Frontiers",
+        "author": "Griselda Meza Ocampos, Adibe Luiz Abdalla, Arnoldo Gonz\u00e1lez Reyna, Tim A McAllister",
+        "url": "https://academic.oup.com/af/article/15/4/44/8258464",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "K5ggCqHMkpcC": {
+        "title": "Role of livestock in circular bioeconomy systems",
+        "year": "2025/8",
+        "publisher": "Animal Frontiers",
+        "author": "Tim A McAllister, Philippe Becquet, Barbara R Amon, LEAP TAG, Michael RF Lee",
+        "url": "https://academic.oup.com/af/article/15/4/7/8258465",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "yY8dUDjMDt8C": {
+        "title": "Can circularity support net-zero agriculture: an exploratory case",
+        "year": "2025/8",
+        "publisher": "Animal Frontiers",
+        "author": "Tim McAllister, Ben Ellert, Henry Janzen",
+        "url": "https://academic.oup.com/af/article/15/4/65/8258463",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "ceQ3BE0AAAAJ": {
+    "Name": "M\u00e9lanie Courtot",
     "total_new": "1",
     "publications": {
-      "kO05sadLmrgC": {
+      "8AbLer7MMksC": {
+        "title": "LLM-based data extraction for a large cancer registry, the Ontario Hereditary Cancer Research Network",
+        "year": "2025/8/26",
+        "publisher": "Unknown",
+        "author": "AFM De La Hoz, J Weile, P Hemlani, E Tuzlali, S Ridd, B Chan, LK Hughes, K Chun, H Feilotter, D Grafodatskaya, J Lerner-Ellis, L Schenkel, A Smith, A Vaags, H Wang, RH Kim, L Stein, B Haibe-Kains, M Courtot",
+        "url": "https://europepmc.org/article/ppr/ppr1072826",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
+    "total_new": "1",
+    "publications": {
+      "Fu2w8maKXqMC": {
         "title": "Influence of antimicrobial consumption (AMC) on the detection of antimicrobial resistance genes (ARGs) in urban wastewater",
         "year": "2025/7/1",
         "publisher": "International Journal of Hygiene and Environmental Health",
         "author": "Helena Ferreira Leal, \u00c9lise Fortin, Sarah Dorner, Dominic Frigon, Caroline Quach, Emilie B\u00e9dard",
         "url": "https://www.sciencedirect.com/science/article/pii/S1438463925001038",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "IZQgBh8AAAAJ": {
+    "Name": "Rita Isabel Henderson",
+    "total_new": "1",
+    "publications": {
+      "dfsIfKJdRG4C": {
+        "title": "Canadian Medical Education Journal",
+        "year": "2021",
+        "publisher": "Unknown",
+        "author": "Rita Isabel Henderson, Ian Walker, Douglas Myhre, Rachel Ward, Lynden Lindsay Crowshoe",
+        "url": "https://journalhosting.ucalgary.ca/index.php/cmej/article/download/68215/54715?utm_source=consensus",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "OmUy3vUAAAAJ": {
+    "Name": "Rob Beiko",
+    "total_new": "1",
+    "publications": {
+      "k8Z6L05lTy4C": {
+        "title": "Impact of Bed Rest on the Gut and Oral Microbiome: Implications for Frailty",
+        "year": "2025/9/1",
+        "publisher": "Canadian Geriatrics Journal",
+        "author": "Monica Alvaro Fuss, Vanessa DeClercq, Susan Howlett, Joanna M Blodgett, Olga Theou, Morgan GI Langille, Robert G Beiko",
+        "url": "https://search.proquest.com/openview/72408c893a7b4d50f4a991eaa870468f/1?pq-origsite=gscholar&cbl=1246350",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
