@@ -256,6 +256,17 @@ def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear 
             else:
                 print("[DEBUG] " + "Found known publication with ID " + pubID)
                 publicationList[pubID] = previousJsonData[authorID]['publications'][pubID]
+
+    # Sometimes, the publications in previousJsonData doesnt show up in the new list. 
+    # sometimes it's because they are old manuscript outside the top 100 list.
+    # Other times, it's actually new publications that got deindexed for some reason unknown.
+    # Either way, let's brute force the known publications back into the publicationList. 
+    keysInPrevButNotCur = set(previousJsonData[authorID]['publications'].keys()) - set(publicationList.keys())
+    if len(keysInPrevButNotCur) > 0:
+        print("[WARNING] " + "There were existing publications that were not indexed in this round " + str(keysInPrevButNotCur))
+        for key in keysInPrevButNotCur:
+            publicationList[key] = previousJsonData[authorID]['publications'][key]
+
         # except Exception as e:
         #     print("Skipping one pub due to error:", e)
 
@@ -372,7 +383,7 @@ if __name__ == "__main__":
 
     Msg = ""
     if len(deltaJson) > 0:
-        Msg = ""
+        Msg = "[NEW!]\n\n"
         for authorID in deltaJson:
             #if len(deltaJson[authorID]['publications']) > 1:
                 #Msg = Msg + deltaJson[authorID]['Name'] + " has new publications: \n"
@@ -395,10 +406,8 @@ if __name__ == "__main__":
                 Msg = Msg + "* "
                 if pub["firstOrLast"]:
                     Msg = Msg + "[First or Senior Author] "
-                Msg = Msg + pub['title'] + ". Published in " + pub['publisher'] + ". " + pub['url'] + "\n"
-            
-            #add an additional \n to make it more readable between authors
-            Msg = Msg + "\n"
+                Msg = Msg + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n"
+
                 #Msg = Msg + "Congratulations!\n\n"
             # else:
             #     for pubID in deltaJson[authorID]['publications']:
@@ -409,7 +418,9 @@ if __name__ == "__main__":
             #         else:
             #             print("[WARNING] Some how picked up a old publication in delta Json: (" + 
             #                   pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
-        if Msg == "":
+        
+        #In cases of all pubs were old ones, just output nothing new found.
+        if Msg == "[NEW!]\n\n":
             Msg = "[INFO]\nNo new publication found."
     else:
         Msg = "[INFO]\nNo new publication found."
