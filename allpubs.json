@@ -5214,6 +5214,15 @@
         "firstOrLast": true,
         "datasource": "CrossRef"
       },
+      "SpbeaW3--B0C": {
+        "title": "Efficacy and safety evaluation of artificial intelligence-identified antimicrobial peptides for use against avian pathogenic Escherichia coli in the poultry industry",
+        "year": "2025/9/16",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Emre Demirsoy,Teagan I. Parkin,Anna H. Dema,Shaeleen E. Mihalynuk,Lorissa Corrie,Marika E. Heilker,Haley N. Kuecks-Winger,Anat Yanai,Uluc B. Birol,Michael McIlwee,Kay de Wet,Mathijs Knipscheer,Victoria Bowes,Vanessa Tuytel,Liam Ritchie,Wolfgang K\u00f6ster,Emil Berberov,William R. Cox,Monica Kotkoff,Vanessa C. Thompson,Rene L. Warren,Erin Fraser,Linda M.N. Hoang,Fraser Hof,Fatih Birol,Caren C. Helbing,Inanc Birol",
+        "url": "https://doi.org/10.1101/2025.09.15.675954",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      },
       "lmc2jWPfTJgC": {
         "title": "Changes in histone abundance and post-translational modifications in Rana [Lithobates] catesbeiana tissues during temperature-mediated thyroid hormone-induced metamorphosis",
         "year": "2025/9/1",
@@ -5330,15 +5339,6 @@
         "url": "https://www.sciencedirect.com/science/article/pii/S1574954124005168",
         "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "SpbeaW3--B0C": {
-        "title": "Efficacy and safety evaluation of artificial intelligence-identified antimicrobial peptides for use against avian pathogenic Escherichia coli in the poultry industry",
-        "year": "2025/9/16",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Emre Demirsoy,Teagan I. Parkin,Anna H. Dema,Shaeleen E. Mihalynuk,Lorissa Corrie,Marika E. Heilker,Haley N. Kuecks-Winger,Anat Yanai,Uluc B. Birol,Michael McIlwee,Kay de Wet,Mathijs Knipscheer,Victoria Bowes,Vanessa Tuytel,Liam Ritchie,Wolfgang K\u00f6ster,Emil Berberov,William R. Cox,Monica Kotkoff,Vanessa C. Thompson,Rene L. Warren,Erin Fraser,Linda M.N. Hoang,Fraser Hof,Fatih Birol,Caren C. Helbing,Inanc Birol",
-        "url": "https://doi.org/10.1101/2025.09.15.675954",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
       },
       "i2xiXl-TujoC": {
         "title": "Correction to \u201cA Metadata Checklist and Data Formatting Guidelines to Make eDNA FAIR (Findable, Accessible, Interoperable, and Reusable)\u201d",
@@ -27517,7 +27517,7 @@
   },
   "-bIc5H0AAAAJ": {
     "Name": "Sarah Otto",
-    "total_publications": "99",
+    "total_publications": "100",
     "publications": {
       "PzCY1I33v7QC": {
         "title": "Evolution of cross-tolerance to metals in yeast",
@@ -27545,6 +27545,15 @@
         "url": "https://www.nature.com/articles/s41587-025-02636-6",
         "firstOrLast": true,
         "datasource": "Scholars"
+      },
+      "5pGZGXnFQ_sC": {
+        "title": "Quantifying the effect of metal interactions on growth rate in Saccharomyces cerevisiae",
+        "year": "2025/9/20",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Penelope C. Kahn,Sarah P. Otto",
+        "url": "https://doi.org/10.1101/2025.09.18.675698",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
       },
       "TRpSR8MJMSgC": {
         "title": "Signatures of selection with cultural interference",

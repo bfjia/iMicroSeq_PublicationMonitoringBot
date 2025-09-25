@@ -1,34 +1,16 @@
 {
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
-    "total_new": "3",
+  "-bIc5H0AAAAJ": {
+    "Name": "Sarah Otto",
+    "total_new": "1",
     "publications": {
-      "KhOrGmU4jB8C": {
-        "title": "Fixed Point for Almost Contractions in v-Generalized b-Metric Spaces. Fractal Fract. 2023, 7, 60",
-        "year": "2023",
-        "publisher": "Unknown",
-        "author": "A Kadyan, S Rathee, A Kumar, A Rani, K Tas",
-        "url": "https://www.academia.edu/download/110895654/pdf.pdf",
+      "5pGZGXnFQ_sC": {
+        "title": "Quantifying the effect of metal interactions on growth rate in Saccharomyces cerevisiae",
+        "year": "2025/9/20",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Penelope C. Kahn,Sarah P. Otto",
+        "url": "https://doi.org/10.1101/2025.09.18.675698",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "C8OcyWjgLQcC": {
-        "title": "Fixed Point Results for Ciric and Almost Contractions in Convex b-Metric Spaces. Mathematics 2022, 10, 466",
-        "year": "2022",
-        "publisher": "s",
-        "author": "S Rathee, A Kadyan, A Kumar, K Tas",
-        "url": "https://www.academia.edu/download/92008812/pdf.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "3WlWIbVKa_wC": {
-        "title": "Note on Common Fixed Point Theorems in Convex Metric Spaces. Axioms 2021, 10, 28",
-        "year": "2021",
-        "publisher": "Theory and Application of Fixed Point",
-        "author": "A Kumar, A Tas",
-        "url": "https://core.ac.uk/download/pdf/520260930.pdf#page=96",
-        "firstOrLast": false,
-        "datasource": "Scholars"
+        "datasource": "CrossRef"
       }
     }
   }
