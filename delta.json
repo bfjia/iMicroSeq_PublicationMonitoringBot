@@ -1,1 +1,41 @@
-{}
+{
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
+    "total_new": "1",
+    "publications": {
+      "PoWvk5oyLR8C": {
+        "title": "From Environmental DNA into Actionable Biodiversity Data: Towards the Implementation of the Kunming-Montreal Global Biodiversity Framework",
+        "year": "2025/9/23",
+        "publisher": "O",
+        "author": "Mark Louie D Lopez, Neha Acharya-Patel, Michael J Allison, Amy Migneault, Sarah Trilesky, Caren C Helbing",
+        "url": "https://academic.oup.com/jhered/advance-article-abstract/doi/10.1093/jhered/esaf068/8262221",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
+    "total_new": "2",
+    "publications": {
+      "-e1qr6N6M9MC": {
+        "title": "Peri\u2013Covid-19 Antibiotic Use and Antimicrobial Resistance in Older Adults",
+        "year": "2025/9/23",
+        "publisher": "NEJM Evidence",
+        "author": "Derek R MacFadden, Colleen Maxwell, Dawn Bowdish, Susan Bronskill, James Brooks, Kevin Brown, Lori L Burrows, Anna E Clarke, Bradley J Langford, Elizabeth Leung, Valerie Leung, Doug Manuel, Allison McGeer, Sharmistha Mishra, Andrew M Morris, Caroline Nott, Sumit Raybardhan, Mia E Sapin, Kevin L Schwartz, Miranda So, Jean-Paul R Soucy, Nick Daneman",
+        "url": "https://evidence.nejm.org/doi/abs/10.1056/EVIDoa2400108",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "yG6gRY0c4kQC": {
+        "title": "Cognitive and Functional Decline Among Long-Term Care Residents",
+        "year": "2025/4/23",
+        "publisher": "Jama Network Open",
+        "author": "Daniel Kobewka, Ramtin Hakimjavadi, Christina Y Yin, Mary Scott, Robert Talarico, Tim Ramsay, Colleen Webber, Douglas Manuel, Aliza Moledina, Amy T Hsu, Celeste Fung, Sharon Kaasalainen, Jackie Kierulf, Frank Molnar, Sandy Shamon, Beno\u00eet Robert, Paul E Ronksley, Peter Tanuseputro, Kumanan Wilson",
+        "url": "https://hub.hku.hk/handle/10722/362114",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
