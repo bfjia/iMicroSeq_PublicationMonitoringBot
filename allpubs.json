@@ -1708,7 +1708,7 @@
   },
   "O3Kin-IAAAAJ": {
     "Name": "Michael Parkins",
-    "total_publications": "100",
+    "total_publications": "101",
     "publications": {
       "BJbdYPG6LGMC": {
         "title": "Time to replace the oral glucose tolerance test for cystic fibrosis related diabetes first-step screening? Establishing glycemic tools relevant to cystic fibrosis",
@@ -1734,6 +1734,15 @@
         "publisher": "mBio",
         "author": "Nicole Acosta, Jangwoo Lee, Maria A Bautista, Srijak Bhatnagar, Carmen Li, Barbara J Waddell, Emily Au, Puja Pradhan, Rhonda G Clark, Jon Meddings, Gopal Achari, Johann D Pitout, John Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
         "url": "https://journals.asm.org/doi/abs/10.1128/mbio.01672-25",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "LgRImbQfgY4C": {
+        "title": "Wastewater-based surveillance of Bordetella pertussis during an outbreak in Alberta, Canada",
+        "year": "2025/7",
+        "publisher": "Antimicrobial Stewardship & Healthcare Epidemiology",
+        "author": "R Benson Weyant, Catalina Gonzalez, Barbara Wadell, Kristine Du, Jangwoo Lee, Nicole Acosta, Maria Chavarriaga, Rhonda Clark, Mila Luchak, Jordan Ross, Xiaoli Pang, Bonita Lee, Christine O\u2019Grady, Casey Hubert, Michael Parkins",
+        "url": "https://www.cambridge.org/core/journals/antimicrobial-stewardship-and-healthcare-epidemiology/article/wastewaterbased-surveillance-of-bordetella-pertussis-during-an-outbreak-in-alberta-canada/9C3B3F109983773D37E93030B224180A",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
@@ -8239,8 +8248,17 @@
   },
   "7XHhgCIAAAAJ": {
     "Name": "Andrew DS Cameron",
-    "total_publications": "21",
+    "total_publications": "22",
     "publications": {
+      "cww_0JKUTDwC": {
+        "title": "Enhanced metagenomic surveillance for bovine respiratory disease pathogens and antimicrobial resistance by hybridization capture sequencing",
+        "year": "2025/9/10",
+        "publisher": "Applied and Environmental Microbiology",
+        "author": "Jennifer N Russell, Dani\u00ebl Kos, Elhem Yacoub, Ashton N Sies, Brian Warr, Murray Jelinski, Antonio Ruzzini, Andrew DS Cameron",
+        "url": "https://journals.asm.org/doi/abs/10.1128/aem.00977-25",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "YGhAHpnIhDoC": {
         "title": "Discovery and assembly of plasmids in the fish pathogen Tenacibaculum",
         "year": "2025/6/18",
@@ -9052,7 +9070,7 @@
   },
   "iQjUDPYAAAAJ": {
     "Name": "Casey Hubert",
-    "total_publications": "100",
+    "total_publications": "101",
     "publications": {
       "86PQX7AUzd4C": {
         "title": "Microbial Lipidomics of Cold Seeps Linked to Deep Basin Salt Movement",
@@ -9087,6 +9105,15 @@
         "publisher": "mBio",
         "author": "Nicole Acosta, Jangwoo Lee, Maria A Bautista, Srijak Bhatnagar, Carmen Li, Barbara J Waddell, Emily Au, Puja Pradhan, Rhonda G Clark, Jon Meddings, Gopal Achari, Johann D Pitout, John Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
         "url": "https://journals.asm.org/doi/abs/10.1128/mbio.01672-25",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "4fGpz3EwCPoC": {
+        "title": "Wastewater-based surveillance of Bordetella pertussis during an outbreak in Alberta, Canada",
+        "year": "2025/7",
+        "publisher": "Antimicrobial Stewardship & Healthcare Epidemiology",
+        "author": "R Benson Weyant, Catalina Gonzalez, Barbara Wadell, Kristine Du, Jangwoo Lee, Nicole Acosta, Maria Chavarriaga, Rhonda Clark, Mila Luchak, Jordan Ross, Xiaoli Pang, Bonita Lee, Christine O\u2019Grady, Casey Hubert, Michael Parkins",
+        "url": "https://www.cambridge.org/core/journals/antimicrobial-stewardship-and-healthcare-epidemiology/article/wastewaterbased-surveillance-of-bordetella-pertussis-during-an-outbreak-in-alberta-canada/9C3B3F109983773D37E93030B224180A",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -15919,7 +15946,7 @@
   },
   "U3rqorsAAAAJ": {
     "Name": "Doug Manuel",
-    "total_publications": "102",
+    "total_publications": "103",
     "publications": {
       "ItgTnG0mAXQC": {
         "title": "Sex Differences in Cardiovascular Health Status and Long-Term Outcomes in a Primary Prevention Cohort",
@@ -16632,6 +16659,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "7rVtnTjEZJgC": {
+        "title": "Patient-reported symptom burden after cancer surgery in older adults: a population-level analysis",
+        "year": "2023/2/1",
+        "publisher": "Annals of Surgical Oncology",
+        "author": "Julie Hallet, Jesse Zuckerman, Matthew P Guttman, Tyler R Chesney, Barbara Haas, Alyson Mahar, Antoine Eskander, Wing C Chan, Amy Hsu, Victoria Barabash, Natalie Coburn, Frances Wright, Ines Menjak, Dov Gandell, Douglas Manuel, Lesley Gotlib-Conn, Grace Paladino, Pietro Galluzzo",
+        "url": "https://search.proquest.com/openview/7d3f1dadfe7da07bfbef30ca095f8442/1?pq-origsite=gscholar&cbl=32486",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "IOahUoDOFMsC": {
         "title": "Characteristics of Family Physicians Delivering Home Visits: A Canadian Retrospective Cohort Study",
         "year": "2023/2/1",
@@ -16812,15 +16848,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "P3HMU8IszGwC": {
-        "title": "The collapse of infectious disease diagnoses commonly due to communicable respiratory pathogens during the coronavirus disease 2019 pandemic: a time series and hierarchical \u2026",
-        "year": "2022/7/1",
-        "publisher": "Open Forum Infectious Diseases",
-        "author": "Ali Zhang, Matthew D Surette, Kevin L Schwartz, James I Brooks, Dawn ME Bowdish, Roshanak Mahdavi, Douglas G Manuel, Robert Talarico, Nick Daneman, Jayson Shurgold, Derek MacFadden",
-        "url": "https://academic.oup.com/ofid/article-abstract/9/7/ofac205/6570601",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "JOhajB-2wfwC": {
         "title": "Detection of COVID-19 outbreaks in long-term care homes using built environment testing for SARS-CoV-2: a multicentre prospective study",
         "year": "2022/6/29",
@@ -16836,6 +16863,15 @@
         "publisher": "Canadian Journal of Public Health",
         "author": "Christine Warren, Erin Hobin, Douglas G Manuel, Laura N Anderson, David Hammond, Mahsa Jessri, JoAnne Arcand, Mary L\u2019Abb\u00e9, Ye Li, Laura C Rosella, Heather Manson, Brendan T Smith",
         "url": "https://link.springer.com/article/10.17269/s41997-021-00602-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "P3HMU8IszGwC": {
+        "title": "The collapse of infectious disease diagnoses commonly due to communicable respiratory pathogens during the coronavirus disease 2019 pandemic: a time series and hierarchical \u2026",
+        "year": "2022/7/1",
+        "publisher": "Open Forum Infectious Diseases",
+        "author": "Ali Zhang, Matthew D Surette, Kevin L Schwartz, James I Brooks, Dawn ME Bowdish, Roshanak Mahdavi, Douglas G Manuel, Robert Talarico, Nick Daneman, Jayson Shurgold, Derek MacFadden",
+        "url": "https://academic.oup.com/ofid/article-abstract/9/7/ofac205/6570601",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -24445,7 +24481,7 @@
   },
   "gTkdyfsAAAAJ": {
     "Name": "Trevor Charles",
-    "total_publications": "59",
+    "total_publications": "60",
     "publications": {
       "vxVQT5kDUaMC": {
         "title": "Metabolic insight into the role of microbial interplay in conferring drought stress tolerance in black cumin (Nigella sativa L.)",
@@ -24888,6 +24924,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "mNm_27jwclsC": {
+        "title": "Microbiome definition re-visited: old concepts and new challenges (vol 8, 103, 2020)",
+        "year": "2020/8/20",
+        "publisher": "Microbiome",
+        "author": "Gabriele Berg, Daria Rybakova, Doreen Fischer, Tomislav Cernava, Marie-Christine Champomier Verges, Trevor Charles, Xiaoyulong Chen, Luca Cocolin, Kellye Eversole, Gema Herrero Corral, Maria Kazou, Linda Kinkel, Lene Lange, Nelson Lima, Alexander Loy, James A Macklin, Emmanuelle Maguin, Tim Mauchline, Ryan McClure, Birgit Mitter, Matthew Ryan, Inga Sarand, Hauke Smidt, Bettina Schelkle, Hugo Roume, G Seghal Kiran, Joseph Selvin, Rafael Soares Correa de Souza, Leo van Overbeek, Brajesh K Singh, Michael Wagner, Aaron Walsh, Angela Sessitsch, Michael Schloter",
+        "url": "https://scholar.google.com/scholar?cluster=12549782052351333327&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "Fla6ZGMkO9sC": {
         "title": "The variation of promoter strength in different gene contexts",
         "year": "2020/7/21",
@@ -25141,8 +25186,17 @@
   },
   "BPjrrI4AAAAJ": {
     "Name": "Melissa L Perreault",
-    "total_publications": "44",
+    "total_publications": "45",
     "publications": {
+      "cFHS6HbyZ2cC": {
+        "title": "Project_08 Q21 StudyTitle Probing the parameters of sensitization and compulsive checking: characteristics of behavioral measures during pathogenesis of compulsive behavior",
+        "year": "2025/9/3",
+        "publisher": "F",
+        "author": "Henry Szechtman, Anna Dvorkin-Gheva, Melissa L Perreault",
+        "url": "https://www.frdr-dfdr.ca/repo/dataset/2a27250c-f1b8-4ef0-9808-270a7d4ac652",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "4OULZ7Gr8RgC": {
         "title": "Unveiling the role of erinacines in the neuroprotective effects of Hericium erinaceus: a systematic review in preclinical models",
         "year": "2025/6/23",

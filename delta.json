@@ -1,39 +1,90 @@
 {
-  "BC6T6L-UY8gC": {
-    "Name": "Caren Helbing",
+  "O3Kin-IAAAAJ": {
+    "Name": "Michael Parkins",
     "total_new": "1",
     "publications": {
-      "PoWvk5oyLR8C": {
-        "title": "From Environmental DNA into Actionable Biodiversity Data: Towards the Implementation of the Kunming-Montreal Global Biodiversity Framework",
-        "year": "2025/9/23",
-        "publisher": "O",
-        "author": "Mark Louie D Lopez, Neha Acharya-Patel, Michael J Allison, Amy Migneault, Sarah Trilesky, Caren C Helbing",
-        "url": "https://academic.oup.com/jhered/advance-article-abstract/doi/10.1093/jhered/esaf068/8262221",
+      "LgRImbQfgY4C": {
+        "title": "Wastewater-based surveillance of Bordetella pertussis during an outbreak in Alberta, Canada",
+        "year": "2025/7",
+        "publisher": "Antimicrobial Stewardship & Healthcare Epidemiology",
+        "author": "R Benson Weyant, Catalina Gonzalez, Barbara Wadell, Kristine Du, Jangwoo Lee, Nicole Acosta, Maria Chavarriaga, Rhonda Clark, Mila Luchak, Jordan Ross, Xiaoli Pang, Bonita Lee, Christine O\u2019Grady, Casey Hubert, Michael Parkins",
+        "url": "https://www.cambridge.org/core/journals/antimicrobial-stewardship-and-healthcare-epidemiology/article/wastewaterbased-surveillance-of-bordetella-pertussis-during-an-outbreak-in-alberta-canada/9C3B3F109983773D37E93030B224180A",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "7XHhgCIAAAAJ": {
+    "Name": "Andrew DS Cameron",
+    "total_new": "1",
+    "publications": {
+      "cww_0JKUTDwC": {
+        "title": "Enhanced metagenomic surveillance for bovine respiratory disease pathogens and antimicrobial resistance by hybridization capture sequencing",
+        "year": "2025/9/10",
+        "publisher": "Applied and Environmental Microbiology",
+        "author": "Jennifer N Russell, Dani\u00ebl Kos, Elhem Yacoub, Ashton N Sies, Brian Warr, Murray Jelinski, Antonio Ruzzini, Andrew DS Cameron",
+        "url": "https://journals.asm.org/doi/abs/10.1128/aem.00977-25",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "iQjUDPYAAAAJ": {
+    "Name": "Casey Hubert",
+    "total_new": "1",
+    "publications": {
+      "4fGpz3EwCPoC": {
+        "title": "Wastewater-based surveillance of Bordetella pertussis during an outbreak in Alberta, Canada",
+        "year": "2025/7",
+        "publisher": "Antimicrobial Stewardship & Healthcare Epidemiology",
+        "author": "R Benson Weyant, Catalina Gonzalez, Barbara Wadell, Kristine Du, Jangwoo Lee, Nicole Acosta, Maria Chavarriaga, Rhonda Clark, Mila Luchak, Jordan Ross, Xiaoli Pang, Bonita Lee, Christine O\u2019Grady, Casey Hubert, Michael Parkins",
+        "url": "https://www.cambridge.org/core/journals/antimicrobial-stewardship-and-healthcare-epidemiology/article/wastewaterbased-surveillance-of-bordetella-pertussis-during-an-outbreak-in-alberta-canada/9C3B3F109983773D37E93030B224180A",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
   "U3rqorsAAAAJ": {
     "Name": "Doug Manuel",
-    "total_new": "2",
+    "total_new": "1",
     "publications": {
-      "-e1qr6N6M9MC": {
-        "title": "Peri\u2013Covid-19 Antibiotic Use and Antimicrobial Resistance in Older Adults",
-        "year": "2025/9/23",
-        "publisher": "NEJM Evidence",
-        "author": "Derek R MacFadden, Colleen Maxwell, Dawn Bowdish, Susan Bronskill, James Brooks, Kevin Brown, Lori L Burrows, Anna E Clarke, Bradley J Langford, Elizabeth Leung, Valerie Leung, Doug Manuel, Allison McGeer, Sharmistha Mishra, Andrew M Morris, Caroline Nott, Sumit Raybardhan, Mia E Sapin, Kevin L Schwartz, Miranda So, Jean-Paul R Soucy, Nick Daneman",
-        "url": "https://evidence.nejm.org/doi/abs/10.1056/EVIDoa2400108",
+      "7rVtnTjEZJgC": {
+        "title": "Patient-reported symptom burden after cancer surgery in older adults: a population-level analysis",
+        "year": "2023/2/1",
+        "publisher": "Annals of Surgical Oncology",
+        "author": "Julie Hallet, Jesse Zuckerman, Matthew P Guttman, Tyler R Chesney, Barbara Haas, Alyson Mahar, Antoine Eskander, Wing C Chan, Amy Hsu, Victoria Barabash, Natalie Coburn, Frances Wright, Ines Menjak, Dov Gandell, Douglas Manuel, Lesley Gotlib-Conn, Grace Paladino, Pietro Galluzzo",
+        "url": "https://search.proquest.com/openview/7d3f1dadfe7da07bfbef30ca095f8442/1?pq-origsite=gscholar&cbl=32486",
         "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "yG6gRY0c4kQC": {
-        "title": "Cognitive and Functional Decline Among Long-Term Care Residents",
-        "year": "2025/4/23",
-        "publisher": "Jama Network Open",
-        "author": "Daniel Kobewka, Ramtin Hakimjavadi, Christina Y Yin, Mary Scott, Robert Talarico, Tim Ramsay, Colleen Webber, Douglas Manuel, Aliza Moledina, Amy T Hsu, Celeste Fung, Sharon Kaasalainen, Jackie Kierulf, Frank Molnar, Sandy Shamon, Beno\u00eet Robert, Paul E Ronksley, Peter Tanuseputro, Kumanan Wilson",
-        "url": "https://hub.hku.hk/handle/10722/362114",
+      }
+    }
+  },
+  "gTkdyfsAAAAJ": {
+    "Name": "Trevor Charles",
+    "total_new": "1",
+    "publications": {
+      "mNm_27jwclsC": {
+        "title": "Microbiome definition re-visited: old concepts and new challenges (vol 8, 103, 2020)",
+        "year": "2020/8/20",
+        "publisher": "Microbiome",
+        "author": "Gabriele Berg, Daria Rybakova, Doreen Fischer, Tomislav Cernava, Marie-Christine Champomier Verges, Trevor Charles, Xiaoyulong Chen, Luca Cocolin, Kellye Eversole, Gema Herrero Corral, Maria Kazou, Linda Kinkel, Lene Lange, Nelson Lima, Alexander Loy, James A Macklin, Emmanuelle Maguin, Tim Mauchline, Ryan McClure, Birgit Mitter, Matthew Ryan, Inga Sarand, Hauke Smidt, Bettina Schelkle, Hugo Roume, G Seghal Kiran, Joseph Selvin, Rafael Soares Correa de Souza, Leo van Overbeek, Brajesh K Singh, Michael Wagner, Aaron Walsh, Angela Sessitsch, Michael Schloter",
+        "url": "https://scholar.google.com/scholar?cluster=12549782052351333327&hl=en&oi=scholarr",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "BPjrrI4AAAAJ": {
+    "Name": "Melissa L Perreault",
+    "total_new": "1",
+    "publications": {
+      "cFHS6HbyZ2cC": {
+        "title": "Project_08 Q21 StudyTitle Probing the parameters of sensitization and compulsive checking: characteristics of behavioral measures during pathogenesis of compulsive behavior",
+        "year": "2025/9/3",
+        "publisher": "F",
+        "author": "Henry Szechtman, Anna Dvorkin-Gheva, Melissa L Perreault",
+        "url": "https://www.frdr-dfdr.ca/repo/dataset/2a27250c-f1b8-4ef0-9808-270a7d4ac652",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
