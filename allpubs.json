@@ -10324,8 +10324,17 @@
   },
   "SmBwcwUAAAAJ": {
     "Name": "Graham Gagnon",
-    "total_publications": "100",
+    "total_publications": "101",
     "publications": {
+      "ghEM2AJqZyQC": {
+        "title": "Comparison of Real Versus Synthetic NOM on Lead and Copper Release Using Dump and Fill Studies",
+        "year": "2025/9",
+        "publisher": "AWWA Water Science",
+        "author": "Patrick W King, Benjamin F Trueman, Sigrid Peldszus, Anushka Mishrra, Kimia Aghasadeghi, Graham A Gagnon, Daniel E Giammar, Nastaran Mosavari Nezamabad, Peter M Huck",
+        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.70039",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "wE-fMHVdjMkC": {
         "title": "Impact of material properties for improved Pseudomonas aeruginosa biofilm inactivation with 280 nm UV LEDs",
         "year": "2025/8/23",
@@ -14926,8 +14935,17 @@
   },
   "IZQgBh8AAAAJ": {
     "Name": "Rita Isabel Henderson",
-    "total_publications": "46",
+    "total_publications": "47",
     "publications": {
+      "cFHS6HbyZ2cC": {
+        "title": "Spinal cord injury health pilgrimages:\u201cIt's a matter of learning getting (through) some breakthroughs\u201d",
+        "year": "2025/9/26",
+        "publisher": "Unknown",
+        "author": "Ana Karen Rame-Montiel, Adalberto Loyola-Sanchez, Danielle Peers, Katharina Kovacs Burns, Chester Ho, Srijan S Raha, Rob MacIsaac, Rebecca Charbonneau, Rita Henderson, Rija Kamran, Ingris Pel\u00e1ez-Ballestas",
+        "url": "https://www.researchsquare.com/article/rs-7313563/latest",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "4OULZ7Gr8RgC": {
         "title": "Increased use of psychiatric medication following incident celiac autoimmunity",
         "year": "2025/9/15",
@@ -16866,21 +16884,21 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "JOhajB-2wfwC": {
-        "title": "Detection of COVID-19 outbreaks in long-term care homes using built environment testing for SARS-CoV-2: a multicentre prospective study",
-        "year": "2022/6/29",
-        "publisher": "medRxiv",
-        "author": "Michael Fralick, Caroline Nott, Jason Moggridge, Lucas Castellani, Ashley Raudanskis, David S Guttman, Aaron Hinz, Nisha Thampi, Alex Wong, Doug Manuel, Allison McGeer, Evgueni Doukhanine, Hebah Mejbel, Veronica Zanichelli, Madison Burella, Sylva Donaldson, Pauline W Wang, Rees Kassen, Derek MacFadden",
-        "url": "https://www.medrxiv.org/content/10.1101/2022.06.28.22276560.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "P3HMU8IszGwC": {
         "title": "The collapse of infectious disease diagnoses commonly due to communicable respiratory pathogens during the coronavirus disease 2019 pandemic: a time series and hierarchical \u2026",
         "year": "2022/7/1",
         "publisher": "Open Forum Infectious Diseases",
         "author": "Ali Zhang, Matthew D Surette, Kevin L Schwartz, James I Brooks, Dawn ME Bowdish, Roshanak Mahdavi, Douglas G Manuel, Robert Talarico, Nick Daneman, Jayson Shurgold, Derek MacFadden",
         "url": "https://academic.oup.com/ofid/article-abstract/9/7/ofac205/6570601",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "JOhajB-2wfwC": {
+        "title": "Detection of COVID-19 outbreaks in long-term care homes using built environment testing for SARS-CoV-2: a multicentre prospective study",
+        "year": "2022/6/29",
+        "publisher": "medRxiv",
+        "author": "Michael Fralick, Caroline Nott, Jason Moggridge, Lucas Castellani, Ashley Raudanskis, David S Guttman, Aaron Hinz, Nisha Thampi, Alex Wong, Doug Manuel, Allison McGeer, Evgueni Doukhanine, Hebah Mejbel, Veronica Zanichelli, Madison Burella, Sylva Donaldson, Pauline W Wang, Rees Kassen, Derek MacFadden",
+        "url": "https://www.medrxiv.org/content/10.1101/2022.06.28.22276560.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -21235,7 +21253,7 @@
   },
   "VLGLIxUAAAAJ": {
     "Name": "Stephanie Gora",
-    "total_publications": "11",
+    "total_publications": "12",
     "publications": {
       "W7OEmFMy1HYC": {
         "title": "Development of water safety risk matrices to improve water safety in Arctic drinking water systems in Nunavut, Canada",
@@ -21252,6 +21270,15 @@
         "publisher": "International Journal of Circumpolar Health",
         "author": "Caroline Duncan, Elan Chalmers, Stephanie Gora",
         "url": "https://www.tandfonline.com/doi/abs/10.1080/22423982.2025.2494889",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "MXK_kJrjxJIC": {
+        "title": "Identifying drinking water safety hazards throughout an Arctic community\u2019s water supply system",
+        "year": "2025/9/27",
+        "publisher": "Water Research",
+        "author": "Caroline Duncan, Mohammad Ibraheem, Audrey Tam, Casey Egotak, Kaniak Maniyogina, Felicity Klengenberg, Stephanie Gora",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0043135425015921",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
