@@ -15411,15 +15411,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "EcS_2O1c4Q0C": {
-        "title": "Ranked placement of phage predation as a determinant of dehydration severity among cholera patients in Bangladesh",
-        "year": "2025/6/18",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "N. Madi,Md. Abu Sayeed,E. T. Cato,A. Creasy-Marrazzo,K. Islam,Md. I.UL. Khabir,Md. T. R. Bhuiyan,Y. Begum,E. Freeman,A. Vustepalli,L. Brinkley,M. Kamat,L. S. Bailey,K. B. Basso,F. Qadri,A. I. Khan,B. J. Shapiro,E. J. Nelson",
-        "url": "https://doi.org/10.1101/2025.06.17.25329780",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      },
       "ddB7do2jUx8C": {
         "title": "Cholera rapid diagnostic tests at the host-microbe interface: Key Considerations for Global Deployments",
         "year": "2025/5/29",
@@ -15472,6 +15463,15 @@
         "author": "Akhil Kholwadwala,Egor Katkov,Patrick Lypaczewski,Andrew Gonzalez,Rowan D.H. Barrett,B. Jesse Shapiro",
         "url": "https://doi.org/10.1101/2025.06.20.660555",
         "firstOrLast": true,
+        "datasource": "CrossRef"
+      },
+      "EcS_2O1c4Q0C": {
+        "title": "Ranked placement of phage predation as a determinant of dehydration severity among cholera patients in Bangladesh",
+        "year": "2025/6/18",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "N. Madi,Md. Abu Sayeed,E. T. Cato,A. Creasy-Marrazzo,K. Islam,Md. I.UL. Khabir,Md. T. R. Bhuiyan,Y. Begum,E. Freeman,A. Vustepalli,L. Brinkley,M. Kamat,L. S. Bailey,K. B. Basso,F. Qadri,A. I. Khan,B. J. Shapiro,E. J. Nelson",
+        "url": "https://doi.org/10.1101/2025.06.17.25329780",
+        "firstOrLast": false,
         "datasource": "CrossRef"
       },
       "eJjLl3UG7CkC": {
@@ -16875,21 +16875,21 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "TcjEerm5wdgC": {
-        "title": "Socioeconomic position and consumption of sugary drinks, sugar-sweetened beverages and 100% juice among Canadians: a cross-sectional analysis of the 2015 Canadian Community \u2026",
-        "year": "2022/6",
-        "publisher": "Canadian Journal of Public Health",
-        "author": "Christine Warren, Erin Hobin, Douglas G Manuel, Laura N Anderson, David Hammond, Mahsa Jessri, JoAnne Arcand, Mary L\u2019Abb\u00e9, Ye Li, Laura C Rosella, Heather Manson, Brendan T Smith",
-        "url": "https://link.springer.com/article/10.17269/s41997-021-00602-8",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "P3HMU8IszGwC": {
         "title": "The collapse of infectious disease diagnoses commonly due to communicable respiratory pathogens during the coronavirus disease 2019 pandemic: a time series and hierarchical \u2026",
         "year": "2022/7/1",
         "publisher": "Open Forum Infectious Diseases",
         "author": "Ali Zhang, Matthew D Surette, Kevin L Schwartz, James I Brooks, Dawn ME Bowdish, Roshanak Mahdavi, Douglas G Manuel, Robert Talarico, Nick Daneman, Jayson Shurgold, Derek MacFadden",
         "url": "https://academic.oup.com/ofid/article-abstract/9/7/ofac205/6570601",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "TcjEerm5wdgC": {
+        "title": "Socioeconomic position and consumption of sugary drinks, sugar-sweetened beverages and 100% juice among Canadians: a cross-sectional analysis of the 2015 Canadian Community \u2026",
+        "year": "2022/6",
+        "publisher": "Canadian Journal of Public Health",
+        "author": "Christine Warren, Erin Hobin, Douglas G Manuel, Laura N Anderson, David Hammond, Mahsa Jessri, JoAnne Arcand, Mary L\u2019Abb\u00e9, Ye Li, Laura C Rosella, Heather Manson, Brendan T Smith",
+        "url": "https://link.springer.com/article/10.17269/s41997-021-00602-8",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
