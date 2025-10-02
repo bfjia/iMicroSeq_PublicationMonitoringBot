@@ -3502,7 +3502,7 @@
   },
   "tBwE4O4AAAAJ": {
     "Name": "Ayush Kumar",
-    "total_publications": "51",
+    "total_publications": "52",
     "publications": {
       "PRxwKtMv80cC": {
         "title": "Identification of Acinetobacter radioresistens in wastewater effluent from a First Nation reserve in Manitoba, Canada",
@@ -3773,6 +3773,15 @@
         "url": "https://doi.org/10.3390/microorganisms11030590",
         "firstOrLast": false,
         "datasource": "CrossRef"
+      },
+      "dzHn8FIe4PIC": {
+        "title": "Water quality enhancement using PV-integrated triple slope solar still",
+        "year": "2022/11/4",
+        "publisher": "International conference on innovations in mechanical and materials engineering (IMME-2022b), MNNIT Allahabad",
+        "author": "R Patel, A Kumar, A Kumar, R Dev, V Narayanan, S Yadav",
+        "url": "https://scholar.google.com/scholar?cluster=2344438267040952404&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
       },
       "5iaBvPSj0W8C": {
         "title": "Iron acquisition mechanisms and their role in the virulence of Acinetobacter baumannii",
@@ -21367,8 +21376,17 @@
   },
   "BZgRYfkAAAAJ": {
     "Name": "Dominic Frigon",
-    "total_publications": "27",
+    "total_publications": "28",
     "publications": {
+      "VnuxuLaQPLMC": {
+        "title": "Assessing antimicrobial resistance connectivity across One Health sectors",
+        "year": "2025/9/29",
+        "publisher": "N",
+        "author": "Liguan Li, Bing Li, Xiaole Yin, Yu Xia, Yu Yang, Xiaoqing Xu, Tommy Tsan-Yuk Lam, Kenneth MY Leung, Fujie Xu, Xuxiang Zhang, Jianhua Guo, Heike Schmitt, Gerard D Wright, Janet Midega, Carlos Bezuidenhout, Renata C Pic\u00e3o, Shaikh Z Ahammad, Kornelia Smalla, Steven P Djordjevic, Amy Pruden, Peter Vikesland, Dominic Frigon, Fiona Walsh, Thomas U Berendonk, Gianluca Corno, Despo Fatta-Kassinos, Chang-Jun Cha, Nicholas Ashbolt, Guangguo Ying, Yi Luo, Yang Wang, Jianzhong Shen, Yu Zhang, Min Yang, Xiangdong Li, Baolan Hu, Lizhong Zhu, Yongning Wu, Song Tang, Biao Kan, Yong-Guan Zhu, Barth F Smets, David Graham, Ryo Honda, Eddie Cytryn, Erica Donner, Per Halkj\u00e6r Nielsen, Mark van Loosdrecht, Michael R Gillings, William Gaze, C\u00e9lia M Manaia, Pedro JJ Alvarez, Martin J Blaser, Edward Topp, Tong Zhang",
+        "url": "https://www.nature.com/articles/s44221-025-00514-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "C-Rn0OCouf8C": {
         "title": "Towards the integration of antibiotic resistance gene mobility into environmental surveillance and risk assessment",
         "year": "2025/9/16",
@@ -25651,8 +25669,17 @@
   },
   "wHX6pyUAAAAJ": {
     "Name": "Hugo Asselin",
-    "total_publications": "66",
+    "total_publications": "67",
     "publications": {
+      "XoXfffV-tXoC": {
+        "title": "Help seeking and access to health and social services among Anishnaabe men",
+        "year": "2025/10/1",
+        "publisher": "International Journal of Men's Social and Community Health",
+        "author": "H\u00e9l\u00e8ne Pourcelot, Hugo Asselin, Oscar Labra",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "ruyezt5ZtCIC": {
         "title": "Case studies of fish habitat compensation in Eeyou Istchee: Compensation projects prioritize facility over effectiveness",
         "year": "2025/9",
