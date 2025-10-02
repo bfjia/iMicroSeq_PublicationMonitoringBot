@@ -406,7 +406,14 @@ if __name__ == "__main__":
                 Msg = Msg + "* "
                 if pub["firstOrLast"]:
                     Msg = Msg + "[First or Senior Author] "
-                Msg = Msg + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n"
+                Msg = Msg + pub['title'] + ". "
+                if pub["publisher"] != None:
+                    Msg = Msg + "Published in " + pub['publisher'] + ". "
+                if pub['url'] != None:
+                    Msg = Msg + ". Available at " + pub['url'] + ". "
+                Msg = Msg + "\n"
+
+                 
 
                 #Msg = Msg + "Congratulations!\n\n"
             # else:
