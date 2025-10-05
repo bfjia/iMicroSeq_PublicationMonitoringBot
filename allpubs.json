@@ -1708,7 +1708,7 @@
   },
   "O3Kin-IAAAAJ": {
     "Name": "Michael Parkins",
-    "total_publications": "101",
+    "total_publications": "105",
     "publications": {
       "BJbdYPG6LGMC": {
         "title": "Time to replace the oral glucose tolerance test for cystic fibrosis related diabetes first-step screening? Establishing glycemic tools relevant to cystic fibrosis",
@@ -1716,6 +1716,42 @@
         "publisher": "Annals of Medicine",
         "author": "Mathew P Estey, Shelby Sissons, Heather Sharpe, Michelle Doll-Shankaruk, Dan Beriault, Julie Gilmour, Kathleen Lee, Winnie Leung, Michael D Parkins, Bradley S Quon, Elizabeth Tullis, Jie Zheng, Grace Y Lam",
         "url": "https://www.tandfonline.com/doi/abs/10.1080/07853890.2025.2514787",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "2tRrZ1ZAMYUC": {
+        "title": "Performance and suitability of wastewater based-surveillance for SARS-CoV-2 RNA in public schools",
+        "year": "2025/10/2",
+        "publisher": "Scientific Reports",
+        "author": "Nicole Acosta, Alex Buchner Beaudet, Paul Westlund, Kevin Frankowski, Jia Hu, Navid Sedaghat, Puja Pradhan, Lawrence Man, Jordan Hollman, Mar\u00eda A Bautista, Barbara J Waddell, Janine McCalder, Matthew Penney, Jianwei Chen, Jon Meddings, Gopal Achari, M Cathryn Ryan, Jason L Cabaj, Rhonda G Clark, Casey RJ Hubert, Michael D Parkins",
+        "url": "https://www.nature.com/articles/s41598-025-16995-2",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "sJsF-0ZLhtgC": {
+        "title": "56 The novel plasmid pCF1 can be acquired by sensitive Pseudomonas aeruginosa in the lungs of people with CF and cause extreme tobramycin resistance",
+        "year": "2025/10/1",
+        "publisher": "Journal of Cystic Fibrosis",
+        "author": "S Karash, H Betts, M Radey, S Lee, R Hernandez, M Parkins, C Manoil, P Singh",
+        "url": "https://scholar.google.com/scholar?cluster=18086802825499136031&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "AHdEip9mkN0C": {
+        "title": "70 Investigating strain relatedness amongst isolates of the Burkholderia cepacia complex infecting adults with cystic fibrosis in Southern Alberta",
+        "year": "2025/10/1",
+        "publisher": "Journal of Cystic Fibrosis",
+        "author": "B Waddell, C Izydorczyk, C Thornton, A Bumford, L Caverly, J LiPuma, J Conly, R Somayaji, M Surette, H Rabin, M Parkins",
+        "url": "https://scholar.google.com/scholar?cluster=6837268764434621794&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "F1b5ZUV5XREC": {
+        "title": "62 Increased hepatitis E virus seroprevalence amongst pancreatic insufficient adults with cystic fibrosis\u2013A single centre study",
+        "year": "2025/10/1",
+        "publisher": "Journal of Cystic Fibrosis",
+        "author": "B Waddell, Y Ghazi, J Jang, C Thornton, B Quon, M Parkins",
+        "url": "https://scholar.google.com/scholar?cluster=620303072138007100&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -2574,30 +2610,12 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "uWiczbcajpAC": {
-        "title": "Wastewater monitoring of SARS-CoV-2 from acute care hospitals identifies nosocomial transmission and outbreaks",
-        "year": "2021/2/23",
-        "publisher": "medRxiv",
-        "author": "Nicole Acosta, Mar\u00eda A. Bautista, Jordan Hollman, Janine McCalder, Alexander Buchner Beaudet, Lawrence Man, Barbara J Waddell, Jianwei Chen, Carmen Li, Darina Kuzma, Srijak Bhatnagar, Jenine Leal, Jon Meddings, Jia Hu, Jason L Cabaj, Norma J Ruecker, Christopher Naugler, Dylan R Pillai, Gopal Achari, M Cathryn Ryan, John M Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
-        "url": "https://www.medrxiv.org/content/10.1101/2021.02.20.21251520.abstract",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "vDijr-p_gm4C": {
-        "title": "Outcomes of COVID-19 among hospitalized health care workers in North America",
-        "year": "2021/1/4",
-        "publisher": "JAMA network open",
-        "author": "Jeong Yun Yang, Michael D Parkins, Andrew Canakis, Olga C Aroniadis, Dhiraj Yadav, Rebekah E Dixon, B Joseph Elmunzer, Nauzer Forbes",
-        "url": "https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2775670",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "zLWjf1WUPmwC": {
-        "title": "723. Epidemiology, Risk Factors, and Treatment Considerations for Pyogenic Liver Abscess (PLA) in the Calgary Health Zone (CHZ) Revisited: A Population-Based Study",
-        "year": "2020/12/31",
-        "publisher": "Open Forum Infectious Diseases",
-        "author": "Jennifer A Losie, Michael Parkins, John Lam, Daniel Gregson",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777707/",
+      "uc_IGeMz5qoC": {
+        "title": "Tick-borne fever in pregnancy",
+        "year": "2020/10/1",
+        "publisher": "CCDR",
+        "author": "John C Lam, Oscar E Larios, Michael D Parkins, Stephen D Vaughan",
+        "url": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2020-46/issue-10-october-1-2020/tick-borne-fever-pregnancy.html",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -2610,13 +2628,31 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "uc_IGeMz5qoC": {
-        "title": "Tick-borne fever in pregnancy",
-        "year": "2020/10/1",
-        "publisher": "CCDR",
-        "author": "John C Lam, Oscar E Larios, Michael D Parkins, Stephen D Vaughan",
-        "url": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2020-46/issue-10-october-1-2020/tick-borne-fever-pregnancy.html",
+      "zLWjf1WUPmwC": {
+        "title": "723. Epidemiology, Risk Factors, and Treatment Considerations for Pyogenic Liver Abscess (PLA) in the Calgary Health Zone (CHZ) Revisited: A Population-Based Study",
+        "year": "2020/12/31",
+        "publisher": "Open Forum Infectious Diseases",
+        "author": "Jennifer A Losie, Michael Parkins, John Lam, Daniel Gregson",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777707/",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "vDijr-p_gm4C": {
+        "title": "Outcomes of COVID-19 among hospitalized health care workers in North America",
+        "year": "2021/1/4",
+        "publisher": "JAMA network open",
+        "author": "Jeong Yun Yang, Michael D Parkins, Andrew Canakis, Olga C Aroniadis, Dhiraj Yadav, Rebekah E Dixon, B Joseph Elmunzer, Nauzer Forbes",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2775670",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "uWiczbcajpAC": {
+        "title": "Wastewater monitoring of SARS-CoV-2 from acute care hospitals identifies nosocomial transmission and outbreaks",
+        "year": "2021/2/23",
+        "publisher": "medRxiv",
+        "author": "Nicole Acosta, Mar\u00eda A. Bautista, Jordan Hollman, Janine McCalder, Alexander Buchner Beaudet, Lawrence Man, Barbara J Waddell, Jianwei Chen, Carmen Li, Darina Kuzma, Srijak Bhatnagar, Jenine Leal, Jon Meddings, Jia Hu, Jason L Cabaj, Norma J Ruecker, Christopher Naugler, Dylan R Pillai, Gopal Achari, M Cathryn Ryan, John M Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
+        "url": "https://www.medrxiv.org/content/10.1101/2021.02.20.21251520.abstract",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
@@ -9331,8 +9367,17 @@
   },
   "iQjUDPYAAAAJ": {
     "Name": "Casey Hubert",
-    "total_publications": "101",
+    "total_publications": "102",
     "publications": {
+      "9pM33mqn1YgC": {
+        "title": "Performance and suitability of wastewater based-surveillance for SARS-CoV-2 RNA in public schools",
+        "year": "2025/10/2",
+        "publisher": "Scientific Reports",
+        "author": "Nicole Acosta, Alex Buchner Beaudet, Paul Westlund, Kevin Frankowski, Jia Hu, Navid Sedaghat, Puja Pradhan, Lawrence Man, Jordan Hollman, Mar\u00eda A Bautista, Barbara J Waddell, Janine McCalder, Matthew Penney, Jianwei Chen, Jon Meddings, Gopal Achari, M Cathryn Ryan, Jason L Cabaj, Rhonda G Clark, Casey RJ Hubert, Michael D Parkins",
+        "url": "https://www.nature.com/articles/s41598-025-16995-2",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "PVjk1bu6vJQC": {
         "title": "Metagenomic analysis after selective culture enrichment of hospital and community wastewater enhances antimicrobial resistance gene detection",
         "year": "2025/7/31",
@@ -10224,21 +10269,21 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "JoZmwDi-zQgC": {
-        "title": "Covid-19 Monitoring Using Wastewater-Based Epidemiology: The Promise and Peril of Seeking Useable Data in a Pandemic",
-        "year": "2021/5/26",
-        "publisher": "S",
-        "author": "J Hollman, N Acosta, M Bautista, J McCalder, L Man, A Buchner Beaudet, B Waddell, J Chen, D Kuzma, RG Clark, N Ruecker, K Frankowski, C Hubert, M Parkins, MC Ryan, G Achari",
-        "url": "https://link.springer.com/chapter/10.1007/978-981-19-1061-6_47",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "NhqRSupF_l8C": {
         "title": "Marine sediments harbor diverse archaea and bacteria with the potential for anaerobic hydrocarbon degradation via fumarate addition",
         "year": "2021/5",
         "publisher": "FEMS Microbiology Ecology",
         "author": "Chuwen Zhang, Rainer U Meckenstock, Shengze Weng, Guangshan Wei, Casey RJ Hubert, Jiang-Hai Wang, Xiyang Dong",
         "url": "https://academic.oup.com/femsec/article-abstract/97/5/fiab045/6171024",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "JoZmwDi-zQgC": {
+        "title": "Covid-19 Monitoring Using Wastewater-Based Epidemiology: The Promise and Peril of Seeking Useable Data in a Pandemic",
+        "year": "2021/5/26",
+        "publisher": "S",
+        "author": "J Hollman, N Acosta, M Bautista, J McCalder, L Man, A Buchner Beaudet, B Waddell, J Chen, D Kuzma, RG Clark, N Ruecker, K Frankowski, C Hubert, M Parkins, MC Ryan, G Achari",
+        "url": "https://link.springer.com/chapter/10.1007/978-981-19-1061-6_47",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -15205,7 +15250,7 @@
   },
   "IZQgBh8AAAAJ": {
     "Name": "Rita Isabel Henderson",
-    "total_publications": "47",
+    "total_publications": "48",
     "publications": {
       "cFHS6HbyZ2cC": {
         "title": "Spinal cord injury health pilgrimages:\u201cIt's a matter of learning getting (through) some breakthroughs\u201d",
@@ -15573,6 +15618,15 @@
         "publisher": "Unknown",
         "author": "Michael E Green, Han Han, Rita Henderson, Betty Calam, Kristen Jacklin, Leah Walker, Lynden Crowshoe",
         "url": "https://www.researchsquare.com/article/rs-16468/latest",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "yD5IFk8b50cC": {
+        "title": "Obesity in adults: a clinical practice guideline",
+        "year": "2020",
+        "publisher": "CMAJ: CANADIAN MEDICAL ASSOCIATION JOURNAL",
+        "author": "DCW LAU, M Vallis, AM SHARMA, L BIERTHO, D CAMPBELL-SCHERER, K ADAMO, A ALBERGA, R BELL, N BOUL\u00c9, E BOYLING, J BROWN, B CALAM, C CLARKE, L CROWSHOE, D DIVALENTINO, M FORHAN, Y FREEDHOFF, M GAGNER, S GLAZER, C GRAND, M GREEN, M HAHN, R HAWA, R HENDERSON, D HONG, P HUNG, IA JANSSEN, K JACKLIN, C JOHNSON-STOKLOSSA, A KEMP, S KIRK, J KUK, MF LANGLOIS, S LEAR, A MCINNES, D MACKLIN, L NAJI, P MANJOO, M MORIN, K NERENBERG, IA PATTON, S PEDERSEN, L PEREIRA, H PICCININI-VALLIS, M PODDAR, P POIRIER, D PRUD\u2019HOMME, XR SALAS, CH RUEDA-CLAUSEN, SH RUSSELL-MAYHEW, JU SHIAU, D SHERIFALI, J SIEVENPIPER, S SOCKALINGAM, V TAYLOR, E TOTH, L TWELLS, R TYTUS, SH WALJI, L WALKER, S WICKLUM",
+        "url": "https://elibrary.ru/item.asp?id=78133296",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -16243,7 +16297,7 @@
   },
   "U3rqorsAAAAJ": {
     "Name": "Doug Manuel",
-    "total_publications": "104",
+    "total_publications": "105",
     "publications": {
       "prKdS1S5QkMC": {
         "title": "P270 SELF-RATED HEALTH IS AN INDEPENDENT RISK FACTOR FOR CARDIOVASCULAR DISEASE WITH A STRONGER ASSOCIATION IN WOMEN THAN IN MEN",
@@ -16278,6 +16332,15 @@
         "publisher": "NEJM Evidence",
         "author": "Derek R MacFadden, Colleen Maxwell, Dawn Bowdish, Susan Bronskill, James Brooks, Kevin Brown, Lori L Burrows, Anna E Clarke, Bradley J Langford, Elizabeth Leung, Valerie Leung, Doug Manuel, Allison McGeer, Sharmistha Mishra, Andrew M Morris, Caroline Nott, Sumit Raybardhan, Mia E Sapin, Kevin L Schwartz, Miranda So, Jean-Paul R Soucy, Nick Daneman",
         "url": "https://evidence.nejm.org/doi/abs/10.1056/EVIDoa2400108",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "w9EjUEod0xMC": {
+        "title": "Metabolic health and body mass index phenotypes in adults",
+        "year": "2025/9/17",
+        "publisher": "Health reports",
+        "author": "Tracey Bushnik, Rachel Colley, Joel Barnes, Douglas G Manuel",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41032640/",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -17136,12 +17199,12 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "klLsoiHXwFYC": {
-        "title": "Potentially non-beneficial interventions in the last 100 days of life of patients with cancer: A population-based retrospective cohort study.",
-        "year": "2022/8/25",
-        "publisher": "International Journal of Population Data Science",
-        "author": "Colleen Webber, Abe Hafid, Anastasia Gayowsky, Michelle Howard, Peter Tanuseputro, Aaron Jones, Mary Scott, Amy Hsu, James Downar, Doug Manuel, Katrin Conen, Sarina Isenberg",
-        "url": "https://ijpds.org/article/view/1795",
+      "JOhajB-2wfwC": {
+        "title": "Detection of COVID-19 outbreaks in long-term care homes using built environment testing for SARS-CoV-2: a multicentre prospective study",
+        "year": "2022/6/29",
+        "publisher": "medRxiv",
+        "author": "Michael Fralick, Caroline Nott, Jason Moggridge, Lucas Castellani, Ashley Raudanskis, David S Guttman, Aaron Hinz, Nisha Thampi, Alex Wong, Doug Manuel, Allison McGeer, Evgueni Doukhanine, Hebah Mejbel, Veronica Zanichelli, Madison Burella, Sylva Donaldson, Pauline W Wang, Rees Kassen, Derek MacFadden",
+        "url": "https://www.medrxiv.org/content/10.1101/2022.06.28.22276560.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -17163,21 +17226,21 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "klLsoiHXwFYC": {
+        "title": "Potentially non-beneficial interventions in the last 100 days of life of patients with cancer: A population-based retrospective cohort study.",
+        "year": "2022/8/25",
+        "publisher": "International Journal of Population Data Science",
+        "author": "Colleen Webber, Abe Hafid, Anastasia Gayowsky, Michelle Howard, Peter Tanuseputro, Aaron Jones, Mary Scott, Amy Hsu, James Downar, Doug Manuel, Katrin Conen, Sarina Isenberg",
+        "url": "https://ijpds.org/article/view/1795",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "FV77Gu53xKkC": {
         "title": "Evaluation of the PREDIGT score\u2019s performance in identifying newly diagnosed Parkinson\u2019s patients without motor examination",
         "year": "2022/7/29",
         "publisher": "npj Parkinson's Disease",
         "author": "Juan Li, Tiago A Mestre, Brit Mollenhauer, Mark Frasier, Julianna J Tomlinson, Claudia Trenkwalder, Tim Ramsay, Douglas Manuel, Michael G Schlossmacher",
         "url": "https://www.nature.com/articles/s41531-022-00360-5",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "JOhajB-2wfwC": {
-        "title": "Detection of COVID-19 outbreaks in long-term care homes using built environment testing for SARS-CoV-2: a multicentre prospective study",
-        "year": "2022/6/29",
-        "publisher": "medRxiv",
-        "author": "Michael Fralick, Caroline Nott, Jason Moggridge, Lucas Castellani, Ashley Raudanskis, David S Guttman, Aaron Hinz, Nisha Thampi, Alex Wong, Doug Manuel, Allison McGeer, Evgueni Doukhanine, Hebah Mejbel, Veronica Zanichelli, Madison Burella, Sylva Donaldson, Pauline W Wang, Rees Kassen, Derek MacFadden",
-        "url": "https://www.medrxiv.org/content/10.1101/2022.06.28.22276560.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -20355,6 +20418,15 @@
     "Name": "Rees Kassen",
     "total_publications": "39",
     "publications": {
+      "geHnlv5EZngC": {
+        "title": "RE: A better normal in Canada will need a better detection system for emerging and re-emerging respiratory pathogens",
+        "year": "2024/9/21",
+        "publisher": "Unknown",
+        "author": "Sawith Abeygunawardena, Rees Kassen, Mike Fralick",
+        "url": "https://www.cmaj.ca/content/re-better-normal-canada-will-need-better-detection-system-emerging-and-re-emerging",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "PELIpwtuRlgC": {
         "title": "City-wide Built Environment SARS-CoV-2 Detection for COVID-19 Surveillance",
         "year": "2025/3/7",
@@ -20407,15 +20479,6 @@
         "author": "Partha Pratim Chakraborty, Rees Kassen",
         "url": "https://www.biorxiv.org/content/10.1101/2024.10.28.620660.abstract",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "geHnlv5EZngC": {
-        "title": "RE: A better normal in Canada will need a better detection system for emerging and re-emerging respiratory pathogens",
-        "year": "2024/9/21",
-        "publisher": "Unknown",
-        "author": "Sawith Abeygunawardena, Rees Kassen, Mike Fralick",
-        "url": "https://www.cmaj.ca/content/re-better-normal-canada-will-need-better-detection-system-emerging-and-re-emerging",
-        "firstOrLast": false,
         "datasource": "Scholars"
       },
       "WA5NYHcadZ8C": {
@@ -20710,8 +20773,17 @@
   },
   "rHFCtWwAAAAJ": {
     "Name": "Finlay Maguire",
-    "total_publications": "56",
+    "total_publications": "57",
     "publications": {
+      "P5F9QuxV20EC": {
+        "title": "Some assembly required: comparison of bioinformatic pipelines for analysis of viral metagenomic sequencing from nosocomial respiratory virus outbreaks",
+        "year": "2025/10/2",
+        "publisher": "Journal of Clinical Virology",
+        "author": "Assad Alhaboub, Natalie Deschenes, Xena X Li, Victoria R Williams, Kevin C Katz, So Yeon Park, Patryk Aftanas, Henry Wong, Calvin Sjaarda, Kyla Tozer, Finlay Maguire, Jerome Leis, Prameet Sheth, Robert Kozak",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1386653225001192",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "ZHo1McVdvXMC": {
         "title": "A solider and a victim: masculinity, violence, and incels celebration of December 6th",
         "year": "2024/1/8",
@@ -27949,7 +28021,7 @@
   },
   "-bIc5H0AAAAJ": {
     "Name": "Sarah Otto",
-    "total_publications": "100",
+    "total_publications": "101",
     "publications": {
       "PzCY1I33v7QC": {
         "title": "Evolution of cross-tolerance to metals in yeast",
@@ -27986,6 +28058,15 @@
         "url": "https://www.nature.com/articles/s41587-025-02636-6",
         "firstOrLast": true,
         "datasource": "Scholars"
+      },
+      "041faMmbr2QC": {
+        "title": "The changing status of imperiled species in British Columbia over the last 15 years in the absence of a dedicated species at risk law",
+        "year": "2025/10/1",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Peter R. Thompson,Meg Bjordal,Morgan L. Piczak,Sarah P. Otto",
+        "url": "https://doi.org/10.1101/2025.09.30.679339",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
       },
       "5pGZGXnFQ_sC": {
         "title": "Quantifying the effect of metal interactions on growth rate in Saccharomyces cerevisiae",

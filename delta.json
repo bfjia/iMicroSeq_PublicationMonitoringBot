@@ -1,262 +1,73 @@
 {
-  "rQUeGGsAAAAJ": {
-    "Name": "Lawrence Goodridge",
-    "total_new": "1",
+  "O3Kin-IAAAAJ": {
+    "Name": "Michael Parkins",
+    "total_new": "4",
     "publications": {
-      "M7yex6snE4oC": {
-        "title": "Introducing NOMAD: A Field-Deployable Workflow for Rapid, On-Site Microbiome Analysis of Raw Bovine Milk Using Full-Length 16S rRNA Sequencing",
-        "year": "2025/9/30",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Valeria R Parreira,Melinda Precious,Gurleen Taggar,Dharamdeo Singh,Lawrence Goodridge",
-        "url": "https://doi.org/10.1101/2025.09.29.679195",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
-      }
-    }
-  },
-  "ceQ3BE0AAAAJ": {
-    "Name": "M\u00e9lanie Courtot",
-    "total_new": "25",
-    "publications": {
-      "sSrBHYA8nusC": {
-        "title": "VO: The Vaccine Ontology",
-        "year": "2025/8/15",
-        "publisher": "bioRxiv",
-        "author": "Jie Zheng, Asiyah Yu Lin, Anthony Huffman, Anna Maria Masci, Rebecca Racz, Guanming Wu, Kallan Roan, Edison Ong, Sirarat Sarntivijai, Joy Hu, Eliyas Asfaw, Hayleigh Kahn, Xingxian Li, Xumeng Zhang, Nilufer Kosar, Jianfu Li, Warren Manuel, Rashmie Abeysinghe, Hasin Rehana, Benu Bansal, Yuanyi Pan, Jinjing Guo, Virginia He, Justin Song, Andrey I Seleznev, Katelyn Hur, Anna He, Alexander Davydov, Qi Yang, Randi Vita, Bjoern Peters, Alan Ruttenberg, Alexander D Diehl, Charles Tapley Hoyt, Paola Roncaglia, Rachael P Huntley, Richard H Scheuermann, Melanie Courtot, Thomas Todd, Samantha Sayers, Fang Chen, Xinna Li, Feng-Yu Yeh, Zuoshuang Xiang, Arzucan Ozgur, Patricia L Whetzel, Mark A Musen, Christopher J Mungall, Wolfgang W Leitner, Licong Cui, Lesley A Colby, Harry LT Mobley, Brian D Athey, Gilbert S Omenn, Lindsay G Cowell, Cui Tao, Junguk Hur, Barry Smith, Yongqun He",
-        "url": "https://www.biorxiv.org/content/10.1101/2025.08.12.669998.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "vRqMK49ujn8C": {
-        "title": "P136: Data model and portal development supporting centralization of genetic information in a provincial research network",
-        "year": "2025/1/1",
-        "publisher": "Genetics in Medicine Open",
-        "author": "Elif Tuzlali, Linda Xiang, Lauren Hughes, Brandon Chan, Patrick Dos Santos, Rakesh Mistry, Ann Catton, Jon Eubank, Samantha Rich, Harriet Feilotter, Jordan Lerner-Ellis, Kenneth Craddock, Anjelica Hodgson, Andrew Lingard, Vasily Giannakeas, Melissa Cable-Cibula, Christopher Deutschman, Katie Lark, Meredith McLaren, Kathy Chun, Laila Schenkel, Amanda Smith, Andrea Vaags, Hong Wang, Michelle Brazas, Lincoln Stein, Raymond Kim, Melanie Courtot",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2949774425010192",
+      "2tRrZ1ZAMYUC": {
+        "title": "Performance and suitability of wastewater based-surveillance for SARS-CoV-2 RNA in public schools",
+        "year": "2025/10/2",
+        "publisher": "Scientific Reports",
+        "author": "Nicole Acosta, Alex Buchner Beaudet, Paul Westlund, Kevin Frankowski, Jia Hu, Navid Sedaghat, Puja Pradhan, Lawrence Man, Jordan Hollman, Mar\u00eda A Bautista, Barbara J Waddell, Janine McCalder, Matthew Penney, Jianwei Chen, Jon Meddings, Gopal Achari, M Cathryn Ryan, Jason L Cabaj, Rhonda G Clark, Casey RJ Hubert, Michael D Parkins",
+        "url": "https://www.nature.com/articles/s41598-025-16995-2",
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "08ZZubdj9fEC": {
-        "title": "Overture: an open-source genomics data platform",
-        "year": "2025/4/24",
-        "publisher": "Oxford University Press (OUP)",
-        "author": "Mitchell Shiell,Rosi Bajari,Dusan Andric,Jon Eubank,Brandon F Chan,Anders J Richardsson,Azher Ali,Bashar Allabadi,Yelizar Alturmessov,Jared Baker,Ann Catton,Kim Cullion,Daniel DeMaria,Patrick Dos Santos,Henrich Feher,Francois Gerthoffert,Minh Ha,Robin A Haw,Atul Kachru,Alexandru Lepsa,Alexis Li,Rakesh N Mistry,Hardeep K Nahal-Bose,Aleksandra Pejovic,Samantha Rich,Leonardo Rivera,Ciar\u00e1n Sch\u00fctte,Edmund Su,Robert Tisma,Jaser Uddin,Chang Wang,Alex N Wilmer,Linda Xiang,Junjun Zhang,Lincoln D Stein,Vincent Ferretti,M\u00e9lanie Courtot,Christina K Yung",
-        "url": "https://doi.org/10.1093/gigascience/giaf038",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      },
-      "tOudhMTPpwUC": {
-        "title": "Development of the Ontario Hereditary Cancer Research Network, a unified registry as a resource for individuals with inherited cancer syndromes: an observational registry \u2026",
-        "year": "2024/11/1",
-        "publisher": "BMJ open",
-        "author": "Kirsten M Farncombe, Lauren K Hughes, Elif Tuzlali, Mohammad Reza Akbari, Irene L Andrulis, Melyssa Aronson, Kathleen Bell, Michelle D Brazas, Melissa Cable-Cibula, Brandon Chan, Melanie Courtot, Harriet Feilotter, Jamie Harland, Katie Lark, Jordan Lerner-Ellis, Ellen MacDougall, David Malkin, Steven A Narod, Karen Panabaker, Laszlo Radvanyi, Alison Rusnak, Lincoln Stein, Raymond H Kim",
-        "url": "https://bmjopen.bmj.com/content/14/11/e087023.abstract",
+      "sJsF-0ZLhtgC": {
+        "title": "56 The novel plasmid pCF1 can be acquired by sensitive Pseudomonas aeruginosa in the lungs of people with CF and cause extreme tobramycin resistance",
+        "year": "2025/10/1",
+        "publisher": "Journal of Cystic Fibrosis",
+        "author": "S Karash, H Betts, M Radey, S Lee, R Hernandez, M Parkins, C Manoil, P Singh",
+        "url": "https://scholar.google.com/scholar?cluster=18086802825499136031&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "XiSMed-E-HIC": {
-        "title": "The Canadian VirusSeq Data Portal and Duotang: open resources for SARS-CoV-2 viral sequences and genomic epidemiology",
-        "year": "2024/10/14",
-        "publisher": "Microbial Genomics",
-        "author": "Erin E Gill, Baofeng Jia, Carmen Lia Murall, Rapha\u00ebl Poujol, Muhammad Zohaib Anwar, Nithu Sara John, Justin Richardsson, Ashley Hobb, Abayomi S Olabode, Alexandru Lepsa, Ana T Duggan, Andrea D Tyler, Arnaud N'Guessan, Atul Kachru, Brandon Chan, Catherine Yoshida, Christina K Yung, David Bujold, Dusan Andric, Edmund Su, Emma J Griffiths, Gary Van Domselaar, Gordon W Jolly, Heather KE Ward, Henrich Feher, Jared Baker, Jared T Simpson, Jaser Uddin, Jiannis Ragoussis, Jon Eubank, J\u00f6rg H Fritz, Jos\u00e9 H\u00e9ctor G\u00e1lvez, Karen Fang, Kim Cullion, Leonardo Rivera, Linda Xiang, Matthew A Croxen, Mitchell Shiell, Natalie Prystajecky, Pierre-Olivier Quirion, Rosita Bajari, Samantha Rich, Samira Mubareka, Sandrine Moreira, Scott Cain, Steven G Sutcliffe, Susanne A Kraemer, Yelizar Alturmessov, Yann Joly, CPHLN Consortium**, CanCOGeN Consortium**, VirusSeq Data Portal Academic and Health Network**, Marc Fiume, Terrance P Snutch, Cindy Bell, Catalina Lopez-Correa, Julie G Hussin, Jeffrey B Joy, Caroline Colijn, Paul MK Gordon, William WL Hsiao, Art FY Poon, Natalie C Knox, M\u00e9lanie Courtot, Lincoln Stein, Sarah P Otto, Guillaume Bourque, B Jesse Shapiro, Fiona SL Brinkman",
-        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001293",
+      "AHdEip9mkN0C": {
+        "title": "70 Investigating strain relatedness amongst isolates of the Burkholderia cepacia complex infecting adults with cystic fibrosis in Southern Alberta",
+        "year": "2025/10/1",
+        "publisher": "Journal of Cystic Fibrosis",
+        "author": "B Waddell, C Izydorczyk, C Thornton, A Bumford, L Caverly, J LiPuma, J Conly, R Somayaji, M Surette, H Rabin, M Parkins",
+        "url": "https://scholar.google.com/scholar?cluster=6837268764434621794&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "SP6oXDckpogC": {
-        "title": "Toward a common standard for data and specimen provenance in life sciences",
-        "year": "2024/1",
-        "publisher": "Learning health systems",
-        "author": "Rudolf Wittner, Petr Holub, Cecilia Mascia, Francesca Frexia, Heimo M\u00fcller, Markus Plass, Clare Allocca, Fay Betsou, Tony Burdett, Ibon Cancio, Adriane Chapman, Martin Chapman, M\u00e9lanie Courtot, Vasa Curcin, Johann Eder, Mark Elliot, Katrina Exter, Carole Goble, Martin Golebiewski, Bron Kisler, Andreas Kremer, Simone Leo, Sheng Lin\u2010Gibson, Anna Marsano, Marco Mattavelli, Josh Moore, Hiroki Nakae, Isabelle Perseil, Ayat Salman, James Sluka, Stian Soiland\u2010Reyes, Caterina Strambio\u2010De\u2010Castillia, Michael Sussman, Jason R Swedlow, Kurt Zatloukal, J\u00f6rg Geiger",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/lrh2.10365",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "f2IySw72cVMC": {
-        "title": "Features of a FAIR vocabulary",
-        "year": "2023/6/1",
-        "publisher": "Journal of Biomedical Semantics",
-        "author": "Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, M\u00e9lanie Courtot",
-        "url": "https://link.springer.com/article/10.1186/s13326-023-00286-8",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "p2g8aNsByqUC": {
-        "title": "FAIR in action-a flexible framework to guide FAIRification",
-        "year": "2023/5/19",
-        "publisher": "Scientific data",
-        "author": "Danielle Welter, Nick Juty, Philippe Rocca-Serra, Fuqi Xu, David Henderson, Wei Gu, Jolanda Strubel, Robert T Giessmann, Ibrahim Emam, Yojana Gadiya, Tooba Abbassi-Daloii, Ebtisam Alharbi, Alasdair JG Gray, Melanie Courtot, Philip Gribbon, Vassilios Ioannidis, Dorothy S Reilly, Nick Lynch, Jan-Willem Boiten, Venkata Satagopam, Carole Goble, Susanna-Assunta Sansone, Tony Burdett",
-        "url": "https://www.nature.com/articles/s41597-023-02167-2",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "KxtntwgDAa4C": {
-        "title": "Accelerating cancer omics and precision oncology in health care and research: a Lancet Oncology Commission",
-        "year": "2023/2/1",
-        "publisher": "The Lancet Oncology",
-        "author": "Raffaella Casolino, Amber L Johns, Melanie Courtot, Rita T Lawlor, Francesco De Lorenzo, Denis Horgan, Joaquin Mateo, Nicola Normanno, Mark Rubin, Lincoln Stein, Vivek Subbiah, Benedikt C Westphalen, Mark Lawler, Keunchil Park, Sandra Perdomo, Takayuki Yoshino, Jianmin Wu, Andrew V Biankin",
-        "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00007-4/abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "uWQEDVKXjbEC": {
-        "title": "ELIXIR biovalidator for semantic validation of life science metadata (vol 38, pg 3141, 2022)",
-        "year": "2023/1/1",
-        "publisher": "BIOINFORMATICS",
-        "author": "Isuru Liyanage, Tony Burdett, Bert Droesbeke, Karoly Erdos, Rolando Fernandez, Alasdair Gray, Muhammad Haseeb, Simon Jupp, Flavia Penim, Cyril Pommier, Philippe Rocca-Serra, Melanie Courtot, Frederik Coppens",
-        "url": "https://scholar.google.com/scholar?cluster=6780195193148654825&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "D03iK_w7-QYC": {
-        "title": "ELIXIR biovalidator for semantic validation of life science metadata",
-        "year": "2022/6/1",
-        "publisher": "Bioinformatics",
-        "author": "Isuru Liyanage, Tony Burdett, Bert Droesbeke, Karoly Erdos, Rolando Fernandez, Alasdair Gray, Muhammad Haseeb, Simon Jupp, Flavia Penim, Cyril Pommier, Philippe Rocca-Serra, M\u00e9lanie Courtot, Frederik Coppens",
-        "url": "https://academic.oup.com/bioinformatics/article-abstract/38/11/3141/6563594",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "4OULZ7Gr8RgC": {
-        "title": "The GA4GH Phenopacket schema defines a computable representation of clinical data",
-        "year": "2022/6",
-        "publisher": "Nature biotechnology",
-        "author": "Julius OB Jacobsen, Michael Baudis, Gareth S Baynam, Jacques S Beckmann, Sergi Beltran, Orion J Buske, Tiffany J Callahan, Christopher G Chute, M\u00e9lanie Courtot, Daniel Danis, Olivier Elemento, Andrea Essenwanger, Robert R Freimuth, Michael A Gargano, Tudor Groza, Ada Hamosh, Nomi L Harris, Rajaram Kaliyaperumal, Kevin C Kent Lloyd, Aly Khalifa, Peter M Krawitz, Sebastian K\u00f6hler, Brian J Laraway, Heikki Lehv\u00e4slaiho, Leslie Matalonga, Julie A McMurry, Alejandro Metke-Jimenez, Christopher J Mungall, Monica C Munoz-Torres, Soichi Ogishima, Anastasios Papakonstantinou, Davide Piscia, Nikolas Pontikos, N\u00faria Queralt-Rosinach, Marco Roos, Julian Sass, Paul N Schofield, Dominik Seelow, Anastasios Siapos, Damian Smedley, Lindsay D Smith, Robin Steinhaus, Jagadish Chandrabose Sundaramurthi, Emilia M Swietlik, Sylvia Thun, Nicole A Vasilevsky, Alex H Wagner, Jeremy L Warner, Claus Weiland, Melissa A Haendel, Peter N Robinson",
-        "url": "https://www.nature.com/articles/s41587-022-01357-4",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "a0OBvERweLwC": {
-        "title": "Recommendations for the formatting of Variant Call Format (VCF) files to make plant genotyping data FAIR",
-        "year": "2022/5/19",
-        "publisher": "F1000Research",
-        "author": "Sebastian Beier, Anne Fiebig, Cyril Pommier, Isuru Liyanage, Matthias Lange, Paul J Kersey, Stephan Weise, Richard Finkers, Baron Koylass, Timothee Cezard, M\u00e9lanie Courtot, Bruno Contreras-Moreira, Guy Naamati, Sarah Dyer, Uwe Scholz",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9218589/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "ZHo1McVdvXMC": {
-        "title": "BioSamples database: FAIRer samples metadata to accelerate research data management",
-        "year": "2022/1/7",
-        "publisher": "Nucleic acids research",
-        "author": "M\u00e9lanie Courtot, Dipayan Gupta, Isuru Liyanage, Fuqi Xu, Tony Burdett",
-        "url": "https://academic.oup.com/nar/article-abstract/50/D1/D1500/6423179",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "WbkHhVStYXYC": {
-        "title": "SNP matrix of barley collection from german ex-situ genbank IPK.",
-        "year": "2022",
-        "publisher": "L",
-        "author": "Sebastian Beier, Anne Fiebig, Cyril Pommier, Isuru Liyanage, Matthias Lange, Paul J Kersey, Stephan Weise, Richard Finkers, Baron Koylass, Timothee Cezard, M\u00e9lanie Courtot, Bruno Contreras-Moreira, Guy Naamati, Sarah Dyer, Uwe Scholz",
-        "url": "https://library.wur.nl/WebQuery/wurpubs/633712",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "l7t_Zn2s7bgC": {
-        "title": "The GA4GH Phenopacket schema: A computable representation of clinical data for precision medicine",
-        "year": "2021/11/30",
-        "publisher": "medRxiv",
-        "author": "Julius OB Jacobsen, Michael Baudis, Gareth S Baynam, Jacques S Beckmann, Sergi Beltran, Tiffany J Callahan, Christopher G Chute, M\u00e9lanie Courtot, Daniel Danis, Olivier Elemento, Robert R Freimuth, Michael A Gargano, Tudor Groza, Ada Hamosh, Nomi L Harris, Rajaram Kaliyaperumal, Aly Khalifa, Peter M Krawitz, Sebastian K\u00f6hler, Brian J Laraway, Heikki Lehv\u00e4slaiho, Kent C Lloyd, Leslie Matalonga, Julie A McMurry, Alejandro Metke-Jimenez, Christopher J Mungall, Monica C Munoz-Torres, Soichi Ogishima, Anastasios Papakonstantinou, Davide Piscia, Nikolas Pontikos, N\u00faria Queralt-Rosinach, Marco Roos, Paul N Schofield, Anastasios Siapos, Damian Smedley, Lindsay D Smith, Robin Steinhaus, Jagadish Chandrabose Sundaramurthi, Emilia M Swietlik, Sylvia Thun, Nicole A Vasilevsky, Alex H Wagner, Jeremy L Warner, Claus Weiland, Melissa A Haendel, Peter N Robinson, Consortial authors",
-        "url": "https://www.medrxiv.org/content/10.1101/2021.11.27.21266944.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "fPk4N6BV_jEC": {
-        "title": "GA4GH Passport standard for digital identity and access permissions",
-        "year": "2021/11/10",
-        "publisher": "Cell Genomics",
-        "author": "Craig Voisin, Mikael Linden, Stephanie OM Dyke, Sarion R Bowers, Pinar Alper, Maxmillian P Barkley, David Bernick, Jianpeng Chao, M\u00e9lanie Courtot, Francis Jeanson, Melissa A Konopko, Martin Kuba, Jonathan Lawson, Jaakko Leinonen, Stephanie Li, Vivian Ota Wang, Anthony A Philippakis, Kathy Reinold, Gregory A Rushton, J Dylan Spalding, Juha T\u00f6rnroos, Ilya Tulchinsky, Jaime M Guidry Auvil, Tommi H Nyr\u00f6nen",
-        "url": "https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00037-9",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "u_35RYKgDlwC": {
-        "title": "Empirical validation of an automated approach to data use oversight",
-        "year": "2021/11/10",
-        "publisher": "Cell Genomics",
-        "author": "Moran N Cabili, Jonathan Lawson, Andrea Saltzman, Greg Rushton, Pearl O\u2019Rourke, John Wilbanks, Laura Lyman Rodriguez, Tommi Nyronen, M\u00e9lanie Courtot, Stacey Donnelly, Anthony A Philippakis",
-        "url": "https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00038-0",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "zA6iFVUQeVQC": {
-        "title": "The Data Use Ontology to streamline responsible access to human biomedical datasets",
-        "year": "2021/11/10",
-        "publisher": "Cell Genomics",
-        "author": "Jonathan Lawson, Moran N Cabili, Giselle Kerry, Tiffany Boughtwood, Adrian Thorogood, Pinar Alper, Sarion R Bowers, Rebecca R Boyles, Anthony J Brookes, Matthew Brush, Tony Burdett, Hayley Clissold, Stacey Donnelly, Stephanie OM Dyke, Mallory A Freeberg, Melissa A Haendel, Chihiro Hata, Petr Holub, Francis Jeanson, Aina Jene, Minae Kawashima, Shuichi Kawashima, Melissa Konopko, Irene Kyomugisha, Haoyuan Li, Mikael Linden, Laura Lyman Rodriguez, Mizuki Morita, Nicola Mulder, Jean Muller, Satoshi Nagaie, Jamal Nasir, Soichi Ogishima, Vivian Ota Wang, Laura D Paglione, Ravi N Pandya, Helen Parkinson, Anthony A Philippakis, Fabian Prasser, Jordi Rambla, Kathy Reinold, Gregory A Rushton, Andrea Saltzman, Gary Saunders, Heidi J Sofia, John D Spalding, Morris A Swertz, Ilia Tulchinsky, Esther J van Enckevort, Susheel Varma, Craig Voisin, Natsuko Yamamoto, Chisato Yamasaki, Lyndon Zass, Jaime M Guidry Auvil, Tommi H Nyr\u00f6nen, M\u00e9lanie Courtot",
-        "url": "https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00035-5?uuid=uuid%3A5b05c30b-f365-4ece-94ff-e74576935142",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "rO6llkc54NcC": {
-        "title": "GA4GH: International policies and standards for data sharing across genomic research and healthcare",
-        "year": "2021/11/10",
-        "publisher": "Cell genomics",
-        "author": "Heidi L Rehm, Angela JH Page, Lindsay Smith, Jeremy B Adams, Gil Alterovitz, Lawrence J Babb, Maxmillian P Barkley, Michael Baudis, Michael JS Beauvais, Tim Beck, Jacques S Beckmann, Sergi Beltran, David Bernick, Alexander Bernier, James K Bonfield, Tiffany F Boughtwood, Guillaume Bourque, Sarion R Bowers, Anthony J Brookes, Michael Brudno, Matthew H Brush, David Bujold, Tony Burdett, Orion J Buske, Moran N Cabili, Daniel L Cameron, Robert J Carroll, Esmeralda Casas-Silva, Debyani Chakravarty, Bimal P Chaudhari, Shu Hui Chen, J Michael Cherry, Justina Chung, Melissa Cline, Hayley L Clissold, Robert M Cook-Deegan, M\u00e9lanie Courtot, Fiona Cunningham, Miro Cupak, Robert M Davies, Danielle Denisko, Megan J Doerr, Lena I Dolman, Edward S Dove, L Jonathan Dursi, Stephanie OM Dyke, James A Eddy, Karen Eilbeck, Kyle P Ellrott, Susan Fairley, Khalid A Fakhro, Helen V Firth, Michael S Fitzsimons, Marc Fiume, Paul Flicek, Ian M Fore, Mallory A Freeberg, Robert R Freimuth, Lauren A Fromont, Jonathan Fuerth, Clara L Gaff, Weiniu Gan, Elena M Ghanaim, David Glazer, Robert C Green, Malachi Griffith, Obi L Griffith, Robert L Grossman, Tudor Groza, Jaime M Guidry Auvil, Roderic Guig\u00f3, Dipayan Gupta, Melissa A Haendel, Ada Hamosh, David P Hansen, Reece K Hart, Dean Mitchell Hartley, David Haussler, Rachele M Hendricks-Sturrup, Calvin WL Ho, Ashley E Hobb, Michael M Hoffman, Oliver M Hofmann, Petr Holub, Jacob Shujui Hsu, Jean-Pierre Hubaux, Sarah E Hunt, Ammar Husami, Julius O Jacobsen, Saumya S Jamuar, Elizabeth L Janes, Francis Jeanson, Aina Jen\u00e9, Amber L Johns, Yann Joly, Steven JM Jones, Alexander Kanitz, Kazuto Kato, Thomas M Keane, Kristina Kekesi-Lafrance, Jerome Kelleher, Giselle Kerry, Seik-Soon Khor, Bartha M Knoppers, Melissa A Konopko, Kenjiro Kosaki, Martin Kuba, Jonathan Lawson, Rasko Leinonen, Stephanie Li, Michael F Lin, Mikael Linden, Xianglin Liu, Isuru Udara Liyanage, Javier Lopez, Anneke M Lucassen, Michael Lukowski, Alice L Mann, John Marshall, Michele Mattioni, Alejandro Metke-Jimenez, Anna Middleton, Richard J Milne, Fruzsina Moln\u00e1r-G\u00e1bor, Nicola Mulder, Monica C Munoz-Torres, Rishi Nag, Hidewaki Nakagawa, Jamal Nasir, Arcadi Navarro, Tristan H Nelson, Ania Niewielska, Amy Nisselle, Jeffrey Niu, Tommi H Nyr\u00f6nen, Brian D O\u2019Connor, Sabine Oesterle, Soichi Ogishima, Vivian Ota Wang, Laura AD Paglione, Emilio Palumbo, Helen E Parkinson, Anthony A Philippakis, Angel D Pizarro, Andreas Prlic, Jordi Rambla, Augusto Rendon, Renee A Rider, Peter N Robinson, Kurt W Rodarmer",
-        "url": "https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00036-7?uuid=uuid%3A3d4b9488-db19-46f2-be24-866f2e98aa03",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "35N4QoGY0k4C": {
-        "title": "OBO Foundry in 2021: operationalizing open data principles to evaluate ontologies",
-        "year": "2021/10/1",
-        "publisher": "Database",
-        "author": "Rebecca Jackson, Nicolas Matentzoglu, James A Overton, Randi Vita, James P Balhoff, Pier Luigi Buttigieg, Seth Carbon, Melanie Courtot, Alexander D Diehl, Damion M Dooley, William D Duncan, Nomi L Harris, Melissa A Haendel, Suzanna E Lewis, Darren A Natale, David Osumi-Sutherland, Alan Ruttenberg, Lynn M Schriml, Barry Smith, Christian J Stoeckert Jr, Nicole A Vasilevsky, Ramona L Walls, Jie Zheng, Christopher J Mungall, Bjoern Peters",
-        "url": "https://academic.oup.com/database/article-abstract/doi/10.1093/database/baab069/6410158",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "RYcK_YlVTxYC": {
-        "title": "The european nucleotide archive in 2020",
-        "year": "2021/1/8",
-        "publisher": "Nucleic acids research",
-        "author": "Peter W Harrison, Alisha Ahamed, Raheela Aslam, Blaise TF Alako, Josephine Burgin, Nicola Buso, M\u00e9lanie Courtot, Jun Fan, Dipayan Gupta, Muhammad Haseeb, Sam Holt, Talal Ibrahim, Eugene Ivanov, Suran Jayathilaka, Vishnukumar Balavenkataraman Kadhirvelu, Manish Kumar, Rodrigo Lopez, Simon Kay, Rasko Leinonen, Xin Liu, Colman O\u2019Cathail, Amir Pakseresht, Youngmi Park, Stephane Pesant, Nadim Rahman, Jeena Rajan, Alexey Sokolov, Senthilnathan Vijayaraja, Zahra Waheed, Ahmad Zyoud, Tony Burdett, Guy Cochrane",
-        "url": "https://academic.oup.com/nar/article-abstract/49/D1/D82/5974094",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "1sJd4Hv_s6UC": {
-        "title": "Towards a Common Standard for Data and Specimen Provenance in Life Sciences",
-        "year": "2021",
-        "publisher": "Unknown",
-        "author": "Petr Holub, Rudolf Wittner, Cecilia Mascia, Francesca Frexia, Heimo M\u00fcller, Markus Plass, Clare Allocca, Fay Betsou, Tony Burdett, Ibon Cancio, Adriane Chapman, Martin Chapman, M\u00e9lanie Courtot, Vasa Curcin, Johann Eder, Mark Elliot, Katrina Exter, Elliot Fairweather, Carole Goble, Martin Golebiewski, Bron Kisler, Andreas Kremer, Sheng Lin-Gibson, Anna Marsano, Marco Mattavelli, Josh Moore, Hiroki Nakae, Isabelle Perseil, Ayat Salman, James Sluka, Stian Soiland-Reyes, Caterina Strambio-De-Castillia, Michael Sussman, Jason Swedlow, Kurt Zatloukal, J\u00f6rg Geiger",
-        "url": "https://research.manchester.ac.uk/en/publications/towards-a-common-standard-for-data-and-specimen-provenance-in-lif",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "J_g5lzvAfSwC": {
-        "title": "SBML Level 3: an extensible format for the exchange and reuse of biological models",
-        "year": "2020/8",
-        "publisher": "Unknown",
-        "author": "Sarah M Keating, Dagmar Waltemath, Matthias K\u00f6nig, Fengkai Zhang, Andreas Dr\u00e4ger, Claudine Chaouiya, Frank T Bergmann, Andrew Finney, Colin S Gillespie, Tom\u00e1\u0161 Helikar, Stefan Hoops, Rahuman S Malik\u2010Sheriff, Stuart L Moodie, Ion I Moraru, Chris J Myers, Aur\u00e9lien Naldi, Brett G Olivier, Sven Sahle, James C Schaff, Lucian P Smith, Maciej J Swat, Denis Thieffry, Leandro Watanabe, Darren J Wilkinson, Michael L Blinov, Kimberly Begley, James R Faeder, Harold F G\u00f3mez, Thomas M Hamm, Yuichiro Inagaki, Wolfram Liebermeister, Allyson L Lister, Daniel Lucio, Eric Mjolsness, Carole J Proctor, Karthik Raman, Nicolas Rodriguez, Clifford A Shaffer, Bruce E Shapiro, Joerg Stelling, Neil Swainston, Naoki Tanimura, John Wagner, Martin Meier\u2010Schellersheim, Herbert M Sauro, Bernhard Palsson, Hamid Bolouri, Hiroaki Kitano, Akira Funahashi, Henning Hermjakob, John C Doyle, Michael Hucka, SBML Level 3 Community members, Richard R Adams, Nicholas A Allen, Bastian R Angermann, Marco Antoniotti, Gary D Bader, Jan \u010cerven\u00fd, M\u00e9lanie Courtot, Chris D Cox, Piero Dalle Pezze, Emek Demir, William S Denney, Harish Dharuri, Julien Dorier, Dirk Drasdo, Ali Ebrahim, Johannes Eichner, Johan Elf, Lukas Endler, Chris T Evelo, Christoph Flamm, Ronan MT Fleming, Martina Fr\u00f6hlich, Mihai Glont, Emanuel Gon\u00e7alves, Martin Golebiewski, Hovakim Grabski, Alex Gutteridge, Damon Hachmeister, Leonard A Harris, Benjamin D Heavner, Ron Henkel, William S Hlavacek, Bin Hu, Daniel R Hyduke, Hidde de Jong, Nick Juty, Peter D Karp, Jonathan R Karr, Douglas B Kell, Roland Keller, Ilya Kiselev, Steffen Klamt, Edda Klipp, Christian Kn\u00fcpfer, Fedor Kolpakov, Falko Krause, Martina Kutmon, Camille Laibe, Conor Lawless, Lu Li, Leslie M Loew, Rainer Machne, Yukiko Matsuoka, Pedro Mendes, Huaiyu Mi, Florian Mittag, Pedro T Monteiro, Kedar Nath Natarajan, Poul MF Nielsen, Tramy Nguyen, Alida Palmisano, Jean\u2010Baptiste Pettit, Thomas Pfau, Robert D Phair, Tomas Radivoyevitch, Johann M Rohwer, Oliver A Ruebenacker, Julio Saez\u2010Rodriguez, Martin Scharm, Henning Schmidt, Falk Schreiber, Michael Schubert, Roman Schulte, Stuart C Sealfon, Kieran Smallbone, Sylvain Soliman, Melanie I Stefan, Devin P Sullivan, Koichi Takahashi, Bas Teusink, David Tolnay, Ibrahim Vazirabad, Axel von Kamp, Ulrike Wittig, Clemens Wrzodek, Finja Wrzodek, Ioannis Xenarios, Anna Zhukova, Jeremy Zucker",
-        "url": "https://www.embopress.org/doi/abs/10.15252/msb.20199110",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "GnPB-g6toBAC": {
-        "title": "FAIR principles: interpretations and implementation considerations",
-        "year": "2020/1/1",
-        "publisher": "M",
-        "author": "Annika Jacobsen, Ricardo de Miranda Azevedo, Nick Juty, Dominique Batista, Simon Coles, Ronald Cornet, M\u00e9lanie Courtot, Merc\u00e8 Crosas, Michel Dumontier, Chris T Evelo, Carole Goble, Giancarlo Guizzardi, Karsten Kryger Hansen, Ali Hasnain, Kristina Hettne, Jaap Heringa, Rob WW Hooft, Melanie Imming, Keith G Jeffery, Rajaram Kaliyaperumal, Martijn G Kersloot, Christine R Kirkpatrick, Tobias Kuhn, Ignasi Labastida, Barbara Magagna, Peter McQuilton, Natalie Meyers, Annalisa Montesanti, Mirjam Van Reisen, Philippe Rocca-Serra, Robert Pergl, Susanna-Assunta Sansone, Luiz Olavo Bonino da Silva Santos, Juliane Schneider, George Strawn, Mark Thompson, Andra Waagmeester, Tobias Weigel, Mark D Wilkinson, Egon L Willighagen, Peter Wittenburg, Marco Roos, Barend Mons, Erik Schultes",
-        "url": "https://direct.mit.edu/dint/article-abstract/2/1-2/10/10017",
+      "F1b5ZUV5XREC": {
+        "title": "62 Increased hepatitis E virus seroprevalence amongst pancreatic insufficient adults with cystic fibrosis\u2013A single centre study",
+        "year": "2025/10/1",
+        "publisher": "Journal of Cystic Fibrosis",
+        "author": "B Waddell, Y Ghazi, J Jang, C Thornton, B Quon, M Parkins",
+        "url": "https://scholar.google.com/scholar?cluster=620303072138007100&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "mhN0cZoAAAAJ": {
-    "Name": "Thea Van Rossum",
+  "iQjUDPYAAAAJ": {
+    "Name": "Casey Hubert",
     "total_new": "1",
     "publications": {
-      "08ZZubdj9fEC": {
-        "title": "Mine site microbes for remediation and metal recovery",
-        "year": "2025/9/16",
-        "publisher": "Australian Centre for Geomechanics, Perth",
-        "author": "Thea Van Rossum,Nicholas Gurieff",
-        "url": "https://doi.org/10.36487/acg_repo/2515_62",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
+      "9pM33mqn1YgC": {
+        "title": "Performance and suitability of wastewater based-surveillance for SARS-CoV-2 RNA in public schools",
+        "year": "2025/10/2",
+        "publisher": "Scientific Reports",
+        "author": "Nicole Acosta, Alex Buchner Beaudet, Paul Westlund, Kevin Frankowski, Jia Hu, Navid Sedaghat, Puja Pradhan, Lawrence Man, Jordan Hollman, Mar\u00eda A Bautista, Barbara J Waddell, Janine McCalder, Matthew Penney, Jianwei Chen, Jon Meddings, Gopal Achari, M Cathryn Ryan, Jason L Cabaj, Rhonda G Clark, Casey RJ Hubert, Michael D Parkins",
+        "url": "https://www.nature.com/articles/s41598-025-16995-2",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "IZQgBh8AAAAJ": {
+    "Name": "Rita Isabel Henderson",
+    "total_new": "1",
+    "publications": {
+      "yD5IFk8b50cC": {
+        "title": "Obesity in adults: a clinical practice guideline",
+        "year": "2020",
+        "publisher": "CMAJ: CANADIAN MEDICAL ASSOCIATION JOURNAL",
+        "author": "DCW LAU, M Vallis, AM SHARMA, L BIERTHO, D CAMPBELL-SCHERER, K ADAMO, A ALBERGA, R BELL, N BOUL\u00c9, E BOYLING, J BROWN, B CALAM, C CLARKE, L CROWSHOE, D DIVALENTINO, M FORHAN, Y FREEDHOFF, M GAGNER, S GLAZER, C GRAND, M GREEN, M HAHN, R HAWA, R HENDERSON, D HONG, P HUNG, IA JANSSEN, K JACKLIN, C JOHNSON-STOKLOSSA, A KEMP, S KIRK, J KUK, MF LANGLOIS, S LEAR, A MCINNES, D MACKLIN, L NAJI, P MANJOO, M MORIN, K NERENBERG, IA PATTON, S PEDERSEN, L PEREIRA, H PICCININI-VALLIS, M PODDAR, P POIRIER, D PRUD\u2019HOMME, XR SALAS, CH RUEDA-CLAUSEN, SH RUSSELL-MAYHEW, JU SHIAU, D SHERIFALI, J SIEVENPIPER, S SOCKALINGAM, V TAYLOR, E TOTH, L TWELLS, R TYTUS, SH WALJI, L WALKER, S WICKLUM",
+        "url": "https://elibrary.ru/item.asp?id=78133296",
+        "firstOrLast": false,
+        "datasource": "Scholars"
       }
     }
   },
@@ -264,14 +75,44 @@
     "Name": "Doug Manuel",
     "total_new": "1",
     "publications": {
-      "prKdS1S5QkMC": {
-        "title": "P270 SELF-RATED HEALTH IS AN INDEPENDENT RISK FACTOR FOR CARDIOVASCULAR DISEASE WITH A STRONGER ASSOCIATION IN WOMEN THAN IN MEN",
-        "year": "2025/10/1",
-        "publisher": "Canadian Journal of Cardiology",
-        "author": "M Sud, F Qui, O Haldenby, S Islam, P Austin, D Manuel, D Eurich, P Kaul, M Graham, M Madan, T Huynh, E Spatz, H Wijeysundera, D Ko",
-        "url": "https://onlinecjc.ca/article/S0828-282X(25)00835-9/abstract",
+      "w9EjUEod0xMC": {
+        "title": "Metabolic health and body mass index phenotypes in adults",
+        "year": "2025/9/17",
+        "publisher": "Health reports",
+        "author": "Tracey Bushnik, Rachel Colley, Joel Barnes, Douglas G Manuel",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41032640/",
         "firstOrLast": false,
         "datasource": "Scholars"
+      }
+    }
+  },
+  "rHFCtWwAAAAJ": {
+    "Name": "Finlay Maguire",
+    "total_new": "1",
+    "publications": {
+      "P5F9QuxV20EC": {
+        "title": "Some assembly required: comparison of bioinformatic pipelines for analysis of viral metagenomic sequencing from nosocomial respiratory virus outbreaks",
+        "year": "2025/10/2",
+        "publisher": "Journal of Clinical Virology",
+        "author": "Assad Alhaboub, Natalie Deschenes, Xena X Li, Victoria R Williams, Kevin C Katz, So Yeon Park, Patryk Aftanas, Henry Wong, Calvin Sjaarda, Kyla Tozer, Finlay Maguire, Jerome Leis, Prameet Sheth, Robert Kozak",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1386653225001192",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-bIc5H0AAAAJ": {
+    "Name": "Sarah Otto",
+    "total_new": "1",
+    "publications": {
+      "041faMmbr2QC": {
+        "title": "The changing status of imperiled species in British Columbia over the last 15 years in the absence of a dedicated species at risk law",
+        "year": "2025/10/1",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Peter R. Thompson,Meg Bjordal,Morgan L. Piczak,Sarah P. Otto",
+        "url": "https://doi.org/10.1101/2025.09.30.679339",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
       }
     }
   }
