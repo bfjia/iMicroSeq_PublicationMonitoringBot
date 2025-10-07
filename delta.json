@@ -1,55 +1,16 @@
 {
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
-    "total_new": "2",
-    "publications": {
-      "l_4PpDxvVJAC": {
-        "title": "Comparison of canola meal versus soybean meal on growth performance and carcass quality of feedlot cattle",
-        "year": "2025/10/3",
-        "publisher": "Canadian Journal of Animal Science",
-        "author": "Adriane Good, Daalkhaijav Damiran, Gregory B Penner, Timothy Mutsvangwa, Tim A McAllister, Herbert A Lardner, John McKinnon",
-        "url": "https://cdnsciencepub.com/doi/full/10.1139/cjas-2025-0030",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "x-Ysmmx-H-kC": {
-        "title": "Performance, digestibility, carcass characteristics and blood parameters of backgrounding and finishing beef steers fed diets containing corn silage or barley straw with or \u2026",
-        "year": "2025/10/3",
-        "publisher": "Canadian Journal of Animal Science",
-        "author": "Melissa S Williams, Elham Rahmani, Emma Stephens, Nilusha Malmuthuge, Karen S Schwartzkopf-Genswein, Tim A McAllister, Stephanie A Terry",
-        "url": "https://cdnsciencepub.com/doi/full/10.1139/cjas-2025-0032",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "MNqeC0sAAAAJ": {
-    "Name": "Robert Michael McKay",
+  "-EWOC3cAAAAJ": {
+    "Name": "Diego Borin Nobrega",
     "total_new": "1",
     "publications": {
-      "IRz6iEL74y4C": {
-        "title": "Spatio-Temporal Resolution of Microbial Functions and Taxa Associated With Cyanobacterial Harmful Algae Blooms Along a 500-Km Aquatic Continuum in the Lake Erie Watershed",
-        "year": "2025/10",
-        "publisher": "Environmental microbiology",
-        "author": "Sophie Crevecoeur, Lori Phillips, Arthur Zastepa, J\u00e9r\u00f4me Comte, Ngan Diep, Alice Dove, Thomas Edge, Thijs Frenken, R Michael McKay, Susan B Waston",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41039986/",
+      "p2g8aNsByqUC": {
+        "title": "First detection of Coxiella burnetii subtype 61 in bulk tank milk from dairy farms in Brazil",
+        "year": "2025/10/4",
+        "publisher": "Acta Tropica",
+        "author": "Thain\u00e1 Valente Bertozzo, Suzane Manzini, Isabella Neves Aires, Amanda Bezerra Bertolini, Maria Izabel Merino de Medeiros, Virg\u00ednia Bodel\u00e3o Richini Pereira, Diego Borin N\u00f3brega, Mateus de Souza Ribeiro Mioni, Lilian Gregory, Maria Angeles Ramo Gil, Antonio Carlos Paes, Simone Baldini Lucheis",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0001706X25003316",
         "firstOrLast": false,
         "datasource": "Scholars"
-      }
-    }
-  },
-  "-bIc5H0AAAAJ": {
-    "Name": "Sarah Otto",
-    "total_new": "1",
-    "publications": {
-      "xyKys1DtkaQC": {
-        "title": "Bridging energy and ribosomal allocation models to predict the cost of traits in different environments",
-        "year": "2025/10/2",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Mohammadjavad Meghrazi,Sarah P. Otto",
-        "url": "https://doi.org/10.1101/2025.09.30.679561",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
       }
     }
   }

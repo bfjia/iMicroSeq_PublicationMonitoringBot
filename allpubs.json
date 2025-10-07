@@ -2610,24 +2610,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "uWiczbcajpAC": {
-        "title": "Wastewater monitoring of SARS-CoV-2 from acute care hospitals identifies nosocomial transmission and outbreaks",
-        "year": "2021/2/23",
-        "publisher": "medRxiv",
-        "author": "Nicole Acosta, Mar\u00eda A. Bautista, Jordan Hollman, Janine McCalder, Alexander Buchner Beaudet, Lawrence Man, Barbara J Waddell, Jianwei Chen, Carmen Li, Darina Kuzma, Srijak Bhatnagar, Jenine Leal, Jon Meddings, Jia Hu, Jason L Cabaj, Norma J Ruecker, Christopher Naugler, Dylan R Pillai, Gopal Achari, M Cathryn Ryan, John M Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
-        "url": "https://www.medrxiv.org/content/10.1101/2021.02.20.21251520.abstract",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "ipzZ9siozwsC": {
-        "title": "Sputum microbiota in adults with CF associates with response to inhaled tobramycin",
-        "year": "2020/12/1",
-        "publisher": "Thorax",
-        "author": "Alya Heirali, Christina Thornton, Nicole Acosta, Ranjani Somayaji, Isabelle Laforest Lapointe, Douglas Storey, Harvey Rabin, Barbara Waddell, Laura Rossi, Marie Claire Arrieta, Michael Surette, Michael D Parkins",
-        "url": "https://thorax.bmj.com/content/75/12/1058.abstract",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "vDijr-p_gm4C": {
         "title": "Outcomes of COVID-19 among hospitalized health care workers in North America",
         "year": "2021/1/4",
@@ -2644,6 +2626,24 @@
         "author": "John C Lam, Oscar E Larios, Michael D Parkins, Stephen D Vaughan",
         "url": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2020-46/issue-10-october-1-2020/tick-borne-fever-pregnancy.html",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "uWiczbcajpAC": {
+        "title": "Wastewater monitoring of SARS-CoV-2 from acute care hospitals identifies nosocomial transmission and outbreaks",
+        "year": "2021/2/23",
+        "publisher": "medRxiv",
+        "author": "Nicole Acosta, Mar\u00eda A. Bautista, Jordan Hollman, Janine McCalder, Alexander Buchner Beaudet, Lawrence Man, Barbara J Waddell, Jianwei Chen, Carmen Li, Darina Kuzma, Srijak Bhatnagar, Jenine Leal, Jon Meddings, Jia Hu, Jason L Cabaj, Norma J Ruecker, Christopher Naugler, Dylan R Pillai, Gopal Achari, M Cathryn Ryan, John M Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
+        "url": "https://www.medrxiv.org/content/10.1101/2021.02.20.21251520.abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "ipzZ9siozwsC": {
+        "title": "Sputum microbiota in adults with CF associates with response to inhaled tobramycin",
+        "year": "2020/12/1",
+        "publisher": "Thorax",
+        "author": "Alya Heirali, Christina Thornton, Nicole Acosta, Ranjani Somayaji, Isabelle Laforest Lapointe, Douglas Storey, Harvey Rabin, Barbara Waddell, Laura Rossi, Marie Claire Arrieta, Michael Surette, Michael D Parkins",
+        "url": "https://thorax.bmj.com/content/75/12/1058.abstract",
+        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "zLWjf1WUPmwC": {
@@ -10287,21 +10287,21 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "NhqRSupF_l8C": {
-        "title": "Marine sediments harbor diverse archaea and bacteria with the potential for anaerobic hydrocarbon degradation via fumarate addition",
-        "year": "2021/5",
-        "publisher": "FEMS Microbiology Ecology",
-        "author": "Chuwen Zhang, Rainer U Meckenstock, Shengze Weng, Guangshan Wei, Casey RJ Hubert, Jiang-Hai Wang, Xiyang Dong",
-        "url": "https://academic.oup.com/femsec/article-abstract/97/5/fiab045/6171024",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "JoZmwDi-zQgC": {
         "title": "Covid-19 Monitoring Using Wastewater-Based Epidemiology: The Promise and Peril of Seeking Useable Data in a Pandemic",
         "year": "2021/5/26",
         "publisher": "S",
         "author": "J Hollman, N Acosta, M Bautista, J McCalder, L Man, A Buchner Beaudet, B Waddell, J Chen, D Kuzma, RG Clark, N Ruecker, K Frankowski, C Hubert, M Parkins, MC Ryan, G Achari",
         "url": "https://link.springer.com/chapter/10.1007/978-981-19-1061-6_47",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "NhqRSupF_l8C": {
+        "title": "Marine sediments harbor diverse archaea and bacteria with the potential for anaerobic hydrocarbon degradation via fumarate addition",
+        "year": "2021/5",
+        "publisher": "FEMS Microbiology Ecology",
+        "author": "Chuwen Zhang, Rainer U Meckenstock, Shengze Weng, Guangshan Wei, Casey RJ Hubert, Jiang-Hai Wang, Xiyang Dong",
+        "url": "https://academic.oup.com/femsec/article-abstract/97/5/fiab045/6171024",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -12210,6 +12210,15 @@
     "Name": "Herman W. Barkema",
     "total_publications": "100",
     "publications": {
+      "Lo8V22OuN40C": {
+        "title": "Evaluation of Staphylococcus simulans inhibition of Staphylococcus aureus infection by an in vivo murine mastitis model",
+        "year": "2025/8/4",
+        "publisher": "Applied and Environmental Microbiology",
+        "author": "Benjamin Caddey, Mengyue Li, Jeroen De Buck, Bo Han, Jian Gao, Herman W Barkema",
+        "url": "https://journals.asm.org/doi/abs/10.1128/aem.00678-25",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "fF_gHTpLxhAC": {
         "title": "Validity evidence for communication skills assessment in health professions education: a scoping review",
         "year": "2025/9/1",
@@ -12226,15 +12235,6 @@
         "author": "Jos\u00e9 M Hern\u00e1ndez-Agudelo, Crist\u00f3bal Verdugo, Herman W Barkema, Pamela Steuer, Carlos Tejeda, Fernando Ulloa, Juan P Soto, Miguel A Salgado",
         "url": "https://www.sciencedirect.com/science/article/pii/S0022030225006897",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "Lo8V22OuN40C": {
-        "title": "Evaluation of Staphylococcus simulans inhibition of Staphylococcus aureus infection by an in vivo murine mastitis model",
-        "year": "2025/8/4",
-        "publisher": "Applied and Environmental Microbiology",
-        "author": "Benjamin Caddey, Mengyue Li, Jeroen De Buck, Bo Han, Jian Gao, Herman W Barkema",
-        "url": "https://journals.asm.org/doi/abs/10.1128/aem.00678-25",
-        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "e9bUPLv0EjcC": {
@@ -13114,8 +13114,17 @@
   },
   "-EWOC3cAAAAJ": {
     "Name": "Diego Borin Nobrega",
-    "total_publications": "41",
+    "total_publications": "42",
     "publications": {
+      "p2g8aNsByqUC": {
+        "title": "First detection of Coxiella burnetii subtype 61 in bulk tank milk from dairy farms in Brazil",
+        "year": "2025/10/4",
+        "publisher": "Acta Tropica",
+        "author": "Thain\u00e1 Valente Bertozzo, Suzane Manzini, Isabella Neves Aires, Amanda Bezerra Bertolini, Maria Izabel Merino de Medeiros, Virg\u00ednia Bodel\u00e3o Richini Pereira, Diego Borin N\u00f3brega, Mateus de Souza Ribeiro Mioni, Lilian Gregory, Maria Angeles Ramo Gil, Antonio Carlos Paes, Simone Baldini Lucheis",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0001706X25003316",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "OU6Ihb5iCvQC": {
         "title": "Analyzing Public Google Search Interest in Measles Within Canada: Identifying Key Moments for Targeted Risk Communication",
         "year": "2025/7/9",
@@ -15693,15 +15702,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "dfsIfKJdRG4C": {
-        "title": "Canadian Medical Education Journal",
-        "year": "2021",
-        "publisher": "Unknown",
-        "author": "Rita Isabel Henderson, Ian Walker, Douglas Myhre, Rachel Ward, Lynden Lindsay Crowshoe",
-        "url": "https://journalhosting.ucalgary.ca/index.php/cmej/article/download/68215/54715?utm_source=consensus",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "yD5IFk8b50cC": {
         "title": "Obesity in adults: a clinical practice guideline",
         "year": "2020",
@@ -15709,6 +15709,15 @@
         "author": "DCW LAU, M Vallis, AM SHARMA, L BIERTHO, D CAMPBELL-SCHERER, K ADAMO, A ALBERGA, R BELL, N BOUL\u00c9, E BOYLING, J BROWN, B CALAM, C CLARKE, L CROWSHOE, D DIVALENTINO, M FORHAN, Y FREEDHOFF, M GAGNER, S GLAZER, C GRAND, M GREEN, M HAHN, R HAWA, R HENDERSON, D HONG, P HUNG, IA JANSSEN, K JACKLIN, C JOHNSON-STOKLOSSA, A KEMP, S KIRK, J KUK, MF LANGLOIS, S LEAR, A MCINNES, D MACKLIN, L NAJI, P MANJOO, M MORIN, K NERENBERG, IA PATTON, S PEDERSEN, L PEREIRA, H PICCININI-VALLIS, M PODDAR, P POIRIER, D PRUD\u2019HOMME, XR SALAS, CH RUEDA-CLAUSEN, SH RUSSELL-MAYHEW, JU SHIAU, D SHERIFALI, J SIEVENPIPER, S SOCKALINGAM, V TAYLOR, E TOTH, L TWELLS, R TYTUS, SH WALJI, L WALKER, S WICKLUM",
         "url": "https://elibrary.ru/item.asp?id=78133296",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "dfsIfKJdRG4C": {
+        "title": "Canadian Medical Education Journal",
+        "year": "2021",
+        "publisher": "Unknown",
+        "author": "Rita Isabel Henderson, Ian Walker, Douglas Myhre, Rachel Ward, Lynden Lindsay Crowshoe",
+        "url": "https://journalhosting.ucalgary.ca/index.php/cmej/article/download/68215/54715?utm_source=consensus",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
@@ -16362,15 +16371,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "w9EjUEod0xMC": {
-        "title": "Metabolic health and body mass index phenotypes in adults",
-        "year": "2025/9/17",
-        "publisher": "Health reports",
-        "author": "Tracey Bushnik, Rachel Colley, Joel Barnes, Douglas G Manuel",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41032640/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "OkCShBBh3G8C": {
         "title": "City-wide Built Environment SARS-CoV-2 Detection for COVID-19 Surveillance",
         "year": "2025/3/7",
@@ -16386,6 +16386,15 @@
         "publisher": "Open Research Europe",
         "author": "Fotis Psomopoulos, Colman O\u2019Cathail, Natasa Anastasiadou, Clementina Cocuzza, Wim L Cuypers, Olateju Idowu, Konstantinos Kyritsis, Katharina B Lauer, Marialuisa Lavitrano, Gabriele Leoni, Ju-Ling Liu, Guerrino Macori, Giulio Mannar\u00e0, Douglas G Manuel, Marianna Martinelli, Rosario Musumeci, Aitana Neves, Nikos Pechlivanis, Mauro Petrillo, Jiannis Ragoussis, Nadim Rahman, Katarina \u00d6jefors Stark, Mathew Thomson, Matthew J Wade, Michael Wright, ELIXIR Wastewater Surveillance Working Group",
         "url": "https://open-research-europe.ec.europa.eu/articles/5-267",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "w9EjUEod0xMC": {
+        "title": "Metabolic health and body mass index phenotypes in adults",
+        "year": "2025/9/17",
+        "publisher": "Health reports",
+        "author": "Tracey Bushnik, Rachel Colley, Joel Barnes, Douglas G Manuel",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41032640/",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -17235,15 +17244,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "FV77Gu53xKkC": {
-        "title": "Evaluation of the PREDIGT score\u2019s performance in identifying newly diagnosed Parkinson\u2019s patients without motor examination",
-        "year": "2022/7/29",
-        "publisher": "npj Parkinson's Disease",
-        "author": "Juan Li, Tiago A Mestre, Brit Mollenhauer, Mark Frasier, Julianna J Tomlinson, Claudia Trenkwalder, Tim Ramsay, Douglas Manuel, Michael G Schlossmacher",
-        "url": "https://www.nature.com/articles/s41531-022-00360-5",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "klLsoiHXwFYC": {
         "title": "Potentially non-beneficial interventions in the last 100 days of life of patients with cancer: A population-based retrospective cohort study.",
         "year": "2022/8/25",
@@ -17259,6 +17259,15 @@
         "publisher": "Open Forum Infectious Diseases",
         "author": "Ali Zhang, Matthew D Surette, Kevin L Schwartz, James I Brooks, Dawn ME Bowdish, Roshanak Mahdavi, Douglas G Manuel, Robert Talarico, Nick Daneman, Jayson Shurgold, Derek MacFadden",
         "url": "https://academic.oup.com/ofid/article-abstract/9/7/ofac205/6570601",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "FV77Gu53xKkC": {
+        "title": "Evaluation of the PREDIGT score\u2019s performance in identifying newly diagnosed Parkinson\u2019s patients without motor examination",
+        "year": "2022/7/29",
+        "publisher": "npj Parkinson's Disease",
+        "author": "Juan Li, Tiago A Mestre, Brit Mollenhauer, Mark Frasier, Julianna J Tomlinson, Claudia Trenkwalder, Tim Ramsay, Douglas Manuel, Michael G Schlossmacher",
+        "url": "https://www.nature.com/articles/s41531-022-00360-5",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
