@@ -1,1 +1,41 @@
-{}
+{
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
+    "total_new": "2",
+    "publications": {
+      "zZdEpRDacf4C": {
+        "title": "Natural Language Processing for Automated PICOS Classification: Accelerating Systematic Reviews in POPCORN Modelling Research",
+        "year": "2025/9/1",
+        "publisher": "T",
+        "author": "Arya Rahgozar, Pouria Mortezaagha, Abdul Karim Halal, Sarah Beach, Carol Bennett, Doug Manuel",
+        "url": "https://www.annfammed.org/content/23/Supplement_1/8224.abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "NAkivslCrNUC": {
+        "title": "Reducing The Effort for Performing Systematic Reviews Using Natural Language Processing And Large Language Models",
+        "year": "2024/11/20",
+        "publisher": "T",
+        "author": "Arya Rahgozar, Pouria Mortezaagha, Jessie McGowan, Kelly Cobey, Jodi Edwards, Andrea Tricco, Doug Manuel, Dean Fergusson, David Moher",
+        "url": "https://www.annfammed.org/content/22/Supplement_1/6188.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "ThjB_RcAAAAJ": {
+    "Name": "Jiannis Ragoussis",
+    "total_new": "1",
+    "publications": {
+      "zGdJYJv2LkUC": {
+        "title": "A fibroblast-centric network drives cold fibrosis in the tumor microenvironment of lung squamous cell carcinoma",
+        "year": "2025/8/25",
+        "publisher": "bioRxiv",
+        "author": "Shoval Miyara, Shachaf Frenkel, Avi Mayo, Philippe Gascard, Michael Strasser, David Gibbs, Eviatar Weizman, Itay Ben Shalom, Yaniv Stein, Deng Pan, Joseph A Caruso, Veena Sangwan, Nicholas Bertos, Julie Berube, Sophie Camilleri-Broet, Spyridon Oikonomopoulos, Haig Djambazian, Kfir Baruch Umansky, Jacob Elkahal, Shimrit Mayer, Pierre-Olivier Fiset, Jiannis Ragoussis, Miri Adler, Eldad Tzahor, Sui Huang, Lorenzo Ferri, Thea D Tlsty, Ruth Scherz-Shouval, Uri Alon",
+        "url": "https://www.biorxiv.org/content/10.1101/2025.08.25.668405.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
