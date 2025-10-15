@@ -38,15 +38,15 @@ def sendMessage(app, client, channel_id, fileList, message_filepath, threadTS, m
                 message_text=message_text+" <"+upload['file']['permalink']+"| > "
             #print(message_text)
             if (threadTS != None):
-                response = client.chat_postMessage(channel=channel_id,text=message_text, thread_ts=threadTS)
+                response = client.chat_postMessage(channel=channel_id,text=message_text, thread_ts=threadTS, unfurl_links=False, unfurl_media=False)
             else:
-                response = client.chat_postMessage(channel=channel_id,text=message_text)
+                response = client.chat_postMessage(channel=channel_id,text=message_text, unfurl_links=False, unfurl_media=False)
             #response = client.files_upload_v2(channel=channel_id,initial_comment=message_text,file_uploads=filesJson)
         else:
             if (threadTS != None):
-                response = client.chat_postMessage(channel=channel_id,text=message_text, thread_ts=threadTS)
+                response = client.chat_postMessage(channel=channel_id,text=message_text, thread_ts=threadTS, unfurl_links=False, unfurl_media=False )
             else:
-                response = client.chat_postMessage(channel=channel_id,text=message_text)
+                response = client.chat_postMessage(channel=channel_id,text=message_text, unfurl_links=False, unfurl_media=False )
 
         ts = response['ts']
     except SlackApiError as e:
