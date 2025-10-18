@@ -1,14 +1,59 @@
 {
-  "gA730boAAAAJ": {
-    "Name": "Lupin Battersby",
+  "O3Kin-IAAAAJ": {
+    "Name": "Michael Parkins",
     "total_new": "1",
     "publications": {
-      "Fu2w8maKXqMC": {
-        "title": "Using research to transform health policy for patients with fragility fracture in British Columbia, Canada",
-        "year": "2025/9/7",
-        "publisher": "ASBMR 2025 Annual Meeting",
-        "author": "Sonia Singh, Lupin Battersby, Larry Funnell, Juan Solorzano, Jonathan Robinson, David Whitehurst, Andrea Godfreyson, Teresa O'Callaghan, Irm Matthes, Brooke Scott, Selva Bayat, Raheem Badur Kherani, Samar Hejazi, Lesli Matheson Jennings, Angela Tecson, Olga Slavutskiy, Arman Virk, Jonathan Lin, Linda Li",
-        "url": "https://asbmr.confex.com/asbmr/2025/meetingapp.cgi/Paper/4022",
+      "6yz0xqPARnAC": {
+        "title": "Economic impact of elexacaftor/tezacaftor/ivacaftor on healthcare expenditure in Canada",
+        "year": "2025/10/15",
+        "publisher": "Journal of Cystic Fibrosis",
+        "author": "Stephen E Congly, Ranjani Somayaji, Michael D Parkins, Christina S Thornton",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1569199325024889",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "WY6AygvC5sMC": {
+        "title": "Feed and land requirements for livestock production in Canada",
+        "year": "2025/10/17",
+        "publisher": "Canadian Journal of Animal Science",
+        "author": "EG Kebebe, R White, G Mengistu, D Fulawka, G Legesse, TA McAllister, K Wittenberg, EJ McGeough, M Cordeiro, K Ominski",
+        "url": "https://cdnsciencepub.com/doi/full/10.1139/cjas-2024-0085",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "mhN0cZoAAAAJ": {
+    "Name": "Thea Van Rossum",
+    "total_new": "1",
+    "publications": {
+      "SP6oXDckpogC": {
+        "title": "by Subject",
+        "year": "2022",
+        "publisher": "ECOS",
+        "author": "Walter Schmitt, Auteri Domenica, Finn Bastiansen, Markus Ebeling, Chun Liu, Robert Lutikk, Sergey Mastitsky, Dianne Nacci, Christopher John Topping, Magnus Wang, Morten Elmeros, Linda Zollitsch, Nick Vilter, Dennis Niesel, Nicolaus Wilder, Xiaodong Duan, Stephanie Roilo, Jan Oliver Engler, Anna Cord, Maxime Ryckewaert, Diego Marcos, Christophe Botella, Maximilien Servajean, Pierre Bonnet, Alexis Joly, Mads Paludan Goddiksen, Mickey Gjerris, Zsofia Fekete, Dominic Absolon, Craig Michell, Jonathan MD Wood, Steffi Goffart, Jaakko Pohjoism\u00e4ki",
+        "url": "https://riojournal.com/browse_journal_articles.php?journal_name=rio&journal_id=17&sortby=1&lang=&p=93",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
+    "total_new": "1",
+    "publications": {
+      "uWy0R8PweswC": {
+        "title": "Automating Classification of Veterinary Biosecurity Recommendations Using Machine Learning",
+        "year": "2025/10/14",
+        "publisher": "Preventive Veterinary Medicine",
+        "author": "Vitoria RL Campelo, Mariana Fonseca, Marie-Pascale Morin, Faustin Farison, William L Nankam Nguekap, Karol G Solano-Suarez, Herman W Barkema, Waseem Shaukat, David L Renaud, David F Kelton, Gilles Fecteau, Jean-Philippe Roy, Pablo Vald\u00e9s Donoso, Sol\u00e8ne Le Manac'h, Juan C Arango-Sabogal, Marie-\u00c8ve Paradis, Nancy Beauregard, Manon Racicot, C\u00e9cile Aenishaenslin, Simon Dufour",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167587725003083",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
