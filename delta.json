@@ -1,14 +1,14 @@
 {
-  "O3Kin-IAAAAJ": {
-    "Name": "Michael Parkins",
+  "XMdyGgIAAAAJ": {
+    "Name": "Fiona Brinkman",
     "total_new": "1",
     "publications": {
-      "6yz0xqPARnAC": {
-        "title": "Economic impact of elexacaftor/tezacaftor/ivacaftor on healthcare expenditure in Canada",
-        "year": "2025/10/15",
-        "publisher": "Journal of Cystic Fibrosis",
-        "author": "Stephen E Congly, Ranjani Somayaji, Michael D Parkins, Christina S Thornton",
-        "url": "https://www.sciencedirect.com/science/article/pii/S1569199325024889",
+      "VN7nJs4JPk0C": {
+        "title": "Enabling genomic island prediction and comparison in multiple genomes to investigate bacterial evolution and outbreaks.",
+        "year": "2022",
+        "publisher": "Unknown",
+        "author": "FSL Brinkman",
+        "url": "https://iris.unil.ch/entities/publication/092d4d99-fb31-4fc1-bec0-a0e99eb7db1e",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -16,44 +16,83 @@
   },
   "PQ9tLbUAAAAJ": {
     "Name": "Tim A. McAllister",
+    "total_new": "2",
+    "publications": {
+      "aXQ7jtEqGowC": {
+        "title": "Effects of sanitation practices on microbial dynamics in meat processing environment",
+        "year": "2025/10/16",
+        "publisher": "Journal of Food Protection",
+        "author": "Barun Yadav, Yi Fan, Scott Hrycauk, Tim McAllister, Claudia Narvaez-Bravo, Tyson Brown, Xianqin Yang",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0362028X25001991",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "AdUz3-SiDfgC": {
+        "title": "Prevalence of Shiga toxin-producing Escherichia coli and dynamics of microbiota in pork processing environments",
+        "year": "2025/10/15",
+        "publisher": "Food Control",
+        "author": "Xianqin Yang, Hui Wang, Frances Tran, Saida Essendoubi, Kim Stanford, Tim McAllister",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0956713525006565",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "zI9NSLcAAAAJ": {
+    "Name": "Andrew G. McArthur",
     "total_new": "1",
     "publications": {
-      "WY6AygvC5sMC": {
-        "title": "Feed and land requirements for livestock production in Canada",
-        "year": "2025/10/17",
-        "publisher": "Canadian Journal of Animal Science",
-        "author": "EG Kebebe, R White, G Mengistu, D Fulawka, G Legesse, TA McAllister, K Wittenberg, EJ McGeough, M Cordeiro, K Ominski",
-        "url": "https://cdnsciencepub.com/doi/full/10.1139/cjas-2024-0085",
+      "-_dYPAW6P2MC": {
+        "title": "Correction: Identification of patient demographic, clinical, and SARS-CoV-2 genomic factors associated with severe COVID-19 using supervised machine learning: a retrospective \u2026",
+        "year": "2025/12",
+        "publisher": "BMC Infectious Diseases",
+        "author": "Kuganya Nirmalarajah, Patryk Aftanas, Shiva Barati, Emily Chien, Gloria Crowl, Amna Faheem, Lubna Farooqi, Alainna J Jamal, Saman Khan, Jonathon D Kotwa, Angel X Li, Mohammad Mozafarihashjin, Jalees A Nasir, Altynay Shigayeva, Winfield Yim, Lily Yip, Xi Zoe Zhong, Kevin Katz, Robert Kozak, Andrew G McArthur, Nick Daneman, Finlay Maguire, Allison J McGeer, Venkata R Duvvuri, Samira Mubareka",
+        "url": "https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-025-11828-z",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "mhN0cZoAAAAJ": {
-    "Name": "Thea Van Rossum",
+  "Et_RonIAAAAJ": {
+    "Name": "Guillaume Bourque",
     "total_new": "1",
     "publications": {
-      "SP6oXDckpogC": {
-        "title": "by Subject",
-        "year": "2022",
-        "publisher": "ECOS",
-        "author": "Walter Schmitt, Auteri Domenica, Finn Bastiansen, Markus Ebeling, Chun Liu, Robert Lutikk, Sergey Mastitsky, Dianne Nacci, Christopher John Topping, Magnus Wang, Morten Elmeros, Linda Zollitsch, Nick Vilter, Dennis Niesel, Nicolaus Wilder, Xiaodong Duan, Stephanie Roilo, Jan Oliver Engler, Anna Cord, Maxime Ryckewaert, Diego Marcos, Christophe Botella, Maximilien Servajean, Pierre Bonnet, Alexis Joly, Mads Paludan Goddiksen, Mickey Gjerris, Zsofia Fekete, Dominic Absolon, Craig Michell, Jonathan MD Wood, Steffi Goffart, Jaakko Pohjoism\u00e4ki",
-        "url": "https://riojournal.com/browse_journal_articles.php?journal_name=rio&journal_id=17&sortby=1&lang=&p=93",
+      "f1xuXVtw34IC": {
+        "title": "Integrated Metabolic Complex Genetic Interaction Network of Chromosome 4p Loss in Basal Breast Cancer",
+        "year": "2025/10/15",
+        "publisher": "bioRxiv",
+        "author": "Lynn Karam, Alain Pacis, Rohan Dandage, Michael Schwartz, Gabriel Alzial, Anastasia Gherghi, Haig Hugo Vrej Djambazian, Gerardo Zapata, Marina Schapfl, Paria Asadi, Mayerly Castrillon, Alysh Orr, Belen Hernandez, Pegah Kargar, Michelle Vandeloo, Sylvia Santosa, Andreas Villunger, Traver Hart, Jiannis Ragoussis, Genevieve Deblois, Andreas Bergdahl, Morag Park, Guillaume Bourque, Elena Kuzmin",
+        "url": "https://www.biorxiv.org/content/10.1101/2025.10.15.682593.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "VaLlkyoAAAAJ": {
-    "Name": "Herman W. Barkema",
+  "rHFCtWwAAAAJ": {
+    "Name": "Finlay Maguire",
     "total_new": "1",
     "publications": {
-      "uWy0R8PweswC": {
-        "title": "Automating Classification of Veterinary Biosecurity Recommendations Using Machine Learning",
-        "year": "2025/10/14",
-        "publisher": "Preventive Veterinary Medicine",
-        "author": "Vitoria RL Campelo, Mariana Fonseca, Marie-Pascale Morin, Faustin Farison, William L Nankam Nguekap, Karol G Solano-Suarez, Herman W Barkema, Waseem Shaukat, David L Renaud, David F Kelton, Gilles Fecteau, Jean-Philippe Roy, Pablo Vald\u00e9s Donoso, Sol\u00e8ne Le Manac'h, Juan C Arango-Sabogal, Marie-\u00c8ve Paradis, Nancy Beauregard, Manon Racicot, C\u00e9cile Aenishaenslin, Simon Dufour",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0167587725003083",
+      "nb7KW1ujOQ8C": {
+        "title": "Correction: Identification of patient demographic, clinical, and SARS-CoV-2 genomic factors associated with severe COVID-19 using supervised machine learning: a retrospective \u2026",
+        "year": "2025/12",
+        "publisher": "BMC Infectious Diseases",
+        "author": "Kuganya Nirmalarajah, Patryk Aftanas, Shiva Barati, Emily Chien, Gloria Crowl, Amna Faheem, Lubna Farooqi, Alainna J Jamal, Saman Khan, Jonathon D Kotwa, Angel X Li, Mohammad Mozafarihashjin, Jalees A Nasir, Altynay Shigayeva, Winfield Yim, Lily Yip, Xi Zoe Zhong, Kevin Katz, Robert Kozak, Andrew G McArthur, Nick Daneman, Finlay Maguire, Allison J McGeer, Venkata R Duvvuri, Samira Mubareka",
+        "url": "https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-025-11828-z",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wHX6pyUAAAAJ": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
+    "publications": {
+      "edDO8Oi4QzsC": {
+        "title": "Cover Image, Volume 28, Issue 6",
+        "year": "2025/6",
+        "publisher": "Ecology Letters",
+        "author": "AA Ali, DM Gaboriau, JA Lesven, MP Girardin, CC Remy, D Arseneault, G de Lafontaine, V Danneyrolles, H Asselin, F Gennaretti, E Boucher, P Grondin, M Garneau, G Magnan, B Fr\u00e9chette, S Gauthier, Y Bergeron",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.70231",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
