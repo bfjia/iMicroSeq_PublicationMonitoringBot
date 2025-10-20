@@ -1,98 +1,14 @@
 {
-  "XMdyGgIAAAAJ": {
-    "Name": "Fiona Brinkman",
+  "ThjB_RcAAAAJ": {
+    "Name": "Jiannis Ragoussis",
     "total_new": "1",
     "publications": {
-      "VN7nJs4JPk0C": {
-        "title": "Enabling genomic island prediction and comparison in multiple genomes to investigate bacterial evolution and outbreaks.",
-        "year": "2022",
-        "publisher": "Unknown",
-        "author": "FSL Brinkman",
-        "url": "https://iris.unil.ch/entities/publication/092d4d99-fb31-4fc1-bec0-a0e99eb7db1e",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
-    "total_new": "2",
-    "publications": {
-      "aXQ7jtEqGowC": {
-        "title": "Effects of sanitation practices on microbial dynamics in meat processing environment",
-        "year": "2025/10/16",
-        "publisher": "Journal of Food Protection",
-        "author": "Barun Yadav, Yi Fan, Scott Hrycauk, Tim McAllister, Claudia Narvaez-Bravo, Tyson Brown, Xianqin Yang",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0362028X25001991",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "AdUz3-SiDfgC": {
-        "title": "Prevalence of Shiga toxin-producing Escherichia coli and dynamics of microbiota in pork processing environments",
-        "year": "2025/10/15",
-        "publisher": "Food Control",
-        "author": "Xianqin Yang, Hui Wang, Frances Tran, Saida Essendoubi, Kim Stanford, Tim McAllister",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0956713525006565",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "zI9NSLcAAAAJ": {
-    "Name": "Andrew G. McArthur",
-    "total_new": "1",
-    "publications": {
-      "-_dYPAW6P2MC": {
-        "title": "Correction: Identification of patient demographic, clinical, and SARS-CoV-2 genomic factors associated with severe COVID-19 using supervised machine learning: a retrospective \u2026",
-        "year": "2025/12",
-        "publisher": "BMC Infectious Diseases",
-        "author": "Kuganya Nirmalarajah, Patryk Aftanas, Shiva Barati, Emily Chien, Gloria Crowl, Amna Faheem, Lubna Farooqi, Alainna J Jamal, Saman Khan, Jonathon D Kotwa, Angel X Li, Mohammad Mozafarihashjin, Jalees A Nasir, Altynay Shigayeva, Winfield Yim, Lily Yip, Xi Zoe Zhong, Kevin Katz, Robert Kozak, Andrew G McArthur, Nick Daneman, Finlay Maguire, Allison J McGeer, Venkata R Duvvuri, Samira Mubareka",
-        "url": "https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-025-11828-z",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "Et_RonIAAAAJ": {
-    "Name": "Guillaume Bourque",
-    "total_new": "1",
-    "publications": {
-      "f1xuXVtw34IC": {
+      "65Yg0jNCQDAC": {
         "title": "Integrated Metabolic Complex Genetic Interaction Network of Chromosome 4p Loss in Basal Breast Cancer",
         "year": "2025/10/15",
         "publisher": "bioRxiv",
         "author": "Lynn Karam, Alain Pacis, Rohan Dandage, Michael Schwartz, Gabriel Alzial, Anastasia Gherghi, Haig Hugo Vrej Djambazian, Gerardo Zapata, Marina Schapfl, Paria Asadi, Mayerly Castrillon, Alysh Orr, Belen Hernandez, Pegah Kargar, Michelle Vandeloo, Sylvia Santosa, Andreas Villunger, Traver Hart, Jiannis Ragoussis, Genevieve Deblois, Andreas Bergdahl, Morag Park, Guillaume Bourque, Elena Kuzmin",
         "url": "https://www.biorxiv.org/content/10.1101/2025.10.15.682593.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "rHFCtWwAAAAJ": {
-    "Name": "Finlay Maguire",
-    "total_new": "1",
-    "publications": {
-      "nb7KW1ujOQ8C": {
-        "title": "Correction: Identification of patient demographic, clinical, and SARS-CoV-2 genomic factors associated with severe COVID-19 using supervised machine learning: a retrospective \u2026",
-        "year": "2025/12",
-        "publisher": "BMC Infectious Diseases",
-        "author": "Kuganya Nirmalarajah, Patryk Aftanas, Shiva Barati, Emily Chien, Gloria Crowl, Amna Faheem, Lubna Farooqi, Alainna J Jamal, Saman Khan, Jonathon D Kotwa, Angel X Li, Mohammad Mozafarihashjin, Jalees A Nasir, Altynay Shigayeva, Winfield Yim, Lily Yip, Xi Zoe Zhong, Kevin Katz, Robert Kozak, Andrew G McArthur, Nick Daneman, Finlay Maguire, Allison J McGeer, Venkata R Duvvuri, Samira Mubareka",
-        "url": "https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-025-11828-z",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wHX6pyUAAAAJ": {
-    "Name": "Hugo Asselin",
-    "total_new": "1",
-    "publications": {
-      "edDO8Oi4QzsC": {
-        "title": "Cover Image, Volume 28, Issue 6",
-        "year": "2025/6",
-        "publisher": "Ecology Letters",
-        "author": "AA Ali, DM Gaboriau, JA Lesven, MP Girardin, CC Remy, D Arseneault, G de Lafontaine, V Danneyrolles, H Asselin, F Gennaretti, E Boucher, P Grondin, M Garneau, G Magnan, B Fr\u00e9chette, S Gauthier, Y Bergeron",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.70231",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
