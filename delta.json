@@ -1,14 +1,29 @@
 {
-  "ThjB_RcAAAAJ": {
-    "Name": "Jiannis Ragoussis",
+  "057RNrQAAAAJ": {
+    "Name": "S\u00e9bastien P. Faucher",
     "total_new": "1",
     "publications": {
-      "65Yg0jNCQDAC": {
-        "title": "Integrated Metabolic Complex Genetic Interaction Network of Chromosome 4p Loss in Basal Breast Cancer",
-        "year": "2025/10/15",
-        "publisher": "bioRxiv",
-        "author": "Lynn Karam, Alain Pacis, Rohan Dandage, Michael Schwartz, Gabriel Alzial, Anastasia Gherghi, Haig Hugo Vrej Djambazian, Gerardo Zapata, Marina Schapfl, Paria Asadi, Mayerly Castrillon, Alysh Orr, Belen Hernandez, Pegah Kargar, Michelle Vandeloo, Sylvia Santosa, Andreas Villunger, Traver Hart, Jiannis Ragoussis, Genevieve Deblois, Andreas Bergdahl, Morag Park, Guillaume Bourque, Elena Kuzmin",
-        "url": "https://www.biorxiv.org/content/10.1101/2025.10.15.682593.abstract",
+      "uWQEDVKXjbEC": {
+        "title": "Development of flow cytometry assay to quantify packaging of C. jejuni by Tetrahymena species",
+        "year": "2025/10/17",
+        "publisher": "FEMS Microbiology Letters",
+        "author": "Madison Schacter, Sara Matthews, Val\u00e9rie E Paquet, Hana Trigui, Jennifer Ronholm, Steve J Charette, Sebastien P Faucher",
+        "url": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnaf114/8292643",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "gTkdyfsAAAAJ": {
+    "Name": "Trevor Charles",
+    "total_new": "1",
+    "publications": {
+      "MwdXMY9cq6YC": {
+        "title": "Comparative proteomics of biofilm development in Pseudoalteromonas tunicata discovers a distinct family of Ca2+-dependent adhesins",
+        "year": "2025/6/1",
+        "publisher": "mBio",
+        "author": "Ali Sura, Alexander Stavropoulos, Benjamin Jenkins, Sadie Graves, Atiyeh Ahmadi, Vania Marzbanrad, Geoffrey Che, Jiujun Cheng, Huagang Tan, Xin Wei, Suhelen Egan, Brian Ingalls, Josh D Neufeld, Eckhard Ulrich, Trevor C Charles, Andrew C Doxey",
+        "url": "https://search.proquest.com/openview/1f8c706050514e7e2839cea51231e5cf/1?pq-origsite=gscholar&cbl=7421146",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
