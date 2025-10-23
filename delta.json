@@ -1,1 +1,41 @@
-{}
+{
+  "YngkjFAAAAAJ": {
+    "Name": "Emma Griffiths",
+    "total_new": "2",
+    "publications": {
+      "B3FOqHPlNUQC": {
+        "title": "SARS-CoV-2 NCBI submission protocol: SRA, BioSample, and BioProject protocol v1",
+        "year": "2022/1/13",
+        "publisher": "Unknown",
+        "author": "Ruth EE Timme, Emma Griffiths, Duncan MacCannell, Lee Katz, Michael Weigand",
+        "url": "https://www.protocols.io/es/view/sars-cov-2-ncbi-submission-protocol-sra-biosample-b3tcqniw",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "4fKUyHm3Qg0C": {
+        "title": "SARS-CoV-2 NCBI consensus submission protocol: GenBank protocol v3",
+        "year": "2022/1/7",
+        "publisher": "Unknown",
+        "author": "Ruth E Timme, Emma Griffiths, Lee Katz, Duncan MacCannell, Michael Weigand",
+        "url": "https://www.protocols.io/fr/view/sars-cov-2-ncbi-consensus-submission-protocol-genb-b3bnqime",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
+    "total_new": "1",
+    "publications": {
+      "HbR8gkJAVGIC": {
+        "title": "Comparison of DNA Extraction Methods for Detecting the Sea Otter (Enhydra lutris ) in Marine Sediments",
+        "year": "2025/9",
+        "publisher": "Environmental DNA",
+        "author": "Neha Acharya\u2010Patel, Mark Louie D Lopez, Matthew T Bonderud, Hajeong Lee, Emma T Groenwold, Erin U Foster, Linda M Nichol, Caren C Helbing",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/edn3.70212",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}

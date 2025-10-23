@@ -358,7 +358,7 @@
   },
   "YngkjFAAAAAJ": {
     "Name": "Emma Griffiths",
-    "total_publications": "47",
+    "total_publications": "49",
     "publications": {
       "vRqMK49ujn8C": {
         "title": "Requirements and Considerations for Effective Implementation of Integrated One Health Antimicrobial Resistance Research",
@@ -609,6 +609,24 @@
         "publisher": "Unknown",
         "author": "Ruth EE Timme, Emma Griffiths, Duncan MacCannell, Lee Katz, Michael Weigand",
         "url": "https://www.protocols.io/view/sars-cov-2-ncbi-submission-protocol-sra-biosample-b3ttqnnn.html",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "B3FOqHPlNUQC": {
+        "title": "SARS-CoV-2 NCBI submission protocol: SRA, BioSample, and BioProject protocol v1",
+        "year": "2022/1/13",
+        "publisher": "Unknown",
+        "author": "Ruth EE Timme, Emma Griffiths, Duncan MacCannell, Lee Katz, Michael Weigand",
+        "url": "https://www.protocols.io/es/view/sars-cov-2-ncbi-submission-protocol-sra-biosample-b3tcqniw",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "4fKUyHm3Qg0C": {
+        "title": "SARS-CoV-2 NCBI consensus submission protocol: GenBank protocol v3",
+        "year": "2022/1/7",
+        "publisher": "Unknown",
+        "author": "Ruth E Timme, Emma Griffiths, Lee Katz, Duncan MacCannell, Michael Weigand",
+        "url": "https://www.protocols.io/fr/view/sars-cov-2-ncbi-consensus-submission-protocol-genb-b3bnqime",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -2619,6 +2637,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "EkHepimYqZsC": {
+        "title": "Forgoing transesophageal echocardiogram in selected patients with complicated Staphylococcus aureus bacteremia",
+        "year": "2021/3",
+        "publisher": "European Journal of Clinical Microbiology & Infectious Diseases",
+        "author": "John C Lam, Daniel B Gregson, Ranjani Somayaji, Stephen Robinson, John M Conly, Lisa Welikovitch, Michael D Parkins",
+        "url": "https://link.springer.com/article/10.1007/s10096-020-04097-y",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "artPoR2Yc-kC": {
         "title": "Cystic fibrosis-related diabetes onset can be predicted using biomarkers measured at birth (vol 23, pg 927, 2021)",
         "year": "2021/11/1",
@@ -2637,33 +2664,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "vDijr-p_gm4C": {
-        "title": "Outcomes of COVID-19 among hospitalized health care workers in North America",
-        "year": "2021/1/4",
-        "publisher": "JAMA network open",
-        "author": "Jeong Yun Yang, Michael D Parkins, Andrew Canakis, Olga C Aroniadis, Dhiraj Yadav, Rebekah E Dixon, B Joseph Elmunzer, Nauzer Forbes",
-        "url": "https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2775670",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "EkHepimYqZsC": {
-        "title": "Forgoing transesophageal echocardiogram in selected patients with complicated Staphylococcus aureus bacteremia",
-        "year": "2021/3",
-        "publisher": "European Journal of Clinical Microbiology & Infectious Diseases",
-        "author": "John C Lam, Daniel B Gregson, Ranjani Somayaji, Stephen Robinson, John M Conly, Lisa Welikovitch, Michael D Parkins",
-        "url": "https://link.springer.com/article/10.1007/s10096-020-04097-y",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "zLWjf1WUPmwC": {
-        "title": "723. Epidemiology, Risk Factors, and Treatment Considerations for Pyogenic Liver Abscess (PLA) in the Calgary Health Zone (CHZ) Revisited: A Population-Based Study",
-        "year": "2020/12/31",
-        "publisher": "Open Forum Infectious Diseases",
-        "author": "Jennifer A Losie, Michael Parkins, John Lam, Daniel Gregson",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777707/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "uc_IGeMz5qoC": {
         "title": "Tick-borne fever in pregnancy",
         "year": "2020/10/1",
@@ -2680,6 +2680,24 @@
         "author": "Alya Heirali, Christina Thornton, Nicole Acosta, Ranjani Somayaji, Isabelle Laforest Lapointe, Douglas Storey, Harvey Rabin, Barbara Waddell, Laura Rossi, Marie Claire Arrieta, Michael Surette, Michael D Parkins",
         "url": "https://thorax.bmj.com/content/75/12/1058.abstract",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "zLWjf1WUPmwC": {
+        "title": "723. Epidemiology, Risk Factors, and Treatment Considerations for Pyogenic Liver Abscess (PLA) in the Calgary Health Zone (CHZ) Revisited: A Population-Based Study",
+        "year": "2020/12/31",
+        "publisher": "Open Forum Infectious Diseases",
+        "author": "Jennifer A Losie, Michael Parkins, John Lam, Daniel Gregson",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777707/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "vDijr-p_gm4C": {
+        "title": "Outcomes of COVID-19 among hospitalized health care workers in North America",
+        "year": "2021/1/4",
+        "publisher": "JAMA network open",
+        "author": "Jeong Yun Yang, Michael D Parkins, Andrew Canakis, Olga C Aroniadis, Dhiraj Yadav, Rebekah E Dixon, B Joseph Elmunzer, Nauzer Forbes",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2775670",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
@@ -5325,6 +5343,51 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "2ZctHUgIzyAC": {
+        "title": "Nutritional impact of excluding red meat from the Canadian diet",
+        "year": "2023/7/1",
+        "publisher": "Meat Science",
+        "author": "EG Kebebe, N Ibrahim, R White, K Wittenberg, HM Aukema, TA McAllister, N Riediger, G Legesse, EJ McGeough, K Ominski",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0309174023000670",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "bczYY1dZPtQC": {
+        "title": "Use of a phage cocktail to reduce the numbers of seven Escherichia coli strains belonging to different STEC serogroups applied to fresh produce and seeds",
+        "year": "2023/8",
+        "publisher": "Journal of Food Safety",
+        "author": "Yiran Ding, Yuchen Nan, Yang Qiu, Dongyan Niu, Kim Stanford, Rick Holley, Tim McAllister, Claudia Narv\u00e1ez\u2010Bravo",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jfs.13044",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "yymuTJNBJz4C": {
+        "title": "Effect of Disinfectants on New and Mature Shiga Toxigenic Escherichia coli and Spoilage Multispecies Biofilms Formed at Different Temperatures.",
+        "year": "2023/7/19",
+        "publisher": "IAFP 2023",
+        "author": "Kavitha Koti, Argenis Rodas Gonzalez, Kim Stanford, Anna Macdonald, Celine Nadon, Xianqin Yang, Tim McAllister, Claudia Narvaez Bravo",
+        "url": "https://iafp.confex.com/iafp/2023/onlineprogram.cgi/Paper/31596",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "MreiaWo1ERkC": {
+        "title": "Evaluation of metagenomic assembly methods for the detection and characterization of antimicrobial resistance determinants and associated mobilizable elements",
+        "year": "2023/10/1",
+        "publisher": "Journal of Microbiological Methods",
+        "author": "Catrione Lee, Rodrigo Ortega Polo, Rahat Zaheer, Gary Van Domselaar, Athanasios Zovoilis, Tim A McAllister",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167701223001495",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "ewB7xoWXMOgC": {
+        "title": "Bacteriophages for the targeted control of foodborne pathogens",
+        "year": "2023/7/18",
+        "publisher": "M",
+        "author": "Emmanuel W Bumunang, Rahat Zaheer, Dongyan Niu, Claudia Narvaez-Bravo, Trevor Alexander, Tim A McAllister, Kim Stanford",
+        "url": "https://www.mdpi.com/2304-8158/12/14/2734",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "5Klqo5HVOaoC": {
         "title": "Short-season high-moisture shelled corn, snaplage, or corn silage as a partial replacement for dry-rolled barley grain or barley silage in western Canadian beef cattle \u2026",
         "year": "2023/9/11",
@@ -5343,6 +5406,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "w2Gke83ceDMC": {
+        "title": "Genomic characterization of carbapenem-resistant bacteria from beef cattle feedlots",
+        "year": "2023/5/25",
+        "publisher": "Antibiotics",
+        "author": "Sani-e-Zehra Zaidi, Rahat Zaheer, Krysty Thomas, Sujeema Abeysekara, Travis Haight, Luke Saville, Matthew Stuart-Edwards, Athanasios Zovoilis, Tim A McAllister",
+        "url": "https://www.mdpi.com/2079-6382/12/6/960",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "d4Uf0zfqV5IC": {
         "title": "Prevalence and antimicrobial susceptibility of Mycoplasma bovis from the upper and lower respiratory tracts of healthy feedlot cattle and those diagnosed with bovine \u2026",
         "year": "2023/10/1",
@@ -5350,42 +5422,6 @@
         "author": "Razia Sultana, Roniele P Cordeiro, Edouard Timsit, Tim A McAllister, Trevor W Alexander",
         "url": "https://www.sciencedirect.com/science/article/pii/S0378113523001906",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "ewB7xoWXMOgC": {
-        "title": "Bacteriophages for the targeted control of foodborne pathogens",
-        "year": "2023/7/18",
-        "publisher": "M",
-        "author": "Emmanuel W Bumunang, Rahat Zaheer, Dongyan Niu, Claudia Narvaez-Bravo, Trevor Alexander, Tim A McAllister, Kim Stanford",
-        "url": "https://www.mdpi.com/2304-8158/12/14/2734",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "Oi-j_DTgP3cC": {
-        "title": "Chemical Sanitizer's Effectiveness to Eliminate Multispecies Escherichia coli O157:H7 and Spoilage Bacteria on Food Contact Surfaces",
-        "year": "2023/7/19",
-        "publisher": "IAFP 2023",
-        "author": "Kavitha Koti, Francis Zvomuya, Kim Stanford, Anna Macdonald, Celine Nadon, Xianqin Yang, Tim McAllister, Claudia Narvaez Bravo",
-        "url": "https://iafp.confex.com/iafp/2023/onlineprogram.cgi/Paper/31590",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "2ZctHUgIzyAC": {
-        "title": "Nutritional impact of excluding red meat from the Canadian diet",
-        "year": "2023/7/1",
-        "publisher": "Meat Science",
-        "author": "EG Kebebe, N Ibrahim, R White, K Wittenberg, HM Aukema, TA McAllister, N Riediger, G Legesse, EJ McGeough, K Ominski",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0309174023000670",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "MreiaWo1ERkC": {
-        "title": "Evaluation of metagenomic assembly methods for the detection and characterization of antimicrobial resistance determinants and associated mobilizable elements",
-        "year": "2023/10/1",
-        "publisher": "Journal of Microbiological Methods",
-        "author": "Catrione Lee, Rodrigo Ortega Polo, Rahat Zaheer, Gary Van Domselaar, Athanasios Zovoilis, Tim A McAllister",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0167701223001495",
-        "firstOrLast": true,
         "datasource": "Scholars"
       },
       "eTOb990cMygC": {
@@ -5397,33 +5433,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "w2Gke83ceDMC": {
-        "title": "Genomic characterization of carbapenem-resistant bacteria from beef cattle feedlots",
-        "year": "2023/5/25",
-        "publisher": "Antibiotics",
-        "author": "Sani-e-Zehra Zaidi, Rahat Zaheer, Krysty Thomas, Sujeema Abeysekara, Travis Haight, Luke Saville, Matthew Stuart-Edwards, Athanasios Zovoilis, Tim A McAllister",
-        "url": "https://www.mdpi.com/2079-6382/12/6/960",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "yymuTJNBJz4C": {
-        "title": "Effect of Disinfectants on New and Mature Shiga Toxigenic Escherichia coli and Spoilage Multispecies Biofilms Formed at Different Temperatures.",
-        "year": "2023/7/19",
-        "publisher": "IAFP 2023",
-        "author": "Kavitha Koti, Argenis Rodas Gonzalez, Kim Stanford, Anna Macdonald, Celine Nadon, Xianqin Yang, Tim McAllister, Claudia Narvaez Bravo",
-        "url": "https://iafp.confex.com/iafp/2023/onlineprogram.cgi/Paper/31596",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "bczYY1dZPtQC": {
-        "title": "Use of a phage cocktail to reduce the numbers of seven Escherichia coli strains belonging to different STEC serogroups applied to fresh produce and seeds",
-        "year": "2023/8",
-        "publisher": "Journal of Food Safety",
-        "author": "Yiran Ding, Yuchen Nan, Yang Qiu, Dongyan Niu, Kim Stanford, Rick Holley, Tim McAllister, Claudia Narv\u00e1ez\u2010Bravo",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jfs.13044",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "TniZHWc1JwoC": {
         "title": "The Isolation and Characterization of Bacteriophages Infecting Avian Pathogenic Escherichia coli O1, O2 and O78 Strains",
         "year": "2023/10/16",
@@ -5432,12 +5441,21 @@
         "url": "https://www.mdpi.com/1999-4915/15/10/2095",
         "firstOrLast": false,
         "datasource": "Scholars"
+      },
+      "Oi-j_DTgP3cC": {
+        "title": "Chemical Sanitizer's Effectiveness to Eliminate Multispecies Escherichia coli O157:H7 and Spoilage Bacteria on Food Contact Surfaces",
+        "year": "2023/7/19",
+        "publisher": "IAFP 2023",
+        "author": "Kavitha Koti, Francis Zvomuya, Kim Stanford, Anna Macdonald, Celine Nadon, Xianqin Yang, Tim McAllister, Claudia Narvaez Bravo",
+        "url": "https://iafp.confex.com/iafp/2023/onlineprogram.cgi/Paper/31590",
+        "firstOrLast": false,
+        "datasource": "Scholars"
       }
     }
   },
   "BC6T6L-UY8gC": {
     "Name": "Caren Helbing",
-    "total_publications": "76",
+    "total_publications": "77",
     "publications": {
       "xtoqd-5pKcoC": {
         "title": "Changes in histone abundance and post-translational modifications in Rana [Lithobates] catesbeiana tissues during thyroid hormone-dependent metamorphosis",
@@ -5474,6 +5492,15 @@
         "url": "https://doi.org/10.1101/2025.09.15.675954",
         "firstOrLast": false,
         "datasource": "CrossRef"
+      },
+      "HbR8gkJAVGIC": {
+        "title": "Comparison of DNA Extraction Methods for Detecting the Sea Otter (Enhydra lutris ) in Marine Sediments",
+        "year": "2025/9",
+        "publisher": "Environmental DNA",
+        "author": "Neha Acharya\u2010Patel, Mark Louie D Lopez, Matthew T Bonderud, Hajeong Lee, Emma T Groenwold, Erin U Foster, Linda M Nichol, Caren C Helbing",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/edn3.70212",
+        "firstOrLast": true,
+        "datasource": "Scholars"
       },
       "lmc2jWPfTJgC": {
         "title": "Changes in histone abundance and post-translational modifications in Rana [Lithobates] catesbeiana tissues during temperature-mediated thyroid hormone-induced metamorphosis",
@@ -8679,15 +8706,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "vMKmsr18IoIC": {
-        "title": "Single-cell analysis of childhood leukemia reveals a link between developmental states and ribosomal protein expression as a source of intra-individual heterogeneity (vol 10 \u2026",
-        "year": "2021/3/2",
-        "publisher": "SCIENTIFIC REPORTS",
-        "author": "Maxime Caron, Pascal St-Onge, Thomas Sontag, Yu Chang Wang, Chantal Richer, Ioannis Ragoussis, Daniel Sinnett, Guillaume Bourque",
-        "url": "https://scholar.google.com/scholar?cluster=16957599747001693334&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
       "Dyy3vkn44wwC": {
         "title": "CanDIG: Secure Federated Genomic Queries and Analyses Across Jurisdictions",
         "year": "2021/3/31",
@@ -8704,6 +8722,15 @@
         "author": "Peng Liu, Jessica Ewald, Jose Hector Galvez, Jessica Head, Doug Crump, Guillaume Bourque, Niladri Basu, Jianguo Xia",
         "url": "https://genome.cshlp.org/content/31/4/713.short",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "vMKmsr18IoIC": {
+        "title": "Single-cell analysis of childhood leukemia reveals a link between developmental states and ribosomal protein expression as a source of intra-individual heterogeneity (vol 10 \u2026",
+        "year": "2021/3/2",
+        "publisher": "SCIENTIFIC REPORTS",
+        "author": "Maxime Caron, Pascal St-Onge, Thomas Sontag, Yu Chang Wang, Chantal Richer, Ioannis Ragoussis, Daniel Sinnett, Guillaume Bourque",
+        "url": "https://scholar.google.com/scholar?cluster=16957599747001693334&hl=en&oi=scholarr",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
@@ -10494,21 +10521,21 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "JoZmwDi-zQgC": {
-        "title": "Covid-19 Monitoring Using Wastewater-Based Epidemiology: The Promise and Peril of Seeking Useable Data in a Pandemic",
-        "year": "2021/5/26",
-        "publisher": "S",
-        "author": "J Hollman, N Acosta, M Bautista, J McCalder, L Man, A Buchner Beaudet, B Waddell, J Chen, D Kuzma, RG Clark, N Ruecker, K Frankowski, C Hubert, M Parkins, MC Ryan, G Achari",
-        "url": "https://link.springer.com/chapter/10.1007/978-981-19-1061-6_47",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "NhqRSupF_l8C": {
         "title": "Marine sediments harbor diverse archaea and bacteria with the potential for anaerobic hydrocarbon degradation via fumarate addition",
         "year": "2021/5",
         "publisher": "FEMS Microbiology Ecology",
         "author": "Chuwen Zhang, Rainer U Meckenstock, Shengze Weng, Guangshan Wei, Casey RJ Hubert, Jiang-Hai Wang, Xiyang Dong",
         "url": "https://academic.oup.com/femsec/article-abstract/97/5/fiab045/6171024",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "JoZmwDi-zQgC": {
+        "title": "Covid-19 Monitoring Using Wastewater-Based Epidemiology: The Promise and Peril of Seeking Useable Data in a Pandemic",
+        "year": "2021/5/26",
+        "publisher": "S",
+        "author": "J Hollman, N Acosta, M Bautista, J McCalder, L Man, A Buchner Beaudet, B Waddell, J Chen, D Kuzma, RG Clark, N Ruecker, K Frankowski, C Hubert, M Parkins, MC Ryan, G Achari",
+        "url": "https://link.springer.com/chapter/10.1007/978-981-19-1061-6_47",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -17469,6 +17496,24 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "klLsoiHXwFYC": {
+        "title": "Potentially non-beneficial interventions in the last 100 days of life of patients with cancer: A population-based retrospective cohort study.",
+        "year": "2022/8/25",
+        "publisher": "International Journal of Population Data Science",
+        "author": "Colleen Webber, Abe Hafid, Anastasia Gayowsky, Michelle Howard, Peter Tanuseputro, Aaron Jones, Mary Scott, Amy Hsu, James Downar, Doug Manuel, Katrin Conen, Sarina Isenberg",
+        "url": "https://ijpds.org/article/view/1795",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "JOhajB-2wfwC": {
+        "title": "Detection of COVID-19 outbreaks in long-term care homes using built environment testing for SARS-CoV-2: a multicentre prospective study",
+        "year": "2022/6/29",
+        "publisher": "medRxiv",
+        "author": "Michael Fralick, Caroline Nott, Jason Moggridge, Lucas Castellani, Ashley Raudanskis, David S Guttman, Aaron Hinz, Nisha Thampi, Alex Wong, Doug Manuel, Allison McGeer, Evgueni Doukhanine, Hebah Mejbel, Veronica Zanichelli, Madison Burella, Sylva Donaldson, Pauline W Wang, Rees Kassen, Derek MacFadden",
+        "url": "https://www.medrxiv.org/content/10.1101/2022.06.28.22276560.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "dw2rCEx0FpQC": {
         "title": "Using routinely collected data to develop and evaluate a clinical tool for early identification of palliative care needs in long-term care: The RESPECT Project.",
         "year": "2022/8/25",
@@ -17511,24 +17556,6 @@
         "publisher": "Open Forum Infectious Diseases",
         "author": "Ali Zhang, Matthew D Surette, Kevin L Schwartz, James I Brooks, Dawn ME Bowdish, Roshanak Mahdavi, Douglas G Manuel, Robert Talarico, Nick Daneman, Jayson Shurgold, Derek MacFadden",
         "url": "https://academic.oup.com/ofid/article-abstract/9/7/ofac205/6570601",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "klLsoiHXwFYC": {
-        "title": "Potentially non-beneficial interventions in the last 100 days of life of patients with cancer: A population-based retrospective cohort study.",
-        "year": "2022/8/25",
-        "publisher": "International Journal of Population Data Science",
-        "author": "Colleen Webber, Abe Hafid, Anastasia Gayowsky, Michelle Howard, Peter Tanuseputro, Aaron Jones, Mary Scott, Amy Hsu, James Downar, Doug Manuel, Katrin Conen, Sarina Isenberg",
-        "url": "https://ijpds.org/article/view/1795",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "JOhajB-2wfwC": {
-        "title": "Detection of COVID-19 outbreaks in long-term care homes using built environment testing for SARS-CoV-2: a multicentre prospective study",
-        "year": "2022/6/29",
-        "publisher": "medRxiv",
-        "author": "Michael Fralick, Caroline Nott, Jason Moggridge, Lucas Castellani, Ashley Raudanskis, David S Guttman, Aaron Hinz, Nisha Thampi, Alex Wong, Doug Manuel, Allison McGeer, Evgueni Doukhanine, Hebah Mejbel, Veronica Zanichelli, Madison Burella, Sylva Donaldson, Pauline W Wang, Rees Kassen, Derek MacFadden",
-        "url": "https://www.medrxiv.org/content/10.1101/2022.06.28.22276560.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -18570,15 +18597,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "p2g8aNsByqUC": {
-        "title": "Whole\u2010exome sequencing of non\u2010BRCA1/BRCA2 mutation carrier cases at high\u2010risk for hereditary breast/ovarian cancer",
-        "year": "2021/3",
-        "publisher": "Human mutation",
-        "author": "Paula S Felicio, Rebeca S Grasel, Natalia Campacci, Andre E de Paula, Henrique CR Galv\u00e3o, Giovana T Torrezan, Cristina S Sabato, Gabriela C Fernandes, Cristiano P Souza, Rodrigo D Michelli, Carlos E Andrade, Bruna Dur\u00e3es De Figueiredo Barros, Marcus M Matsushita, Timoth\u00e9e Revil, Jiannis Ragoussis, Fergus J Couch, Steven N Hart, Rui M Reis, Matias E Melendez, Patricia N Tonin, Dirce M Carraro, Edenir I Palmero",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.24158",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "OR75R8vi5nAC": {
         "title": "Candidate markers of olaparib response from genomic data analyses of human cancer cell lines",
         "year": "2021/3/15",
@@ -18586,6 +18604,15 @@
         "author": "Setor Amuzu, Euridice Carmona, Anne-Marie Mes-Masson, Celia MT Greenwood, Patricia N Tonin, Jiannis Ragoussis",
         "url": "https://www.mdpi.com/2072-6694/13/6/1296",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "p2g8aNsByqUC": {
+        "title": "Whole\u2010exome sequencing of non\u2010BRCA1/BRCA2 mutation carrier cases at high\u2010risk for hereditary breast/ovarian cancer",
+        "year": "2021/3",
+        "publisher": "Human mutation",
+        "author": "Paula S Felicio, Rebeca S Grasel, Natalia Campacci, Andre E de Paula, Henrique CR Galv\u00e3o, Giovana T Torrezan, Cristina S Sabato, Gabriela C Fernandes, Cristiano P Souza, Rodrigo D Michelli, Carlos E Andrade, Bruna Dur\u00e3es De Figueiredo Barros, Marcus M Matsushita, Timoth\u00e9e Revil, Jiannis Ragoussis, Fergus J Couch, Steven N Hart, Rui M Reis, Matias E Melendez, Patricia N Tonin, Dirce M Carraro, Edenir I Palmero",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.24158",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
@@ -23856,21 +23883,21 @@
     "Name": "Gary Van Domselaar",
     "total_publications": "59",
     "publications": {
-      "esGtpfCv0y8C": {
-        "title": "Intranasal Vaccine Induces Broad and Long-Lasting Immunity Against the Hemagglutinin Stem of Group 2 Influenza A Viruses",
-        "year": "2025/9/25",
-        "publisher": "Antiviral Research",
-        "author": "Wanyue Zhang, J\u00e9r\u00e9mie Pr\u00e9vost, Angela Sloan, Levi Tamming, Annabelle Pfeifle, Caroline Gravel, Sathya N Thulasi Raman, Gary Van Domselaar, Michael JW Johnston, Lisheng Wang, Simon Sauve, Michael Rosu-Myles, Darwyn Kobasa, Anh Tran, Wangxue Chen, Xu Zhang, David Safronetz, Xuguang Li",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0166354225002104",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "HkunuPqSaCsC": {
         "title": "Complete genome sequences of two Treponema pallidum subsp. pallidum specimens from Canadian patients",
         "year": "2025/9/18",
         "publisher": "Microbiology Resource Announcements",
         "author": "Nishant Singh, Thomas WA Braukmann, MacKenzie Neale, George S Long, Derek Stein, Paul Van Caeseele, Keith D MacKenzie, Jessica Minion, Gary Van Domselaar, Morag Graham, Andrea Tyler, Samir N Patel, Venkata R Duvvuri, Raymond SW Tsang",
         "url": "https://journals.asm.org/doi/abs/10.1128/mra.00641-25",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "esGtpfCv0y8C": {
+        "title": "Intranasal Vaccine Induces Broad and Long-Lasting Immunity Against the Hemagglutinin Stem of Group 2 Influenza A Viruses",
+        "year": "2025/9/25",
+        "publisher": "Antiviral Research",
+        "author": "Wanyue Zhang, J\u00e9r\u00e9mie Pr\u00e9vost, Angela Sloan, Levi Tamming, Annabelle Pfeifle, Caroline Gravel, Sathya N Thulasi Raman, Gary Van Domselaar, Michael JW Johnston, Lisheng Wang, Simon Sauve, Michael Rosu-Myles, Darwyn Kobasa, Anh Tran, Wangxue Chen, Xu Zhang, David Safronetz, Xuguang Li",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0166354225002104",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -29265,6 +29292,15 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "-Xpk-jsdKCIC": {
+        "title": "Theory in service of narratives in evolution and ecology",
+        "year": "2020/2/1",
+        "publisher": "The American Naturalist",
+        "author": "Sarah P Otto, Alirio Rosales",
+        "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/705991",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "8d0RQTsQA7wC": {
         "title": "TRY plant trait database\u2013enhanced coverage and open access",
         "year": "2020/1",
@@ -29281,15 +29317,6 @@
         "author": "Matthew M Osmond, Sarah P Otto, Guillaume Martin",
         "url": "https://academic.oup.com/genetics/article-abstract/214/2/493/5930464",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "-Xpk-jsdKCIC": {
-        "title": "Theory in service of narratives in evolution and ecology",
-        "year": "2020/2/1",
-        "publisher": "The American Naturalist",
-        "author": "Sarah P Otto, Alirio Rosales",
-        "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/705991",
-        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
