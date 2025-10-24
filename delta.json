@@ -1,38 +1,68 @@
 {
-  "YngkjFAAAAAJ": {
-    "Name": "Emma Griffiths",
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
     "total_new": "2",
     "publications": {
-      "B3FOqHPlNUQC": {
-        "title": "SARS-CoV-2 NCBI submission protocol: SRA, BioSample, and BioProject protocol v1",
-        "year": "2022/1/13",
+      "qArLyaEVSjgC": {
+        "title": "Systems and methods for generating emails with interactive actionable elements",
+        "year": "2025/7/3",
         "publisher": "Unknown",
-        "author": "Ruth EE Timme, Emma Griffiths, Duncan MacCannell, Lee Katz, Michael Weigand",
-        "url": "https://www.protocols.io/es/view/sars-cov-2-ncbi-submission-protocol-sra-biosample-b3tcqniw",
+        "author": "Unknown",
+        "url": "https://patents.google.com/patent/US20250219976A1/en",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "4fKUyHm3Qg0C": {
-        "title": "SARS-CoV-2 NCBI consensus submission protocol: GenBank protocol v3",
-        "year": "2022/1/7",
+      "3yp_TYYMjzAC": {
+        "title": "Machine learning based (ml-based) computing method and system for forecasting financial transactions",
+        "year": "2025/3/27",
         "publisher": "Unknown",
-        "author": "Ruth E Timme, Emma Griffiths, Lee Katz, Duncan MacCannell, Michael Weigand",
-        "url": "https://www.protocols.io/fr/view/sars-cov-2-ncbi-consensus-submission-protocol-genb-b3bnqime",
+        "author": "Unknown",
+        "url": "https://patents.google.com/patent/US20250104139A1/en",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "BC6T6L-UY8gC": {
-    "Name": "Caren Helbing",
+  "RX9XNLUAAAAJ": {
+    "Name": "Valerie S. Langlois",
     "total_new": "1",
     "publications": {
-      "HbR8gkJAVGIC": {
-        "title": "Comparison of DNA Extraction Methods for Detecting the Sea Otter (Enhydra lutris ) in Marine Sediments",
-        "year": "2025/9",
-        "publisher": "Environmental DNA",
-        "author": "Neha Acharya\u2010Patel, Mark Louie D Lopez, Matthew T Bonderud, Hajeong Lee, Emma T Groenwold, Erin U Foster, Linda M Nichol, Caren C Helbing",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/edn3.70212",
+      "JoZmwDi-zQgC": {
+        "title": "Pulp and paper mill industry effluent yields androgenic and anti-androgenic activity and leads to a reproduction arrest in fathead minnow",
+        "year": "2025/10/20",
+        "publisher": "Environmental Pollution",
+        "author": "Julie Robitaille, M\u00e9lanie Desrosiers, \u00c9lo\u00efse Veilleux, Marianne M\u00e9tivier, Manon Karolkowski, Valerie S Langlois",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0269749125016677",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "0RcC8vIAAAAJ": {
+    "Name": "Kerry E. Black, PhD",
+    "total_new": "1",
+    "publications": {
+      "0EnyYjriUFMC": {
+        "title": "Investigation of the Impacts of Decentralized Water and Wastewater Systems on Road Networks in First Nations Communities",
+        "year": "2025/10/17",
+        "publisher": "Springer Nature Switzerland",
+        "author": "Timothy Vogel,Kerry Black,Kerry McPhedran",
+        "url": "https://doi.org/10.1007/978-3-031-97693-3_16",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      }
+    }
+  },
+  "wHX6pyUAAAAJ": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
+    "publications": {
+      "0N-VGjzr574C": {
+        "title": "Fire-controlled variations in abundance of white pine and red pine in Quebec\u2019s northern temperate forest during the Holocene: Implications for fire management",
+        "year": "2025/10",
+        "publisher": "The Holocene",
+        "author": "Marion Blache, Adam A. Ali, Dorian M. Gaboriau, S\u00e9bastien Joannin, Mathis Jean-Sepet, Martin P. Girardin, Yves Bergeron, Hugo Asselin",
+        "url": null,
         "firstOrLast": true,
         "datasource": "Scholars"
       }
