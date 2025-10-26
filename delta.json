@@ -1,56 +1,59 @@
 {
   "YngkjFAAAAAJ": {
     "Name": "Emma Griffiths",
-    "total_new": "3",
+    "total_new": "1",
     "publications": {
-      "geHnlv5EZngC": {
-        "title": "Overview of NCBI's SARS-CoV-2 submission process and the metadata required protocol v2",
-        "year": "2022/1/21",
-        "publisher": "Unknown",
-        "author": "Ruth EE Timme, Emma Griffiths, Lee Katz, Michael Weigand",
-        "url": "https://www.protocols.io/de/view/overview-of-ncbi-39-s-submission-process-and-the-m-3byl476e2lo5/v2",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "8AbLer7MMksC": {
-        "title": "SARS-CoV-2 EBI submission protocol: ENA, BioSample, and BioProject protocol v1",
-        "year": "2020/7/9",
-        "publisher": "Unknown",
-        "author": "Nabil-Fareed Alikhan, Ruth Timme, Emma Griffiths, Duncan MacCannell",
-        "url": "https://www.protocols.io/es/view/sars-cov-2-ebi-submission-protocol-ena-biosample-a-bhwdj7a6",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "sSrBHYA8nusC": {
-        "title": "SARS-CoV2 EBI assembly submission protocol protocol v1",
+      "5Ul4iDaHHb8C": {
+        "title": "SOP for populating EBI submission templates (ENA) protocol v1",
         "year": "2020/7/9",
         "publisher": "Unknown",
         "author": "Nabil-Fareed Alikhan, Emma Griffiths, Ruth Timme, Duncan MacCannell",
-        "url": "https://www.protocols.io/de/view/sars-cov2-ebi-assembly-submission-protocol-bhwqj7dw",
+        "url": "https://www.protocols.io/fr/view/sop-for-populating-ebi-submission-templates-ena-bh5dj826",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
-    "total_new": "2",
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
     "publications": {
-      "2mowRowinYoC": {
-        "title": "Investigating the adjuvant activity of the proline-rich antimicrobial lipopeptide C12-PRP against antimicrobial-resistant veterinary bacterial isolates",
-        "year": "2025/10/21",
-        "publisher": "Journal of Global Antimicrobial Resistance",
-        "author": "Soumya Deo, Aimeen Sharoze, Meerim Esenbekova, Dawn White, Frank Schweizer, Ramesh Kumar Mani, Bala Kishan Gorityala, Ayush Kumar",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2213716525002346",
-        "firstOrLast": true,
+      "P1qO8dLd1z8C": {
+        "title": "Host miRNAs regulate Escherichia coli O157 mucosal colonization through host-mucosa-attached microbiota interactions in calves",
+        "year": "2025/12",
+        "publisher": "Microbiome",
+        "author": "Zhe Pan, Yanhong Chen, Mi Zhou, Tim A McAllister, Tom N McNeilly, Le Luo Guan",
+        "url": "https://link.springer.com/article/10.1186/s40168-025-02184-w",
+        "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "jaC1LMxLMucC": {
-        "title": "Acinetobacter baumannii: much more than a human pathogen",
-        "year": "2025/9/3",
-        "publisher": "A",
-        "author": "Santiago Castillo-Ram\u00edrez, Alejandro Aguilar-Vera, Ayush Kumar, Benjamin Evans",
-        "url": "https://journals.asm.org/doi/abs/10.1128/aac.00801-25",
+      }
+    }
+  },
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
+    "total_new": "1",
+    "publications": {
+      "OTTXONDVkokC": {
+        "title": "Erratum for Piwosz et al.,\u201cLight and primary production shape bacterial activity and community composition of aerobic anoxygenic phototrophic bacteria in a microcosm experiment \u2026",
+        "year": "2020",
+        "publisher": "Unknown",
+        "author": "K Piwosz, A Vrdoljak, T Frenken, JM Gonz\u00e1lez-Olalla, D \u0160anti\u0107, RM McKay, K Spilling, L Guttman, P Znachor, I Mujaki\u0107, LK Fecskeov\u00e1, L Zoccarato, M Hanusov\u00e1, A Pessina, T Reich, HP Grossart, M Kobl\u00ed\u017eek",
+        "url": "https://www.sciencedirect.com/org/science/article/pii/S2379504220003732",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "sp21VmQAAAAJ": {
+    "Name": "Jeffrey R Brook",
+    "total_new": "1",
+    "publications": {
+      "nU66GSXDKhoC": {
+        "title": "Association of air pollution with brain health: A cross-sectional analysis in adults living in Canada",
+        "year": "2025/1/1",
+        "publisher": "medRxiv",
+        "author": "Sandi M Azab, Sonia S Anand, Dany Doiron, Karleen Schulze, Jeffrey R Brook, Michael Brauer, Dipika Desai, Matthias G Friedrich, Shrikant I Bangdiwala, Vikki Ho, Trevor JB Dummer, Paul Poirier, Jean-Claude Tardif, Koon Teo, Scott A Lear, Salim Yusuf, Eric E Smith, Russell J de Souza",
+        "url": "https://www.medrxiv.org/content/10.1101/2025.10.21.25338504",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
