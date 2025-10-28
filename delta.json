@@ -1,59 +1,14 @@
 {
-  "YngkjFAAAAAJ": {
-    "Name": "Emma Griffiths",
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
     "total_new": "1",
     "publications": {
-      "5Ul4iDaHHb8C": {
-        "title": "SOP for populating EBI submission templates (ENA) protocol v1",
-        "year": "2020/7/9",
+      "SpbQ_efOBbkC": {
+        "title": "Cardiovascular disease as a mediator in the relationship between lifestyle risk factors and cognitive outcomes: a scoping review",
+        "year": "2025/10",
         "publisher": "Unknown",
-        "author": "Nabil-Fareed Alikhan, Emma Griffiths, Ruth Timme, Duncan MacCannell",
-        "url": "https://www.protocols.io/fr/view/sop-for-populating-ebi-submission-templates-ena-bh5dj826",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
-    "total_new": "1",
-    "publications": {
-      "P1qO8dLd1z8C": {
-        "title": "Host miRNAs regulate Escherichia coli O157 mucosal colonization through host-mucosa-attached microbiota interactions in calves",
-        "year": "2025/12",
-        "publisher": "Microbiome",
-        "author": "Zhe Pan, Yanhong Chen, Mi Zhou, Tim A McAllister, Tom N McNeilly, Le Luo Guan",
-        "url": "https://link.springer.com/article/10.1186/s40168-025-02184-w",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "MNqeC0sAAAAJ": {
-    "Name": "Robert Michael McKay",
-    "total_new": "1",
-    "publications": {
-      "OTTXONDVkokC": {
-        "title": "Erratum for Piwosz et al.,\u201cLight and primary production shape bacterial activity and community composition of aerobic anoxygenic phototrophic bacteria in a microcosm experiment \u2026",
-        "year": "2020",
-        "publisher": "Unknown",
-        "author": "K Piwosz, A Vrdoljak, T Frenken, JM Gonz\u00e1lez-Olalla, D \u0160anti\u0107, RM McKay, K Spilling, L Guttman, P Znachor, I Mujaki\u0107, LK Fecskeov\u00e1, L Zoccarato, M Hanusov\u00e1, A Pessina, T Reich, HP Grossart, M Kobl\u00ed\u017eek",
-        "url": "https://www.sciencedirect.com/org/science/article/pii/S2379504220003732",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "sp21VmQAAAAJ": {
-    "Name": "Jeffrey R Brook",
-    "total_new": "1",
-    "publications": {
-      "nU66GSXDKhoC": {
-        "title": "Association of air pollution with brain health: A cross-sectional analysis in adults living in Canada",
-        "year": "2025/1/1",
-        "publisher": "medRxiv",
-        "author": "Sandi M Azab, Sonia S Anand, Dany Doiron, Karleen Schulze, Jeffrey R Brook, Michael Brauer, Dipika Desai, Matthias G Friedrich, Shrikant I Bangdiwala, Vikki Ho, Trevor JB Dummer, Paul Poirier, Jean-Claude Tardif, Koon Teo, Scott A Lear, Salim Yusuf, Eric E Smith, Russell J de Souza",
-        "url": "https://www.medrxiv.org/content/10.1101/2025.10.21.25338504",
+        "author": "Abby LJ Hensel, Therese Chan, Raisa Ahmed, Prabasha Rasaputra, Becky Skidmore, Hao Luo, Davide Liborio Vetrano, Jodi D Edwards, Jacob Crawshaw, Monica Parry, Frank Knoefel, Yan Xu, Sandra Magalhaes, Wallis CY Lau, Stacey Fisher, Ann\u2010Marie Julien, Linda Hunter, Kathryn A Bezzina, Kevin E Boczar, Douglas G Manuel, Andrew R Frank, Kednapa Thavorn, Amy Hsu",
+        "url": "https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.70843",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
