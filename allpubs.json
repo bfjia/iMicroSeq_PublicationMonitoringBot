@@ -2682,21 +2682,39 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "ipzZ9siozwsC": {
+        "title": "Sputum microbiota in adults with CF associates with response to inhaled tobramycin",
+        "year": "2020/12/1",
+        "publisher": "Thorax",
+        "author": "Alya Heirali, Christina Thornton, Nicole Acosta, Ranjani Somayaji, Isabelle Laforest Lapointe, Douglas Storey, Harvey Rabin, Barbara Waddell, Laura Rossi, Marie Claire Arrieta, Michael Surette, Michael D Parkins",
+        "url": "https://thorax.bmj.com/content/75/12/1058.abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "zLWjf1WUPmwC": {
+        "title": "723. Epidemiology, Risk Factors, and Treatment Considerations for Pyogenic Liver Abscess (PLA) in the Calgary Health Zone (CHZ) Revisited: A Population-Based Study",
+        "year": "2020/12/31",
+        "publisher": "Open Forum Infectious Diseases",
+        "author": "Jennifer A Losie, Michael Parkins, John Lam, Daniel Gregson",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777707/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "uWiczbcajpAC": {
+        "title": "Wastewater monitoring of SARS-CoV-2 from acute care hospitals identifies nosocomial transmission and outbreaks",
+        "year": "2021/2/23",
+        "publisher": "medRxiv",
+        "author": "Nicole Acosta, Mar\u00eda A. Bautista, Jordan Hollman, Janine McCalder, Alexander Buchner Beaudet, Lawrence Man, Barbara J Waddell, Jianwei Chen, Carmen Li, Darina Kuzma, Srijak Bhatnagar, Jenine Leal, Jon Meddings, Jia Hu, Jason L Cabaj, Norma J Ruecker, Christopher Naugler, Dylan R Pillai, Gopal Achari, M Cathryn Ryan, John M Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
+        "url": "https://www.medrxiv.org/content/10.1101/2021.02.20.21251520.abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
       "uc_IGeMz5qoC": {
         "title": "Tick-borne fever in pregnancy",
         "year": "2020/10/1",
         "publisher": "CCDR",
         "author": "John C Lam, Oscar E Larios, Michael D Parkins, Stephen D Vaughan",
         "url": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2020-46/issue-10-october-1-2020/tick-borne-fever-pregnancy.html",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "artPoR2Yc-kC": {
-        "title": "Cystic fibrosis-related diabetes onset can be predicted using biomarkers measured at birth (vol 23, pg 927, 2021)",
-        "year": "2021/11/1",
-        "publisher": "GENETICS IN MEDICINE",
-        "author": "Yu-Chung Lin, Katherine Keenan, Jiafen Gong, Naim Panjwani, Julie Avolio, Fan Lin, Damien Adam, Paula Barrett, Stephanie Begin, Yves Berthiaume, Lara Bilodeau, Candice Bjornson, Janna Brusky, Caroline Burgess, Mark Chilvers, Raquel Consunji-Araneta, Guillaume Cote-Maurais, Andrea Dale, Christine Donnelly, Lori Fairservice, Katie Griffin, Natalie Henderson, Angela Hillaby, Daniel Hughes, Shaikh Iqbal, Jennifer Itterman, Mary Jackson, Emma Karlsen, Lorna Kosteniuk, Lynda Lazosky, Winnie Leung, Valerie Levesque, Emilie Maille, Dimas Mateos-Corral, Vanessa McMahon, Mays Merjaneh, Nancy Morrison, Michael Parkins, Jennifer Pike, April Price, Bradley S Quon, Joe Reisman, Clare Smith, Mary Jane Smith, Nathalie Vadeboncoeur, Danny Veniott, Terry Viczko, Pearce Wilcox, Richard van Wylick, Garry Cutting, Elizabeth Tullis, Felix Ratjen, Johanna M Rommens, Lei Sun, Melinda Solomon, Anne L Stephenson, Emmanuelle Brochiero, Scott Blackman, Harriet Corvol, Lisa J Strug",
-        "url": "https://scholar.google.com/scholar?cluster=5968321355413388059&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -2718,30 +2736,12 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "uWiczbcajpAC": {
-        "title": "Wastewater monitoring of SARS-CoV-2 from acute care hospitals identifies nosocomial transmission and outbreaks",
-        "year": "2021/2/23",
-        "publisher": "medRxiv",
-        "author": "Nicole Acosta, Mar\u00eda A. Bautista, Jordan Hollman, Janine McCalder, Alexander Buchner Beaudet, Lawrence Man, Barbara J Waddell, Jianwei Chen, Carmen Li, Darina Kuzma, Srijak Bhatnagar, Jenine Leal, Jon Meddings, Jia Hu, Jason L Cabaj, Norma J Ruecker, Christopher Naugler, Dylan R Pillai, Gopal Achari, M Cathryn Ryan, John M Conly, Kevin Frankowski, Casey RJ Hubert, Michael D Parkins",
-        "url": "https://www.medrxiv.org/content/10.1101/2021.02.20.21251520.abstract",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "ipzZ9siozwsC": {
-        "title": "Sputum microbiota in adults with CF associates with response to inhaled tobramycin",
-        "year": "2020/12/1",
-        "publisher": "Thorax",
-        "author": "Alya Heirali, Christina Thornton, Nicole Acosta, Ranjani Somayaji, Isabelle Laforest Lapointe, Douglas Storey, Harvey Rabin, Barbara Waddell, Laura Rossi, Marie Claire Arrieta, Michael Surette, Michael D Parkins",
-        "url": "https://thorax.bmj.com/content/75/12/1058.abstract",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "zLWjf1WUPmwC": {
-        "title": "723. Epidemiology, Risk Factors, and Treatment Considerations for Pyogenic Liver Abscess (PLA) in the Calgary Health Zone (CHZ) Revisited: A Population-Based Study",
-        "year": "2020/12/31",
-        "publisher": "Open Forum Infectious Diseases",
-        "author": "Jennifer A Losie, Michael Parkins, John Lam, Daniel Gregson",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777707/",
+      "artPoR2Yc-kC": {
+        "title": "Cystic fibrosis-related diabetes onset can be predicted using biomarkers measured at birth (vol 23, pg 927, 2021)",
+        "year": "2021/11/1",
+        "publisher": "GENETICS IN MEDICINE",
+        "author": "Yu-Chung Lin, Katherine Keenan, Jiafen Gong, Naim Panjwani, Julie Avolio, Fan Lin, Damien Adam, Paula Barrett, Stephanie Begin, Yves Berthiaume, Lara Bilodeau, Candice Bjornson, Janna Brusky, Caroline Burgess, Mark Chilvers, Raquel Consunji-Araneta, Guillaume Cote-Maurais, Andrea Dale, Christine Donnelly, Lori Fairservice, Katie Griffin, Natalie Henderson, Angela Hillaby, Daniel Hughes, Shaikh Iqbal, Jennifer Itterman, Mary Jackson, Emma Karlsen, Lorna Kosteniuk, Lynda Lazosky, Winnie Leung, Valerie Levesque, Emilie Maille, Dimas Mateos-Corral, Vanessa McMahon, Mays Merjaneh, Nancy Morrison, Michael Parkins, Jennifer Pike, April Price, Bradley S Quon, Joe Reisman, Clare Smith, Mary Jane Smith, Nathalie Vadeboncoeur, Danny Veniott, Terry Viczko, Pearce Wilcox, Richard van Wylick, Garry Cutting, Elizabeth Tullis, Felix Ratjen, Johanna M Rommens, Lei Sun, Melinda Solomon, Anne L Stephenson, Emmanuelle Brochiero, Scott Blackman, Harriet Corvol, Lisa J Strug",
+        "url": "https://scholar.google.com/scholar?cluster=5968321355413388059&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -5424,15 +5424,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "bczYY1dZPtQC": {
-        "title": "Use of a phage cocktail to reduce the numbers of seven Escherichia coli strains belonging to different STEC serogroups applied to fresh produce and seeds",
-        "year": "2023/8",
-        "publisher": "Journal of Food Safety",
-        "author": "Yiran Ding, Yuchen Nan, Yang Qiu, Dongyan Niu, Kim Stanford, Rick Holley, Tim McAllister, Claudia Narv\u00e1ez\u2010Bravo",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jfs.13044",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "w2Gke83ceDMC": {
         "title": "Genomic characterization of carbapenem-resistant bacteria from beef cattle feedlots",
         "year": "2023/5/25",
@@ -5442,12 +5433,66 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
+      "SQZOXlr1FBsC": {
+        "title": "213 Effect of Continuous Or Intermittent Feeding of Ergot Contaminated Grain in a Mash Or Pelleted Form on the Performance and Health Parameters of Finishing Beef Steers",
+        "year": "2023/11/6",
+        "publisher": "Journal of Animal Science",
+        "author": "Matthew R Reynolds, Kim Stanford, Daniela M Mel\u00e9ndez, Karen S Schwartzkopf-Genswein, Tim A McAllister, Barry R Blakley, John J McKinnon, Gabriel O Ribeiro",
+        "url": "https://academic.oup.com/jas/article-abstract/101/Supplement_3/130/7372305",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "5Klqo5HVOaoC": {
+        "title": "Short-season high-moisture shelled corn, snaplage, or corn silage as a partial replacement for dry-rolled barley grain or barley silage in western Canadian beef cattle \u2026",
+        "year": "2023/9/11",
+        "publisher": "Canadian Journal of Animal Science",
+        "author": "RE Carey, GO Ribeiro, ZD Paddock, D Moya, TA McAllister, GB Penner",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/CJAS-2023-0032",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "zEYdoEEwLqEC": {
+        "title": "Effect of mixtures of legume species on ruminal fermentation, methane, and microbial nitrogen production in batch and continuous culture (RUSITEC) systems",
+        "year": "2023/7/28",
+        "publisher": "Canadian Journal of Animal Science",
+        "author": "BM Kelln, Gregory B Penner, Surya N Acharya, Tim A McAllister, JJ McKinnon, AM Saleem, Bill Biligetu, Herbert A Lardner",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/CJAS-2022-0095",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "bczYY1dZPtQC": {
+        "title": "Use of a phage cocktail to reduce the numbers of seven Escherichia coli strains belonging to different STEC serogroups applied to fresh produce and seeds",
+        "year": "2023/8",
+        "publisher": "Journal of Food Safety",
+        "author": "Yiran Ding, Yuchen Nan, Yang Qiu, Dongyan Niu, Kim Stanford, Rick Holley, Tim McAllister, Claudia Narv\u00e1ez\u2010Bravo",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jfs.13044",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "d4Uf0zfqV5IC": {
+        "title": "Prevalence and antimicrobial susceptibility of Mycoplasma bovis from the upper and lower respiratory tracts of healthy feedlot cattle and those diagnosed with bovine \u2026",
+        "year": "2023/10/1",
+        "publisher": "Veterinary Microbiology",
+        "author": "Razia Sultana, Roniele P Cordeiro, Edouard Timsit, Tim A McAllister, Trevor W Alexander",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0378113523001906",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "TniZHWc1JwoC": {
         "title": "The Isolation and Characterization of Bacteriophages Infecting Avian Pathogenic Escherichia coli O1, O2 and O78 Strains",
         "year": "2023/10/16",
         "publisher": "Viruses",
         "author": "Kat R Smith, Emmanuel W Bumunang, Jared Schlechte, Matthew Waldner, Hany Anany, Matthew Walker, Kellie MacLean, Kim Stanford, John M Fairbrother, Trevor W Alexander, Tim A McAllister, Mohamed Faizal Abdul-Careem, Yan D Niu",
         "url": "https://www.mdpi.com/1999-4915/15/10/2095",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "ewB7xoWXMOgC": {
+        "title": "Bacteriophages for the targeted control of foodborne pathogens",
+        "year": "2023/7/18",
+        "publisher": "M",
+        "author": "Emmanuel W Bumunang, Rahat Zaheer, Dongyan Niu, Claudia Narvaez-Bravo, Trevor Alexander, Tim A McAllister, Kim Stanford",
+        "url": "https://www.mdpi.com/2304-8158/12/14/2734",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -5469,51 +5514,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "d4Uf0zfqV5IC": {
-        "title": "Prevalence and antimicrobial susceptibility of Mycoplasma bovis from the upper and lower respiratory tracts of healthy feedlot cattle and those diagnosed with bovine \u2026",
-        "year": "2023/10/1",
-        "publisher": "Veterinary Microbiology",
-        "author": "Razia Sultana, Roniele P Cordeiro, Edouard Timsit, Tim A McAllister, Trevor W Alexander",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0378113523001906",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "2ZctHUgIzyAC": {
-        "title": "Nutritional impact of excluding red meat from the Canadian diet",
-        "year": "2023/7/1",
-        "publisher": "Meat Science",
-        "author": "EG Kebebe, N Ibrahim, R White, K Wittenberg, HM Aukema, TA McAllister, N Riediger, G Legesse, EJ McGeough, K Ominski",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0309174023000670",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "ewB7xoWXMOgC": {
-        "title": "Bacteriophages for the targeted control of foodborne pathogens",
-        "year": "2023/7/18",
-        "publisher": "M",
-        "author": "Emmanuel W Bumunang, Rahat Zaheer, Dongyan Niu, Claudia Narvaez-Bravo, Trevor Alexander, Tim A McAllister, Kim Stanford",
-        "url": "https://www.mdpi.com/2304-8158/12/14/2734",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "SQZOXlr1FBsC": {
-        "title": "213 Effect of Continuous Or Intermittent Feeding of Ergot Contaminated Grain in a Mash Or Pelleted Form on the Performance and Health Parameters of Finishing Beef Steers",
-        "year": "2023/11/6",
-        "publisher": "Journal of Animal Science",
-        "author": "Matthew R Reynolds, Kim Stanford, Daniela M Mel\u00e9ndez, Karen S Schwartzkopf-Genswein, Tim A McAllister, Barry R Blakley, John J McKinnon, Gabriel O Ribeiro",
-        "url": "https://academic.oup.com/jas/article-abstract/101/Supplement_3/130/7372305",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "5Klqo5HVOaoC": {
-        "title": "Short-season high-moisture shelled corn, snaplage, or corn silage as a partial replacement for dry-rolled barley grain or barley silage in western Canadian beef cattle \u2026",
-        "year": "2023/9/11",
-        "publisher": "Canadian Journal of Animal Science",
-        "author": "RE Carey, GO Ribeiro, ZD Paddock, D Moya, TA McAllister, GB Penner",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/CJAS-2023-0032",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "MreiaWo1ERkC": {
         "title": "Evaluation of metagenomic assembly methods for the detection and characterization of antimicrobial resistance determinants and associated mobilizable elements",
         "year": "2023/10/1",
@@ -5523,12 +5523,12 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "zEYdoEEwLqEC": {
-        "title": "Effect of mixtures of legume species on ruminal fermentation, methane, and microbial nitrogen production in batch and continuous culture (RUSITEC) systems",
-        "year": "2023/7/28",
-        "publisher": "Canadian Journal of Animal Science",
-        "author": "BM Kelln, Gregory B Penner, Surya N Acharya, Tim A McAllister, JJ McKinnon, AM Saleem, Bill Biligetu, Herbert A Lardner",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/CJAS-2022-0095",
+      "2ZctHUgIzyAC": {
+        "title": "Nutritional impact of excluding red meat from the Canadian diet",
+        "year": "2023/7/1",
+        "publisher": "Meat Science",
+        "author": "EG Kebebe, N Ibrahim, R White, K Wittenberg, HM Aukema, TA McAllister, N Riediger, G Legesse, EJ McGeough, K Ominski",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0309174023000670",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -10620,21 +10620,21 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "NhqRSupF_l8C": {
-        "title": "Marine sediments harbor diverse archaea and bacteria with the potential for anaerobic hydrocarbon degradation via fumarate addition",
-        "year": "2021/5",
-        "publisher": "FEMS Microbiology Ecology",
-        "author": "Chuwen Zhang, Rainer U Meckenstock, Shengze Weng, Guangshan Wei, Casey RJ Hubert, Jiang-Hai Wang, Xiyang Dong",
-        "url": "https://academic.oup.com/femsec/article-abstract/97/5/fiab045/6171024",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "JoZmwDi-zQgC": {
         "title": "Covid-19 Monitoring Using Wastewater-Based Epidemiology: The Promise and Peril of Seeking Useable Data in a Pandemic",
         "year": "2021/5/26",
         "publisher": "S",
         "author": "J Hollman, N Acosta, M Bautista, J McCalder, L Man, A Buchner Beaudet, B Waddell, J Chen, D Kuzma, RG Clark, N Ruecker, K Frankowski, C Hubert, M Parkins, MC Ryan, G Achari",
         "url": "https://link.springer.com/chapter/10.1007/978-981-19-1061-6_47",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "NhqRSupF_l8C": {
+        "title": "Marine sediments harbor diverse archaea and bacteria with the potential for anaerobic hydrocarbon degradation via fumarate addition",
+        "year": "2021/5",
+        "publisher": "FEMS Microbiology Ecology",
+        "author": "Chuwen Zhang, Rainer U Meckenstock, Shengze Weng, Guangshan Wei, Casey RJ Hubert, Jiang-Hai Wang, Xiyang Dong",
+        "url": "https://academic.oup.com/femsec/article-abstract/97/5/fiab045/6171024",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -13470,21 +13470,21 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "yZoBfgUKqwcC": {
-        "title": "Understanding Canadian dairy farmers' perspectives on outdoor access for dairy cows using an online questionnaire",
-        "year": "2022/1/1",
-        "publisher": "E",
-        "author": "AMC Smid, M Jarbeau, V Boone, S Sinclair, HW Barkema",
-        "url": "https://scholar.google.com/scholar?cluster=10880778269876520520&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "iKswqCX-FLkC": {
         "title": "A cross-sectional study on antimicrobial use and calf management practices in Canadian preweaned dairy calves.",
         "year": "2022/1/1",
         "publisher": "E",
         "author": "T Uyama, D Renaud, D Leger, D Rizzo, E Morrison, E de Jong, K McCubbin, H Barkema, S Dufour, J Sanchez, L Heider, J McClure, S LeBlanc, C Winder, D Kelton",
         "url": "https://scholar.google.com/scholar?cluster=13909192190086576438&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "yZoBfgUKqwcC": {
+        "title": "Understanding Canadian dairy farmers' perspectives on outdoor access for dairy cows using an online questionnaire",
+        "year": "2022/1/1",
+        "publisher": "E",
+        "author": "AMC Smid, M Jarbeau, V Boone, S Sinclair, HW Barkema",
+        "url": "https://scholar.google.com/scholar?cluster=10880778269876520520&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -16089,15 +16089,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "yD5IFk8b50cC": {
-        "title": "Obesity in adults: a clinical practice guideline",
-        "year": "2020",
-        "publisher": "CMAJ: CANADIAN MEDICAL ASSOCIATION JOURNAL",
-        "author": "DCW LAU, M Vallis, AM SHARMA, L BIERTHO, D CAMPBELL-SCHERER, K ADAMO, A ALBERGA, R BELL, N BOUL\u00c9, E BOYLING, J BROWN, B CALAM, C CLARKE, L CROWSHOE, D DIVALENTINO, M FORHAN, Y FREEDHOFF, M GAGNER, S GLAZER, C GRAND, M GREEN, M HAHN, R HAWA, R HENDERSON, D HONG, P HUNG, IA JANSSEN, K JACKLIN, C JOHNSON-STOKLOSSA, A KEMP, S KIRK, J KUK, MF LANGLOIS, S LEAR, A MCINNES, D MACKLIN, L NAJI, P MANJOO, M MORIN, K NERENBERG, IA PATTON, S PEDERSEN, L PEREIRA, H PICCININI-VALLIS, M PODDAR, P POIRIER, D PRUD\u2019HOMME, XR SALAS, CH RUEDA-CLAUSEN, SH RUSSELL-MAYHEW, JU SHIAU, D SHERIFALI, J SIEVENPIPER, S SOCKALINGAM, V TAYLOR, E TOTH, L TWELLS, R TYTUS, SH WALJI, L WALKER, S WICKLUM",
-        "url": "https://elibrary.ru/item.asp?id=78133296",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "dfsIfKJdRG4C": {
         "title": "Canadian Medical Education Journal",
         "year": "2021",
@@ -16105,6 +16096,15 @@
         "author": "Rita Isabel Henderson, Ian Walker, Douglas Myhre, Rachel Ward, Lynden Lindsay Crowshoe",
         "url": "https://journalhosting.ucalgary.ca/index.php/cmej/article/download/68215/54715?utm_source=consensus",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "yD5IFk8b50cC": {
+        "title": "Obesity in adults: a clinical practice guideline",
+        "year": "2020",
+        "publisher": "CMAJ: CANADIAN MEDICAL ASSOCIATION JOURNAL",
+        "author": "DCW LAU, M Vallis, AM SHARMA, L BIERTHO, D CAMPBELL-SCHERER, K ADAMO, A ALBERGA, R BELL, N BOUL\u00c9, E BOYLING, J BROWN, B CALAM, C CLARKE, L CROWSHOE, D DIVALENTINO, M FORHAN, Y FREEDHOFF, M GAGNER, S GLAZER, C GRAND, M GREEN, M HAHN, R HAWA, R HENDERSON, D HONG, P HUNG, IA JANSSEN, K JACKLIN, C JOHNSON-STOKLOSSA, A KEMP, S KIRK, J KUK, MF LANGLOIS, S LEAR, A MCINNES, D MACKLIN, L NAJI, P MANJOO, M MORIN, K NERENBERG, IA PATTON, S PEDERSEN, L PEREIRA, H PICCININI-VALLIS, M PODDAR, P POIRIER, D PRUD\u2019HOMME, XR SALAS, CH RUEDA-CLAUSEN, SH RUSSELL-MAYHEW, JU SHIAU, D SHERIFALI, J SIEVENPIPER, S SOCKALINGAM, V TAYLOR, E TOTH, L TWELLS, R TYTUS, SH WALJI, L WALKER, S WICKLUM",
+        "url": "https://elibrary.ru/item.asp?id=78133296",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
@@ -17622,33 +17622,6 @@
         "firstOrLast": true,
         "datasource": "Scholars"
       },
-      "JOhajB-2wfwC": {
-        "title": "Detection of COVID-19 outbreaks in long-term care homes using built environment testing for SARS-CoV-2: a multicentre prospective study",
-        "year": "2022/6/29",
-        "publisher": "medRxiv",
-        "author": "Michael Fralick, Caroline Nott, Jason Moggridge, Lucas Castellani, Ashley Raudanskis, David S Guttman, Aaron Hinz, Nisha Thampi, Alex Wong, Doug Manuel, Allison McGeer, Evgueni Doukhanine, Hebah Mejbel, Veronica Zanichelli, Madison Burella, Sylva Donaldson, Pauline W Wang, Rees Kassen, Derek MacFadden",
-        "url": "https://www.medrxiv.org/content/10.1101/2022.06.28.22276560.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "dw2rCEx0FpQC": {
-        "title": "Using routinely collected data to develop and evaluate a clinical tool for early identification of palliative care needs in long-term care: The RESPECT Project.",
-        "year": "2022/8/25",
-        "publisher": "International Journal of Population Data Science",
-        "author": "Amy T Hsu, Cathryn Espadero, Peter Tanuseputro, Carol Bennett, Sarah Beach, Rhiannon Roberts, Douglas Manuel",
-        "url": "https://ijpds.org/article/view/1858",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "WrvHtiK_1SgC": {
-        "title": "Development of a Prediction Model for Survival Time in Esophageal Cancer Patients Treated with Resection.",
-        "year": "2022/8/25",
-        "publisher": "International Journal of Population Data Science",
-        "author": "Lyndsay Harrison, Alyson Mahar, Natalie Coburn, Randy Boyes, Michael Pugliese, Carolyn Compton, Gail Darling, Laura Davis, Kathleen Decker, Vaibhav Gupta, Biniam Kidane, Douglas Manuel, Jolie Ringash, Donna Turner, Amy Hsu",
-        "url": "https://ijpds.org/article/view/2097",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "FV77Gu53xKkC": {
         "title": "Evaluation of the PREDIGT score\u2019s performance in identifying newly diagnosed Parkinson\u2019s patients without motor examination",
         "year": "2022/7/29",
@@ -17658,21 +17631,12 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "TcjEerm5wdgC": {
-        "title": "Socioeconomic position and consumption of sugary drinks, sugar-sweetened beverages and 100% juice among Canadians: a cross-sectional analysis of the 2015 Canadian Community \u2026",
-        "year": "2022/6",
-        "publisher": "Canadian Journal of Public Health",
-        "author": "Christine Warren, Erin Hobin, Douglas G Manuel, Laura N Anderson, David Hammond, Mahsa Jessri, JoAnne Arcand, Mary L\u2019Abb\u00e9, Ye Li, Laura C Rosella, Heather Manson, Brendan T Smith",
-        "url": "https://link.springer.com/article/10.17269/s41997-021-00602-8",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "RIp7fglqhzwC": {
-        "title": "Care trajectory in homes care users across mortality-risk profiles: an observational study.",
+      "WrvHtiK_1SgC": {
+        "title": "Development of a Prediction Model for Survival Time in Esophageal Cancer Patients Treated with Resection.",
         "year": "2022/8/25",
         "publisher": "International Journal of Population Data Science",
-        "author": "Maya Murmann, Douglas Manuel, Peter Tanuseputro, Carol Bennett, Michael Pugliese, Rhiannon Roberts, Wenshan Li, Amy T Hsu",
-        "url": "https://ijpds.org/article/view/1847",
+        "author": "Lyndsay Harrison, Alyson Mahar, Natalie Coburn, Randy Boyes, Michael Pugliese, Carolyn Compton, Gail Darling, Laura Davis, Kathleen Decker, Vaibhav Gupta, Biniam Kidane, Douglas Manuel, Jolie Ringash, Donna Turner, Amy Hsu",
+        "url": "https://ijpds.org/article/view/2097",
         "firstOrLast": false,
         "datasource": "Scholars"
       },
@@ -17685,12 +17649,48 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
+      "dw2rCEx0FpQC": {
+        "title": "Using routinely collected data to develop and evaluate a clinical tool for early identification of palliative care needs in long-term care: The RESPECT Project.",
+        "year": "2022/8/25",
+        "publisher": "International Journal of Population Data Science",
+        "author": "Amy T Hsu, Cathryn Espadero, Peter Tanuseputro, Carol Bennett, Sarah Beach, Rhiannon Roberts, Douglas Manuel",
+        "url": "https://ijpds.org/article/view/1858",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "RIp7fglqhzwC": {
+        "title": "Care trajectory in homes care users across mortality-risk profiles: an observational study.",
+        "year": "2022/8/25",
+        "publisher": "International Journal of Population Data Science",
+        "author": "Maya Murmann, Douglas Manuel, Peter Tanuseputro, Carol Bennett, Michael Pugliese, Rhiannon Roberts, Wenshan Li, Amy T Hsu",
+        "url": "https://ijpds.org/article/view/1847",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
       "P3HMU8IszGwC": {
         "title": "The collapse of infectious disease diagnoses commonly due to communicable respiratory pathogens during the coronavirus disease 2019 pandemic: a time series and hierarchical \u2026",
         "year": "2022/7/1",
         "publisher": "Open Forum Infectious Diseases",
         "author": "Ali Zhang, Matthew D Surette, Kevin L Schwartz, James I Brooks, Dawn ME Bowdish, Roshanak Mahdavi, Douglas G Manuel, Robert Talarico, Nick Daneman, Jayson Shurgold, Derek MacFadden",
         "url": "https://academic.oup.com/ofid/article-abstract/9/7/ofac205/6570601",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "TcjEerm5wdgC": {
+        "title": "Socioeconomic position and consumption of sugary drinks, sugar-sweetened beverages and 100% juice among Canadians: a cross-sectional analysis of the 2015 Canadian Community \u2026",
+        "year": "2022/6",
+        "publisher": "Canadian Journal of Public Health",
+        "author": "Christine Warren, Erin Hobin, Douglas G Manuel, Laura N Anderson, David Hammond, Mahsa Jessri, JoAnne Arcand, Mary L\u2019Abb\u00e9, Ye Li, Laura C Rosella, Heather Manson, Brendan T Smith",
+        "url": "https://link.springer.com/article/10.17269/s41997-021-00602-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "JOhajB-2wfwC": {
+        "title": "Detection of COVID-19 outbreaks in long-term care homes using built environment testing for SARS-CoV-2: a multicentre prospective study",
+        "year": "2022/6/29",
+        "publisher": "medRxiv",
+        "author": "Michael Fralick, Caroline Nott, Jason Moggridge, Lucas Castellani, Ashley Raudanskis, David S Guttman, Aaron Hinz, Nisha Thampi, Alex Wong, Doug Manuel, Allison McGeer, Evgueni Doukhanine, Hebah Mejbel, Veronica Zanichelli, Madison Burella, Sylva Donaldson, Pauline W Wang, Rees Kassen, Derek MacFadden",
+        "url": "https://www.medrxiv.org/content/10.1101/2022.06.28.22276560.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -29472,15 +29472,6 @@
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "8d0RQTsQA7wC": {
-        "title": "TRY plant trait database\u2013enhanced coverage and open access",
-        "year": "2020/1",
-        "publisher": "Global change biology",
-        "author": "Jens Kattge, Gerhard B\u00f6nisch, Sandra D\u00edaz, Sandra Lavorel, Iain Colin Prentice, Paul Leadley, Susanne Tautenhahn, Gijsbert DA Werner, Tuomas Aakala, Mehdi Abedi, Alicia TR Acosta, George C Adamidis, Kairi Adamson, Masahiro Aiba, C\u00e9cile H Albert, Julio M Alc\u00e1ntara, Carolina Alc\u00e1zar C, Izabela Aleixo, Hamada Ali, Bernard Amiaud, Christian Ammer, Mariano M Amoroso, Madhur Anand, Carolyn Anderson, Niels Anten, Joseph Antos, Deborah Mattos Guimar\u00e3es Apgaua, Tia\u2010Lynn Ashman, Degi Harja Asmara, Gregory P Asner, Michael Aspinwall, Owen Atkin, Isabelle Aubin, Lars Baastrup\u2010Spohr, Khadijeh Bahalkeh, Michael Bahn, Timothy Baker, William J Baker, Jan P Bakker, Dennis Baldocchi, Jennifer Baltzer, Arindam Banerjee, Anne Baranger, Jos Barlow, Diego R Barneche, Zdravko Baruch, Denis Bastianelli, John Battles, William Bauerle, Marijn Bauters, Erika Bazzato, Michael Beckmann, Hans Beeckman, Carl Beierkuhnlein, Renee Bekker, Gavin Belfry, Michael Belluau, Mirela Beloiu, Raquel Benavides, Lahcen Benomar, Mary Lee Berdugo\u2010Lattke, Erika Berenguer, Rodrigo Bergamin, Joana Bergmann, Marcos Bergmann Carlucci, Logan Berner, Markus Bernhardt\u2010R\u00f6mermann, Christof Bigler, Anne D Bjorkman, Chris Blackman, Carolina Blanco, Benjamin Blonder, Dana Blumenthal, Kelly T Bocanegra\u2010Gonz\u00e1lez, Pascal Boeckx, Stephanie Bohlman, Katrin B\u00f6hning\u2010Gaese, Laura Boisvert\u2010Marsh, William Bond, Ben Bond\u2010Lamberty, Arnoud Boom, Coline CF Boonman, Kauane Bordin, Elizabeth H Boughton, Vanessa Boukili, David MJS Bowman, Sandra Bravo, Marco Richard Brendel, Martin R Broadley, Kerry A Brown, Helge Bruelheide, Federico Brumnich, Hans Henrik Bruun, David Bruy, Serra W Buchanan, Solveig Franziska Bucher, Nina Buchmann, Robert Buitenwerf, Daniel E Bunker, Jana B\u00fcrger, Sabina Burrascano, David FRP Burslem, Bradley J Butterfield, Chaeho Byun, Marcia Marques, Marina C Scalon, Marco Caccianiga, Marc Cadotte, Maxime Cailleret, James Camac, Jes\u00fas Julio Camarero, Courtney Campany, Giandiego Campetella, Juan Antonio Campos, Laura Cano\u2010Arboleda, Roberto Canullo, Michele Carbognani, Fabio Carvalho, Fernando Casanoves, Bastien Castagneyrol, Jane A Catford, Jeannine Cavender\u2010Bares, Bruno EL Cerabolini, Marco Cervellini, Eduardo Chac\u00f3n\u2010Madrigal, Kenneth Chapin, F Stuart Chapin, Stefano Chelli, Si\u2010Chong Chen, Anping Chen, Paolo Cherubini, Francesco Chianucci, Brendan Choat, Kyong\u2010Sook Chung, Milan Chytr\u00fd, Daniela Ciccarelli, Llu\u00eds Coll, Courtney G Collins, Luisa Conti, David Coomes, Johannes HC Cornelissen, William K Cornwell, Piermaria Corona, Marie Coyea, Joseph Craine, Dylan Craven, Joris PGM Cromsigt, Anik\u00f3 Csecserits, Katarina Cufar, Matthias Cuntz",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14904",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
       "RO_jAx7SIW8C": {
         "title": "Genetic paths to evolutionary rescue and the distribution of fitness effects along them",
         "year": "2020/2/1",
@@ -29497,6 +29488,15 @@
         "author": "Sarah P Otto, Alirio Rosales",
         "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/705991",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "8d0RQTsQA7wC": {
+        "title": "TRY plant trait database\u2013enhanced coverage and open access",
+        "year": "2020/1",
+        "publisher": "Global change biology",
+        "author": "Jens Kattge, Gerhard B\u00f6nisch, Sandra D\u00edaz, Sandra Lavorel, Iain Colin Prentice, Paul Leadley, Susanne Tautenhahn, Gijsbert DA Werner, Tuomas Aakala, Mehdi Abedi, Alicia TR Acosta, George C Adamidis, Kairi Adamson, Masahiro Aiba, C\u00e9cile H Albert, Julio M Alc\u00e1ntara, Carolina Alc\u00e1zar C, Izabela Aleixo, Hamada Ali, Bernard Amiaud, Christian Ammer, Mariano M Amoroso, Madhur Anand, Carolyn Anderson, Niels Anten, Joseph Antos, Deborah Mattos Guimar\u00e3es Apgaua, Tia\u2010Lynn Ashman, Degi Harja Asmara, Gregory P Asner, Michael Aspinwall, Owen Atkin, Isabelle Aubin, Lars Baastrup\u2010Spohr, Khadijeh Bahalkeh, Michael Bahn, Timothy Baker, William J Baker, Jan P Bakker, Dennis Baldocchi, Jennifer Baltzer, Arindam Banerjee, Anne Baranger, Jos Barlow, Diego R Barneche, Zdravko Baruch, Denis Bastianelli, John Battles, William Bauerle, Marijn Bauters, Erika Bazzato, Michael Beckmann, Hans Beeckman, Carl Beierkuhnlein, Renee Bekker, Gavin Belfry, Michael Belluau, Mirela Beloiu, Raquel Benavides, Lahcen Benomar, Mary Lee Berdugo\u2010Lattke, Erika Berenguer, Rodrigo Bergamin, Joana Bergmann, Marcos Bergmann Carlucci, Logan Berner, Markus Bernhardt\u2010R\u00f6mermann, Christof Bigler, Anne D Bjorkman, Chris Blackman, Carolina Blanco, Benjamin Blonder, Dana Blumenthal, Kelly T Bocanegra\u2010Gonz\u00e1lez, Pascal Boeckx, Stephanie Bohlman, Katrin B\u00f6hning\u2010Gaese, Laura Boisvert\u2010Marsh, William Bond, Ben Bond\u2010Lamberty, Arnoud Boom, Coline CF Boonman, Kauane Bordin, Elizabeth H Boughton, Vanessa Boukili, David MJS Bowman, Sandra Bravo, Marco Richard Brendel, Martin R Broadley, Kerry A Brown, Helge Bruelheide, Federico Brumnich, Hans Henrik Bruun, David Bruy, Serra W Buchanan, Solveig Franziska Bucher, Nina Buchmann, Robert Buitenwerf, Daniel E Bunker, Jana B\u00fcrger, Sabina Burrascano, David FRP Burslem, Bradley J Butterfield, Chaeho Byun, Marcia Marques, Marina C Scalon, Marco Caccianiga, Marc Cadotte, Maxime Cailleret, James Camac, Jes\u00fas Julio Camarero, Courtney Campany, Giandiego Campetella, Juan Antonio Campos, Laura Cano\u2010Arboleda, Roberto Canullo, Michele Carbognani, Fabio Carvalho, Fernando Casanoves, Bastien Castagneyrol, Jane A Catford, Jeannine Cavender\u2010Bares, Bruno EL Cerabolini, Marco Cervellini, Eduardo Chac\u00f3n\u2010Madrigal, Kenneth Chapin, F Stuart Chapin, Stefano Chelli, Si\u2010Chong Chen, Anping Chen, Paolo Cherubini, Francesco Chianucci, Brendan Choat, Kyong\u2010Sook Chung, Milan Chytr\u00fd, Daniela Ciccarelli, Llu\u00eds Coll, Courtney G Collins, Luisa Conti, David Coomes, Johannes HC Cornelissen, William K Cornwell, Piermaria Corona, Marie Coyea, Joseph Craine, Dylan Craven, Joris PGM Cromsigt, Anik\u00f3 Csecserits, Katarina Cufar, Matthias Cuntz",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14904",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
