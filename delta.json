@@ -1,1 +1,32 @@
-{}
+{
+  "YngkjFAAAAAJ": {
+    "Name": "Emma Griffiths",
+    "total_new": "1",
+    "publications": {
+      "fQNAKQ3IYiAC": {
+        "title": "Overview of NCBI's submission process and the metadata required",
+        "year": "2021/4/9",
+        "publisher": "Unknown",
+        "author": "Ruth E Timme, Emma Griffiths, Lee Katz",
+        "url": "https://scholar.google.com/scholar?cluster=17129148184440858927&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wHX6pyUAAAAJ": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
+    "publications": {
+      "hCrLmN-GePgC": {
+        "title": "Increasing spring dryness accelerates transitions toward pyrogenic vegetation in eastern boreal North America",
+        "year": "2025/4",
+        "publisher": "EGU General Assembly Conference Abstracts",
+        "author": "Martin Girardin, Adam A Ali, Dorian Gaboriau, Jonathan Lesven, C\u00e9cile Remy, Victor Danneyrolles, Hugo Asselin, Etienne Boucher, Dominique Arseneault, Fabio Gennaretti, Pierre Grondin, Michelle Garneau, Gabriel Magnan, Sylvie Gauthier, Bianca Fr\u00e9chette, Yves Bergeron",
+        "url": "https://ui.adsabs.harvard.edu/abs/2025EGUGA..27.2611G/abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
