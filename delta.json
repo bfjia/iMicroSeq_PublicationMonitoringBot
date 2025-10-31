@@ -3,28 +3,73 @@
     "Name": "Emma Griffiths",
     "total_new": "1",
     "publications": {
-      "fQNAKQ3IYiAC": {
-        "title": "Overview of NCBI's submission process and the metadata required",
-        "year": "2021/4/9",
-        "publisher": "Unknown",
-        "author": "Ruth E Timme, Emma Griffiths, Lee Katz",
-        "url": "https://scholar.google.com/scholar?cluster=17129148184440858927&hl=en&oi=scholarr",
+      "VOx2b1Wkg3QC": {
+        "title": "10 Simple Rules for Improving Your Standardized Fields and Terms",
+        "year": "2025/10/21",
+        "publisher": "arXiv preprint arXiv:2510.21825",
+        "author": "Rhiannon Cameron, Emma Griffiths, Damion Dooley, William Hsiao",
+        "url": "https://arxiv.org/abs/2510.21825",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "wHX6pyUAAAAJ": {
-    "Name": "Hugo Asselin",
+  "-EWOC3cAAAAJ": {
+    "Name": "Diego Borin Nobrega",
     "total_new": "1",
     "publications": {
-      "hCrLmN-GePgC": {
-        "title": "Increasing spring dryness accelerates transitions toward pyrogenic vegetation in eastern boreal North America",
-        "year": "2025/4",
-        "publisher": "EGU General Assembly Conference Abstracts",
-        "author": "Martin Girardin, Adam A Ali, Dorian Gaboriau, Jonathan Lesven, C\u00e9cile Remy, Victor Danneyrolles, Hugo Asselin, Etienne Boucher, Dominique Arseneault, Fabio Gennaretti, Pierre Grondin, Michelle Garneau, Gabriel Magnan, Sylvie Gauthier, Bianca Fr\u00e9chette, Yves Bergeron",
-        "url": "https://ui.adsabs.harvard.edu/abs/2025EGUGA..27.2611G/abstract",
+      "M3ejUd6NZC8C": {
+        "title": "Utiliza\u00e7\u00e3o de composto homeop\u00e1tico no tratamento da mastite bovina",
+        "year": "2021/6/25",
+        "publisher": "Arquivos do Instituto Biol\u00f3gico",
+        "author": "DB N\u00f3brega, H Langoni, JGF Joaquim, AV da Silva, PY Faccioli, AVR de Matos, BD Menozzi",
+        "url": "https://www.scielo.br/j/aib/a/6rRVsCSDK35bpztjPqhtqkb/",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "IZQgBh8AAAAJ": {
+    "Name": "Rita Isabel Henderson",
+    "total_new": "1",
+    "publications": {
+      "a0OBvERweLwC": {
+        "title": "Examining the impact of the first wave of COVID-19 on equitable access to emergency care across Alberta demographic groups: a retrospective observational study",
+        "year": "2025/10/1",
+        "publisher": "BMJ open",
+        "author": "Patrick McLane, Mandi Gray, Cheryl Barnabe, Katherine Rittenbach, Lea Bill, Brian R Holroyd, Eddy Lang, Antonia Stang, Jake Hayward, Rita Henderson, Greta G Cummings, Rhonda Rosychuk",
+        "url": "https://bmjopen.bmj.com/content/15/10/e104487.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "ThjB_RcAAAAJ": {
+    "Name": "Jiannis Ragoussis",
+    "total_new": "1",
+    "publications": {
+      "Hck25ST_3aIC": {
+        "title": "Nanopore long-read RNA-seq and absolute quantification delineate transcription dynamics in early embryo dev...",
+        "year": "2021/5/10",
+        "publisher": "Unknown",
+        "author": "Anthony Bayega, Spyros Oikonomopoulos, Maria-Eleni Gregoriou, Konstantina T Tsoumani, Yu Chang Wang, Antonis Giakountis, Kostas D Mathiopoulos, Jiannis Ragoussis",
+        "url": "https://www.protocols.io/de/view/nanopore-long-read-rna-seq-and-absolute-quantifica-d3w88phw",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "01K5Ks4AAAAJ": {
+    "Name": "William Hsiao",
+    "total_new": "1",
+    "publications": {
+      "t6usbXjVLHcC": {
+        "title": "10 Simple Rules for Improving Your Standardized Fields and Terms",
+        "year": "2025/10/21",
+        "publisher": "arXiv preprint arXiv:2510.21825",
+        "author": "Rhiannon Cameron, Emma Griffiths, Damion Dooley, William Hsiao",
+        "url": "https://arxiv.org/abs/2510.21825",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
