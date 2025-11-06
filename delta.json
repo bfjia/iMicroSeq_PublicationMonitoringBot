@@ -1,16 +1,31 @@
 {
-  "eRucyv4AAAAJ": {
-    "Name": "Srijak Bhatnagar",
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
     "total_new": "1",
     "publications": {
-      "_Qo2XoVZTnwC": {
-        "title": "Low Temperature Polyethylene Biodeterioration by Freshwater Microplastics-Associated Bacteria",
-        "year": "2025/10/30",
-        "publisher": "Unknown",
-        "author": "Abdoullah Hleihel, Jonas M Stadfeld, Kira L Goff, Amelia M Danzinger, Craig Beaver, Troy Stuart, Shauna Reckseidler-Zenteno, Janelle M Baker, Srijak Bhatnagar",
-        "url": "https://www.researchsquare.com/article/rs-7863526/latest",
-        "firstOrLast": true,
+      "ZD92IwzDgOkC": {
+        "title": "Identifying potentially inappropriate prescribing in entire populations: Coding the STOPP-START and Beers criteria for use with large, routinely collected population health \u2026",
+        "year": "2025/10/24",
+        "publisher": "Journal of Clinical Epidemiology",
+        "author": "Lise M Bjerre, Roland Halil, Christina Catley, Glenys Smith, Timothy Ramsay, Catriona Cahir, Crist\u00edn Ryan, Barbara Farrell, Kednapa Thavorn, Steven Hawken, Ulrika Gillespie, Douglas G Manuel, Kasim E Abdulaziz",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S089543562500352X",
+        "firstOrLast": false,
         "datasource": "Scholars"
+      }
+    }
+  },
+  "-bIc5H0AAAAJ": {
+    "Name": "Sarah Otto",
+    "total_new": "1",
+    "publications": {
+      "tntj4plCNvAC": {
+        "title": "Elevated mutation near crossovers inhibits the evolution of recombination",
+        "year": "2025/11/1",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Bret A. Payseur,Sarah P. Otto",
+        "url": "https://doi.org/10.1101/2025.11.01.685904",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
       }
     }
   }
