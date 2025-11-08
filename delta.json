@@ -1,1 +1,32 @@
-{}
+{
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
+    "total_new": "1",
+    "publications": {
+      "vTyThPXxS2MC": {
+        "title": "Metabolic forest: predicting the diverse structures of drug metabolites",
+        "year": "2020/9/3",
+        "publisher": "Journal of chemical information and modeling",
+        "author": "Tyler B Hughes, Na Le Dang, Ayush Kumar, Noah R Flynn, S Joshua Swamidass",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00360",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-bIc5H0AAAAJ": {
+    "Name": "Sarah Otto",
+    "total_new": "1",
+    "publications": {
+      "JLWRInN_eHMC": {
+        "title": "Evolutionary responses to increased opportunity for sexual selection in yeast",
+        "year": "2025/11/4",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "author": "Linnea Sandell,Anna L. Bazzicalupo,Sarah P. Otto,Nathaniel P. Sharp",
+        "url": "https://doi.org/10.1101/2025.11.03.686343",
+        "firstOrLast": false,
+        "datasource": "CrossRef"
+      }
+    }
+  }
+}
