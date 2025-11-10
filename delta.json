@@ -1,14 +1,29 @@
 {
-  "MNqeC0sAAAAJ": {
-    "Name": "Robert Michael McKay",
+  "rQUeGGsAAAAJ": {
+    "Name": "Lawrence Goodridge",
     "total_new": "1",
     "publications": {
-      "9c2xU6iGI7YC": {
-        "title": "Depth-resolved paired metagenomes and metatranscriptomes from the Lake Erie \u2018dead zone\u2019",
-        "year": "2025/11/5",
-        "publisher": "Microbiology Resource Announcements",
-        "author": "Katelyn M Brown, Benjamin FN Beall, George S Bullerjahn, Jacques C Finlay, Tijana Glavina Del Rio, Gaston E Small, Robert W Sterner, R Michael McKay",
-        "url": "https://journals.asm.org/doi/abs/10.1128/mra.01013-25",
+      "oNZyr7d5Mn4C": {
+        "title": "Passive sampling for genomic surveillance of SARS-CoV-2 in wastewater resource recovery facility: Insights for pandemic preparedness",
+        "year": "2025/6/22",
+        "publisher": "E",
+        "author": "Julio Plaza-Diaz, \u00c9lisabeth Mercier, Shen Wan, Nada Hegazy, Chandler Wong, Felix Addo, Elizabeth Renouf, Opeyemi U Lawal, Lawrence Goodridge",
+        "url": "https://uwindsor.scholaris.ca/items/ceddde3d-699b-4f02-8086-547037036b74",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "_bSRxzAAAAAJ": {
+    "Name": "Elizabeth M. Renouf",
+    "total_new": "1",
+    "publications": {
+      "9ZlFYXVOiuMC": {
+        "title": "Passive sampling for genomic surveillance of SARS-CoV-2 in wastewater resource recovery facility: Insights for pandemic preparedness",
+        "year": "2025/6/22",
+        "publisher": "E",
+        "author": "Julio Plaza-Diaz, \u00c9lisabeth Mercier, Shen Wan, Nada Hegazy, Chandler Wong, Felix Addo, Elizabeth Renouf, Opeyemi U Lawal, Lawrence Goodridge",
+        "url": "https://uwindsor.scholaris.ca/items/ceddde3d-699b-4f02-8086-547037036b74",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
