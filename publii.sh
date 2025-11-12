@@ -29,11 +29,14 @@ if grep -q "\[INFO\]" msg.md && grep -q "No new publication found." msg.md; then
     python slackConnector.py --messagefile msg.md --channel "C09D86E4T5H"
 else
     python slackConnector.py --messagefile msg.md --channel "C097CKA5U4X"
+	
+	#Since there's new publications, lets insert them into Google Sheets as well
+	python GoogleSheetAPIConnector.py
+
 fi
 
 #While in QA, post the logs too. 
 python slackConnector.py --message "Logs are temporarily attached for debugging purposes only, if needed." --channel "C09D86E4T5H" --file publii.log
-
 
 dateNow=$(date +%Y%m%d)
 
