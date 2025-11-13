@@ -245,6 +245,9 @@ def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear 
 
 
                 #found all publication after the max year, break the loop, dont actually add the publication
+                if publication.toDict()['year'] == "Unknown":
+                    publication.year = "2025"
+
                 if (parser.parse(publication.toDict()['year']).year < maxYear):
                     print("[INFO] Found all publication after " + str(maxYear))
                     break
