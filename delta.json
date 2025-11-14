@@ -1,122 +1,14 @@
 {
-  "rQUeGGsAAAAJ": {
-    "Name": "Lawrence Goodridge",
+  "sp21VmQAAAAJ": {
+    "Name": "Jeffrey R Brook",
     "total_new": "1",
     "publications": {
-      "WZBGuue-350C": {
-        "title": "Multi-Omic Analysis of Bacteriophage-Insensitive Mutants Reveals a Putative Role for the Rcs Two-Component Phosphorelay System in Phage Resistance Development in Erwinia amylovora",
-        "year": "2025/11/9",
-        "publisher": "Viruses",
-        "author": "Nassereldin Ibrahim, Janet T Lin, Darlene Nesbitt, Joshua Tang, Dharamdeo Singh, Lawrence D Goodridge, Dion Lepp, Antonet M Svircev, Joel T Weadge, Hany Anany",
-        "url": "https://www.mdpi.com/1999-4915/17/11/1487",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
-    "total_new": "3",
-    "publications": {
-      "86yHfZo4Dq0C": {
-        "title": "Overexpression of AdeIJK RND efflux pump in Acinetobacter baumannii using the mini-Tn7T-based single copy induction system can lead to lacIq mutation",
-        "year": "2025/11/10",
-        "publisher": "Microbiology Spectrum",
-        "author": "Ruwani L Wimalasekara, Rakesh Patidar, Dawn White, Ayush Kumar",
-        "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.01609-25",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "_S7C8mKT2SoC": {
-        "title": "Duodenal Lipoma Causing Recurrent Duodenal Obstruction: A Rare Case, Managed Surgically",
-        "year": "2023",
-        "publisher": "Int J Surg Res Pract",
-        "author": "S Jain, N Goel, A Kumar",
-        "url": "https://www.researchgate.net/profile/Sachin-Jain-41/publication/377297549_Duodenal_Lipoma_Causing_Recurrent_Duodenal_Obstruction_A_Rare_Case_Managed_Surgically/links/659ebb48c77ed940476dc781/Duodenal-Lipoma-Causing-Recurrent-Duodenal-Obstruction-A-Rare-Case-Managed-Surgically.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "zUAj9J37osIC": {
-        "title": "Modern mortuary complex plan in Covid-19 era",
-        "year": "2022",
-        "publisher": "Journal of Indian Academy of Forensic Medicine",
-        "author": "B Kumar, A Kumar, NP Singh, RB Gupta, N Goel, NK Singh",
-        "url": "https://scholar.google.com/scholar?cluster=17822849024345384190&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "S2HhkvEAAAAJ": {
-    "Name": "Sarah Dorner",
-    "total_new": "1",
-    "publications": {
-      "2KloaMYe4IUC": {
-        "title": "Predicting COVID-19 case counts using SARS-CoV-2 genetic diversity from wastewater",
-        "year": "2025/11/10",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Sana Naderi,Steven G. Sutcliffe,Gavin M. Douglas,Sukriye Celikkol Aydin,In\u00e8s Levade,Judith Fafard,Lila Naouelle Salhi,Fernando Sanchez-Quete,Sarah Reiling,Ju-ling Liu,Marc-Denis Rioux,David Dreifuss,Ivan Topolsky,Niko Beerenwinkel,Selena M. Sagan,Stephanie K. Loeb,Peter Vanrolleghem,Sarah Dorner,Dominic Frigon,Jiannis Ragoussis,B. Jesse Shapiro",
-        "url": "https://doi.org/10.1101/2025.11.07.25339787",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      }
-    }
-  },
-  "Ohu9Gc4AAAAJ": {
-    "Name": "B. Jesse Shapiro",
-    "total_new": "1",
-    "publications": {
-      "Z7R3Ocg27JUC": {
-        "title": "Predicting COVID-19 case counts using SARS-CoV-2 genetic diversity from wastewater",
-        "year": "2025/11/10",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Sana Naderi,Steven G. Sutcliffe,Gavin M. Douglas,Sukriye Celikkol Aydin,In\u00e8s Levade,Judith Fafard,Lila Naouelle Salhi,Fernando Sanchez-Quete,Sarah Reiling,Ju-ling Liu,Marc-Denis Rioux,David Dreifuss,Ivan Topolsky,Niko Beerenwinkel,Selena M. Sagan,Stephanie K. Loeb,Peter Vanrolleghem,Sarah Dorner,Dominic Frigon,Jiannis Ragoussis,B. Jesse Shapiro",
-        "url": "https://doi.org/10.1101/2025.11.07.25339787",
-        "firstOrLast": true,
-        "datasource": "CrossRef"
-      }
-    }
-  },
-  "ThjB_RcAAAAJ": {
-    "Name": "Jiannis Ragoussis",
-    "total_new": "1",
-    "publications": {
-      "QsaTk4IG4EwC": {
-        "title": "Predicting COVID-19 case counts using SARS-CoV-2 genetic diversity from wastewater",
-        "year": "2025/11/10",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Sana Naderi,Steven G. Sutcliffe,Gavin M. Douglas,Sukriye Celikkol Aydin,In\u00e8s Levade,Judith Fafard,Lila Naouelle Salhi,Fernando Sanchez-Quete,Sarah Reiling,Ju-ling Liu,Marc-Denis Rioux,David Dreifuss,Ivan Topolsky,Niko Beerenwinkel,Selena M. Sagan,Stephanie K. Loeb,Peter Vanrolleghem,Sarah Dorner,Dominic Frigon,Jiannis Ragoussis,B. Jesse Shapiro",
-        "url": "https://doi.org/10.1101/2025.11.07.25339787",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      }
-    }
-  },
-  "BZgRYfkAAAAJ": {
-    "Name": "Dominic Frigon",
-    "total_new": "1",
-    "publications": {
-      "NU-BerS4NX4C": {
-        "title": "Predicting COVID-19 case counts using SARS-CoV-2 genetic diversity from wastewater",
-        "year": "2025/11/10",
-        "publisher": "Cold Spring Harbor Laboratory",
-        "author": "Sana Naderi,Steven G. Sutcliffe,Gavin M. Douglas,Sukriye Celikkol Aydin,In\u00e8s Levade,Judith Fafard,Lila Naouelle Salhi,Fernando Sanchez-Quete,Sarah Reiling,Ju-ling Liu,Marc-Denis Rioux,David Dreifuss,Ivan Topolsky,Niko Beerenwinkel,Selena M. Sagan,Stephanie K. Loeb,Peter Vanrolleghem,Sarah Dorner,Dominic Frigon,Jiannis Ragoussis,B. Jesse Shapiro",
-        "url": "https://doi.org/10.1101/2025.11.07.25339787",
-        "firstOrLast": false,
-        "datasource": "CrossRef"
-      }
-    }
-  },
-  "U9VtJFcAAAAJ": {
-    "Name": "Alyssa Overton",
-    "total_new": "1",
-    "publications": {
-      "_FxGoFyzp5QC": {
-        "title": "Evaluation of sampling methods for genomic surveillance of SARS-CoV-2 variants in aircraft wastewater: Advancing global early-warning systems for future pandemics",
-        "year": "2025",
-        "publisher": "Frontiers in Microbiology",
-        "author": "Opeyemi U Lawal, Valeria R Parreira, Fozia Rizvi, Melinda Precious, Rebecca EV Anderson, Alyssa K Overton, Jennifer J Knapp, Brittany Maxwell, Steven Thomas, Marcos Zambrano, Chrystal Landgraff, Natalie C Knox, Manon D Fleury, Trevor Carlos Charles, Lawrence Goodridge",
-        "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1717424/abstract",
+      "Cvh0bltMcLgC": {
+        "title": "Prenatal fluoride exposure and autistic behaviors in preschool-aged children: the Maternal-Infant Research on Environmental Chemicals (MIREC) cohort study",
+        "year": "2025/12",
+        "publisher": "Environmental Health",
+        "author": "Adele Carty, Rivka Green, Carly V Goodman, John R McLaughlin, Howard Hu, Bruce Lanphear, E Martinez-Mier, Amanda J MacFarlane, Gina Muckle, Jeffrey R Brook, Christine Till",
+        "url": "https://link.springer.com/article/10.1186/s12940-025-01237-9",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
