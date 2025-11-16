@@ -1,89 +1,14 @@
 {
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
-    "total_new": "4",
-    "publications": {
-      "4Xn8SalqYmMC": {
-        "title": "Inducing ferroptosis to impede metastasis by inhibiting the calcium channel TRPC6",
-        "year": "2025/11/25",
-        "publisher": "Cell Reports",
-        "author": "Boris S Dimitrov, Dimpi Mukhopadhyay, Hira Lal Goel, Emmet R Karner, Christi A Silva, Ayush Kumar, Cornelia Peterson, Mengdie Wang, Arthur M Mercurio",
-        "url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01314-2",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "2VFzdV3DcEMC": {
-        "title": "Resistance to radiation enhances metastasis by altering RNA metabolism",
-        "year": "2025/10/17",
-        "publisher": "Science Advances",
-        "author": "Ayush Kumar, Kensei Kishimoto, Hira L Goel, Christi A Silva, Rui Li, Brendan Pacheco, Lihua J Zhu, William A Flavahan, Arthur M Mercurio",
-        "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx3050",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "ZJKMmrYpGLkC": {
-        "title": "Abstract B012: HNRNPL-mediated mRNA stability underlies metastasis triggered by resistance to radiation therapy",
-        "year": "2024/11/14",
-        "publisher": "Molecular Cancer Therapeutics",
-        "author": "Ayush Kumar, Kensei Kishimoto, Christi Wisniewski, Shivam Goel, Arthur Mercurio",
-        "url": "https://aacrjournals.org/mct/article/23/11_Supplement/B012/749629",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "PRjLZGxZpaIC": {
-        "title": "The Role of RNA Stability in the Invasive Capacity of Radioresistant Triple Negative Breast Cancer",
-        "year": "2024/10/1",
-        "publisher": "International Journal of Radiation Oncology, Biology, Physics",
-        "author": "A Kumar, HL Goel, TJ FitzGerald, A Mercurio",
-        "url": "https://www.redjournal.org/article/S0360-3016(24)01595-5/abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
-    "total_new": "3",
-    "publications": {
-      "ujJXPdh5xs4C": {
-        "title": "Novel Recombinase Polymerase Amplification Assay Is Sensitive for Detection of Macrolide Resistance Genes Relevant to Bovine Respiratory Disease Management in Feedlot Calves",
-        "year": "2025/11/12",
-        "publisher": "Veterinary Sciences",
-        "author": "Tara Funk, Lianne McLeod, Cheyenne C Conrad, Rahat Zaheer, Simon JG Otto, Cheryl L Waldner, Tim A McAllister",
-        "url": "https://www.mdpi.com/2306-7381/12/11/1079",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "gxL4SBlKZTUC": {
-        "title": "Modelling environmental impacts associated with use of implants in pre-weaned calves.",
-        "year": "2025/10/1",
-        "publisher": "O",
-        "author": "Kim H Ominski, Deanne H Fulawka, Megan Donnelly, Karin H Wittenberg, Tim A McAllister, Getahun Legesse, Marcos Cordeiro, Kelly W Bruns",
-        "url": "https://scholar.google.com/scholar?cluster=15230165288759008602&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "oEW5MyxtvQ4C": {
-        "title": "Assessing the role of livestock in a circular bioeconomy.",
-        "year": "2025/10/1",
-        "publisher": "O",
-        "author": "Clark Halpern, Loekie Schreefel, Barbara Amon, Tim A McAllister, Hannah van Zanten",
-        "url": "https://scholar.google.com/scholar?cluster=1502532649402650093&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "-wodEfIAAAAJ": {
-    "Name": "Annemieke Farenhorst",
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
     "total_new": "1",
     "publications": {
-      "JoZmwDi-zQgC": {
-        "title": "Flow-through analytical systems and microsystems with electrochemical detection for monitoring of biologically active species (IUPAC Technical Report)",
-        "year": "2025/11/14",
-        "publisher": "Pure and Applied Chemistry",
-        "author": "J\u00e1n Labuda, Craig E Banks, Ji\u0159\u00ed Barek, Alberto Escarpa, Annemieke Farenhorst, Ji\u0159\u00ed Kudr, Frank-Michael Matysik, Arben Merko\u00e7i, \u013dubom\u00edr \u0160vorc, Joseph Wang, Ond\u0159ej Z\u00edtka",
-        "url": "https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0514/html",
+      "mlAyqtXpCwEC": {
+        "title": "Temperature and light drive physiological and transcriptional responses, modulating infection outcomes in a freshwater diatom\u2013chytrid system",
+        "year": "2025/10/11",
+        "publisher": "Limnology and Oceanography",
+        "author": "Katelyn McKindles, Kensuke Seto, D Quynh Nguyen, Timothy Y James, R Michael McKay",
+        "url": "https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.70224",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
