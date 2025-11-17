@@ -48,6 +48,12 @@ class publications:
     
 def extractMetadataFromCrossRef(title, profileName, pubID):
     # URL encode the title
+
+
+    #NOTE:2025-11-17 WE DO NOT WANT TO PULL FROM CROSSREF BECAUSE THE PUBLISHER IS WRONG and biorxiv is stored in the "insitutition" field for some reason
+    return "defer"
+
+
     query = urllib.parse.quote(title)
     url = f"https://api.crossref.org/works?query.title={query}&rows=1"
 
@@ -74,6 +80,7 @@ def extractMetadataFromCrossRef(title, profileName, pubID):
 
 
             journal = item.get('publisher', 'N/A')
+            #journal = item.get('institution', "N/A")[0]['name']
             doi = item.get('DOI', 'N/A')
             actualPubURL = f"https://doi.org/{doi}" if doi != 'N/A' else 'N/A'
 
@@ -330,13 +337,115 @@ def loadJson(filename):
     with open(filename, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+def formatSlackMsg(deltaJson):
+    Msg = ""
+    if len(deltaJson) > 0:
+        Msg = "[NEW!]\n\n"
+        for authorID in deltaJson:
+            #if len(deltaJson[authorID]['publications']) > 1:
+                #Msg = Msg + deltaJson[authorID]['Name'] + " has new publications: \n"
+            pubsToOutput = []
+            for pubID in deltaJson[authorID]['publications']:
+                pub = deltaJson[authorID]['publications'][pubID]
+                if (parser.parse(pub['year']).year >= 2025):
+                    pubsToOutput.append(pub)
+                    #Msg = Msg + "* " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n"
+                else:
+                    print("[WARNING] Some how picked up a old publication in delta Json: (" + 
+                            pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
+            
+            if len(pubsToOutput) > 1:
+                Msg = Msg + deltaJson[authorID]['Name'] + " has new publications: \n"
+            elif len(pubsToOutput )== 1:
+                Msg = Msg + deltaJson[authorID]['Name'] + " has a new publication: \n"
+            
+            for pub in pubsToOutput:
+                Msg = Msg + "* "
+                if pub["firstOrLast"]:
+                    Msg = Msg + "[First or Senior Author] "
+                Msg = Msg + pub['title'] + ". "
+                if pub["publisher"] != None:
+                    Msg = Msg + "Published in " + pub['publisher'] + ". "
+                if pub['url'] != None:
+                    Msg = Msg + ". Available at " + pub['url'] + ". "
+                Msg = Msg + "\n"
+
+        #In cases of all pubs were old ones, just output nothing new found.
+        if Msg == "[NEW!]\n\n":
+            Msg = "[INFO]\nNo new publication found."
+    else:
+        Msg = "[INFO]\nNo new publication found."
+
+    return Msg
+
+
+def formatSlackMsg2(deltaJson):
+    Msg = ""
+    if len(deltaJson) == 0: #if theres nothing in the json file, return the appropariate msg
+        return "[INFO]\nNo new publication found."
+    else:
+        #first we switch from scholarID based index to publication title based index.
+        publicationTitleKVP = {}
+        for authorID in deltaJson:
+            for pubID in deltaJson[authorID]['publications']:
+                pub = deltaJson[authorID]['publications'][pubID]
+                title = pub['title']
+                if (parser.parse(pub['year']).year >= 2025):
+                    if title not in publicationTitleKVP.keys(): #new pub
+                        publicationTitleKVP[title] = pub
+                        publicationTitleKVP[title]["Name"] = deltaJson[authorID]["Name"]
+                    else: #existing pub, append new author to existing list
+                        publicationTitleKVP[title]["Name"] = publicationTitleKVP[title]["Name"]  + ", " + deltaJson[authorID]["Name"]
+                else:
+                    print("[WARNING] Some how picked up a old publication in delta Json: (" + 
+                            pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
+        
+        # If there's no new publications, just return the msg. Else,  we reindex the publications with the Name as the index .
+        if len(publicationTitleKVP.keys()) == 0:
+            return "[INFO]\nNo new publication found."
+        else:
+            publicationNameKVP = {}
+            for title in publicationTitleKVP:
+                pub = publicationTitleKVP[title]
+                name = pub["Name"]
+                if name not in publicationNameKVP:
+                    publicationNameKVP[name] = [pub]
+                else:
+                    publicationNameKVP[name].append(pub)
+
+
+        #Format the output msg
+        for name in publicationNameKVP:
+            if len(publicationNameKVP[name]) == 1: #only  1 publication:
+                pub = publicationNameKVP[name][0]
+                Msg = Msg + name + " has a new publication: \n"
+                Msg = Msg + "  * " + pub["title"] + ". "
+                if pub['publisher'] != None:
+                    Msg = Msg + " Published in " + pub['publisher'] + ". "
+                if pub['url'] != None:                
+                    Msg = Msg + " " + pub['url'] + "\n"
+            else: #multiple pubs for same author
+                Msg = Msg + name + " has new publications: \n"
+                for pub in publicationNameKVP[name]:
+                    Msg = Msg + "  * " + pub["title"] + ". "
+                    if pub['publisher'] != None:
+                        Msg = Msg + " Published in " + pub['publisher'] + ". "  
+                    if pub['url'] != None:                
+                        Msg = Msg + " " + pub['url'] + "\n"
+                    else:
+                        Msg = Msg + "URL unavailable."
+
+            Msg = Msg + "\n"
+        
+        return Msg
+
+
 if __name__ == "__main__":
     if os.path.exists(jsonFile):
         shutil.copy2(jsonFile, lastJsonFile)
     lastPublicationJson = loadJson(lastJsonFile)
     with open(authorsToMonitor, 'r') as f:
         authorIDList = [line.strip() for line in f]
-
 
     # Setup headless Firefox
     options = Options()
@@ -382,60 +491,18 @@ if __name__ == "__main__":
     saveJson(newPublications, deltaJsonFile)
 
     #Lets format the message for the slack bot
-    deltaJson = loadJson(deltaJsonFile)
+    Msg = formatSlackMsg(loadJson(deltaJsonFile))
 
-    Msg = ""
-    if len(deltaJson) > 0:
-        Msg = "[NEW!]\n\n"
-        for authorID in deltaJson:
-            #if len(deltaJson[authorID]['publications']) > 1:
-                #Msg = Msg + deltaJson[authorID]['Name'] + " has new publications: \n"
-            pubsToOutput = []
-            for pubID in deltaJson[authorID]['publications']:
-                pub = deltaJson[authorID]['publications'][pubID]
-                if (parser.parse(pub['year']).year >= 2025):
-                    pubsToOutput.append(pub)
-                    #Msg = Msg + "* " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n"
-                else:
-                    print("[WARNING] Some how picked up a old publication in delta Json: (" + 
-                            pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
-            
-            if len(pubsToOutput) > 1:
-                Msg = Msg + deltaJson[authorID]['Name'] + " has new publications: \n"
-            elif len(pubsToOutput )== 1:
-                Msg = Msg + deltaJson[authorID]['Name'] + " has a new publication: \n"
-            
-            for pub in pubsToOutput:
-                Msg = Msg + "* "
-                if pub["firstOrLast"]:
-                    Msg = Msg + "[First or Senior Author] "
-                Msg = Msg + pub['title'] + ". "
-                if pub["publisher"] != None:
-                    Msg = Msg + "Published in " + pub['publisher'] + ". "
-                if pub['url'] != None:
-                    Msg = Msg + ". Available at " + pub['url'] + ". "
-                Msg = Msg + "\n"
-
-                 
-
-                #Msg = Msg + "Congratulations!\n\n"
-            # else:
-            #     for pubID in deltaJson[authorID]['publications']:
-            #         pub = deltaJson[authorID]['publications'][pubID]
-            #         Msg = Msg + deltaJson[authorID]['Name'] + " has a new publication: \n"
-            #         if (parser.parse(pub['year']).year >= 2025):
-            #             pubsToOutput.append(pub)
-            #         else:
-            #             print("[WARNING] Some how picked up a old publication in delta Json: (" + 
-            #                   pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
-        
-        #In cases of all pubs were old ones, just output nothing new found.
-        if Msg == "[NEW!]\n\n":
-            Msg = "[INFO]\nNo new publication found."
-    else:
-        Msg = "[INFO]\nNo new publication found."
-
+    #write it to an md file to upload via slack bolt
     with open ("msg.md", 'w') as f:
         f.writelines(Msg)
+
+    Msg = formatSlackMsg2(loadJson(deltaJsonFile))
+
+    #write it to an md file to upload via slack bolt
+    with open ("msg_test.md", 'w') as f:
+        f.writelines(Msg)
+
+    
 
     
