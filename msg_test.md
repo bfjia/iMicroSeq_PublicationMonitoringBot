@@ -1,3 +1,3 @@
-Sarah Otto has a new publication: 
-  * Evolutionary responses to increased opportunity for sexual selection in yeast.  Published in bioRxiv.  https://www.biorxiv.org/content/10.1101/2025.11.03.686343.abstract
+Diego Borin Nobrega has a new publication: 
+  * Infodemiology of public sentiment toward the measles vaccine in Canada: A google trends and health belief model–based analysis, 2025.  Published in Vaccine.  https://www.sciencedirect.com/science/article/pii/S0264410X25012964
 
