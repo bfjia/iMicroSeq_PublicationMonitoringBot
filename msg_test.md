@@ -1,3 +1,3 @@
-Diego Borin Nobrega has a new publication: 
-  * Infodemiology of public sentiment toward the measles vaccine in Canada: A google trends and health belief model–based analysis, 2025.  Published in Vaccine.  https://www.sciencedirect.com/science/article/pii/S0264410X25012964
+Natalie C Knox has a new publication: 
+  * Spatiotemporal estimation of actively shedding mpox virus, clade IIb, cases using wastewater signals in British Columbia, Canada.  Published in Environment International.  https://www.sciencedirect.com/science/article/pii/S0160412025006737
 
