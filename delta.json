@@ -1,1 +1,17 @@
-{}
+{
+  "rHFCtWwAAAAJ": {
+    "Name": "Finlay Maguire",
+    "total_new": "1",
+    "publications": {
+      "KxtntwgDAa4C": {
+        "title": "AMR-Hackathon-2021/benchmarking_datasets: v1. 1.0",
+        "year": "2021",
+        "publisher": "Zenodo",
+        "author": "Leonardo De Oliveira Martins, Casper Jamin, Finlay Maguire",
+        "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...6543963D/abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
