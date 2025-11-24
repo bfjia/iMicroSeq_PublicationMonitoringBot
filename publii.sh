@@ -29,7 +29,7 @@ if grep -q "\[INFO\]" msg.md && grep -q "No new publication found." msg.md; then
     python slackConnector.py --messagefile msg.md --channel "C09D86E4T5H"
 else
     python slackConnector.py --messagefile msg.md --channel "C097CKA5U4X"
-	python slackConnector.py --messagefile msg_test.md --channel "C09D86E4T5H"
+	#python slackConnector.py --messagefile msg_test.md --channel "C09D86E4T5H"
 
 	#Since there's new publications, lets insert them into Google Sheets as well
 	python GoogleSheetAPIConnector.py

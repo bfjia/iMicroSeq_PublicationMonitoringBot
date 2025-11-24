@@ -491,18 +491,11 @@ if __name__ == "__main__":
     saveJson(newPublications, deltaJsonFile)
 
     #Lets format the message for the slack bot
-    Msg = formatSlackMsg(loadJson(deltaJsonFile))
+    Msg = formatSlackMsg2(loadJson(deltaJsonFile))
 
     #write it to an md file to upload via slack bolt
     with open ("msg.md", 'w') as f:
         f.writelines(Msg)
-
-    Msg = formatSlackMsg2(loadJson(deltaJsonFile))
-
-    #write it to an md file to upload via slack bolt
-    with open ("msg_test.md", 'w') as f:
-        f.writelines(Msg)
-
     
 
     
