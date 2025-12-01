@@ -1,59 +1,14 @@
 {
-  "O3Kin-IAAAAJ": {
-    "Name": "Michael Parkins",
+  "wQywY-EAAAAJ": {
+    "Name": "Robert E. W. Hancock",
     "total_new": "1",
     "publications": {
-      "L8Ckcad2t8MC": {
-        "title": "Extrapulmonary manifestations of cystic fibrosis",
-        "year": "2025/3/11",
-        "publisher": "E",
-        "author": "Barry J Plant, Michael D Parkins",
-        "url": "https://publications.ersnet.org/index.php/content/book/monograph/978-1-84984-051-4/part/part_3/chapter/chapter_15",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "rQUeGGsAAAAJ": {
-    "Name": "Lawrence Goodridge",
-    "total_new": "1",
-    "publications": {
-      "S16KYo8Pm5AC": {
-        "title": "Leveraging artificial intelligence",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Jeff Gauthier, Sima Mohammadi, Irena Kukavica-Ibrulj, Brian Boyle, Chrystal Landgraff, Lawrence Goodridge, Kenton White, Benjamin Chapman, Roger C Levesque",
-        "url": "https://www.researchgate.net/profile/Jeff-Gauthier/publication/397991396_Leveraging_artificial_intelligence_community_analytics_and_nanopore_metagenomic_surveillance_to_monitor_early_enteropathogen_outbreaks/links/6926f3acacf4cf6385381755/Leveraging-artificial-intelligence-community-analytics-and-nanopore-metagenomic-surveillance-to-monitor-early-enteropathogen-outbreaks.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "LghEfpEAAAAJ": {
-    "Name": "Gary Van Domselaar",
-    "total_new": "1",
-    "publications": {
-      "5-bGDoUgDrYC": {
-        "title": "Phylogenomic analysis and genetic mechanisms of antifungal resistance in clinical isolates of Candida glabrata (Nakaseomyces glabratus) from across Canada \u2026",
-        "year": "2025/11/26",
-        "publisher": "Microbiology Spectrum",
-        "author": "Domenica G De Luca, David C Alexander, Tanis C Dingle, Philippe J Dufresne, Jeff Fuller, Greg J German, David Haldane, Linda M Hoang, Lei Jiao, Julianne V Kus, Lisa Li, Kathy Malejczyk, Caroline Sheitoyan-Pesant, Markus Stein, Morag Graham, Gary Van Domselaar, Amrita Bharat",
-        "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.01803-25",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "sp21VmQAAAAJ": {
-    "Name": "Jeffrey R Brook",
-    "total_new": "1",
-    "publications": {
-      "GtqhT-R7ZnwC": {
-        "title": "Association of early-life dust allergens and endotoxin with childhood asthma and lung function: An analysis of the CHILD study",
-        "year": "2025/11/18",
-        "publisher": "E",
-        "author": "Makiko Nanishi, Myrtha Reyna, Jacob McCoy, Vanessa Breton, Marc-Antoine B\u00e9dard, Qingling Duan, Elizabeth George, Biswajit Chowdhury, Bree Sharma, Ruixue Dai, Nervana Metwali, Sarah Perry, Elinor Simons, Stuart Turvey, Piush Mandhane, Allan Becker, Meghan Azad, Malcolm Sears, Wendy Lou, Theo Moraes, Jeffrey Brook, Peter Thorne, Padmaja Subbarao",
-        "url": "https://publications.ersnet.org/content/erj/66/suppl69/oa1265",
+      "rr29yNp9FasC": {
+        "title": "A scalable reinforcement learning approach for screening large peptide libraries for bioactive peptide discovery",
+        "year": "2025/11/27",
+        "publisher": "Nature Communications",
+        "author": "Mohit Pandey, Jane Foo, Shabnam Massah, Morgan A Alford, Hazem Mslati, Gopeshh Subbaraj, Mira Saba, Francesco Gentile, Nada Lallous, Evan F Haney, Robert EW Hancock, Martin Ester, Artem Cherkasov",
+        "url": "https://www.nature.com/articles/s41467-025-66748-y",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
