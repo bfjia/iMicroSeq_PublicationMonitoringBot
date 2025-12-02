@@ -1,17 +1,1 @@
-{
-  "wQywY-EAAAAJ": {
-    "Name": "Robert E. W. Hancock",
-    "total_new": "1",
-    "publications": {
-      "rr29yNp9FasC": {
-        "title": "A scalable reinforcement learning approach for screening large peptide libraries for bioactive peptide discovery",
-        "year": "2025/11/27",
-        "publisher": "Nature Communications",
-        "author": "Mohit Pandey, Jane Foo, Shabnam Massah, Morgan A Alford, Hazem Mslati, Gopeshh Subbaraj, Mira Saba, Francesco Gentile, Nada Lallous, Evan F Haney, Robert EW Hancock, Martin Ester, Artem Cherkasov",
-        "url": "https://www.nature.com/articles/s41467-025-66748-y",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  }
-}
+{}
