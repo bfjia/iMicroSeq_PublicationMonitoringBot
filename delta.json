@@ -1,1 +1,32 @@
-{}
+{
+  "O3Kin-IAAAAJ": {
+    "Name": "Michael Parkins",
+    "total_new": "1",
+    "publications": {
+      "0CzhzZyukY4C": {
+        "title": "Remodelling of cystic fibrosis respiratory microbiota in response to extended Elexacaftor/Tezacaftor/Ivacaftor therapy",
+        "year": "2025",
+        "publisher": "medRxiv",
+        "author": "Helen Gavillet, Lauren R Hatfield, Michelle Hardman, Ryan Marsh, Gisli G Einarsson, Christina S Thornton, Michael D Parkins, Jamie Duckers, Jennifer M Bomberger, Yasmin Hilliam, Stella E Lee, Robert W Lord, Andrew Jones, Alexander Horsley, Thomas WV Daniels, Charlotte C Teneback, Damien W Rivett, Christopher van der Gast",
+        "url": "https://www.medrxiv.org/content/10.1101/2025.11.27.25341148.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
+    "total_new": "1",
+    "publications": {
+      "T64LSalLz9oC": {
+        "title": "Exploring relationships between sleep quality and clinical depression in the Canadian Longitudinal Study on Aging",
+        "year": "2025/12/1",
+        "publisher": "Sleep Medicine",
+        "author": "Samia Salame, Therese Chan, Tetyana Kendzerska, Stacey Fisher, Doug Manuel, Amy Hsu",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1389945725023676",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
