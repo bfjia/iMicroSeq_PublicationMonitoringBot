@@ -1,29 +1,62 @@
 {
-  "O3Kin-IAAAAJ": {
-    "Name": "Michael Parkins",
+  "rQUeGGsAAAAJ": {
+    "Name": "Lawrence Goodridge",
     "total_new": "1",
     "publications": {
-      "0CzhzZyukY4C": {
-        "title": "Remodelling of cystic fibrosis respiratory microbiota in response to extended Elexacaftor/Tezacaftor/Ivacaftor therapy",
-        "year": "2025",
-        "publisher": "medRxiv",
-        "author": "Helen Gavillet, Lauren R Hatfield, Michelle Hardman, Ryan Marsh, Gisli G Einarsson, Christina S Thornton, Michael D Parkins, Jamie Duckers, Jennifer M Bomberger, Yasmin Hilliam, Stella E Lee, Robert W Lord, Andrew Jones, Alexander Horsley, Thomas WV Daniels, Charlotte C Teneback, Damien W Rivett, Christopher van der Gast",
-        "url": "https://www.medrxiv.org/content/10.1101/2025.11.27.25341148.abstract",
+      "i2xiXl-TujoC": {
+        "title": "Building capacity in One Health: a case study in developing and sustaining interdisciplinary programs in higher education",
+        "year": "2025/12/2",
+        "publisher": "BioScience",
+        "author": "Brian C Husband, Heather Pollock, Katie Clow, Elizabeth Finnis, Lawrence Goodridge, Amy Newman, E Jane Parmley, Stephanie Rosen, Travis S Steffens",
+        "url": "https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaf160/8362531",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "U3rqorsAAAAJ": {
-    "Name": "Doug Manuel",
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
+    "total_new": "3",
+    "publications": {
+      "t0WnC8xj2-sC": {
+        "title": "DARKEXTRACT: TOOL FOR EXTRACTING AND ANALYZING TOR BROWSER HOST-BASED ACTIVITIES",
+        "year": "2025",
+        "publisher": "INTERNATIONAL JOURNAL",
+        "author": "A KUMAR, A MAHMOUD, N MANDELA, N MISTRY",
+        "url": "https://elibrary.ru/item.asp?id=80680135",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "EAFB8lEiR30C": {
+        "title": "ADVANCED FORENSIC ANALYSIS OF TAILS OPERATING SYSTEMS AND ITS IMPLICATION TO CYBERCRIME IN DEEP AND DARK WEB",
+        "year": "2025",
+        "publisher": "INTERNATIONAL JOURNAL",
+        "author": "A KUMAR, A MAHMOUD, N MANDELA, N MISTRY",
+        "url": "https://elibrary.ru/item.asp?id=80678634",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "JRy6eiyfWjYC": {
+        "title": "Sustainable Manufacturing of High-Performance Composites from Recycled Materials",
+        "year": "2023",
+        "publisher": "E3S Web of Conferences",
+        "author": "Pankaj Sonia, A Sathish Kumar, Irfan Khan, Shilpa Pahwa, Zahraa N Salman, Navdeep Singh",
+        "url": "https://www.e3s-conferences.org/articles/e3sconf/abs/2023/67/e3sconf_icmpc2023_01105/e3sconf_icmpc2023_01105.html",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "v9h5yVEAAAAJ": {
+    "Name": "Art FY Poon",
     "total_new": "1",
     "publications": {
-      "T64LSalLz9oC": {
-        "title": "Exploring relationships between sleep quality and clinical depression in the Canadian Longitudinal Study on Aging",
-        "year": "2025/12/1",
-        "publisher": "Sleep Medicine",
-        "author": "Samia Salame, Therese Chan, Tetyana Kendzerska, Stacey Fisher, Doug Manuel, Amy Hsu",
-        "url": "https://www.sciencedirect.com/science/article/pii/S1389945725023676",
+      "anf4URPfarAC": {
+        "title": "Ancestral reconstruction supports that loss of Nef-mediated T cell modulation coincided with the emergence of pathogenic lentiviruses",
+        "year": "2025/12/2",
+        "publisher": "Journal of Virology",
+        "author": "Angelina M Baldino, Mitchell J Mumby, Cassandra R Edgar, Abayomi S Olabode, Art FY Poon, Jimmy D Dikeakos",
+        "url": "https://journals.asm.org/doi/abs/10.1128/jvi.01548-25",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
