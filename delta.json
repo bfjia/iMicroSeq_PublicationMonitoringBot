@@ -1,62 +1,44 @@
 {
-  "rQUeGGsAAAAJ": {
-    "Name": "Lawrence Goodridge",
+  "SmBwcwUAAAAJ": {
+    "Name": "Graham Gagnon",
     "total_new": "1",
     "publications": {
-      "i2xiXl-TujoC": {
-        "title": "Building capacity in One Health: a case study in developing and sustaining interdisciplinary programs in higher education",
+      "1tZ8xJnm2c8C": {
+        "title": "Nitrate-Mediated Photooxidation of Steroid Estrogens: Efficacy and Prospects for Wastewater Treatment",
         "year": "2025/12/2",
-        "publisher": "BioScience",
-        "author": "Brian C Husband, Heather Pollock, Katie Clow, Elizabeth Finnis, Lawrence Goodridge, Amy Newman, E Jane Parmley, Stephanie Rosen, Travis S Steffens",
-        "url": "https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaf160/8362531",
-        "firstOrLast": false,
+        "publisher": "ACS ES&T Water",
+        "author": "Jessica L Bennett, Sean A MacIsaac, Manda Tchonlla, Crystal L Sweeney, Graham A Gagnon",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.5c00725",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
   },
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
-    "total_new": "3",
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
+    "total_new": "1",
     "publications": {
-      "t0WnC8xj2-sC": {
-        "title": "DARKEXTRACT: TOOL FOR EXTRACTING AND ANALYZING TOR BROWSER HOST-BASED ACTIVITIES",
-        "year": "2025",
-        "publisher": "INTERNATIONAL JOURNAL",
-        "author": "A KUMAR, A MAHMOUD, N MANDELA, N MISTRY",
-        "url": "https://elibrary.ru/item.asp?id=80680135",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "EAFB8lEiR30C": {
-        "title": "ADVANCED FORENSIC ANALYSIS OF TAILS OPERATING SYSTEMS AND ITS IMPLICATION TO CYBERCRIME IN DEEP AND DARK WEB",
-        "year": "2025",
-        "publisher": "INTERNATIONAL JOURNAL",
-        "author": "A KUMAR, A MAHMOUD, N MANDELA, N MISTRY",
-        "url": "https://elibrary.ru/item.asp?id=80678634",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "JRy6eiyfWjYC": {
-        "title": "Sustainable Manufacturing of High-Performance Composites from Recycled Materials",
-        "year": "2023",
-        "publisher": "E3S Web of Conferences",
-        "author": "Pankaj Sonia, A Sathish Kumar, Irfan Khan, Shilpa Pahwa, Zahraa N Salman, Navdeep Singh",
-        "url": "https://www.e3s-conferences.org/articles/e3sconf/abs/2023/67/e3sconf_icmpc2023_01105/e3sconf_icmpc2023_01105.html",
-        "firstOrLast": false,
+      "DPO9WFcz7UcC": {
+        "title": "Genomic predictions of mastitis-related traits early in the first lactation of dairy heifers using a single-step genomic approach",
+        "year": "2025/12/4",
+        "publisher": "Journal of Dairy Science",
+        "author": "Saranya G Narayana, Flavio S Schenkel, Hinayah R de Oliveira, Jorge Hidalgo, Gerson A Oliveira Jr, Filippo Miglior, Erin Massender, Herman W Barkema",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022030225009890",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
   },
-  "v9h5yVEAAAAJ": {
-    "Name": "Art FY Poon",
+  "sp21VmQAAAAJ": {
+    "Name": "Jeffrey R Brook",
     "total_new": "1",
     "publications": {
-      "anf4URPfarAC": {
-        "title": "Ancestral reconstruction supports that loss of Nef-mediated T cell modulation coincided with the emergence of pathogenic lentiviruses",
-        "year": "2025/12/2",
-        "publisher": "Journal of Virology",
-        "author": "Angelina M Baldino, Mitchell J Mumby, Cassandra R Edgar, Abayomi S Olabode, Art FY Poon, Jimmy D Dikeakos",
-        "url": "https://journals.asm.org/doi/abs/10.1128/jvi.01548-25",
+      "cF7EPgIk0B4C": {
+        "title": "Associations between exposure to air pollution and obesity and related anthropometric measurements in adults: a systematic review and meta-analysis",
+        "year": "2025/12/3",
+        "publisher": "A",
+        "author": "Mehnaz Munir, Sana Mushtaq, Amal Khan, Sandi M Azab, Shrikant Bangdiwala, Om Kurmi, Dany Doiron, Jeffrey Brook, Laura Banfield, Russell J de Souza",
+        "url": "https://www.sciencedirect.com/science/article/pii/S001393512502729X",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
