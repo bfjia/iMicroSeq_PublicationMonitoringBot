@@ -1,44 +1,14 @@
 {
-  "SmBwcwUAAAAJ": {
-    "Name": "Graham Gagnon",
+  "28A7wWkAAAAJ": {
+    "Name": "Marc-Andr\u00e9 Langlois",
     "total_new": "1",
     "publications": {
-      "1tZ8xJnm2c8C": {
-        "title": "Nitrate-Mediated Photooxidation of Steroid Estrogens: Efficacy and Prospects for Wastewater Treatment",
-        "year": "2025/12/2",
-        "publisher": "ACS ES&T Water",
-        "author": "Jessica L Bennett, Sean A MacIsaac, Manda Tchonlla, Crystal L Sweeney, Graham A Gagnon",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.5c00725",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "VaLlkyoAAAAJ": {
-    "Name": "Herman W. Barkema",
-    "total_new": "1",
-    "publications": {
-      "DPO9WFcz7UcC": {
-        "title": "Genomic predictions of mastitis-related traits early in the first lactation of dairy heifers using a single-step genomic approach",
-        "year": "2025/12/4",
-        "publisher": "Journal of Dairy Science",
-        "author": "Saranya G Narayana, Flavio S Schenkel, Hinayah R de Oliveira, Jorge Hidalgo, Gerson A Oliveira Jr, Filippo Miglior, Erin Massender, Herman W Barkema",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0022030225009890",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "sp21VmQAAAAJ": {
-    "Name": "Jeffrey R Brook",
-    "total_new": "1",
-    "publications": {
-      "cF7EPgIk0B4C": {
-        "title": "Associations between exposure to air pollution and obesity and related anthropometric measurements in adults: a systematic review and meta-analysis",
-        "year": "2025/12/3",
-        "publisher": "A",
-        "author": "Mehnaz Munir, Sana Mushtaq, Amal Khan, Sandi M Azab, Shrikant Bangdiwala, Om Kurmi, Dany Doiron, Jeffrey Brook, Laura Banfield, Russell J de Souza",
-        "url": "https://www.sciencedirect.com/science/article/pii/S001393512502729X",
+      "vxA22ZmNLkoC": {
+        "title": "SARS-CoV-2 breakthrough infection among people with and without HIV in Ontario, Canada",
+        "year": "2026/1/1",
+        "publisher": "AIDS",
+        "author": "Cassandra Freitas, Curtis L Cooper, Abigail E Kroch, Sarah A Buchan, Rahim Moineddin, Gordon Arbess, Anita C Benoit, Catharine Chambers, Muluba Habanyama, Claire E Kendall, Jeffrey C Kwong, Lawrence Mbuagbaw, John McCullagh, Nasheed Moqueet, Devan Nambiar, Vanessa Tran, Sharon Walmsley, Ann N Burchell, Marc-Andr\u00e9 Langlois, Sergio Rueda, Anna Yeung, Ashley Mah, Samantha Lee, Aditi Patrikar, Darien Taylor, CHESS Study Team",
+        "url": "https://journals.lww.com/aidsonline/fulltext/2026/01000/sars_cov_2_breakthrough_infection_among_people.17.aspx",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
