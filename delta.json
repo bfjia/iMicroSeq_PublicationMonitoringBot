@@ -1,14 +1,59 @@
 {
-  "28A7wWkAAAAJ": {
-    "Name": "Marc-Andr\u00e9 Langlois",
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
     "total_new": "1",
     "publications": {
-      "vxA22ZmNLkoC": {
-        "title": "SARS-CoV-2 breakthrough infection among people with and without HIV in Ontario, Canada",
-        "year": "2026/1/1",
-        "publisher": "AIDS",
-        "author": "Cassandra Freitas, Curtis L Cooper, Abigail E Kroch, Sarah A Buchan, Rahim Moineddin, Gordon Arbess, Anita C Benoit, Catharine Chambers, Muluba Habanyama, Claire E Kendall, Jeffrey C Kwong, Lawrence Mbuagbaw, John McCullagh, Nasheed Moqueet, Devan Nambiar, Vanessa Tran, Sharon Walmsley, Ann N Burchell, Marc-Andr\u00e9 Langlois, Sergio Rueda, Anna Yeung, Ashley Mah, Samantha Lee, Aditi Patrikar, Darien Taylor, CHESS Study Team",
-        "url": "https://journals.lww.com/aidsonline/fulltext/2026/01000/sars_cov_2_breakthrough_infection_among_people.17.aspx",
+      "9CGX2owmTHMC": {
+        "title": "Emerging Strategies to Better Control Bovine Mastitis: A Perspective for Detection, Diagnosis and Control of Mastitis Pathogens",
+        "year": "2025/9/17",
+        "publisher": "Professional Journal of Domestic",
+        "author": "Farzad Ghafouri, Masoumeh Naserkheil, Mostafa Sadeghi, Seyed Reza Miraei-Ashtiani, John P Kastelic, Herman W Barkema, Vahid Razban, Masoud Shirali",
+        "url": "https://domesticsj.ut.ac.ir/article_104879_en.html?lang=en",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-EWOC3cAAAAJ": {
+    "Name": "Diego Borin Nobrega",
+    "total_new": "1",
+    "publications": {
+      "XiSMed-E-HIC": {
+        "title": "Bayesian modeling of Escherichia coli contamination in household drinking water in Bangladesh: evidence from the Multiple Indicator Cluster Survey 2019",
+        "year": "2025/12/5",
+        "publisher": "International Health",
+        "author": "Iqramul Haq, Azizur Rahman, Mst Romana Akter, Delower Hossain, Diego Nobrega",
+        "url": "https://academic.oup.com/inthealth/advance-article-abstract/doi/10.1093/inthealth/ihaf138/8369908",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "057RNrQAAAAJ": {
+    "Name": "S\u00e9bastien P. Faucher",
+    "total_new": "1",
+    "publications": {
+      "u9iWguZQMMsC": {
+        "title": "Characterization and antifungal properties against Botrytis cinerea of bacteria isolated from hemp seed oil",
+        "year": "2025/12/5",
+        "publisher": "Canadian Journal of Microbiology",
+        "author": "Mohannad Mahmoud, Philippe Seguin, Sebastien P Faucher, Suha Jabaji",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjm-2025-0241",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "Ohu9Gc4AAAAJ": {
+    "Name": "B. Jesse Shapiro",
+    "total_new": "1",
+    "publications": {
+      "djcsc3XHdKAC": {
+        "title": "Industrialization drives convergent microbial and physiological shifts in the human metaorganism",
+        "year": "2025/10/20",
+        "publisher": "bioRxiv",
+        "author": "Mathilde Poyet, Malte R\u00fchlemann, Ana P Schaan, Yue Ma, Lucas Moitinho-Silva, Eike M Wacker, Hannah Jebens, Lucas Patel, Le Thanh Tu Nguyen, Alexis Zimmer, Damian Plichta, Daniel McDonald, Christine Stevens, Adwoa Agyei, Mary Y Afihene, Shadrack O Asibey, Yaw A Awuku, Aida S Badiane, Lee S Ching, Chris Corzett, Awa Deme, Manuel Dominguez-Rodrigo, Amoako Duah, Alain Fezeu, Alain Froment, Sean Gibbons, Catherine Girard, Jeff Hooker, Fatimah Ibrahim, Deborah Iqaluk, Vanessa Juimo, Pinja Kettunen, Sophie Lafosse, Ernest Lango-Yaya, Jenni Lehtim\u00e4ki, Yvonne AL Lim, Audax Mabulla, Varocha Mahachai, Rihlat S Mohamed, Katya Moniz, Ivan E Mwikarago, Yvonne A Nartey, Daouda Ndiaye, Mary Noel, Charles Onyekwere, Tan M Pin, Amelie Plymoth, Lewis Roberts, Lasse Ruokolainen, John Rusine, Laure Segurel, B Jesse Shapiro, Shani Sigwazi, Ainara Sistiaga, Kenneth Valles, Tommi Vatanen, Ratha-korn Vilaichone, Philip Rosenstiel, John Baines, Andre Franke, David Ellinghaus, Rob Knight, Mark Daly, Ramnik J Xavier, Eric J Alm, Mathieu Groussin",
+        "url": "https://www.biorxiv.org/content/10.1101/2025.10.20.683358.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
