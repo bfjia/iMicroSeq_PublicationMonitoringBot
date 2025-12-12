@@ -1,45 +1,30 @@
 {
-  "Et_RonIAAAAJ": {
-    "Name": "Guillaume Bourque",
+  "O3Kin-IAAAAJ": {
+    "Name": "Michael Parkins",
     "total_new": "1",
     "publications": {
-      "evIcR_-jKtEC": {
-        "title": "Gastrectomy promoted diabetes remission involves the molecular clock and epigenetic mechanisms in a rat model of lean type 2 diabetes",
-        "year": "2025/12/8",
-        "publisher": "Scientific Reports",
-        "author": "Aur\u00e9lie Le Lay, Fran\u00e7ois Brial, Claude Rouch, Xiaojian Shao, Mathieu Bourgey, Kazuhiro Sonomura, Huiting Ou, Sara Ghezzal, Myl\u00e8ne Vincent, Maryl\u00e8ne Rugard, Karine Audouze, Jiannis Ragoussis, Fumihiko Matsuda, Guillaume Bourque, Elin Grundberg, Mark Lathrop, Christophe Magnan, Dominique Gauguier",
-        "url": "https://www.nature.com/articles/s41598-025-29273-y",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "ThjB_RcAAAAJ": {
-    "Name": "Jiannis Ragoussis",
-    "total_new": "1",
-    "publications": {
-      "aIdbFUkbNIkC": {
-        "title": "Gastrectomy promoted diabetes remission involves the molecular clock and epigenetic mechanisms in a rat model of lean type 2 diabetes",
-        "year": "2025/12/8",
-        "publisher": "Scientific Reports",
-        "author": "Aur\u00e9lie Le Lay, Fran\u00e7ois Brial, Claude Rouch, Xiaojian Shao, Mathieu Bourgey, Kazuhiro Sonomura, Huiting Ou, Sara Ghezzal, Myl\u00e8ne Vincent, Maryl\u00e8ne Rugard, Karine Audouze, Jiannis Ragoussis, Fumihiko Matsuda, Guillaume Bourque, Elin Grundberg, Mark Lathrop, Christophe Magnan, Dominique Gauguier",
-        "url": "https://www.nature.com/articles/s41598-025-29273-y",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "ypKzJAUAAAAJ": {
-    "Name": "Christopher T. DeGroot",
-    "total_new": "1",
-    "publications": {
-      "W5xh706n7nkC": {
-        "title": "Optimizing Nitrate Dosing Strategies for Sulfide Control Using Kinetic Modeling, Variance-Based Sensitivity Analysis, and Laboratory-Scale Sewer Reactors",
-        "year": "2025/12",
-        "publisher": "Water environment research: a research publication of the Water Environment Federation",
-        "author": "Ahmed Khalil, Bassem Haroun, Domenico Santoro, Damien J Batstone, Christopher T DeGroot",
-        "url": null,
+      "NyGDZy8z5eUC": {
+        "title": "A population-based cohort study to establish clinical characteristics and outcomes of patients experiencing methicillin-sensitive Staphylococcus aureus bacteremia \u2026",
+        "year": "2025/12/4",
+        "publisher": "medRxiv",
+        "author": "Alexander J Kipp, Kristine Du, Barbara Wadell, Stephen Robinson, Julianna Svishchuk, John M Conly, Annegret Ulke-Lemee, Maryam Mapar, Ian Lewis, Daniel B Gregson, Michael D Parkins",
+        "url": "https://www.medrxiv.org/content/medrxiv/early/2025/12/04/2025.12.03.25341560.full.pdf",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
+    "total_new": "1",
+    "publications": {
+      "OogMgWVuoo8C": {
+        "title": "EFFECT OF BEDDING MATERIALS ON HAEMATO-BIOCHEMICAL PARAMETERS OF RATHI CALVES",
+        "year": "2025",
+        "publisher": "INTERNATIONAL JOURNAL",
+        "author": "R REWAR, V KUMAR, MK DHAKA, SH SIYAK, A KASWAN, A KUMAR, P BISSU, M GODARA",
+        "url": "https://elibrary.ru/item.asp?id=82080366",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
