@@ -1,1 +1,32 @@
-{}
+{
+  "rQUeGGsAAAAJ": {
+    "Name": "Lawrence Goodridge",
+    "total_new": "1",
+    "publications": {
+      "e_rmSamDkqQC": {
+        "title": "Leveraging artificial intelligence community analytics and nanopore metagenomic surveillance to monitor early enteropathogen outbreaks",
+        "year": "2025/11/26",
+        "publisher": "Frontiers in Public Health",
+        "author": "Jeff Gauthier, Sima Mohammadi, Irena Kukavica-Ibrulj, Brian Boyle, Chrystal Landgraff, Lawrence Goodridge, Kenton White, Benjamin Chapman, Roger C Levesque",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12689962/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "v9h5yVEAAAAJ": {
+    "Name": "Art FY Poon",
+    "total_new": "1",
+    "publications": {
+      "0izLItjtcgwC": {
+        "title": "Evolutionary fingerprinting of protein-coding genes in RNA viruses",
+        "year": "2025/12/6",
+        "publisher": "bioRxiv",
+        "author": "Laura Mu\u00f1oz-Baena, Hugo G Castel\u00e1n-S\u00e1nchez, Sareh Bagherichimeh, Paula Magbor, Jorge Rojas-Vargas, Amjad Khan, Abayomi Olabode, Art FY Poon",
+        "url": "https://www.biorxiv.org/content/biorxiv/early/2025/12/06/2025.12.05.692645.full.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
