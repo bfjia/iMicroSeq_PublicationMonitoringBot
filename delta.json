@@ -1,30 +1,15 @@
 {
-  "VaLlkyoAAAAJ": {
-    "Name": "Herman W. Barkema",
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
     "total_new": "1",
     "publications": {
-      "cx97FdCJQX8C": {
-        "title": "Differences in milk microbiota between healthy cows and those with recurring Klebsiella mastitis",
-        "year": "2025/12",
-        "publisher": "One Health Advances",
-        "author": "Jingyue Yang, Naiwen Wu, Yindi Xiong, Diego B Nobrega, Herman W Barkema, Bo Han, Jian Gao",
-        "url": "https://link.springer.com/article/10.1186/s44280-025-00105-y",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "-EWOC3cAAAAJ": {
-    "Name": "Diego Borin Nobrega",
-    "total_new": "1",
-    "publications": {
-      "Tiz5es2fbqcC": {
-        "title": "Differences in milk microbiota between healthy cows and those with recurring Klebsiella mastitis",
-        "year": "2025/12",
-        "publisher": "One Health Advances",
-        "author": "Jingyue Yang, Naiwen Wu, Yindi Xiong, Diego B Nobrega, Herman W Barkema, Bo Han, Jian Gao",
-        "url": "https://link.springer.com/article/10.1186/s44280-025-00105-y",
-        "firstOrLast": false,
+      "evX43VCCuoAC": {
+        "title": "Titre",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Milad Taghipour, \u00c9mile Sylvestre, Ahmad Shakibaeinia, Samira Tolouei, Raja Kammoun, Mich\u00e8le Pr\u00e9vost, Sarah Dorner",
+        "url": "https://publications.polymtl.ca/66053/2/2025_Taghipour_Quantitative_microbial_risk_assessment_drinking_supp.pdf",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
