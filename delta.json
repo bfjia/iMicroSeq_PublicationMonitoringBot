@@ -1,1 +1,47 @@
-{}
+{
+  "RIjsxfIAAAAJ": {
+    "Name": "Amina Stoddart",
+    "total_new": "1",
+    "publications": {
+      "AXPGKjj_ei8C": {
+        "title": "Combined UV LED and Chlorine for Synergistic Drinking Water Disinfection and Assessment of Disinfection By\u2010Product Formation",
+        "year": "2025/11",
+        "publisher": "AWWA Water Science",
+        "author": "Jin Li, Sean MacIsaac, Xuedongzi Jiang, Lindsay E Anderson, Kyle D Rauch, Taylor Prest, Ryan Swinamer, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.70046",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "SmBwcwUAAAAJ": {
+    "Name": "Graham Gagnon",
+    "total_new": "1",
+    "publications": {
+      "eGYfIraVYiQC": {
+        "title": "Combined UV LED and Chlorine for Synergistic Drinking Water Disinfection and Assessment of Disinfection By\u2010Product Formation",
+        "year": "2025/11",
+        "publisher": "AWWA Water Science",
+        "author": "Jin Li, Sean MacIsaac, Xuedongzi Jiang, Lindsay E Anderson, Kyle D Rauch, Taylor Prest, Ryan Swinamer, Amina K Stoddart, Graham A Gagnon",
+        "url": "https://awwa.onlinelibrary.wiley.com/doi/abs/10.1002/aws2.70046",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "IZQgBh8AAAAJ": {
+    "Name": "Rita Isabel Henderson",
+    "total_new": "1",
+    "publications": {
+      "D03iK_w7-QYC": {
+        "title": "\u201cDon't shut down, these conversations need to happen\u201d: Indigenous health professionals insights for advancing anti\u2010racism in health care",
+        "year": "2025",
+        "publisher": "Medical Education",
+        "author": "Ana K Rame\u2010Montiel, Lynden Crowshoe, Elizabeth Oddone Paolucci, Pamela Roach, Ghazwan Altabbaa, Rita Henderson",
+        "url": "https://asmepublications.onlinelibrary.wiley.com/doi/abs/10.1111/medu.70125",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
