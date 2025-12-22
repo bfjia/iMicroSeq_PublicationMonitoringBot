@@ -1,86 +1,44 @@
 {
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
     "total_new": "1",
     "publications": {
-      "pd13xYLNQIYC": {
-        "title": "Development and Validation of a Sensitive and Specific UV Spectrophotometric Method for Detection and Determination of Diphenhydramine in Urine for Forensic Analysis",
-        "year": "2025/12/1",
-        "publisher": "Emerging Trends in Drugs, Addictions, and Health",
-        "author": "H Saurabh, L Gupta, N Tomar, A Kumar, K Goyal, RK Sarin",
-        "url": "https://www.sciencedirect.com/science/article/pii/S266711822500090X",
+      "35r97b3x0nAC": {
+        "title": "Can blue-green infrastructure mitigate waterborne infection risks through recreational activities in densely urbanized waterways?",
+        "year": "2026",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "J Petrucci, J Derx, R Sommer, JF Schijven, H M\u00fcller-Thomy, S Dorner, J Jalbert, F Bichai",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2026/ew/d5ew00706b",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "0RcC8vIAAAAJ": {
-    "Name": "Kerry E. Black, PhD",
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
     "total_new": "1",
     "publications": {
-      "5nxA0vEk-isC": {
-        "title": "Changes in the cryosphere and impacts on water",
-        "year": "2025",
-        "publisher": "U",
-        "author": "Zo\u00eb Johnson, Chris DeBeer, Corinne Schuster Wallace, John Pomeroy, Sher Muhammad, Fred Wrona, Kerry Black, Sonam Wangchuk, Dhiraj Pradhananga",
-        "url": "https://harvest.usask.ca/items/7d872c78-c1f1-4d59-9cf8-22cd52b93c9f",
+      "XfMaBeGYgSgC": {
+        "title": "Development and Validation of the Hypertension Population Risk Tool (HTNPoRT)",
+        "year": "2025/12/12",
+        "publisher": "medRxiv",
+        "author": "Rafidul Islam, Tracey Bushnik, Manish M Sood, Monica Taljaard, Finlay A McAlister, Juan Li, Douglas G Manuel",
+        "url": "https://www.medrxiv.org/content/10.64898/2025.12.10.25342022.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "ypKzJAUAAAAJ": {
-    "Name": "Christopher T. DeGroot",
-    "total_new": "4",
-    "publications": {
-      "tKAzc9rXhukC": {
-        "title": "Particle tracking velocimetry of microalgal response to light",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Amin Hadizade, Reza Saifi, Malihe Mehdizadeh Allaf, Mohammad Hossain, Mojtaba Jarrahi, Christopher Degroot, Hassan Peerhossaini",
-        "url": "https://espace2.etsmtl.ca/id/eprint/32249/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "7T2F9Uy0os0C": {
-        "title": "Characterization of cough mouth opening for accurate CFD boundary conditions",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Zichen Fan, Amin Hadizade, Christopher Degroot, Eric Savory",
-        "url": "https://espace2.etsmtl.ca/id/eprint/32393/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "NJ774b8OgUMC": {
-        "title": "Exploring the potential of computational fluid dynamics in indoor UV-assisted air treatment",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Amin Hadizade, Christopher Degroot",
-        "url": "https://espace2.etsmtl.ca/id/eprint/32072/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "kzcrU_BdoSEC": {
-        "title": "Assessing turbulence models for multiphase mixture model simulations of hydrocyclones using OpenFOAM",
-        "year": "2025",
-        "publisher": "Unknown",
-        "author": "Jyothis Arumughan, Christopher T Degroot",
-        "url": "https://espace2.etsmtl.ca/id/eprint/31971/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wQywY-EAAAAJ": {
-    "Name": "Robert E. W. Hancock",
+  "1m50zJwAAAAJ": {
+    "Name": "Rees Kassen",
     "total_new": "1",
     "publications": {
-      "_bh1rdP-zDcC": {
-        "title": "Higher promoter methylation of the Ubiquitin Associated and SH3 domain containing A (UBASH3A) gene is associated with T-lymphocyte ontogeny and reduced \u2026",
-        "year": "2025/12/17",
-        "publisher": "The Journal of Infectious Diseases",
-        "author": "Ziyi Wang, Nelly Amenyogbe, Rym Ben-Othman, Bing Cai, Mandy Lo, Olubukola T Idoko, Oludare A Odumade, Reza Falsafi, Travis M Blimkie, Andy An, Casey P Shannon, Sebastiano Montante, Bhavjinder K Dhillon, Joann Diray-Arce, Al Ozonoff, Kinga K Smolen, Ryan R Brinkman, Kerry McEnaney, Asimenia Angelidou, Peter Richmond, Scott J Tebbutt, Beate Kampmann, Robert EW Hancock, Amy HY Lee, Ofer Levy, Tobias R Kollmann, David Martino",
-        "url": "https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiaf636/8382838",
+      "SdhP9T11ey4C": {
+        "title": "Sequencing and variant calling of SARS-CoV-2 from floor swabs: a potential tool for identifying emergent lineages",
+        "year": "2025/12/19",
+        "publisher": "Microbial Genomics",
+        "author": "Benazir Hodzic-Santor, Aaron Hinz, Rees Kassen, Ju-Ling Liu, Haig Djambazian, Sally Lee, Alexandra Hicks, Calvin Sjaarda, Henry Wong, Prameet M Sheth, Caroline Nott, Derek R MacFadden, Anne-Marie Roy, Jiannis Ragoussis, Lucas Castellani, Michael Fralick, Alex Wong",
+        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001575",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
