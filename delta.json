@@ -1,45 +1,60 @@
 {
-  "S2HhkvEAAAAJ": {
-    "Name": "Sarah Dorner",
+  "ceQ3BE0AAAAJ": {
+    "Name": "M\u00e9lanie Courtot",
     "total_new": "1",
     "publications": {
-      "35r97b3x0nAC": {
-        "title": "Can blue-green infrastructure mitigate waterborne infection risks through recreational activities in densely urbanized waterways?",
-        "year": "2026",
-        "publisher": "Environmental Science: Water Research & Technology",
-        "author": "J Petrucci, J Derx, R Sommer, JF Schijven, H M\u00fcller-Thomy, S Dorner, J Jalbert, F Bichai",
-        "url": "https://pubs.rsc.org/en/content/articlehtml/2026/ew/d5ew00706b",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "U3rqorsAAAAJ": {
-    "Name": "Doug Manuel",
-    "total_new": "1",
-    "publications": {
-      "XfMaBeGYgSgC": {
-        "title": "Development and Validation of the Hypertension Population Risk Tool (HTNPoRT)",
+      "LPZeul_q3PIC": {
+        "title": "Using GPT-4 to Automate the Generation of Lay Summaries for Cancer Publications",
         "year": "2025/12/12",
-        "publisher": "medRxiv",
-        "author": "Rafidul Islam, Tracey Bushnik, Manish M Sood, Monica Taljaard, Finlay A McAlister, Juan Li, Douglas G Manuel",
-        "url": "https://www.medrxiv.org/content/10.64898/2025.12.10.25342022.abstract",
-        "firstOrLast": false,
+        "publisher": "bioRxiv",
+        "author": "Emma Purdie, Tony Yu, Jochen Weile, Diana Lemaire, Melanie Courtot",
+        "url": "https://www.biorxiv.org/content/10.64898/2025.12.11.693290.abstract",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
   },
-  "1m50zJwAAAAJ": {
-    "Name": "Rees Kassen",
+  "SmBwcwUAAAAJ": {
+    "Name": "Graham Gagnon",
     "total_new": "1",
     "publications": {
-      "SdhP9T11ey4C": {
+      "0aBXIfxlw9sC": {
+        "title": "Granular Activated Carbon Filtration as a Lead Control Strategy",
+        "year": "2025/12/19",
+        "publisher": "ACS ES&T Water",
+        "author": "Kalli M Hood, Naomi Lewis, Benjamin Trueman, Ryan Swinamer, Lindsay Anderson, Graham Gagnon",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acsestwater.5c01094",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "ThjB_RcAAAAJ": {
+    "Name": "Jiannis Ragoussis",
+    "total_new": "1",
+    "publications": {
+      "sA9dB-pw3HoC": {
         "title": "Sequencing and variant calling of SARS-CoV-2 from floor swabs: a potential tool for identifying emergent lineages",
         "year": "2025/12/19",
         "publisher": "Microbial Genomics",
         "author": "Benazir Hodzic-Santor, Aaron Hinz, Rees Kassen, Ju-Ling Liu, Haig Djambazian, Sally Lee, Alexandra Hicks, Calvin Sjaarda, Henry Wong, Prameet M Sheth, Caroline Nott, Derek R MacFadden, Anne-Marie Roy, Jiannis Ragoussis, Lucas Castellani, Michael Fralick, Alex Wong",
         "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001575",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wQywY-EAAAAJ": {
+    "Name": "Robert E. W. Hancock",
+    "total_new": "1",
+    "publications": {
+      "ie8Y0QrpMWAC": {
+        "title": "Longitudinal gene expression analysis in COVID-19 sepsis highlights dynamic immune, cellular, and metabolic dysfunction in high severity patients",
+        "year": "2025/12/19",
+        "publisher": "Scientific Reports",
+        "author": "Andy Y An, Arjun Baghela, Peter Zhang, Travis M Blimkie, Jeff Gauthier, Daniel E Kaufmann, Erica Acton, Amy HY Lee, Roger C Levesque, Robert EW Hancock",
+        "url": "https://www.nature.com/articles/s41598-025-32557-y",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
