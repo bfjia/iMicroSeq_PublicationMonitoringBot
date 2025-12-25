@@ -1,1 +1,47 @@
-{}
+{
+  "mhN0cZoAAAAJ": {
+    "Name": "Thea Van Rossum",
+    "total_new": "1",
+    "publications": {
+      "B3FOqHPlNUQC": {
+        "title": "by Subject",
+        "year": "2024/3/22",
+        "publisher": "Development",
+        "author": "Sharif Islam, James Beach, Elizabeth R Ellwood, Jose Fortes, Larry Lannom, Gil Nelson, Beth Plale, Bryony Willcox, Deepa Senapathi, Mark Brown, Simon Potts, Rosaria Ester Musumeci, Massimiliano Marino, Luca Cavallaro, Enrico Foti, Stefano Larsen, Jose Manuel Alvarez-Martinez, Jose Barquin, Maria Cristina Bruno, Laura Concostrina Zubiri, Luca Gallitelli, Micael Jonsson, Monika Laux, Giorgio Pace, Massimiliano Scalici, Ralf Schulz, W Daniel Kissling, Yifang Shi, Konrad U F\u00f6rstner, Anke Becker, Jochen Blom, Peer Bork, Thomas Clavel, Marius Dieckmann, Alexander Goesmann, Barbara G\u00f6tz, Thomas G\u00fcbitz, Franziska Hufsky, Sebastian J\u00fcnemann, Marie-Louise K\u00f6rner, Manja Marz, Ulisses Nunes Da Rocha, J\u00f6rg Overmann, Alfred P\u00fchler, Dietrich Rebholz-Schuhmann, Alexander Sczyrba, Jens Stoye, Justine Vandendorpe, Thea Van Rossum, Alice McHardy, Joris Timmermans, Bartosz Bartkowski, Michael Beckmann, Marek Bedn\u00e1\u0159, Sofia Biffi, Cristina Domingo-Marimon, Minu\u010der Mesaro\u0161, Charlotte Sch\u00fc\u00dfler, Bo\u0159ivoj \u0160arapatka, Sonja Tar\u010dak, Tom\u00e1\u0161 V\u00e1clav\u00edk, Guy Ziv, Felix Wittstock, Quentin Groom, Laura Abraham, Veronica Price-Jones, Lissa Breugelmans, David Clarke, Miguel Fernandez, Louise Hendrickx, Cang Hui, Sabrina Kumschick, Matilde Martini, Melodie McGeoch, Teodor Metodiev, Joe Miller, Damiano Oldoni, Henrique M Pereira, Cristina Preda, Tim Robertson, Duccio Rocchini, Hanno Seebens, Heliana Teixeira, Maarten Trekels, John Ross Wilson, Nikol Yovcheva, Tsungai Zengeya, Peter Desmet, Erik Szamosv\u00e1ri, L\u00e1szl\u00f3 Nagy, Heino Konrad, Norbert M\u00f3ricz, Lambert Wei\u00dfenbacher, Anita B\u00e1lint, Anik\u00f3 Neuvirthn\u00e9 Bilics, Marcela van Loo",
+        "url": "https://riojournal.com/browse_journal_articles.php?journal_name=rio&journal_id=17&sortby=3&lang=&p=20",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "SmBwcwUAAAAJ": {
+    "Name": "Graham Gagnon",
+    "total_new": "1",
+    "publications": {
+      "2ywjKiB__4kC": {
+        "title": "qPCR-Based Prediction of Low-Level Microcystin-LR Using mcyE and Passive Sampling Across Multiple Lakes and Years",
+        "year": "2025/12/22",
+        "publisher": "Water Research X",
+        "author": "David J Redden, Clarke Brown, Morgan Harasymchuk, Saksham Bafna, Justin Laforest, Nicole Taylor, Lindsay E Anderson, Graham A Gagnon",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2589914725001707",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "sp21VmQAAAAJ": {
+    "Name": "Jeffrey R Brook",
+    "total_new": "1",
+    "publications": {
+      "VjBpw8Hezy4C": {
+        "title": "Phthalates and bisphenols early-life exposure, and childhood allergic conditions",
+        "year": "2025/7/3",
+        "publisher": "Unknown",
+        "author": "Thomas Boissiere-O\u2019Neill, Nina Lazarevic, Peter D Sly, Anne Louise Ponsonby, Aimin Chen, Meghan B Azad, Joseph M Braun, Jeffrey R Brook, David Burgner, Bruce P Lanphear, Theo J Moraes, Richard Saffery, Padmaja Subbarao, Stuart E Turvey, Kimberly Yolton, Piushkumar J Mandhane, Elinor Simons, Lawrence Gray, Martin O\u2019Hely, Toby Mansell, Sarath Ranganathan, Leonard Harrison, Fiona Collier, Mimi LK Tang, Peter Vuillermin, Dwan Vilcins",
+        "url": "https://openresearch-repository.anu.edu.au/entities/publication/cf3c99e7-204f-43d9-9824-a6fd028dbfe3",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
