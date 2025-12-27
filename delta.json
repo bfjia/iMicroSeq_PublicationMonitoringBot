@@ -1,15 +1,90 @@
 {
-  "zI9NSLcAAAAJ": {
-    "Name": "Andrew G. McArthur",
+  "XMdyGgIAAAAJ": {
+    "Name": "Fiona Brinkman",
     "total_new": "1",
     "publications": {
-      "j8SEvjWlNXcC": {
-        "title": "Increasing the predictive accuracy of the Resistance Gene Identifier by evaluating antimicrobial resistance gene over-and underprediction",
-        "year": "2025/12/15",
-        "publisher": "bioRxiv",
-        "author": "Karyn M Mukiri, Brian P Alcock, Amogelang R Raphenya, Andrew G McArthur",
-        "url": "https://www.biorxiv.org/content/10.64898/2025.12.11.693720.abstract",
+      "HhcuHIWmDEUC": {
+        "title": "The Calculus of Confidence: Modelling Vaccine Hesitancy and Strategies for Support",
+        "year": "2025",
+        "publisher": "medRxiv",
+        "author": "Erin E Gill, Geoffrey L Winsor, Baofeng Jia, Justin Cook, Larisa Lotoski, Maria V Medeleanu, Erica Di Ruggiero, Emily Cameron, Marc-Andre Langlois, Theo Moraes, Elinor Simons, Padmaja Subbarao, Stuart Turvey, Meghan Azad, Fiona SL Brinkman",
+        "url": "https://www.medrxiv.org/content/10.64898/2025.12.21.25342784.abstract",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "xMfpoNQAAAAJ": {
+    "Name": "Erin E. Gill",
+    "total_new": "1",
+    "publications": {
+      "e5wmG9Sq2KIC": {
+        "title": "The Calculus of Confidence: Modelling Vaccine Hesitancy and Strategies for Support",
+        "year": "2025",
+        "publisher": "medRxiv",
+        "author": "Erin E Gill, Geoffrey L Winsor, Baofeng Jia, Justin Cook, Larisa Lotoski, Maria V Medeleanu, Erica Di Ruggiero, Emily Cameron, Marc-Andre Langlois, Theo Moraes, Elinor Simons, Padmaja Subbarao, Stuart Turvey, Meghan Azad, Fiona SL Brinkman",
+        "url": "https://www.medrxiv.org/content/10.64898/2025.12.21.25342784.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
+    "total_new": "1",
+    "publications": {
+      "QYdC8u9Cj1oC": {
+        "title": "Amplicon sequencing of ice and water phytoplankton and bacterial communities during an extreme winter in a central Canadian great lake",
+        "year": "2025/12/23",
+        "publisher": "Microbiology Resource Announcements",
+        "author": "Mark J Rozmarynowycz, Katelyn M Brown, JD Gantz, Richard E Lee Jr, Arthur Zastepa, Sue Watson, R Michael L McKay",
+        "url": "https://journals.asm.org/doi/abs/10.1128/mra.01232-25",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "28A7wWkAAAAJ": {
+    "Name": "Marc-Andr\u00e9 Langlois",
+    "total_new": "1",
+    "publications": {
+      "CRzUtm-VnGAC": {
+        "title": "The Calculus of Confidence: Modelling Vaccine Hesitancy and Strategies for Support",
+        "year": "2025",
+        "publisher": "medRxiv",
+        "author": "Erin E Gill, Geoffrey L Winsor, Baofeng Jia, Justin Cook, Larisa Lotoski, Maria V Medeleanu, Erica Di Ruggiero, Emily Cameron, Marc-Andre Langlois, Theo Moraes, Elinor Simons, Padmaja Subbarao, Stuart Turvey, Meghan Azad, Fiona SL Brinkman",
+        "url": "https://www.medrxiv.org/content/10.64898/2025.12.21.25342784.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "gTkdyfsAAAAJ": {
+    "Name": "Trevor Charles",
+    "total_new": "1",
+    "publications": {
+      "zIozKTkozWIC": {
+        "title": "Microbiome definition re-visited: old concepts and new challenges (vol 8, 103, 2020)",
+        "year": "2020/8/20",
+        "publisher": "Microbiome",
+        "author": "Gabriele Berg, Daria Rybakova, Doreen Fischer, Tomislav Cernava, Marie-Christine Champomier Verges, Trevor Charles, Xiaoyulong Chen, Luca Cocolin, Kellye Eversole, Gema Herrero Corral, Maria Kazou, Linda Kinkel, Lene Lange, Nelson Lima, Alexander Loy, James A Macklin, Emmanuelle Maguin, Tim Mauchline, Ryan McClure, Birgit Mitter, Matthew Ryan, Inga Sarand, Hauke Smidt, Bettina Schelkle, Hugo Roume, G Seghal Kiran, Joseph Selvin, Rafael Soares Correa de Souza, Leo van Overbeek, Brajesh K Singh, Michael Wagner, Aaron Walsh, Angela Sessitsch, Michael Schloter",
+        "url": "https://scholar.google.com/scholar?cluster=12549782052351333327&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-bIc5H0AAAAJ": {
+    "Name": "Sarah Otto",
+    "total_new": "1",
+    "publications": {
+      "-WH5uU-2cuwC": {
+        "title": "Variety is the spice of life: nongenetic variation in life histories influences population growth and evolvability (vol 37, pg 1244, 2024)",
+        "year": "2025/11/19",
+        "publisher": "JOURNAL OF EVOLUTIONARY BIOLOGY",
+        "author": "Amy B Forsythe, Sarah P Otto, William A Nelson, Troy Day",
+        "url": "https://scholar.google.com/scholar?cluster=15527965215613055083&hl=en&oi=scholarr",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
