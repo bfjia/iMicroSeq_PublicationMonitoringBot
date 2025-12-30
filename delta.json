@@ -1,1 +1,32 @@
-{}
+{
+  "OmUy3vUAAAAJ": {
+    "Name": "Rob Beiko",
+    "total_new": "1",
+    "publications": {
+      "WZBGuue-350C": {
+        "title": "Effect of bedrest on the human gut and oral microbiome: implications for frailty",
+        "year": "2025",
+        "publisher": "bioRxiv",
+        "author": "Monica Alvaro-Fuss, Vanessa DeClercq, Joanna M Blodgett, Olga Theou, Morgan GI Langille, Robert G Beiko",
+        "url": "https://www.biorxiv.org/content/10.64898/2025.12.21.695811.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "rHFCtWwAAAAJ": {
+    "Name": "Finlay Maguire",
+    "total_new": "1",
+    "publications": {
+      "uWQEDVKXjbEC": {
+        "title": "Best of Both Worlds? Optimising Graph-Based Antimicrobial Resistance Gene Profiling in Long and Short-Read Metagenomes",
+        "year": "2025",
+        "publisher": "bioRxiv",
+        "author": "David Burke James Mahoney, Finlay Maguire",
+        "url": "https://www.biorxiv.org/content/10.64898/2025.12.25.693921.abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
