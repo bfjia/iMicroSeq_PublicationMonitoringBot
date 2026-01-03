@@ -1,1 +1,59 @@
-{}
+{
+  "BPjrrI4AAAAJ": {
+    "Name": "Melissa L Perreault",
+    "total_new": "1",
+    "publications": {
+      "yD5IFk8b50cC": {
+        "title": "Missing the pattern: Pathogenic structural considerations in the maternal immune signature and autism risk",
+        "year": "2025/12/31",
+        "publisher": "P",
+        "author": "Isaac SB Russell, Melissa L Perreault",
+        "url": "https://scholar.google.com/scholar?cluster=17689238500706272294&hl=en&oi=scholarr",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "c-pNH9UAAAAJ": {
+    "Name": "Kenneth K.S. Ng",
+    "total_new": "4",
+    "publications": {
+      "q3CdL3IzO_QC": {
+        "title": "Degradation of egfr using a bispecific binding agent",
+        "year": "2025/12/25",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": "https://patents.google.com/patent/US20250388682A1/en",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "XoXfffV-tXoC": {
+        "title": "Discovery of c-MET degrading bispecific antibodies (EpiTACs) for NSCLC and other c-MET driven tumors",
+        "year": "2025/4/21",
+        "publisher": "Cancer Research",
+        "author": "Jonathan Sitrin, Hai Tran, Lisa Marshall, Kenneth Ng, May Dayao, Jacob Cohen, Kimberly Hoi, Josef Gramespacher, Zhong Huang, Andy Goodrich, Kevin Carlin, Noah Solomon, Shruti Yadav, Aleysha Chen, Katarina Pance, Rami Hannoush, Maia Vinogradova, Isaac J Rondon, Shyra J Gardai",
+        "url": "https://aacrjournals.org/cancerres/article/85/8_Supplement_1/1571/756039",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "ruyezt5ZtCIC": {
+        "title": "Discovery of mutation-independent EGFR degrading bispecific antibodies that suppress tumor growth in preclinical tumor models",
+        "year": "2024/3/22",
+        "publisher": "Cancer Research",
+        "author": "Jonathan Sitrin, Lisa Marshall, Hai Tran, Kenneth Ng, Kimberly Hoi, Josef Gramespacher, Zhong Huang, Andy Goodrich, Filomena Housley, May Dayao, Man-Tzu Wang, Katarina Pance, Aleysha Chen, Kevin Carlin, Lichao Zhang, James Lee, Rami Hannoush, Ken Flanagan, Maia Vinogradova, Isaac Rondon, Shyra Gardai",
+        "url": "https://aacrjournals.org/cancerres/article/84/6_Supplement/1866/739232",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "foquWX3nUaYC": {
+        "title": "A bioorthogonal antibody-based chemically-induced-dimerization switch for therapeutic application",
+        "year": "2023/4/11",
+        "publisher": "bioRxiv",
+        "author": "Alexander J Martinko, Hai L Tran, Erin F Simonds, Allison L Cooke, Zhong Huang, Sruthi Raguveer, Judit Pina Agullet, Suchitra Prasad, Catherine Going, Lisa Marshall, Timothy Park, Sunandan Banerjee, Ramsay Macdonald, Mike Jian, Kenneth Ng, Akhila Palakodaty, Manpreet Kaur, Alberto Ponce, Mohammad Tabrizi, Zachary B Hill",
+        "url": "https://www.biorxiv.org/content/10.1101/2023.04.11.536272.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
