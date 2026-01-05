@@ -1,29 +1,44 @@
 {
-  "BPjrrI4AAAAJ": {
-    "Name": "Melissa L Perreault",
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
     "total_new": "1",
     "publications": {
-      "a0OBvERweLwC": {
-        "title": "Bacterial immunomodulatory structures as determinants of the maternal immune response and autism risk",
-        "year": "2026/1/2",
-        "publisher": "P",
-        "author": "Isaac SB Russell, Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S1359610125001686",
-        "firstOrLast": true,
+      "cLw937zWwQcC": {
+        "title": "Decoding Prognostic Patterns of Exosomal MicroRNAs in Acute Myocardial Infarction",
+        "year": "2025/12/1",
+        "publisher": "Indian Heart Journal",
+        "author": "PV Varshini, Anupama Kurup, R Gokul, Tridip Mitra, Rithika Thangaraju, AH Sruthi Anil Kumar, Nembian Rajarajan, Mrinmoy Das, Piyush Agrawal, Kalaiarasan Ponnusamy, Meenakshi Sundari",
+        "url": "https://scholar.google.com/scholar?cluster=4510534148457603134&hl=en&oi=scholarr",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "-bIc5H0AAAAJ": {
-    "Name": "Sarah Otto",
+  "gTkdyfsAAAAJ": {
+    "Name": "Trevor Charles",
     "total_new": "1",
     "publications": {
-      "gM-ZYMRJdBUC": {
-        "title": "Unbalanced selection",
-        "year": "2022/8/1",
-        "publisher": "Philosophical Transactions: Biological Sciences",
-        "author": "Alireza G Tafreshi, Sarah P Otto, Michel Chapuisat",
-        "url": "https://scholar.google.com/scholar?cluster=2778220951806435021&hl=en&oi=scholarr",
+      "Kr09a2QcR50C": {
+        "title": "One Hundred Years of Progress Dedicated to Understanding the Evolution of Tools and Knowledge in Azospirillum Taxonomy",
+        "year": "2026",
+        "publisher": "The Definitive Handbook of Azospirillum: 100 Years of Research and Application Around the World",
+        "author": "Gabriele Bellotti, Florence Wisniewski-Dy\u00e9, Trevor C Charles, Fabricio Dario Cass\u00e1n, Edoardo Puglisi",
+        "url": "https://books.google.com/books?hl=en&lr=&id=2HulEQAAQBAJ&oi=fnd&pg=PA63&dq=info:a4rqMt2QQ-EJ:scholar.google.com&ots=pGDAeH-BUT&sig=A_F66SC6QUa-UccmN-w6691if_Q",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "PLiQF5oAAAAJ": {
+    "Name": "Baofeng Jia",
+    "total_new": "1",
+    "publications": {
+      "WF5omc3nYNoC": {
+        "title": "The Calculus of Confidence: Modelling Vaccine Hesitancy and Strategies for Support",
+        "year": "2025",
+        "publisher": "medRxiv",
+        "author": "Erin E Gill, Geoffrey L Winsor, Baofeng Jia, Justin Cook, Larisa Lotoski, Maria V Medeleanu, Erica Di Ruggiero, Emily Cameron, Marc-Andre Langlois, Theo Moraes, Elinor Simons, Padmaja Subbarao, Stuart Turvey, Meghan Azad, Fiona SL Brinkman",
+        "url": "https://www.medrxiv.org/content/10.64898/2025.12.21.25342784.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
