@@ -1,1 +1,41 @@
-{}
+{
+  "BPjrrI4AAAAJ": {
+    "Name": "Melissa L Perreault",
+    "total_new": "1",
+    "publications": {
+      "D03iK_w7-QYC": {
+        "title": "Cannflavin B ameliorates behavioural and neuronal systems alterations in adolescent rats exposed to prenatal valproic acid",
+        "year": "2026/2/1",
+        "publisher": "Biomedicine & Pharmacotherapy",
+        "author": "Olivia OF Williams, Madeleine Coppolino, Joshua D Manduca, Taylor C Demers, Paula T Henry-Duru, Talen C Mueller, Eric Soubeyrand, Colby J Perrin, Tariq A Akhtar, Melissa L Perreault",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0753332225011436",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "sp21VmQAAAAJ": {
+    "Name": "Jeffrey R Brook",
+    "total_new": "2",
+    "publications": {
+      "HKviVsUxM5wC": {
+        "title": "Mapping neighbourhood-level drivers of type 2 diabetes for precision public health using predictive and causal machine learning",
+        "year": "2026/1/5",
+        "publisher": "Scientific Reports",
+        "author": "Mohammad Noaeen, Amirhosein Rostami, Ibrahim Ghanem, Olli Saarela, Karim Keshavjee, Jeffrey R Brook, Zahra Shakeri",
+        "url": "https://www.nature.com/articles/s41598-025-34287-7",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "DGzKIA18-3YC": {
+        "title": "Respiratory effects of co-exposure to phthalates and pets and related allergens in children",
+        "year": "2024/12/20",
+        "publisher": "Environmental research",
+        "author": "Luyao Zhang, Ruixue Dai, Wendy Lou, Piush Mandhane, Theo J Moraes, Elinor Simons, Peter S Thorne, Teresa To, Stuart Turvey, Padmaja Subbarao, Jeffrey Brook",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12765393/",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
