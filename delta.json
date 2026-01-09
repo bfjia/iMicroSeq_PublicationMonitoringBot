@@ -1,38 +1,29 @@
 {
-  "BPjrrI4AAAAJ": {
-    "Name": "Melissa L Perreault",
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
     "total_new": "1",
     "publications": {
-      "D03iK_w7-QYC": {
-        "title": "Cannflavin B ameliorates behavioural and neuronal systems alterations in adolescent rats exposed to prenatal valproic acid",
-        "year": "2026/2/1",
-        "publisher": "Biomedicine & Pharmacotherapy",
-        "author": "Olivia OF Williams, Madeleine Coppolino, Joshua D Manduca, Taylor C Demers, Paula T Henry-Duru, Talen C Mueller, Eric Soubeyrand, Colby J Perrin, Tariq A Akhtar, Melissa L Perreault",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0753332225011436",
-        "firstOrLast": true,
+      "uCYQzKCmtZwC": {
+        "title": "The Effects of a Heterofermentative Lactic Acid Bacterial Inoculant Containing Lentilactobacillus hilgardii and Lentilactobacillus buchneri with or Without Chitinases on the \u2026",
+        "year": "2026/1",
+        "publisher": "Fermentation",
+        "author": "Huaxin Niu, Jayakrishnan Nair, Hee-Eun Yang, Tim A McAllister, Eric Chevaux, Yuxi Wang",
+        "url": "https://www.mdpi.com/2311-5637/12/1/29",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "sp21VmQAAAAJ": {
-    "Name": "Jeffrey R Brook",
-    "total_new": "2",
+  "iQjUDPYAAAAJ": {
+    "Name": "Casey Hubert",
+    "total_new": "1",
     "publications": {
-      "HKviVsUxM5wC": {
-        "title": "Mapping neighbourhood-level drivers of type 2 diabetes for precision public health using predictive and causal machine learning",
-        "year": "2026/1/5",
-        "publisher": "Scientific Reports",
-        "author": "Mohammad Noaeen, Amirhosein Rostami, Ibrahim Ghanem, Olli Saarela, Karim Keshavjee, Jeffrey R Brook, Zahra Shakeri",
-        "url": "https://www.nature.com/articles/s41598-025-34287-7",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "DGzKIA18-3YC": {
-        "title": "Respiratory effects of co-exposure to phthalates and pets and related allergens in children",
-        "year": "2024/12/20",
-        "publisher": "Environmental research",
-        "author": "Luyao Zhang, Ruixue Dai, Wendy Lou, Piush Mandhane, Theo J Moraes, Elinor Simons, Peter S Thorne, Teresa To, Stuart Turvey, Padmaja Subbarao, Jeffrey Brook",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12765393/",
+      "FAceZFleit8C": {
+        "title": "Thermophilic Endospores Throughout a 1.7 Ma Sediment Column at the Mid-Atlantic Ridge",
+        "year": "2025/12/15",
+        "publisher": "AGU25",
+        "author": "Brielle Hrymoc, Deidra K Ferguson, Wolfgang Bach, Casey RJ Hubert",
+        "url": "https://scholar.google.com/scholar?cluster=15914749750001854996&hl=en&oi=scholarr",
         "firstOrLast": true,
         "datasource": "Scholars"
       }
