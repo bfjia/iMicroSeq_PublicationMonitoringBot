@@ -1,14 +1,29 @@
 {
-  "v9h5yVEAAAAJ": {
-    "Name": "Art FY Poon",
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
     "total_new": "1",
     "publications": {
-      "NXb4pA-qfm4C": {
-        "title": "Estimating HIV-1 Viremic Time from Reservoir Sequence Diversity with Uncertainty Quantification",
-        "year": "2026/1/7",
-        "publisher": "The Journal of Infectious Diseases",
-        "author": "Edward N Kankaka, Stephen Tomusange, Taddeo Kityamuweesi, Gabriel Quiros, Nicholas DiRico, Adam A Capoferri, Owen Baker, Erin E Brown, Jernelle Miller, Sharada Saraf, Charles Kirby, Briana Lynch, Jada Hackman, Craig Martens, Thomas C Quinn, Eileen P Scully, Amjad Khan, Art FY Poon, Jessica L Prodger, Ronald M Galiwango, Steven J Reynolds, Andrew D Redd",
-        "url": "https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiag020/8416373",
+      "9i1gB6tY3MIC": {
+        "title": "Economic and circular economy analysis of including potato waste in beef feedlot diets: a Canadian case study",
+        "year": "2025/12/17",
+        "publisher": "Frontiers in Sustainability",
+        "author": "Emma C Stephens, Isaac Aboagye, Genet Mengistu, Tim McAllister, Kim Ominski",
+        "url": "https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2025.1628164/abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "Et_RonIAAAAJ": {
+    "Name": "Guillaume Bourque",
+    "total_new": "1",
+    "publications": {
+      "vkG2KsohqNgC": {
+        "title": "Evolutionarily divergent transcriptomic programs in ovarian folliculogenesis across mice, monkeys, and humans",
+        "year": "2026/1/8",
+        "publisher": "Development",
+        "author": "Baku Nakakita, Ken Mizuta, Yoshitaka Katou, Hidetaka Tasaki, Tomonori Nakamura, Yukihiro Yabuta, Chizuru Iwatani, Hideaki Tsuchiya, Ikuo Kawamoto, Tomoyuki Tsukiyama, Xun Chen, Guillaume Bourque, Junko Otsuki, Mikiya Nakatsuka, Akihito Horie, Masaki Mandai, Mitinori Saitou, Hiroshi Ohta",
+        "url": "https://journals.biologists.com/dev/article/doi/10.1242/dev.205241/370312",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
