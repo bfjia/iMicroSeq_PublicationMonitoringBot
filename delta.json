@@ -1,29 +1,83 @@
 {
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
+  "YngkjFAAAAAJ": {
+    "Name": "Emma Griffiths",
     "total_new": "1",
     "publications": {
-      "9i1gB6tY3MIC": {
-        "title": "Economic and circular economy analysis of including potato waste in beef feedlot diets: a Canadian case study",
-        "year": "2025/12/17",
-        "publisher": "Frontiers in Sustainability",
-        "author": "Emma C Stephens, Isaac Aboagye, Genet Mengistu, Tim McAllister, Kim Ominski",
-        "url": "https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2025.1628164/abstract",
+      "eJXPG6dFmWUC": {
+        "title": "Region-dependent mechanical parameters in simulating cerebral atrophy",
+        "year": "2026/3/1",
+        "publisher": "APL Bioengineering",
+        "author": "Nicole Tueni, Emma Griffiths, Johannes Weickenmeier, Stefan Rampp, Silvia Budday",
+        "url": "https://pubs.aip.org/aip/apb/article/10/1/016104/3377037",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "Et_RonIAAAAJ": {
-    "Name": "Guillaume Bourque",
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "2",
+    "publications": {
+      "3Jzcn9274UAC": {
+        "title": "Showcasing the Canadian GRDI-AMR One Health Project: advancing genomics research for combatting antimicrobial resistance",
+        "year": "2026/1/13",
+        "publisher": "C",
+        "author": "Edward Topp, Catherine Carrillo, Tim McAllister, David Wilkinson",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjm-2025-0077",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "M0jDNLgoRFEC": {
+        "title": "Integrating microbiomes into One Health: insights from the 2025 One Health World Microbiome Partnership Summit",
+        "year": "2026/1/9",
+        "publisher": "The Lancet Microbe",
+        "author": "Herve Affagard, Robert Benamouzig, Peer Bork, Carolee T Bull, Karine Clement, B\u00e9atrice de Montera, Willem M De Vos, Maria-Gloria Dominguez-Bello, Joel Dore, Fanette Fontaine, George Fu Gao, Matthew Henn, Elaine Holmes, Indre Karciauskate, Rob Knight, Omry Koren, Petra Louis, Emmanuelle Maguin, Tim A McAllister, Hiroshi Ohno, Alice C Ortmann, Marie-H\u00e9l\u00e8ne Parizeau, Stephane Pesant, Susan L Prescott, Lita M Proctor, Jeroen Raes, Emma Rocke, Janeth Sanabria-Gomez, Nicola Segata, Chrysi Sergaki, Angela Sessitsch, Rebecca M Stumpf, Thanawat Tiensin, James Versalovic, Claude Vincent, Kristin Wannerberger, Chadia Wannous, Liping Zhao, Hub Zwart",
+        "url": "https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(25)00247-2/fulltext",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
     "total_new": "1",
     "publications": {
-      "vkG2KsohqNgC": {
-        "title": "Evolutionarily divergent transcriptomic programs in ovarian folliculogenesis across mice, monkeys, and humans",
-        "year": "2026/1/8",
-        "publisher": "Development",
-        "author": "Baku Nakakita, Ken Mizuta, Yoshitaka Katou, Hidetaka Tasaki, Tomonori Nakamura, Yukihiro Yabuta, Chizuru Iwatani, Hideaki Tsuchiya, Ikuo Kawamoto, Tomoyuki Tsukiyama, Xun Chen, Guillaume Bourque, Junko Otsuki, Mikiya Nakatsuka, Akihito Horie, Masaki Mandai, Mitinori Saitou, Hiroshi Ohta",
-        "url": "https://journals.biologists.com/dev/article/doi/10.1242/dev.205241/370312",
+      "Ug5p-4gJ2f0C": {
+        "title": "Assessment of Environmental DNA to Determine Presence of Spot-Tailed Earless Lizards in a Controlled, Captive Environment",
+        "year": "2026/1",
+        "publisher": "Journal of Herpetology",
+        "author": "E Drake Rangel, Scott E Henke, Ruby A Ayala, Cord B Eversole, Mark Louie D Lopez, Lauren C Bergman, Ellika M Crichton, Anna H Dema, Caren C Helbing",
+        "url": "https://bioone.org/journals/journal-of-herpetology/volume-59/issue-4/2459378/Assessment-of-Environmental-DNA-to-Determine-Presence-of-Spot-Tailed/10.1670/2459378.short",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
+    "total_new": "1",
+    "publications": {
+      "-_dYPAW6P2MC": {
+        "title": "Source water protection and wildfire threats: A simplified vulnerability assessment framework for drinking water intakes",
+        "year": "2026/1/5",
+        "publisher": "PLOS Water",
+        "author": "Evelyne Pouliot, Fran\u00e7oise Bichai, Raja Kammoun, Sarah Dorner",
+        "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000491",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "PGYDaL8AAAAJ": {
+    "Name": "Catherine Carrillo",
+    "total_new": "1",
+    "publications": {
+      "Cvh0bltMcLgC": {
+        "title": "Showcasing the Canadian GRDI-AMR One Health Project: advancing genomics research for combatting antimicrobial resistance",
+        "year": "2026/1/13",
+        "publisher": "C",
+        "author": "Edward Topp, Catherine Carrillo, Tim McAllister, David Wilkinson",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjm-2025-0077",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
