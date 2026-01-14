@@ -1,14 +1,326 @@
 {
-  "ThjB_RcAAAAJ": {
-    "Name": "Jiannis Ragoussis",
-    "total_new": "1",
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
+    "total_new": "20",
     "publications": {
-      "SIv7DqKytYAC": {
-        "title": "A standardized approach for the isolation of vascular smooth muscle cells from carotid atherosclerotic plaques",
-        "year": "2026/1/10",
-        "publisher": "Scientific Reports",
-        "author": "Jae Hyun Byun, Helena Papacostas Quintanilla, Irem Engin, Rachel Aladeeb, Julia Ho, Ying He, Francisco J Rios, Augusto C Montezano, Rhian M Touyz, Jiannis Ragoussis, Stella S Daskalopoulou",
-        "url": "https://www.nature.com/articles/s41598-025-24161-x",
+      "q3CdL3IzO_QC": {
+        "title": "Olfactory epithelium ontogenesis and function in postembryonic North American",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "t6usbXjVLHcC": {
+        "title": "Replicated landscape genomics identifies evidence of local adaptation to urbanization in wood frogs",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "olpn-zPbct0C": {
+        "title": "Corrigendum: contaminant and environmental influences on thyroid hormone action in amphibian metamorphosis",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "bnK-pcrLprsC": {
+        "title": "Contaminant and environmental influences on thyroid hormone action in amphibian metamorphosis",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "5ugPr518TE4C": {
+        "title": "Expansion of the known distribution of the coastal tailed frog, Ascaphus truei, in British Columbia, Canada, using robust eDNA detection methods",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "mvPsJ3kp5DgC": {
+        "title": "Antimicrobial peptides from Rana [Lithobates] catesbeiana: Gene structure and bioinformatic identification of novel forms from tadpoles",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "q3oQSFYPqjQC": {
+        "title": "Differential expression of RNA exosome subunits in the amphibian Lithobates catesbeianus during reproductive and non-reproductive periods",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "BrmTIyaxlBUC": {
+        "title": "Evaluation of gene bioindicators in the liver and caudal fin of juvenile Pacific coho salmon in response to low sulfur marine diesel seawater-accommodated fraction exposure",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "VOx2b1Wkg3QC": {
+        "title": "Transcriptomics investigation of thyroid hormone disruption in the olfactory system of the Rana [Lithobates] catesbeiana tadpole",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "5Ul4iDaHHb8C": {
+        "title": "Metabolomic insights into the effects of thyroid hormone on Rana [Lithobates] catesbeiana metamorphosis using whole-body Matrix Assisted Laser Desorption/Ionization-Mass \u2026",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "AXPGKjj_ei8C": {
+        "title": "Replicated landscape genomics design identifies evidence of local adaptation to urbanization in a pool-breeding amphibian",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "WbkHhVStYXYC": {
+        "title": "Behavioral and molecular analyses of olfaction-mediated avoidance responses of Rana (Lithobates) catesbeiana tadpoles: Sensitivity to thyroid hormones, estrogen, and treated \u2026",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "OU6Ihb5iCvQC": {
+        "title": "Anuran cross-species molecular sensors",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "geHnlv5EZngC": {
+        "title": "A novel approach to wildlife transcriptomics provides evidence of disease\u2010mediated differential expression and changes to the microbiome of amphibian populations",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "eflP2zaiRacC": {
+        "title": "A rapid gas chromatography tandem mass spectrometry method for the determination of 50 PAHs for application in a marine environment",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "Tiz5es2fbqcC": {
+        "title": "Use of electro-olfactography to measure olfactory acuity in the North American bullfrog (Lithobates (Rana) catesbeiana) tadpole",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "tOudhMTPpwUC": {
+        "title": "The North American bullfrog draft genome provides insight into hormonal regulation of long noncoding RNA",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "eJXPG6dFmWUC": {
+        "title": "Environmental DNA protocol for freshwater aquatic ecosystems version 2.2",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "XiSMed-E-HIC": {
+        "title": "Polychlorinated Biphenyl-Related Alterations of the Expression of Essential Genes in Harbour Seals (Phoca vitulina) from Coastal Sites in Canada and the United \u2026",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "u9iWguZQMMsC": {
+        "title": "De novo assembly of the ringed seal (Pusa hispida) blubber transcriptome: A tool that enables identification of molecular health indicators associated with PCB exposure",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "rHFCtWwAAAAJ": {
+    "Name": "Finlay Maguire",
+    "total_new": "15",
+    "publications": {
+      "ufrVoPGSRksC": {
+        "title": "Intracellular infection of diverse diatoms by an evolutionary distinct relative of the fungi",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "eQOLeE2rZwMC": {
+        "title": "A resident-led clinic that promotes the health of refugee women through advocacy and partnership",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "_FxGoFyzp5QC": {
+        "title": "Unexpected mitochondrial genome diversity revealed by targeted single-cell genomics of heterotrophic flagellated protists",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "WF5omc3nYNoC": {
+        "title": "CARD 2020: antibiotic resistome surveillance with the comprehensive antibiotic resistance database",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "W7OEmFMy1HYC": {
+        "title": "Identification of primary antimicrobial resistance drivers in agricultural nontyphoidal Salmonella enterica serovars by using machine learning",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "zYLM7Y9cAGgC": {
+        "title": "Environment-dependent fitness gains can be driven by horizontal gene transfer of transporter-encoding genes",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "roLk4NBRz8UC": {
+        "title": "The integrated rapid infectious disease analysis (IRIDA) platform",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "UeHWp8X0CEIC": {
+        "title": "Comparative genomic analysis of the \u2018pseudofungus\u2019 Hyphochytrium catenoides",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "ULOm3_A8WrAC": {
+        "title": "A multi-omic analysis of the photosynthetic endosymbioses of Paramecium bursaria",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "qjMakFHDy7sC": {
+        "title": "Molecular Diversity and Distribution of Marine Fungi Across 130 European Environmental Samples",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "2osOgNQ5qMEC": {
+        "title": "Cryptic infection of a broad taxonomic and geographic diversity of tadpoles by Perkinsea protists",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "9yKSN-GCB0IC": {
+        "title": "A Balloon-Based Payload for Exposing Microorganisms in the Stratosphere (E-MIST)",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "d1gkVwhDpl0C": {
+        "title": "Complex Patterns of Gene Fission in the Eukaryotic Folate Biosynthesis Pathway",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "u-x6o8ySG0sC": {
+        "title": "Organelle Evolution: A Mosaic of \u2018Mitochondrial\u2019 Functions",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "u5HHmVD_uO8C": {
+        "title": "Diverse Molecular Signatures for Ribosomally 'Active' Perkinsea in Marine Sediments",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
         "firstOrLast": false,
         "datasource": "Scholars"
       }
