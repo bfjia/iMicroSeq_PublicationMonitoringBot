@@ -1,1 +1,17 @@
-{}
+{
+  "Et_RonIAAAAJ": {
+    "Name": "Guillaume Bourque",
+    "total_new": "1",
+    "publications": {
+      "_hb0F9yZ3cgC": {
+        "title": "Read-level genotyping of short tandem repeats using long reads and single-nucleotide variation with STRkit",
+        "year": "2026/1/15",
+        "publisher": "Genome Research",
+        "author": "David R Lougheed, Tomi Pastinen, Guillaume Bourque",
+        "url": "https://genome.cshlp.org/content/early/2026/01/15/gr.280766.125.abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
