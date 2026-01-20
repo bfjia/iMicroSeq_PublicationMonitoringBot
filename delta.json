@@ -1,44 +1,14 @@
 {
-  "zI9NSLcAAAAJ": {
-    "Name": "Andrew G. McArthur",
+  "rHFCtWwAAAAJ": {
+    "Name": "Finlay Maguire",
     "total_new": "1",
     "publications": {
-      "uJ-U7cs_P_0C": {
+      "OU6Ihb5iCvQC": {
         "title": "Correction: Identification of patient demographic, clinical, and SARS-CoV-2 genomic factors associated with severe COVID-19 using supervised machine learning: a retrospective \u2026",
         "year": "2025/10/16",
         "publisher": "BMC Infectious Diseases",
         "author": "Kuganya Nirmalarajah, Patryk Aftanas, Shiva Barati, Emily Chien, Gloria Crowl, Amna Faheem, Lubna Farooqi, Alainna J Jamal, Saman Khan, Jonathon D Kotwa, Angel X Li, Mohammad Mozafarihashjin, Jalees A Nasir, Altynay Shigayeva, Winfield Yim, Lily Yip, Xi Zoe Zhong, Kevin Katz, Robert Kozak, Andrew G McArthur, Nick Daneman, Finlay Maguire, Allison J McGeer, Venkata R Duvvuri, Samira Mubareka",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12532437/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "MNqeC0sAAAAJ": {
-    "Name": "Robert Michael McKay",
-    "total_new": "1",
-    "publications": {
-      "HIFyuExEbWQC": {
-        "title": "Spatiotemporal Variability in Wastewater-Derived Carbapenem-Resistance Genes from Diverse Municipal Sources in the Laurentian Great Lakes Catchment",
-        "year": "2026/1/14",
-        "publisher": "Unknown",
-        "author": "Ethan Harrop, Qiudi Geng, Ryland Corchis-Scott, Mackenzie Beach, Owen Corchis-Scott, John Norton, Andrea Busch, Shannon Belleau, Ian Morgan, Mehdi Aloosh, R Michael McKay",
-        "url": "https://www.researchsquare.com/article/rs-8206721/latest",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wHX6pyUAAAAJ": {
-    "Name": "Hugo Asselin",
-    "total_new": "1",
-    "publications": {
-      "YohjEiUPhakC": {
-        "title": "Soil environmental DNA versus pitfall trapping for small mammal monitoring: qPCR assay development and pilot field evaluation",
-        "year": "2026/1",
-        "publisher": "Canadian Journal of Zoology",
-        "author": "Marie-Pier Brochu, Patrick Charbonneau, Hugo Asselin, Val\u00e9rie S. Langlois",
-        "url": null,
         "firstOrLast": false,
         "datasource": "Scholars"
       }
