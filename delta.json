@@ -1,29 +1,44 @@
 {
-  "MNqeC0sAAAAJ": {
-    "Name": "Robert Michael McKay",
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
     "total_new": "1",
     "publications": {
-      "4vMrXwiscB8C": {
-        "title": "Eutrophic Lake Restoration Requires Multidimensional Approaches to Stressor Management",
+      "edDO8Oi4QzsC": {
+        "title": "Novel Insights into the Distribution and Effects of Perfluorooctanesulfonic acid (PFOS) in the Nervous System of a Frog Tadpole Model by Mass Spectrometry Imaging",
         "year": "2026/1/21",
         "publisher": "Environmental Science & Technology",
-        "author": "Zhongzhao Duan, Wei Gao, Xiangzhen Kong, Hugh J MacIsaac, Erik Jeppesen, Sabine Hilt, David P Hamilton, Steven W Wilhelm, Robert Michael McKay, Yuan Zhang, Boqiang Qin, Yong Liu, Haijun Wang, Min Pan, Tiyuan Xia, Fengchang Wu, Hans W Paerl, Xuexiu Chang",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.5c11422",
+        "author": "Rikke Poulsen, Emma M Field, Angela M Jackson, Haley Kuecks-Winger, Anita A Thambirajah, David R Goodlett, Caren C Helbing, Helena Pe\u030ctros\u030cova\u0301",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.5c17483",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "ThjB_RcAAAAJ": {
-    "Name": "Jiannis Ragoussis",
+  "ceQ3BE0AAAAJ": {
+    "Name": "M\u00e9lanie Courtot",
     "total_new": "1",
     "publications": {
-      "UmS_249rOGwC": {
-        "title": "The Genetic and Molecular Analyses of Rare Candidate Germline BRIP1/FANCJ Variants Implicated in Hereditary Breast and Ovarian Cancers",
-        "year": "2026/1",
-        "publisher": "International Journal of Molecular Sciences",
-        "author": "Wejdan M Alenezi, Larissa Milano, Caitlin T Fierheller, Corinne Serruya, Timoth\u00e9e Revil, Kathleen K Oros, Jeffrey P Bruce, Dan Spiegelman, Trevor Pugh, Anne-Marie Mes-Masson, Diane Provencher, William D Foulkes, Zaki El Haffaf, Guy Rouleau, Luigi Bouchard, Celia MT Greenwood, Jiannis Ragoussis, Jean-Yves Masson, Patricia N Tonin",
-        "url": "https://www.mdpi.com/1422-0067/27/2/1037",
+      "VOx2b1Wkg3QC": {
+        "title": "Benchmarking LLM-based Information Extraction Tools for Medical Documents",
+        "year": "2026",
+        "publisher": "medRxiv",
+        "author": "Aaron Yu, Jochen Weile, Melanie Courtot",
+        "url": "https://www.medrxiv.org/content/10.64898/2026.01.19.26344287.abstract",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "IZQgBh8AAAAJ": {
+    "Name": "Rita Isabel Henderson",
+    "total_new": "1",
+    "publications": {
+      "f2IySw72cVMC": {
+        "title": "Obesity in adults: A clinical practice guideline",
+        "year": "2020",
+        "publisher": "CMAJ: CANADIAN MEDICAL ASSOCIATION JOURNAL",
+        "author": "DCW LAU, M Vallis, AM SHARMA, L BIERTHO, D CAMPBELL-SCHERER, K ADAMO, A ALBERGA, R BELL, N BOUL\u00c9, E BOYLING, J BROWN, B CALAM, C CLARKE, L CROWSHOE, D DIVALENTINO, M FORHAN, Y FREEDHOFF, M GAGNER, S GLAZER, C GRAND, M GREEN, M HAHN, R HAWA, R HENDERSON, D HONG, P HUNG, IA JANSSEN, K JACKLIN, C JOHNSON-STOKLOSSA, A KEMP, S KIRK, J KUK, MF LANGLOIS, S LEAR, A MCINNES, D MACKLIN, L NAJI, P MANJOO, M MORIN, K NERENBERG, IA PATTON, S PEDERSEN, L PEREIRA, H PICCININI-VALLIS, M PODDAR, P POIRIER, D PRUD\u2019HOMME, XR SALAS, CH RUEDA-CLAUSEN, SH RUSSELL-MAYHEW, JU SHIAU, D SHERIFALI, J SIEVENPIPER, S SOCKALINGAM, V TAYLOR, E TOTH, L TWELLS, R TYTUS, SH WALJI, L WALKER, S WICKLUM",
+        "url": "https://elibrary.ru/item.asp?id=78133296",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
