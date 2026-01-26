@@ -443,6 +443,13 @@ def formatSlackMsg2(deltaJson):
         return Msg
 
 
+def doesTitleAlreadyExist(newTitle, existingTitles, cutoff = 0.9):
+    for title in existingTitles:
+        ratio = difflib.SequenceMatcher(None, newTitle, title).ratio()
+        if ratio > cutoff:
+            return True
+    return False
+
 if __name__ == "__main__":
     if os.path.exists(jsonFile):
         shutil.copy2(jsonFile, lastJsonFile)
@@ -472,13 +479,20 @@ if __name__ == "__main__":
     newPublications = {}
     for authorID in authorIDList:
         id = authorID
-        #we just added someone new to the list. DO NOT delta them until the next time.
+        #this is not a new person, check if new pubs exists. 
         if id in lastPublicationJson.keys():
             if currentPublicationJson[id]['publications'].keys() != lastPublicationJson[id]['publications'].keys():
-                diff = [item for item in currentPublicationJson[id]['publications'].keys() if item not in lastPublicationJson[id]['publications'].keys()]
+                diff = [item for item in currentPublicationJson[id]['publications'].keys() if item not in lastPublicationJson[id]['publications'].keys()] #holds the pubid of NEW pubs
                 if len(diff) > 0:
                     print(currentPublicationJson[id]['Name'] + " have " + str(len(diff)) + " new publications!")
                     for pubid in diff:
+                        existingTitles = [pub["title"] for pub in lastPublicationJson[id]["publications"].values()] 
+                        currentTitle = currentPublicationJson[id]['publications'][pubid]["title"]
+                        isTitleNew = doesTitleAlreadyExist(currentTitle, existingTitles)
+
+                        if isTitleNew:
+                            print("[TESTING] " + currentPublicationJson[id]['Name'] + " have an existing pub with new scholar ID. title: " + currentTitle)
+
                         if (authorID not in newPublications.keys()):
                             newPublications[authorID] = {
                                 'Name' : currentPublicationJson[id]['Name'],
@@ -489,11 +503,9 @@ if __name__ == "__main__":
                             newPublications[authorID]['publications'][pubid] = currentPublicationJson[id]['publications'][pubid]
             else:
                 print("[INFO] " + currentPublicationJson[id]['Name'] + " have no new publications.")
-        else:
+        else: #we just added someone new to the list. DO NOT delta them until the next time.
             print ("[INFO] " + currentPublicationJson[id]['Name'] + " is a new author added to the surveillance list, we ignoring until next time.")
 
-    #As a temp fix, lets add a check to ensure that the new publications in deltaJson is actually new. 
-    
     saveJson(newPublications, deltaJsonFile)
 
     #Lets format the message for the slack bot
