@@ -434,6 +434,8 @@ def formatSlackMsg2(deltaJson):
                         Msg = Msg + " " + pub['url'] + "\n"
                     else:
                         Msg = Msg + "URL unavailable."
+                    Msg = Msg + "\n"
+
 
             Msg = Msg + "\n"
         
@@ -488,6 +490,9 @@ if __name__ == "__main__":
                 print("[INFO] " + currentPublicationJson[id]['Name'] + " have no new publications.")
         else:
             print ("[INFO] " + currentPublicationJson[id]['Name'] + " is a new author added to the surveillance list, we ignoring until next time.")
+
+    #As a temp fix, lets add a check to ensure that the new publications in deltaJson is actually new. 
+    
     saveJson(newPublications, deltaJsonFile)
 
     #Lets format the message for the slack bot
