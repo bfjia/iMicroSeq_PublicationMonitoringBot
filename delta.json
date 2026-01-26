@@ -1,45 +1,45 @@
 {
-  "BC6T6L-UY8gC": {
-    "Name": "Caren Helbing",
+  "Ohu9Gc4AAAAJ": {
+    "Name": "B. Jesse Shapiro",
     "total_new": "1",
     "publications": {
-      "edDO8Oi4QzsC": {
-        "title": "Novel Insights into the Distribution and Effects of Perfluorooctanesulfonic acid (PFOS) in the Nervous System of a Frog Tadpole Model by Mass Spectrometry Imaging",
+      "8_tS2Vw13FcC": {
+        "title": "Phosphorothioate DNA modification by BREX Type 4 systems in the human gut microbiome",
+        "year": "2026/1/22",
+        "publisher": "Nature Communications",
+        "author": "Yifeng Yuan, Michael S DeMott, Shane R Byrne, Katia Flores, Mathilde Poyet, Mathieu Groussin, Brittany Berdy, John Rusine Bahunde, Catherine Girard, Jenni Lehtim\u00e4ki, Audax ZP Mabulla, Ivan Emil Mwikarago, Yvonne Ayerki Nartey, Le Thanh Tu Nguyen, Charles A Onyekwere, Lewis R Roberts, B Jesse Shapiro, Tommi Vatanen, Laurie E Comstock, Eric J Alm, Peter C Dedon",
+        "url": "https://www.nature.com/articles/s41467-026-68412-5",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "ThjB_RcAAAAJ": {
+    "Name": "Jiannis Ragoussis",
+    "total_new": "1",
+    "publications": {
+      "DyXnQzXoVgIC": {
+        "title": "Evaluation of real-life use of point-of-care rapid antigen testing for SARS-CoV-2 in schools (EPOCRATES): a cohort study",
+        "year": "2022/10/1",
+        "publisher": "Canadian Medical Association Open Access Journal",
+        "author": "Ana C Blanchard, Marc Desforges, Annie-Claude Labb\u00e9, Cat Tuong Nguyen, Yves Petit, Dominic Besner, Kate Zinszer, Olivier S\u00e9guin, Zineb Laghdir, Kelsey Adams, Marie-\u00c8ve Benoit, Genevi\u00e8ve Leduc, Jean Longtin, Jiannis Ragoussis, David L Buckeridge, Caroline Quach",
+        "url": "https://www.cmajopen.ca/content/10/4/E1027.short",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "mBdtjsQAAAAJ": {
+    "Name": "Antonio Ruzzini",
+    "total_new": "1",
+    "publications": {
+      "QIV2ME_5wuYC": {
+        "title": "Survey of bacteria associated with septic arthritis in beef feedlot cattle",
         "year": "2026/1/21",
-        "publisher": "Environmental Science & Technology",
-        "author": "Rikke Poulsen, Emma M Field, Angela M Jackson, Haley Kuecks-Winger, Anita A Thambirajah, David R Goodlett, Caren C Helbing, Helena Pe\u030ctros\u030cova\u0301",
-        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.5c17483",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "ceQ3BE0AAAAJ": {
-    "Name": "M\u00e9lanie Courtot",
-    "total_new": "1",
-    "publications": {
-      "VOx2b1Wkg3QC": {
-        "title": "Benchmarking LLM-based Information Extraction Tools for Medical Documents",
-        "year": "2026",
-        "publisher": "medRxiv",
-        "author": "Aaron Yu, Jochen Weile, Melanie Courtot",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.01.19.26344287.abstract",
+        "publisher": "Applied and Environmental Microbiology",
+        "author": "Daniel Kos, Brian Warr, Danae M Suchan, Danilo Wadt, Jennifer N Russell, Mallory Norfield, Jenny Liang, Murray Jelinski, Andrew DS Cameron, Antonio Ruzzini",
+        "url": "https://journals.asm.org/doi/abs/10.1128/aem.01675-25",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "IZQgBh8AAAAJ": {
-    "Name": "Rita Isabel Henderson",
-    "total_new": "1",
-    "publications": {
-      "f2IySw72cVMC": {
-        "title": "Obesity in adults: A clinical practice guideline",
-        "year": "2020",
-        "publisher": "CMAJ: CANADIAN MEDICAL ASSOCIATION JOURNAL",
-        "author": "DCW LAU, M Vallis, AM SHARMA, L BIERTHO, D CAMPBELL-SCHERER, K ADAMO, A ALBERGA, R BELL, N BOUL\u00c9, E BOYLING, J BROWN, B CALAM, C CLARKE, L CROWSHOE, D DIVALENTINO, M FORHAN, Y FREEDHOFF, M GAGNER, S GLAZER, C GRAND, M GREEN, M HAHN, R HAWA, R HENDERSON, D HONG, P HUNG, IA JANSSEN, K JACKLIN, C JOHNSON-STOKLOSSA, A KEMP, S KIRK, J KUK, MF LANGLOIS, S LEAR, A MCINNES, D MACKLIN, L NAJI, P MANJOO, M MORIN, K NERENBERG, IA PATTON, S PEDERSEN, L PEREIRA, H PICCININI-VALLIS, M PODDAR, P POIRIER, D PRUD\u2019HOMME, XR SALAS, CH RUEDA-CLAUSEN, SH RUSSELL-MAYHEW, JU SHIAU, D SHERIFALI, J SIEVENPIPER, S SOCKALINGAM, V TAYLOR, E TOTH, L TWELLS, R TYTUS, SH WALJI, L WALKER, S WICKLUM",
-        "url": "https://elibrary.ru/item.asp?id=78133296",
-        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
