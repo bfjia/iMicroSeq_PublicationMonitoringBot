@@ -20,6 +20,7 @@ jsonFile = 'allpubs.json'
 lastJsonFile = 'last_allpubs.json'
 authorsToMonitor = "authors.txt"
 deltaJsonFile = 'delta.json'
+AuthorNameSimilarityFuzzyMatchingCutoff = 0.75
 
 class publications:
     def __init__(self, title, year, publisher, author, url, firstOrLast, publicationID, datasource):
@@ -168,7 +169,7 @@ def extractMetadataFromScholarSummary(driver, publicationURL, profileName, title
     lastAuthor = authors.split(",")[-1].strip()
     similarityFirst = difflib.SequenceMatcher(None, profileName2, firstAuthor).ratio()
     similarityLast = difflib.SequenceMatcher(None, profileName2, lastAuthor).ratio()
-    firstOrLastAuthor = True  if similarityFirst > 0.7 or similarityLast > 0.7 else False
+    firstOrLastAuthor = True  if similarityFirst > AuthorNameSimilarityFuzzyMatchingCutoff or similarityLast > AuthorNameSimilarityFuzzyMatchingCutoff else False
     publication = publications(title, pubDate, journal, authors, actualPubURL, firstOrLastAuthor,  pubID, "Scholars")
     return publication
 
