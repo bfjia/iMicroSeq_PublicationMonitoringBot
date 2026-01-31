@@ -1,29 +1,44 @@
 {
-  "VaLlkyoAAAAJ": {
-    "Name": "Herman W. Barkema",
+  "kXK5pzQAAAAJ": {
+    "Name": "Natalie C Knox",
     "total_new": "1",
     "publications": {
-      "10A3hb2jUxYC": {
-        "title": "Antimicrobial resistance in bacterial meningitis caused by Streptococcus pneumoniae, Neisseria meningitidis, or Haemophilus influenzae (2010\u201324): a systematic review and meta \u2026",
+      "fPk4N6BV_jEC": {
+        "title": "Optimizing data-driven excellence: Canada\u2019s approach to using pathogen test datasets for quality control, pipeline development and training initiatives",
         "year": "2026/1/27",
-        "publisher": "E",
-        "author": "Gilbert Lazarus, Benjamin Caddey, Anna Dean, Florentina Febrina, Vincent Kharisma Wangsaputra, Shafira Permata Radiani, Yindi Xiong, John M Conly, Herman W Barkema, Lorenzo Pezzoli, Esther van Kleef, Olga Tosas Auguet, Paul Turner, Kavita U Kothari, Silvia Bertagnolio, Diego B Nobrega, Raph L Hamers, Adrian Prasetya, Alvaro J Guzman, Alyssa Butters, Andres de Lima, Angelica Dias, Benson Weyant, Chanda Liaqat, Claire Kamaliddin, Esther Adesanwo, Febriyan Satria, Grady Krisandi, Griffin Br\u00fcnger, Hafeez Akinniyi, Indira L Maharani, Jason Phowira, Jiajun Sun, Jingyue Yang, Jodi I Rattner, Julia Takahashi, Kresanti D Ngadimin, La\u00eds Batalha, Lindsay Covington, Luiza Radu, Mohammad Jokar, Nadine Aurelie, Nayla KP Wisnu, Olga T Auguet, Oluwatobi Fasiku, Quinn Goddard, Rejoel M Siagian, Rivaldi Ruby, Robert Sinto, Shafira P Radiani, Shiva Rezaee, Sibina Fisher, Sina S Tazerji, Stefanny Cong, Tianyu Li, Valerie J Dirjayanto, Vincent K Wangsaputra, Waseem Shaukat, Xiaofang Tong",
-        "url": "https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(25)00166-1/fulltext",
+        "publisher": "Microbial Genomics",
+        "author": "Kara D Loos, Mark Horsman, Jeff Tuff, Kimia Kamelian, Darian Hole, Chanchal Yadav, Kirsten Palmier, Kristyn Burak, Molly Pratt, Connor Chato, Anna Majer, Shari Tyson, Grace E Seo, Philip Mabon, Elsie Grudeski, Rhiannon Huzarewich, Russell Mandes, Anneliese Landgraff, Jennifer R Tanner, Natalie Knox, Morag Graham, Gary Van Domselaar, Jessica Minion, Nathalie Bastien, Timothy Booth, Madison Chapel, Kirsten Biggar, Ana Duggan, Catherine Yoshida, Andrea Tyler",
+        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001505",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "-EWOC3cAAAAJ": {
-    "Name": "Diego Borin Nobrega",
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
     "total_new": "1",
     "publications": {
-      "WbkHhVStYXYC": {
-        "title": "Antimicrobial resistance in bacterial meningitis caused by Streptococcus pneumoniae, Neisseria meningitidis, or Haemophilus influenzae (2010\u201324): a systematic review and meta \u2026",
+      "q2Dn1KgioksC": {
+        "title": "Integrative and conjugative elements in Mycoplasmopsis bovis from Western Canadian feedlot cattle: characterization and conjugative transfer",
         "year": "2026/1/27",
-        "publisher": "E",
-        "author": "Gilbert Lazarus, Benjamin Caddey, Anna Dean, Florentina Febrina, Vincent Kharisma Wangsaputra, Shafira Permata Radiani, Yindi Xiong, John M Conly, Herman W Barkema, Lorenzo Pezzoli, Esther van Kleef, Olga Tosas Auguet, Paul Turner, Kavita U Kothari, Silvia Bertagnolio, Diego B Nobrega, Raph L Hamers, Adrian Prasetya, Alvaro J Guzman, Alyssa Butters, Andres de Lima, Angelica Dias, Benson Weyant, Chanda Liaqat, Claire Kamaliddin, Esther Adesanwo, Febriyan Satria, Grady Krisandi, Griffin Br\u00fcnger, Hafeez Akinniyi, Indira L Maharani, Jason Phowira, Jiajun Sun, Jingyue Yang, Jodi I Rattner, Julia Takahashi, Kresanti D Ngadimin, La\u00eds Batalha, Lindsay Covington, Luiza Radu, Mohammad Jokar, Nadine Aurelie, Nayla KP Wisnu, Olga T Auguet, Oluwatobi Fasiku, Quinn Goddard, Rejoel M Siagian, Rivaldi Ruby, Robert Sinto, Shafira P Radiani, Shiva Rezaee, Sibina Fisher, Sina S Tazerji, Stefanny Cong, Tianyu Li, Valerie J Dirjayanto, Vincent K Wangsaputra, Waseem Shaukat, Xiaofang Tong",
-        "url": "https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(25)00166-1/fulltext",
+        "publisher": "Frontiers in Veterinary Science",
+        "author": "Sara Andres-Lasheras, Rahat Zaheer, Rodrigo Ortega-Polo, Timothy Schwinghamer, Sujeema Abeysekara, Athanasios Zovoilis, Sani-e-Zehra Zaidi, Murray Jelinski, Tim A McAllister",
+        "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1719776/full",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-bIc5H0AAAAJ": {
+    "Name": "Sarah Otto",
+    "total_new": "1",
+    "publications": {
+      "L_YvGb4hwdAC": {
+        "title": "Population genomics of rapid weed adaptation in Amaranthus",
+        "year": "2024/7",
+        "publisher": "Unknown",
+        "author": "JM Kreiner, SM Latorre, HA Burbano, JR Stinchcombe, SP Otto, D Weigel, SI Wright",
+        "url": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3689736",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
