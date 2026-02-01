@@ -1,44 +1,29 @@
 {
-  "kXK5pzQAAAAJ": {
-    "Name": "Natalie C Knox",
+  "28A7wWkAAAAJ": {
+    "Name": "Marc-Andr\u00e9 Langlois",
     "total_new": "1",
     "publications": {
-      "fPk4N6BV_jEC": {
+      "GiYFt9mpioMC": {
+        "title": "Immunogenicity and Safety of a Third and Subsequent COVID-19 Vaccine Doses in Patients with Plasma Cell Dyscrasias",
+        "year": "2026/1/27",
+        "publisher": "Blood Advances",
+        "author": "Sita Bhella, Gerard Agbayani, Katrina Hueniken, Abi Vijenthira, Allison M Wilkin, Michael Sebag, Peng Wang, Lisa K Hicks, Annette E Hay, Seyed M Hosseini-Moghaddam, Sarit E Assouline, Amaris Balitsky, Graeme AM Fraser, Joy Mangel, Carolyn Owen, Anthony Reiman, Laurie H Sehn, Heather J Sutherland, Corey Arnold, Arleigh McCurdy, Donna Reece, Tamara Leite, Erinn McCarthy, Curtis Cooper, Angela Crawley, Marc-Andr\u00e9 Langlois, Catharine Arianne Buchan",
+        "url": "https://ashpublications.org/bloodadvances/article/doi/10.1182/bloodadvances.2025018117/566266",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "LghEfpEAAAAJ": {
+    "Name": "Gary Van Domselaar",
+    "total_new": "1",
+    "publications": {
+      "m8MyhXdlT-4C": {
         "title": "Optimizing data-driven excellence: Canada\u2019s approach to using pathogen test datasets for quality control, pipeline development and training initiatives",
         "year": "2026/1/27",
         "publisher": "Microbial Genomics",
         "author": "Kara D Loos, Mark Horsman, Jeff Tuff, Kimia Kamelian, Darian Hole, Chanchal Yadav, Kirsten Palmier, Kristyn Burak, Molly Pratt, Connor Chato, Anna Majer, Shari Tyson, Grace E Seo, Philip Mabon, Elsie Grudeski, Rhiannon Huzarewich, Russell Mandes, Anneliese Landgraff, Jennifer R Tanner, Natalie Knox, Morag Graham, Gary Van Domselaar, Jessica Minion, Nathalie Bastien, Timothy Booth, Madison Chapel, Kirsten Biggar, Ana Duggan, Catherine Yoshida, Andrea Tyler",
         "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001505",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
-    "total_new": "1",
-    "publications": {
-      "q2Dn1KgioksC": {
-        "title": "Integrative and conjugative elements in Mycoplasmopsis bovis from Western Canadian feedlot cattle: characterization and conjugative transfer",
-        "year": "2026/1/27",
-        "publisher": "Frontiers in Veterinary Science",
-        "author": "Sara Andres-Lasheras, Rahat Zaheer, Rodrigo Ortega-Polo, Timothy Schwinghamer, Sujeema Abeysekara, Athanasios Zovoilis, Sani-e-Zehra Zaidi, Murray Jelinski, Tim A McAllister",
-        "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1719776/full",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "-bIc5H0AAAAJ": {
-    "Name": "Sarah Otto",
-    "total_new": "1",
-    "publications": {
-      "L_YvGb4hwdAC": {
-        "title": "Population genomics of rapid weed adaptation in Amaranthus",
-        "year": "2024/7",
-        "publisher": "Unknown",
-        "author": "JM Kreiner, SM Latorre, HA Burbano, JR Stinchcombe, SP Otto, D Weigel, SI Wright",
-        "url": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3689736",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
