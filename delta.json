@@ -1,39 +1,9 @@
 {
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
+  "YngkjFAAAAAJ": {
+    "Name": "Emma Griffiths",
     "total_new": "1",
     "publications": {
-      "lEqsFd_EmTwC": {
-        "title": "Compartment heat flux measurement under elevated pool fires",
-        "year": "2025/10",
-        "publisher": "Journal of Thermal Analysis and Calorimetry",
-        "author": "Mahesh Kumar Tiwari, Avinash Chaudhary, Raj Kumar Mishra, A Aravind Kumar, SM Tauseef, Sivi Varghese, Ravinder Kumar",
-        "url": "https://link.springer.com/article/10.1007/s10973-025-14808-2",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "kXK5pzQAAAAJ": {
-    "Name": "Natalie C Knox",
-    "total_new": "1",
-    "publications": {
-      "rO6llkc54NcC": {
-        "title": "The Mpox contextual data specification package: a data curation toolkit to support collaborative pathogen genomic surveillance",
-        "year": "2026/1/23",
-        "publisher": "Microbial Genomics",
-        "author": "Emma J Griffiths, Rhiannon Cameron, Charlotte Barclay, Nithu Sara John, Damion Dooley, Ivan Gill, Madeline Iseminger, Muhammad Zohaib Anwar, Mark E Horsman, Keith MacKenzie, Natalie Prystajecky, John Tyson, Agatha Jassem, Tracy Lee, Rob Azana, Janet Fung, Michael Chan, Branco Cheung, Frankie Tsang, Dan Fornika, Jessica M Caleta, Tara Newman, Kevin C Yang, Shannon L Russell, James EA Zlosnik, Linda Hoang, Natalie Knox, Andrea D Tyler, Emily Haidl, Chanchal Yadav, Ana T Duggan, Levon Kearney, Christopher Townend, Bernadette Cruz, Gary Van Domselaar, William WL Hsiao",
-        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001614",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "01K5Ks4AAAAJ": {
-    "Name": "William Hsiao",
-    "total_new": "1",
-    "publications": {
-      "olpn-zPbct0C": {
+      "tS2w5q8j5-wC": {
         "title": "The Mpox contextual data specification package: a data curation toolkit to support collaborative pathogen genomic surveillance",
         "year": "2026/1/23",
         "publisher": "Microbial Genomics",
@@ -44,16 +14,16 @@
       }
     }
   },
-  "wQywY-EAAAAJ": {
-    "Name": "Robert E. W. Hancock",
+  "LghEfpEAAAAJ": {
+    "Name": "Gary Van Domselaar",
     "total_new": "1",
     "publications": {
-      "nOKOSwxqtg8C": {
-        "title": "The Impact of Treponema Pallidum on Endothelial Cells; Time-Course Transcriptomics Reveals Insight into Syphilis Symptoms",
-        "year": "2025/1/1",
-        "publisher": "C",
-        "author": "Sean Waugh, Mara C Goodyear, Alloysius Gomez, Akash Ranasinghe, Karen Lithgow, Reza Falsa, Robert EW Hancock, Amy H Lee, Caroline E Cameron",
-        "url": "https://scholar.google.com/scholar?cluster=9545784901219903451&hl=en&oi=scholarr",
+      "SgTKrLvt1DcC": {
+        "title": "The Mpox contextual data specification package: a data curation toolkit to support collaborative pathogen genomic surveillance",
+        "year": "2026/1/23",
+        "publisher": "Microbial Genomics",
+        "author": "Emma J Griffiths, Rhiannon Cameron, Charlotte Barclay, Nithu Sara John, Damion Dooley, Ivan Gill, Madeline Iseminger, Muhammad Zohaib Anwar, Mark E Horsman, Keith MacKenzie, Natalie Prystajecky, John Tyson, Agatha Jassem, Tracy Lee, Rob Azana, Janet Fung, Michael Chan, Branco Cheung, Frankie Tsang, Dan Fornika, Jessica M Caleta, Tara Newman, Kevin C Yang, Shannon L Russell, James EA Zlosnik, Linda Hoang, Natalie Knox, Andrea D Tyler, Emily Haidl, Chanchal Yadav, Ana T Duggan, Levon Kearney, Christopher Townend, Bernadette Cruz, Gary Van Domselaar, William WL Hsiao",
+        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001614",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
