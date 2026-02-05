@@ -1,29 +1,74 @@
 {
-  "YngkjFAAAAAJ": {
-    "Name": "Emma Griffiths",
+  "IZQgBh8AAAAJ": {
+    "Name": "Rita Isabel Henderson",
     "total_new": "1",
     "publications": {
-      "tS2w5q8j5-wC": {
-        "title": "The Mpox contextual data specification package: a data curation toolkit to support collaborative pathogen genomic surveillance",
-        "year": "2026/1/23",
-        "publisher": "Microbial Genomics",
-        "author": "Emma J Griffiths, Rhiannon Cameron, Charlotte Barclay, Nithu Sara John, Damion Dooley, Ivan Gill, Madeline Iseminger, Muhammad Zohaib Anwar, Mark E Horsman, Keith MacKenzie, Natalie Prystajecky, John Tyson, Agatha Jassem, Tracy Lee, Rob Azana, Janet Fung, Michael Chan, Branco Cheung, Frankie Tsang, Dan Fornika, Jessica M Caleta, Tara Newman, Kevin C Yang, Shannon L Russell, James EA Zlosnik, Linda Hoang, Natalie Knox, Andrea D Tyler, Emily Haidl, Chanchal Yadav, Ana T Duggan, Levon Kearney, Christopher Townend, Bernadette Cruz, Gary Van Domselaar, William WL Hsiao",
-        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001614",
+      "_xSYboBqXhAC": {
+        "title": "Efforts to introduce an indigenous identifier in a Canadian Provincial Health Authority",
+        "year": "2024",
+        "publisher": "IJIH",
+        "author": "M Gray, K Williams, R Henderson, R Oster, W Samara, B Grant, CLARINGBOLD SH SCOTT, G BAILEY, C HORWOOD, R RICH, E TAILFEATHERS",
+        "url": "https://elibrary.ru/item.asp?id=74073154",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
+    "total_new": "1",
+    "publications": {
+      "jKffii5DqX8C": {
+        "title": "Empowering Older Patients in Advance Care Planning: Evaluating MyCare\u2122 as a Decision Support Tool",
+        "year": "2026/1/30",
+        "publisher": "Health Expectations: An International Journal of Public Participation in Health Care and Health Policy",
+        "author": "Alixe M\u00e9nard, Yamini Singh, Christina Yin, Sydney Ruller, Lauren Konikoff, Jackie Kierulf, Carol Bennett, Douglas Manuel, Shane Kirkham, Daniel Kobewka",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12857778/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "MvuJYfYAAAAJ": {
+    "Name": "Vera Tai",
+    "total_new": "1",
+    "publications": {
+      "bEWYMUwI8FkC": {
+        "title": "The adult nasal mucosa is defined by distinct immune profiles that modulate in-vitro SARS-CoV-2 infection.",
+        "year": "2026/1/29",
+        "publisher": "Unknown",
+        "author": "Sarah N Gowanlock, Victor HK Lam, Zeynep G\u00fcne\u015f Tepe, Daniel E Park, Vera Tai, Juan E Salazar, Tony Pham, Yazan Khan, Sydney Nelson, Caitlin Horn, David Zuanazzi, Diana Yang, Lance B Price, Rupert Kaul, Leigh Sowerby, Ryan M Troyer, Cindy M Liu, Jessica L Prodger",
+        "url": "https://www.researchsquare.com/article/rs-8397474/latest",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "1m50zJwAAAAJ": {
+    "Name": "Rees Kassen",
+    "total_new": "1",
+    "publications": {
+      "eq2jaN3J8jMC": {
+        "title": "Accelerated evolution in networked metapopulations of Pseudomonas aeruginosa",
+        "year": "2026/1/29",
+        "publisher": "eLife",
+        "author": "Partha Pratim Chakraborty, Rees Kassen",
+        "url": "https://elifesciences.org/articles/107189",
         "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
   },
-  "LghEfpEAAAAJ": {
-    "Name": "Gary Van Domselaar",
+  "c-pNH9UAAAAJ": {
+    "Name": "Kenneth K.S. Ng",
     "total_new": "1",
     "publications": {
-      "SgTKrLvt1DcC": {
-        "title": "The Mpox contextual data specification package: a data curation toolkit to support collaborative pathogen genomic surveillance",
-        "year": "2026/1/23",
-        "publisher": "Microbial Genomics",
-        "author": "Emma J Griffiths, Rhiannon Cameron, Charlotte Barclay, Nithu Sara John, Damion Dooley, Ivan Gill, Madeline Iseminger, Muhammad Zohaib Anwar, Mark E Horsman, Keith MacKenzie, Natalie Prystajecky, John Tyson, Agatha Jassem, Tracy Lee, Rob Azana, Janet Fung, Michael Chan, Branco Cheung, Frankie Tsang, Dan Fornika, Jessica M Caleta, Tara Newman, Kevin C Yang, Shannon L Russell, James EA Zlosnik, Linda Hoang, Natalie Knox, Andrea D Tyler, Emily Haidl, Chanchal Yadav, Ana T Duggan, Levon Kearney, Christopher Townend, Bernadette Cruz, Gary Van Domselaar, William WL Hsiao",
-        "url": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001614",
+      "edDO8Oi4QzsC": {
+        "title": "DEGRADATION OF cMET USING A BISPECIFIC BINDING AGENT",
+        "year": "2026/1/22",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": "https://patents.google.com/patent/US20260022189A1/en",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
