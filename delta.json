@@ -1,1 +1,101 @@
-{}
+{
+  "O3Kin-IAAAAJ": {
+    "Name": "Michael Parkins",
+    "total_new": "1",
+    "publications": {
+      "PVgj2kMGcgYC": {
+        "title": "Wastewater-based surveillance of hepatitis A virus across municipalities and neighbourhoods in Alberta, Canada",
+        "year": "2026/2/25",
+        "publisher": "Science of The Total Environment",
+        "author": "R Benson Weyant, Aito Ueno, Barbara Waddell, Jangwoo Lee, Tulika Bhardwaj, Nicole Acosta, Kevin Xiang, Shahrzad Sarabi, Stefania Bertazzon, Aidan Bender, Gail Visser, Janine McCalder, Chloe Papparis, Maria Bautista Chavarriaga, Rhonda Gail Clark, Kevin Fonseca, Jamie Borlang, Emma Lee, Mark Swain, Carla S Coffin, Bonita Lee, Xiaoli Pang, Jason Cabaj, Christine O'Grady, John M Conly, Casey RJ Hubert, Michael D Parkins",
+        "url": "https://www.sciencedirect.com/science/article/pii/S004896972600080X",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "AU0JsVlt-AkC": {
+        "title": "Large-scale estimation of carrying capacities in agricultural Crown lands of Manitoba, Canada using land cover datasets",
+        "year": "2026/4/1",
+        "publisher": "Agricultural Systems",
+        "author": "Jan Bryan M Encabo, Marcos RC Cordeiro, Emma J McGeough, David Walker, Kim H Ominski, Tim A McAllister",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5348318",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "kl8kXmMAAAAJ": {
+    "Name": "Miguel Uyaguari",
+    "total_new": "1",
+    "publications": {
+      "NMxIlDl6LWMC": {
+        "title": "Optimizing winter nitrification in pilot-scale MBBR systems: Ammonia supplementation and split-feed strategies for post-lagoon treatment under extreme cold conditions",
+        "year": "2026/4/1",
+        "publisher": "Journal of Environmental Chemical Engineering",
+        "author": "Yanan Ren, Jan A Oleszkiewicz, Miguel Uyaguari, Fernanda Ferraz, Tanner R Devlin",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2213343726007281",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "RX9XNLUAAAAJ": {
+    "Name": "Valerie S. Langlois",
+    "total_new": "1",
+    "publications": {
+      "5awf1xo2G04C": {
+        "title": "Melengestrol acetate dysregulates HPP, HPT, and HPI axes, affecting the metamorphosis of Xenopus (Silurana) tropicalis",
+        "year": "2026/2/16",
+        "publisher": "Journal of the Endocrine Society",
+        "author": "Diana C Casta\u00f1eda-Cort\u00e9s, Paisley E Thomson, Stacey A Robinson, Val\u00e9rie S Langlois",
+        "url": "https://academic.oup.com/jes/advance-article/doi/10.1210/jendso/bvag034/8487290",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "iQjUDPYAAAAJ": {
+    "Name": "Casey Hubert",
+    "total_new": "2",
+    "publications": {
+      "anf4URPfarAC": {
+        "title": "Wastewater-based surveillance of hepatitis A virus across municipalities and neighbourhoods in Alberta, Canada",
+        "year": "2026/2/25",
+        "publisher": "Science of The Total Environment",
+        "author": "R Benson Weyant, Aito Ueno, Barbara Waddell, Jangwoo Lee, Tulika Bhardwaj, Nicole Acosta, Kevin Xiang, Shahrzad Sarabi, Stefania Bertazzon, Aidan Bender, Gail Visser, Janine McCalder, Chloe Papparis, Maria Bautista Chavarriaga, Rhonda Gail Clark, Kevin Fonseca, Jamie Borlang, Emma Lee, Mark Swain, Carla S Coffin, Bonita Lee, Xiaoli Pang, Jason Cabaj, Christine O'Grady, John M Conly, Casey RJ Hubert, Michael D Parkins",
+        "url": "https://www.sciencedirect.com/science/article/pii/S004896972600080X",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "LO7wyVUgiFcC": {
+        "title": "Total Coliform Testing: Reflecting on the Past and Looking Forward",
+        "year": "2024/5",
+        "publisher": "Science of the Total Environment",
+        "author": "NJ Ruecker, BS Nayak, D de Brito Cruz, MB Emelko, J McCalder, CR Hubert, K Ryu, NF Neumann, P Marjan, KR Munkittrick",
+        "url": "https://www.sciencedirect.com/author/10043823900/norma-j-ruecker",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wHX6pyUAAAAJ": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
+    "publications": {
+      "kh2fBNsKQNwC": {
+        "title": "Ecological factors shaping post-fire resilience in mature black spruce forests of eastern North America",
+        "year": "2026/2/19",
+        "publisher": "Journal of Ecology",
+        "author": "Stelsa Fortin, Yan Boucher, Yves Bergeron, Martin Simard, Dominique Arseneault, Hugo Asselin, Martin Barrette, Victor Danneyrolles, Sylvie Gauthier, Fran\u00e7ois Girard, Martin Girardin, Marc-Andr\u00e9 Parisien, Nelson Thiffault, Osvaldo Valeria",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
