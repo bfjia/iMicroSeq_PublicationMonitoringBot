@@ -1,14 +1,29 @@
 {
+  "Ohu9Gc4AAAAJ": {
+    "Name": "B. Jesse Shapiro",
+    "total_new": "1",
+    "publications": {
+      "Agc8PWtS8JkC": {
+        "title": "Linking Cyanobacterial Genomes to Toxin Dynamics Through Genome-Resolved Metagenomics",
+        "year": "2026",
+        "publisher": "bioRxiv",
+        "author": "Autumn Pereira, Fernando Mart\u00ednez-Jer\u00f3nimo, David P Fewer, Dana F Simon, Miriam Hern\u00e1ndez-Zamora, Laura Mart\u00ednez-Jer\u00f3nimo, Paloma Antuna-Gonz\u00e1lez, Gabriel Munoz, S\u00e9bastien Sauv\u00e9, B Jesse Shapiro, Nicolas Tromas",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.02.24.707707.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
   "sp21VmQAAAAJ": {
     "Name": "Jeffrey R Brook",
     "total_new": "1",
     "publications": {
-      "_IsBomjs8bsC": {
-        "title": "Current Approaches and Recommendations for Understanding the Impacts of Environmental Disasters on Risk of Alzheimer\u2019s Disease and Related Dementias.",
-        "year": "2025/12/16",
-        "publisher": "A",
-        "author": "Allison James, Gregory Wellenius, Sara Adar, Jesse D Berman, Melanie Gall, Jeff Brook, Jesse E Bell, Emma Gause, Sean Mueller, Katherine Francois, Manigandan Ganesan, Kevin Lane",
-        "url": "https://scholar.google.com/scholar?cluster=3551252431871187395&hl=en&oi=scholarr",
+      "E8ajGqO0XoUC": {
+        "title": "Antepartum Exposure to Greenness, Air Pollution, and Temperature and Outcomes of Preterm Infants",
+        "year": "2026/2/2",
+        "publisher": "JAMA Network Open",
+        "author": "Alice Aveline, Nicole Bando, Mohammad Noaeen, Jie Yang, Thuy Mai Luu, Marc Beltempo, Abhay Lodha, Stephen J Lye, Sarah D McDonald, Charlene C Nielsen, Alvaro R Osornio-Vargas, David M Stieb, Anne R Synnes, Paul J Villeneuve, Cheryl Battersby, Jeffrey R Brook, Prakesh S Shah, Canadian Neonatal Network Investigators, Canadian Urban Environmental Health Research Consortium",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2845570",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
