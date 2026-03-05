@@ -1,29 +1,29 @@
 {
-  "ceQ3BE0AAAAJ": {
-    "Name": "M\u00e9lanie Courtot",
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
     "total_new": "1",
     "publications": {
-      "eJXPG6dFmWUC": {
-        "title": "SBML Level 3: an extensible format for the exchange and reuse of biological modelsAuto\u0159i",
-        "year": "2020",
+      "UFWoVIz_cAIC": {
+        "title": "In-silico identification, characterization, and expression analysis of RNA recognition motif (RRM) containing RNA binding proteins in Aedes aegypti",
+        "year": "2023/7/21",
         "publisher": "Unknown",
-        "author": "Sarah M Keating, Dagmar Waltemath, Matthias K\u00f6nig, Fengkai Zhang, Andreas Dr\u00e4ger, Claudine Chaouiya, Frank T Bergmann, Andrew Finney, Colin S Gillespie, Tom\u00e1\u0161 Helikar, Stefan Hoops, Rahuman S Malik Sheriff, Stuart L Moodie, Ion I Moraru, Chris J Myers, Aur\u00e9lien Naldi, Brett G Olivier, Sven Sahle, James C Schaff, Lucian P Smith, Maciej J Swat, Denis Thieffry, Leandro Watanabe, Darren J Wilkinson, Michael L Blinov, Kimberly Begley, James R Faeder, Harold F G\u00f3mez, Thomas M Hamm, Yuichiro Inagaki, Wolfram Liebermeister, Allyson L Lister, Daniel Lucio, Eric Mjolsness, Carole J Proctor, Karthik Raman, Nicolas Rodriguez, Bruce E Shapiro, Joerg Stelling, Neil Swainston, Naoki Tanimura, John Wagner, Martin Meier Schellersheim, Herbert M Sauro, Bernhard Palsson, Hamid Bolouri, Hiroaki Kitano, Akira Funahashi, Henning Hermjakob, John C Doyle, Michael Hucka, Richard R Adams, Bastian R Angermann, Marco Antoniotti, Gary D Bader, Jan \u010cerven\u00fd, M\u00e9lanie Courtot, Chris D Cox, Piero Dalle Pezze, Emek Demir, William S Denney, Harish Dharuri, Julien Dorier, Dirk Drasdo, Ali Ebrahim, Johannes Eichner, Johan Elf, Lukas Endler, Chris T Evelo, Christoph Flamm, Ronan MT Fleming, Martina Fr\u00f6hlich, Mihai Glont, Emanuel Gon\u00e7alves, Martin Golebiewski, Hovakim Grabski, Alex Gutteridge, Damon Hachmeister, Benjamin D Heavner, Ron Henkel, William S Hlavacek, Bin Hu, Daniel R Hyduke, Hidde de Jong, Nick Juty, Peter D Karp, Jonathan R Karr, Douglas B Kell, Roland Keller, Ilya Kiselev, Steffen Klamt, Edda Klipp, Christian Kn\u00fcpfer, Fedor Kolpakov, Falko Krause, Martina Kutmon, Camille Laibe, Conor Lawless, Lu Li, Leslie M Loew, Rainer Machne, Yukiko Matsuoka, Pedro Mendes, Huaiyu Mi, Florian Mittag, Pedro T Monteiro, Kedar Nath Natarajan, Poul MF Nielsen, Tramy Nguyen, Alida Palmisano, Jean Baptiste Pettit, Thomas Pfau, Robert D Phair, Tomas Radivoyevitch, Johann M Rohwer, Julio Saez Rodriguez, Martin Scharm, Henning Schmidt, Falk Schreiber, Michael Schubert, Roman Schulte, Stuart C Sealfon, Kieran Smallbone, Sylvain Soliman, Melanie I Stefan, Devin P Sullivan, Koichi Takahashi, Bas Teusink, David Tolnay, Ibrahim Vazirabad, Axel von Kamp, Ulrike Wittig, Clemens Wrzodek, Finja Wrzodek, Ioannis Xenarios, Anna Zhukova, Jeremy Zucker",
-        "url": "https://www.muni.cz/en/research/publications/1678123",
+        "author": "SM Kishor, K Mariapillai, A Murali, P Rajaiah, A Kumar, B Gupta",
+        "url": "https://europepmc.org/article/ppr/ppr695813",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "sp21VmQAAAAJ": {
-    "Name": "Jeffrey R Brook",
+  "IZQgBh8AAAAJ": {
+    "Name": "Rita Isabel Henderson",
     "total_new": "1",
     "publications": {
-      "L7vk9XBBNxgC": {
-        "title": "Breathing in a changing climate: Compounding risks to respiratory health in Canada",
-        "year": "2026/2/19",
-        "publisher": "T",
-        "author": "Dany Doiron, Jeffrey R Brook, Jean Bourbeau",
-        "url": "https://www.tandfonline.com/doi/abs/10.1080/24745332.2026.2622324",
+      "b0M2c_1WBrUC": {
+        "title": "\u201cThey felt like safe questions in a safe environment\u201d: A qualitative study examining the implementation of an Indigenous virtual primary care patient experience tool",
+        "year": "2026/2",
+        "publisher": "Health Informatics Journal",
+        "author": "Pamela Roach, Lisa Zaretsky, Meagan Ody, Michelle Hoeber, Stephanie Montesanti, Rita Henderson, Richard T Oster, Sonya Regehr, Cara Bablitz, Cheryl Barnabe, Khara Sauro",
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/14604582261431586",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
