@@ -1,30 +1,24 @@
 {
-  "S2HhkvEAAAAJ": {
-    "Name": "Sarah Dorner",
-    "total_new": "1",
+  "St9qTsMAAAAJ": {
+    "Name": "R. Eric Collins",
+    "total_new": "2",
     "publications": {
-      "fEOibwPWpKIC": {
-        "title": "Measures for improving water quality to bend the curve of global freshwater biodiversity loss",
-        "year": "2026/3/6",
-        "publisher": "Unknown",
-        "author": "Lisa A Kelly, Steve J Ormerod, Brittany Bard, David Tickner, Emily J Yeung, Erin S McCallum, Tomas Brodin, Stacey A Robinson, Sarah Dorner, Chelsea Rochman, Franz H\u00f6lker, Lorne Fitch, Cheryl A Murphy, Jani Salminen, Nandita Basu, Bhumika Thapa, Isabelle Durance, Mengru Wang, Tatenda Dalu, Chuanbo Guo, Yushun Chen, Adalberto L Val, Valeriya Komyakova, Angela Renata Cordeiro Ortigara, John P Smol, Steven J Cooke",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/er-2025-0229",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "PLiQF5oAAAAJ": {
-    "Name": "Baofeng Jia",
-    "total_new": "1",
-    "publications": {
-      "ufrVoPGSRksC": {
-        "title": "Analysing antimicrobial resistance mobility patterns using a diverse dataset of over 8000 bacterial species",
-        "year": "2026",
-        "publisher": "bioRxiv",
-        "author": "Baofeng Jia, Brian P Alcock, Amogelang R Raphenya, Jason R Spence, Finlay Maguire, Robert G Beiko, Andrew G McArthur, Claire Bertelli, Fiona SL Brinkman",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.03.03.709307.abstract",
+      "as0KMg8qHbkC": {
+        "title": "Phyloecology of sea ice bacteria and archaea",
+        "year": "2025/8/27",
+        "publisher": "Sea Ice: Its Physics, Chemistry, Biology, Geology and Societal Importance",
+        "author": "Josephine Z Rapp, Eeva Eronen\u2010Rasimus, Jody W Deming, R Eric Collins",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394213764.ch11",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "q0uBw5dMOAkC": {
+        "title": "Microbial communities in the Hudson Strait amidst rapid environmental change",
+        "year": "2025/1/23",
+        "publisher": "Canadian Journal of Microbiology",
+        "author": "Samantha JT Loutet, Alia Sanger, Kallie Strong, R Eric Collins, Nagissa Mahmoudi",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjm-2024-0154",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
