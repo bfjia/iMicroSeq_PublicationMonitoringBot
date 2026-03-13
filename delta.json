@@ -1,14 +1,53 @@
 {
-  "xqFXwEIAAAAJ": {
-    "Name": "Lori Bradford",
+  "rQUeGGsAAAAJ": {
+    "Name": "Lawrence Goodridge",
     "total_new": "1",
     "publications": {
-      "nrtMV_XWKgEC": {
-        "title": "Decolonising hydrology: Reflecting on positionalities for sustainable and just futures",
-        "year": "2026/3/10",
-        "publisher": "Environmental Science & Policy",
-        "author": "Unknown",
-        "url": null,
+      "PoWvk5oyLR8C": {
+        "title": "Phages as antimicrobials against multi-drug resistant bacteria",
+        "year": "2026/2/23",
+        "publisher": "Unknown",
+        "author": "Salom\u00e9 Plat, Gis\u00e8le LaPointe, Lawrence Goodridge",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12968171/",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "mhN0cZoAAAAJ": {
+    "Name": "Thea Van Rossum",
+    "total_new": "2",
+    "publications": {
+      "UxriW0iASnsC": {
+        "title": "by Subject",
+        "year": "2025/12/19",
+        "publisher": "zootaxa",
+        "author": "Christopher John Topping, Xiaodong Duan",
+        "url": "https://riojournal.com/browse_articles.php?journal_name%5Cx3drio%5Cx26alerts_sdg_cats%5Cx3ds15%5Cx26journal_id%5Cx3d17%5Cx26lang%5Cx3d%5Cx26p%5Cx3d16=&lang=&journal_id=17&p=1&alerts_sdg_cats=s15",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "tS2w5q8j5-wC": {
+        "title": "by Subject",
+        "year": "2024/3/9",
+        "publisher": "Perspective",
+        "author": "Serena Rasconi, Laura Garzoli, Ana Gavrilovi\u0107, Yann Hautier, Kathryn Barry, Mariet Hefting, Marijke van Kuijk, Edwin Pos, Betty Verduyn, Rola Johannes, George Kowalchuk, Merel Soons, H Michael G Lattorff, Desalegn Chala, Erik Kusch, Claus Weiland, Carrie Andrew, Jonas Grieb, Tuomas Rossi, Tomas Martinovic, Dag Endresen",
+        "url": "https://riojournal.com/browse_articles.php?journal_name=rio&lang=&journal_id=17&alerts_sdg_cats=s6&p=0",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "28A7wWkAAAAJ": {
+    "Name": "Marc-Andr\u00e9 Langlois",
+    "total_new": "1",
+    "publications": {
+      "Nnq8S6OXqDYC": {
+        "title": "Lack of harmonisation in immunological data: challenges in synthesising data during the COVID-19 pandemic",
+        "year": "2026/4/1",
+        "publisher": "E",
+        "author": "Nicole Shaver, Caroline Colijn, Jane Heffernan, Gideon Darko Asamoah, Thomas Piggott, Curtis Cooper, Salman Bagheri, Angela M Crawley, Benjamin M Kagina, Dawn ME Bowdish, Marc-Andr\u00e9 Langlois, Julian Little",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2352396426000861",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
