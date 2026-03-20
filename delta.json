@@ -1,1 +1,32 @@
-{}
+{
+  "iQjUDPYAAAAJ": {
+    "Name": "Casey Hubert",
+    "total_new": "1",
+    "publications": {
+      "0izLItjtcgwC": {
+        "title": "Microbial and geochemical architecture of an active Scotian Slope cold seep",
+        "year": "2026/2/23",
+        "publisher": "Frontiers in Microbiology",
+        "author": "Elish Redshaw, Gamra Oueslati, Unyime U Umoh, Natasha MacAdam, Patricia Granados, Jeremy N Bentley, Narges Ahangarian, Robbie Bennett, Venus Baghalabadi, Martin G Fowler, Adam MacDonald, Casey RJ Hubert, G Todd Ventura",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12989751/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "poQrlhAAAAAJ": {
+    "Name": "Peter A. Vanrolleghem",
+    "total_new": "1",
+    "publications": {
+      "mq6pegT_rlEC": {
+        "title": "Ammonia oxidizer adaptation to low dissolved oxygen concentrations for biological nutrient removal\u2013a review on oxygen affinity, dual-substrate limitation, and decay",
+        "year": "2026",
+        "publisher": "R",
+        "author": "Kester McCullough, Charles B Bott, Peter A Vanrolleghem",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2026/ew/d5ew00844a",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
