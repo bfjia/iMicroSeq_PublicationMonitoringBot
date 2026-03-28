@@ -1,45 +1,54 @@
 {
-  "BC6T6L-UY8gC": {
-    "Name": "Caren Helbing",
-    "total_new": "1",
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
+    "total_new": "2",
     "publications": {
-      "5qfkUJPXOUwC": {
-        "title": "Muskox (Ovibos moschatus) and Genomics in the Community (MAGIC): Setting the Stage for the Co-Development of Genomics Tools in an Iconic Arctic Mammal",
-        "year": "2026/3/22",
-        "publisher": "Arctic Science",
-        "author": "Steven Crookes, Shivangi Mishra, Christy Caudill, Christopher J Kyle, Susan J Kutz, Emily Marston, Emily Angulalik, Allen Gordon, Rachel Guindon, Kyle Wolki, Shelby Lucas, McCaide Thomas Wooten, Will Justus, Caren C Helbing, Steeve C\u00f4t\u00e9, Andrew Dobson, Brynn Parr, Oliver Lung, Rebecca S Taylor, Micheline S Manseau, Anne Gunn, Peter Pulsifer, Maribeth Murray, Srijak Bhatnagar",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/as-2025-0023",
+      "phXiTgWsA3IC": {
+        "title": "Potential for growing Sandalwood (Santalum album) tree in the salt affected soils",
+        "year": "2021",
+        "publisher": "Wood Good Grow More",
+        "author": "R Kumar, K Verma, A Kumar, AK Bhardwaj",
+        "url": "https://scholar.google.com/scholar?cluster=17421690803684636916&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "kcTtyY6ams4C": {
+        "title": "Effect of different growing seasons of okra (Abelmoschus esculentus) on life cycle duration and development of root-knot nematode, Meloidogyne javanica",
+        "year": "2020",
+        "publisher": "International Journal of Current Microbiology and Applied Sciences",
+        "author": "D Kumar, A Kumar, KK Verma",
+        "url": "https://elibrary.ru/item.asp?id=77399736",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "MNqeC0sAAAAJ": {
-    "Name": "Robert Michael McKay",
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
     "total_new": "1",
     "publications": {
-      "cWzG1nlazyYC": {
-        "title": "Application of wastewater and environmental surveillance for pathogenic agents during the 2024 National Football League (NFL) Draft in Detroit, Michigan (USA)",
-        "year": "2026",
-        "publisher": "medRxiv",
-        "author": "Ryland Corchis-Scott, Ethan Harrop, Qiudi Geng, Mackenzie Beach, John Norton, Mehdi Aloosh, Thomas Reid, Christopher Weisener, Robert M McKay",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.03.20.26348829.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "eRucyv4AAAAJ": {
-    "Name": "Srijak Bhatnagar",
-    "total_new": "1",
-    "publications": {
-      "4JMBOYKVnBMC": {
-        "title": "Muskox (Ovibos moschatus) and Genomics in the Community (MAGIC): Setting the Stage for the Co-Development of Genomics Tools in an Iconic Arctic Mammal",
-        "year": "2026/3/22",
-        "publisher": "Arctic Science",
-        "author": "Steven Crookes, Shivangi Mishra, Christy Caudill, Christopher J Kyle, Susan J Kutz, Emily Marston, Emily Angulalik, Allen Gordon, Rachel Guindon, Kyle Wolki, Shelby Lucas, McCaide Thomas Wooten, Will Justus, Caren C Helbing, Steeve C\u00f4t\u00e9, Andrew Dobson, Brynn Parr, Oliver Lung, Rebecca S Taylor, Micheline S Manseau, Anne Gunn, Peter Pulsifer, Maribeth Murray, Srijak Bhatnagar",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/as-2025-0023",
+      "h9G0ZmjYpDoC": {
+        "title": "Herd-level prevalence of contagious mastitis pathogens and insights into somatic cell count dynamics using bulk tank milk samples from dairy farms in Alberta, Canada",
+        "year": "2026/3/24",
+        "publisher": "Journal of Dairy Science",
+        "author": "Waseem Shaukat, Diego B Nobrega, Kristen N Kalbfleisch, John P Kastelic, David F Kelton, Herman W Barkema",
+        "url": "https://www.sciencedirect.com/science/article/pii/S002203022600281X",
         "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-EWOC3cAAAAJ": {
+    "Name": "Diego Borin Nobrega",
+    "total_new": "1",
+    "publications": {
+      "tOudhMTPpwUC": {
+        "title": "Herd-level prevalence of contagious mastitis pathogens and insights into somatic cell count dynamics using bulk tank milk samples from dairy farms in Alberta, Canada",
+        "year": "2026/3/24",
+        "publisher": "Journal of Dairy Science",
+        "author": "Waseem Shaukat, Diego B Nobrega, Kristen N Kalbfleisch, John P Kastelic, David F Kelton, Herman W Barkema",
+        "url": "https://www.sciencedirect.com/science/article/pii/S002203022600281X",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
@@ -48,28 +57,13 @@
     "Name": "Hugo Asselin",
     "total_new": "1",
     "publications": {
-      "4fGpz3EwCPoC": {
-        "title": "Outil d\u2019analyse de la pertinence culturelle autochtone des programmes de formation postsecondaire menant \u00e0 des emplois dans le secteur minier",
-        "year": "2024",
-        "publisher": "U",
-        "author": "Danny Baril, Joanie Caron, Hugo Asselin",
-        "url": "https://eduq.info/xmlui/handle/11515/39874",
+      "9pM33mqn1YgC": {
+        "title": "Widespread adoption of environmental DNA (eDNA)\u2011based biodiversity monitoring in Canada will depend on trust more than on education: insights from a SWOT analysis",
+        "year": "2026/3/27",
+        "publisher": "Environmental Monitoring and Assessment",
+        "author": "Caroline Thivierge, Limoilou-Am\u00e9lie Renaud, J\u00e9r\u00f4me Dupras, Caren C. Helbing, Val\u00e9rie S. Langlois, Hugo Asselin",
+        "url": null,
         "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "-bIc5H0AAAAJ": {
-    "Name": "Sarah Otto",
-    "total_new": "1",
-    "publications": {
-      "oQdNcxnU9dAC": {
-        "title": "The changing status of imperilled species in British Columbia",
-        "year": "2026/3/23",
-        "publisher": "FACETS",
-        "author": "Peter R Thompson, Meg Bjordal, Morgan L Piczak, Sarah P Otto",
-        "url": "https://www.facetsjournal.com/doi/abs/10.1139/facets-2025-0322",
-        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
