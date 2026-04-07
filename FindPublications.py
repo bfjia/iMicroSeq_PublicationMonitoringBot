@@ -273,7 +273,7 @@ def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear 
     # Other times, it's actually new publications that got deindexed for some reason unknown.
     # Either way, let's brute force the known publications back into the publicationList. 
     
-    if authorID not in previousJsonData: #add a check to account for situations where new authors are added. 
+    if authorID in previousJsonData: #add a check to account for situations where new authors are added. 
         keysInPrevButNotCur = set(previousJsonData[authorID]['publications'].keys()) - set(publicationList.keys())
         if len(keysInPrevButNotCur) > 0:
             print("[WARNING] " + "There were existing publications that were not indexed in this round " + str(keysInPrevButNotCur))
