@@ -459,7 +459,7 @@ if __name__ == "__main__":
 
     # Setup headless Firefox
     options = Options()
-    #options.add_argument('--headless')
+    options.add_argument('--headless')
     driver = webdriver.Firefox(options=options)
 
 
