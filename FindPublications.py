@@ -272,11 +272,13 @@ def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear 
     # sometimes it's because they are old manuscript outside the top 100 list.
     # Other times, it's actually new publications that got deindexed for some reason unknown.
     # Either way, let's brute force the known publications back into the publicationList. 
-    keysInPrevButNotCur = set(previousJsonData[authorID]['publications'].keys()) - set(publicationList.keys())
-    if len(keysInPrevButNotCur) > 0:
-        print("[WARNING] " + "There were existing publications that were not indexed in this round " + str(keysInPrevButNotCur))
-        for key in keysInPrevButNotCur:
-            publicationList[key] = previousJsonData[authorID]['publications'][key]
+    
+    if authorID not in previousJsonData: #add a check to account for situations where new authors are added. 
+        keysInPrevButNotCur = set(previousJsonData[authorID]['publications'].keys()) - set(publicationList.keys())
+        if len(keysInPrevButNotCur) > 0:
+            print("[WARNING] " + "There were existing publications that were not indexed in this round " + str(keysInPrevButNotCur))
+            for key in keysInPrevButNotCur:
+                publicationList[key] = previousJsonData[authorID]['publications'][key]
 
         # except Exception as e:
         #     print("Skipping one pub due to error:", e)
