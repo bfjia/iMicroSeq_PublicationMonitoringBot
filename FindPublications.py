@@ -293,10 +293,10 @@ def fetchPublicationsWithScholarly(authorID, previousJsonData):
     for pub in author['publications']:
         pubID = pub['author_pub_id'].split(":")[1]
 
-        #add a check to skip indexing papers older than 2020. Else we have a very big database.
+        #add a check to skip indexing papers older than 2024. Else we have a very big database.
         if ('pub_year' in pub['bib']):
-            if (int(pub['bib']['pub_year']) < 2020):
-                print("[INFO] Skipping publication with id " + pubID + " because it's older than 2020")
+            if (int(pub['bib']['pub_year']) < 2025):
+                print("[INFO] Skipping publication with id " + pubID + " because it's older than 2025")
                 continue
         else:
             print("[INFO] No date information")
@@ -459,7 +459,7 @@ if __name__ == "__main__":
 
     # Setup headless Firefox
     options = Options()
-    options.add_argument('--headless')
+    #options.add_argument('--headless')
     driver = webdriver.Firefox(options=options)
 
 
