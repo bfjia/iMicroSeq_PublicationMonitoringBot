@@ -174,7 +174,7 @@ def extractMetadataFromScholarSummary(driver, publicationURL, profileName, title
     return publication
 
 #fetch the most recent 100 publications
-def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear = 2020, maxRetries = 20):
+def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear = 2025, maxRetries = 20):
     url = f"https://scholar.google.com/citations?user={scholarID}&hl=en&cstart=0&pagesize=100&sortby=pubdate"
     
     for attempt in range(1, maxRetries + 1):
