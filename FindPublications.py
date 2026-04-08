@@ -174,7 +174,7 @@ def extractMetadataFromScholarSummary(driver, publicationURL, profileName, title
     return publication
 
 #fetch the most recent 100 publications
-def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear = 2025, maxRetries = 20):
+def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear = 2020, maxRetries = 20):
     url = f"https://scholar.google.com/citations?user={scholarID}&hl=en&cstart=0&pagesize=100&sortby=pubdate"
     
     for attempt in range(1, maxRetries + 1):
@@ -272,13 +272,11 @@ def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear 
     # sometimes it's because they are old manuscript outside the top 100 list.
     # Other times, it's actually new publications that got deindexed for some reason unknown.
     # Either way, let's brute force the known publications back into the publicationList. 
-    
-    if authorID in previousJsonData: #add a check to account for situations where new authors are added. 
-        keysInPrevButNotCur = set(previousJsonData[authorID]['publications'].keys()) - set(publicationList.keys())
-        if len(keysInPrevButNotCur) > 0:
-            print("[WARNING] " + "There were existing publications that were not indexed in this round " + str(keysInPrevButNotCur))
-            for key in keysInPrevButNotCur:
-                publicationList[key] = previousJsonData[authorID]['publications'][key]
+    keysInPrevButNotCur = set(previousJsonData[authorID]['publications'].keys()) - set(publicationList.keys())
+    if len(keysInPrevButNotCur) > 0:
+        print("[WARNING] " + "There were existing publications that were not indexed in this round " + str(keysInPrevButNotCur))
+        for key in keysInPrevButNotCur:
+            publicationList[key] = previousJsonData[authorID]['publications'][key]
 
         # except Exception as e:
         #     print("Skipping one pub due to error:", e)
@@ -295,10 +293,10 @@ def fetchPublicationsWithScholarly(authorID, previousJsonData):
     for pub in author['publications']:
         pubID = pub['author_pub_id'].split(":")[1]
 
-        #add a check to skip indexing papers older than 2024. Else we have a very big database.
+        #add a check to skip indexing papers older than 2020. Else we have a very big database.
         if ('pub_year' in pub['bib']):
-            if (int(pub['bib']['pub_year']) < 2025):
-                print("[INFO] Skipping publication with id " + pubID + " because it's older than 2025")
+            if (int(pub['bib']['pub_year']) < 2020):
+                print("[INFO] Skipping publication with id " + pubID + " because it's older than 2020")
                 continue
         else:
             print("[INFO] No date information")
