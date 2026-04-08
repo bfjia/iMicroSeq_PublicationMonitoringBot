@@ -1,236 +1,545 @@
 {
-  "1hBTzZAAAAAJ": {
-    "Name": "Robert Delatolla",
-    "total_new": "1",
+  "XMdyGgIAAAAJ": {
+    "Name": "Fiona Brinkman",
+    "total_new": "60",
     "publications": {
-      "_Ybze24A_UAC": {
-        "title": "Twelve Distinct Laboratory Methods Used to Measure SARS-CoV-2 in Wastewaters throughout a Three-Year Ontario-Wide, Canada Study: Impact on Public Health Interpretation of \u2026",
-        "year": "2026",
-        "publisher": "medRxiv",
-        "author": "Nada Hegazy, K Ken Peng, Johanna de Haan-Ward, Elizabeth Renouf, Elizabeth Mercier, Shen Wan, X Joan Hu, Charmaine Dean, Mark Servos, Elizabeth Edwards, Gustavo Ybazeta, Marc Habash, Lawrence Goodridge, R Stephen Brown, Sarah Jane Payne, Andrea Kirkwood, Christopher Kyle, R Michael McKay, Kimberly Gilbride, Christopher DeGroot, Robert Delatolla",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.03.27.26349524.abstract",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "rQUeGGsAAAAJ": {
-    "Name": "Lawrence Goodridge",
-    "total_new": "1",
-    "publications": {
-      "foquWX3nUaYC": {
-        "title": "Twelve Distinct Laboratory Methods Used to Measure SARS-CoV-2 in Wastewaters throughout a Three-Year Ontario-Wide, Canada Study: Impact on Public Health Interpretation of \u2026",
-        "year": "2026",
-        "publisher": "medRxiv",
-        "author": "Nada Hegazy, K Ken Peng, Johanna de Haan-Ward, Elizabeth Renouf, Elizabeth Mercier, Shen Wan, X Joan Hu, Charmaine Dean, Mark Servos, Elizabeth Edwards, Gustavo Ybazeta, Marc Habash, Lawrence Goodridge, R Stephen Brown, Sarah Jane Payne, Andrea Kirkwood, Christopher Kyle, R Michael McKay, Kimberly Gilbride, Christopher DeGroot, Robert Delatolla",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.03.27.26349524.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "7XHhgCIAAAAJ": {
-    "Name": "Andrew DS Cameron",
-    "total_new": "2",
-    "publications": {
-      "uPCvBZYD9qUC": {
-        "title": "Imported Retail Beef and Chicken Meat Products Serve as Reservoirs for Emerging Antibiotic\u2010Resistant Pathotypes of Escherichia coli in Pristine Areas Free From \u2026",
-        "year": "2026/4",
-        "publisher": "MicrobiologyOpen",
-        "author": "Saehah Yi, Kathleen A Alexander, Auja Bywater, Galaletsang Dintwe, Ashton N Sies, Thomas H Haidl, Andrew DS Cameron, Monica A Ponder",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mbo3.70273",
+      "5MTHONV0fEkC": {
+        "title": "Eleven high-quality reference genome sequences and 360 draft assemblies of Shiga toxin-producing Escherichia coli isolates from human, food, animal, and environmental sources \u2026",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "jKT558fuBk8C": {
-        "title": "Methylome and transcriptome mapping reveal miniscule DNA methyltransferase regulons in Salmonella enterica serovar Typhimurium",
-        "year": "2026",
-        "publisher": "bioRxiv",
-        "author": "Anna S Ershova, Charlie Howard, Karsten Hokamp, Andrew DS Cameron, Carsten Kroeger",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.01.27.702048.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "mhN0cZoAAAAJ": {
-    "Name": "Thea Van Rossum",
-    "total_new": "1",
-    "publications": {
-      "4fKUyHm3Qg0C": {
-        "title": "by Subject",
-        "year": "2025/10",
-        "publisher": "Interpreting",
-        "author": "Herv\u00e9 Go\u00ebau, Vincent Espitalier, Jean-Christophe Lombardo, Christophe Botella, Toke Thomas H\u00f8ye, Mads Dyrmann, Pierre Bonnet, Alexis Joly",
-        "url": "https://riojournal.com/browse_articles.php?journal_name=rio&journal_id=17&lang=en&p=3",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "MNqeC0sAAAAJ": {
-    "Name": "Robert Michael McKay",
-    "total_new": "1",
-    "publications": {
-      "DJbcl8HfkQkC": {
-        "title": "Twelve Distinct Laboratory Methods Used to Measure SARS-CoV-2 in Wastewaters throughout a Three-Year Ontario-Wide, Canada Study: Impact on Public Health Interpretation of \u2026",
-        "year": "2026",
-        "publisher": "medRxiv",
-        "author": "Nada Hegazy, K Ken Peng, Johanna de Haan-Ward, Elizabeth Renouf, Elizabeth Mercier, Shen Wan, X Joan Hu, Charmaine Dean, Mark Servos, Elizabeth Edwards, Gustavo Ybazeta, Marc Habash, Lawrence Goodridge, R Stephen Brown, Sarah Jane Payne, Andrea Kirkwood, Christopher Kyle, R Michael McKay, Kimberly Gilbride, Christopher DeGroot, Robert Delatolla",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.03.27.26349524.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "VaLlkyoAAAAJ": {
-    "Name": "Herman W. Barkema",
-    "total_new": "1",
-    "publications": {
-      "ON9TkA72AHEC": {
-        "title": "Cultivating change: A study of Western Canadian dairy farmers' perspectives on mastitis-related antimicrobial stewardship and strategies for milk culturing adoption",
-        "year": "2026/4/3",
-        "publisher": "Journal of Dairy Science",
-        "author": "Jennifer A Ida, Ellen de Jong, Anne-Marieke C Smid, Kristen K Reyher, David F Kelton, Caroline Ritter, Inge van der Velden, Herman W Barkema",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0022030226003115",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "S2HhkvEAAAAJ": {
-    "Name": "Sarah Dorner",
-    "total_new": "1",
-    "publications": {
-      "uJ-U7cs_P_0C": {
-        "title": "How does strategic siting of blue-green infrastructure impact urban resilience? a resilience assessment framework for stormwater management and health benefits",
-        "year": "2026/6/1",
-        "publisher": "Blue-Green Systems",
-        "author": "Justine Petrucci, Sami Bel Yaagoubi, Sarah Dorner, Jonathan Jalbert, Fran\u00e7oise Bichai",
-        "url": "https://iwaponline.com/bgs/article-pdf/8/1/110/1614557/bgs2026026.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "IZQgBh8AAAAJ": {
-    "Name": "Rita Isabel Henderson",
-    "total_new": "1",
-    "publications": {
-      "abG-DnoFyZgC": {
-        "title": "Using a pop-quiz approach to teach Indigenous health: engaging learners and addressing resistance",
-        "year": "2026/3/30",
-        "publisher": "Education for Health",
-        "author": "Lynden Lindsay Crowshoe, Anika Sehgal, Anh Ly, Rita Henderson",
-        "url": "https://educationforhealthjournal.org/index.php/efh/article/view/527",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "U3rqorsAAAAJ": {
-    "Name": "Doug Manuel",
-    "total_new": "2",
-    "publications": {
-      "CRQ797xmLJIC": {
-        "title": "Sex Differences in Self-Rated Health and Cardiovascular Disease Events",
-        "year": "2026/4/1",
-        "publisher": "JAMA Network Open",
-        "author": "Maneesh Sud, Feng Qiu, Olivia Haldenby, Sunjidatul Islam, Peter C Austin, Douglas Manuel, Dean Eurich, Padma Kaul, Michelle M Graham, Mina Madan, Thao Huynh, Erica S Spatz, Harindra C Wijeysundera, Dennis T Ko",
-        "url": "https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2847220",
+      "OTTXONDVkokC": {
+        "title": "Microbial genomic island discovery, visualization and analysis",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "Uwzdpet-joYC": {
-        "title": "Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats",
-        "year": "2026",
-        "publisher": "OPEN RESEARCH EUROPE",
-        "author": "F Psomopoulos, C O'Cathail, N Anastasiadou, C Cocuzza, W Cuypers, O Idowu, K Kyritsis, K Lauer, M Lavitrano, G Leoni, J Liu, G Macori, G Mannara, D Manuel, M Martinelli, R Musumeci, A Neves, N Pechlivanis, M Petrillo, J Ragoussis, N Rahman, K \u00d6jefors Stark, M Thomson, M Wade, M Wright",
-        "url": "https://boa.unimib.it/handle/10281/599063",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "ThjB_RcAAAAJ": {
-    "Name": "Jiannis Ragoussis",
-    "total_new": "1",
-    "publications": {
-      "qwy9JoKyICEC": {
-        "title": "Toward a unified approach: Considerations for bioinformatic and sequencing activities & data in wastewater surveillance of biologic public health threats",
-        "year": "2026",
-        "publisher": "OPEN RESEARCH EUROPE",
-        "author": "F Psomopoulos, C O'Cathail, N Anastasiadou, C Cocuzza, W Cuypers, O Idowu, K Kyritsis, K Lauer, M Lavitrano, G Leoni, J Liu, G Macori, G Mannara, D Manuel, M Martinelli, R Musumeci, A Neves, N Pechlivanis, M Petrillo, J Ragoussis, N Rahman, K \u00d6jefors Stark, M Thomson, M Wade, M Wright",
-        "url": "https://boa.unimib.it/handle/10281/599063",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "ypKzJAUAAAAJ": {
-    "Name": "Christopher T. DeGroot",
-    "total_new": "1",
-    "publications": {
-      "_Re3VWB3Y0AC": {
-        "title": "Twelve Distinct Laboratory Methods Used to Measure SARS-CoV-2 in Wastewaters throughout a Three-Year Ontario-Wide, Canada Study: Impact on Public Health Interpretation of \u2026",
-        "year": "2026",
-        "publisher": "medRxiv",
-        "author": "Nada Hegazy, K Ken Peng, Johanna de Haan-Ward, Elizabeth Renouf, Elizabeth Mercier, Shen Wan, X Joan Hu, Charmaine Dean, Mark Servos, Elizabeth Edwards, Gustavo Ybazeta, Marc Habash, Lawrence Goodridge, R Stephen Brown, Sarah Jane Payne, Andrea Kirkwood, Christopher Kyle, R Michael McKay, Kimberly Gilbride, Christopher DeGroot, Robert Delatolla",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.03.27.26349524.abstract",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wQywY-EAAAAJ": {
-    "Name": "Robert E. W. Hancock",
-    "total_new": "1",
-    "publications": {
-      "hbz17DqrwuEC": {
-        "title": "Retraction of \u201cThe Use of DeepQSAR Models for The Discovery of Peptides with Enhanced Antimicrobial and Antibiofilm Potential\u201d",
-        "year": "2026/2/10",
-        "publisher": "A",
-        "author": "Jiaying You, Hazem Mslati, Evan F Haney, Noushin Akhoundsadegh, Robert EW Hancock, Artem Cherkasov",
-        "url": "https://pubs.acs.org/doi/full/10.1021/acs.jcim.6c00292",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "c-pNH9UAAAAJ": {
-    "Name": "Kenneth K.S. Ng",
-    "total_new": "2",
-    "publications": {
-      "ClCfbGk0d_YC": {
-        "title": "Dual modality of EpiTAC bispecific degrader ADCs combines c-MET degradation with cytotoxic payload delivery to overcome limitations of current c-MET-targeted therapies",
-        "year": "2026/4/3",
-        "publisher": "Cancer Research",
-        "author": "Lisa Marshall, Jonathan Sitrin, Kenneth Ng, Shruti Yadav, May Dayao, Hai Tran, Josef Gramespacher, Jacob Cohen, Kimberly Hoi, Zhong Huang, Noah Solomon, John Coan, Andy Goodrich, Adison McLaggan, Sarah Yan, Brian Hillier, Danica Manalo-Hebert, Lichao Zhang, Maia Vinogradova, Isaac J Rondon, Shyra J Gardai",
-        "url": "https://aacrjournals.org/cancerres/article/86/7_Supplement/1725/781592",
+      "hsZV8lGYWTMC": {
+        "title": "Eleven high-quality reference genome sequences and 360 draft assemblies of Shiga toxin-producing Escherichia coli isolates from human, food, animal, and environmental sources \u2026",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
         "firstOrLast": false,
         "datasource": "Scholars"
       },
-      "FPJr55Dyh1AC": {
-        "title": "Discovery of mutation-independent cKit degrading bispecific antibodies that suppress tumor growth in preclinical models of GIST",
-        "year": "2026/4/3",
-        "publisher": "Cancer Research",
-        "author": "Kenneth Ng, Shruti Yadav, Brianna McIntosh, Andy Goodrich, Hai Tran, Josef Gramespacher, Kimberly Hoi, Sara Yan, Brian Hiller, Adison McLaggan, Zhong Huang, Noah Solomon, John Coan, Jon Sitrin, Shyra Gardai, Ken Flanagan",
-        "url": "https://aacrjournals.org/cancerres/article/86/7_Supplement/4411/779274",
+      "OcBU2YAGkTUC": {
+        "title": "FoodOn: a harmonized food ontology to increase global food traceability, quality control and data integration",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
         "firstOrLast": false,
         "datasource": "Scholars"
-      }
-    }
-  },
-  "_bSRxzAAAAAJ": {
-    "Name": "Elizabeth M. Renouf",
-    "total_new": "1",
-    "publications": {
-      "7PzlFSSx8tAC": {
-        "title": "Twelve Distinct Laboratory Methods Used to Measure SARS-CoV-2 in Wastewaters throughout a Three-Year Ontario-Wide, Canada Study: Impact on Public Health Interpretation of \u2026",
-        "year": "2026",
-        "publisher": "medRxiv",
-        "author": "Nada Hegazy, K Ken Peng, Johanna de Haan-Ward, Elizabeth Renouf, Elizabeth Mercier, Shen Wan, X Joan Hu, Charmaine Dean, Mark Servos, Elizabeth Edwards, Gustavo Ybazeta, Marc Habash, Lawrence Goodridge, R Stephen Brown, Sarah Jane Payne, Andrea Kirkwood, Christopher Kyle, R Michael McKay, Kimberly Gilbride, Christopher DeGroot, Robert Delatolla",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.03.27.26349524.abstract",
+      },
+      "HIFyuExEbWQC": {
+        "title": "The integrated rapid infectious disease analysis (IRIDA) platform",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "IUKN3-7HHlwC": {
+        "title": "Genomic characterisation of an international Pseudomonas aeruginosa reference panel indicates that the two major groups draw upon distinct mobile gene pools",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "IRz6iEL74y4C": {
+        "title": "Disruption of the gut microbiota with antibiotics exacerbates acute vascular rejection",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "WJVC3Jt7v1AC": {
+        "title": "Improved genomic island predictions with IslandPath-DIMOB",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "HbR8gkJAVGIC": {
+        "title": "High-throughput detection of RNA processing in bacteria",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "2VqYfGB8ITEC": {
+        "title": "Spatiotemporal dynamics of river viruses, bacteria and microeukaryotes",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "DUooU5lO8OsC": {
+        "title": "The OxyR-regulated phnW gene encoding 2-aminoethylphosphonate:pyruvate aminotransferase helps protect Pseudomonas aeruginosa from tert-butyl \u2026",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "4hFrxpcac9AC": {
+        "title": "Characterization of Legionella Species from Watersheds in British Columbia, Canada",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "8d8msizDQcsC": {
+        "title": "IslandViewer 4: expanded prediction of genomic islands for larger-scale datasets",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "LO7wyVUgiFcC": {
+        "title": "Context is everything: harmonization of critical food microbiology descriptors and metadata for improved food safety and surveillance",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "rmuvC79q63oC": {
+        "title": "SNVPhyl: a single nucleotide variant phylogenomics pipeline for microbial genomic epidemiology",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "9pM33mqn1YgC": {
+        "title": "Baseline practices for the application of genomic data supporting regulatory food safety",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "GtLg2Ama23sC": {
+        "title": "Genotypes Associated with Listeria monocytogenes Isolates Displaying Impaired or Enhanced Tolerances to Cold, Salt, Acid, or Desiccation Stress",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "Ri6SYOTghG4C": {
+        "title": "From bugs to brains: The microbiome in neurological health",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "_OXeSy2IsFwC": {
+        "title": "FoodOn: A Semantic Ontology Approach for Mapping Foodborne Disease Metadata.",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "6ZxmRoH8BuwC": {
+        "title": "The Genomic Epidemiology Ontology and GEEM Ontology Reusability Platform.",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "0N-VGjzr574C": {
+        "title": "CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "VaXvl8Fpj5cC": {
+        "title": "Time course of hepatic gene expression and plasma vitellogenin protein concentrations in estrone-exposed juvenile rainbow trout (Oncorhynchus mykiss)",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "e_rmSamDkqQC": {
+        "title": "A comprehensive method for amplicon-based and metagenomic characterization of viruses, bacteria, and eukaryotes in freshwater samples",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "P7Ujq4OLJYoC": {
+        "title": "Outbreak surveillance and investigation using IRIDA and SNVPhyl",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "EYYDruWGBe4C": {
+        "title": "Microbiome analysis across a natural copper gradient at a proposed northern Canadian mine site",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "Z5m8FVwuT1cC": {
+        "title": "PSORTdb: expanding the bacteria and archaea protein subcellular localization database to better reflect diversity in cell envelope structures",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "BUYA1_V_uYcC": {
+        "title": "Enhanced annotations and features for comparing thousands of Pseudomonas genomes in the Pseudomonas genome database",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "yxmsSjX2EkcC": {
+        "title": "Research Article Genomic Analysis of a Serotype 5 Streptococcus pneumoniae Outbreak in British Columbia, Canada, 2005\u20132009",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "0izLItjtcgwC": {
+        "title": "An OBI Ontology Datum Proof Sheet.",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "PVjk1bu6vJQC": {
+        "title": "FoodON: A global farm-to-fork food ontology.",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "SpbeaW3--B0C": {
+        "title": "Phenotypic and genetic characteristics associated with Listeria monocytogenes food chain isolates displaying enhanced and diminished cold tolerance",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "gsN89kCJA0AC": {
+        "title": "Genomic Analysis of a Serotype 5 Streptococcus pneumoniae Outbreak in British Columbia, Canada, 2005\u20132009",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "4MWp96NkSFoC": {
+        "title": "Year-long metagenomic study of river microbiomes across land use and water quality",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "uWiczbcajpAC": {
+        "title": "Evaluation of shotgun metagenomics sequence classification methods using in silico and in vitro simulated communities",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "-_dYPAW6P2MC": {
+        "title": "GenomeD3Plot: a library for rich, interactive visualizations of genomic data in web applications",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "0KyAp5RtaNEC": {
+        "title": "Clinical utilization of genomics data produced by the international Pseudomonas aeruginosa consortium",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "NJ774b8OgUMC": {
+        "title": "IslandViewer 3: more flexible, interactive genomic island discovery, visualization and analysis",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "tKAzc9rXhukC": {
+        "title": "CerebralWeb: a Cytoscape. js plug-in to visualize networks stratified by subcellular localization",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "ipzZ9siozwsC": {
+        "title": "Conservation and stewardship of the human microbiome",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "WqliGbK-hY8C": {
+        "title": "IslandViewer and IslandPlot: flexible identification, visualization, and characterization of microbial genomic regions associated with adaptations of environmental, medical \u2026",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "5awf1xo2G04C": {
+        "title": "Towards improved watershed monitoring through novel genetic tests",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "kRWSkSYxWN8C": {
+        "title": "Genes, the environment and personalized medicine: We need to harness both environmental and genetic data to maximize personal and population health",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "eflP2zaiRacC": {
+        "title": "Mining the Pseudomonas Genome",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "eMMeJKvmdy0C": {
+        "title": "Personalized genetic testing and norovirus susceptibility",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "uWQEDVKXjbEC": {
+        "title": "Pathway-GPS and SIGORA: identifying relevant pathways based on the over-representation of their gene-pair signatures",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "KxtntwgDAa4C": {
+        "title": "Identification of 526 conserved metazoan genetic innovations exposes a new role for cofactor E-like in neuronal microtubule homeostasis",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "D03iK_w7-QYC": {
+        "title": "IslandViewer update: improved genomic island discovery and visualization",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "dshw04ExmUIC": {
+        "title": "PROGRAMME IMPLICATIONS OF GENOMIC EPIDEMIOLOGIC ANALYSIS OF TUBERCULOSIS TRANSMISSION PATTERNS",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "dfsIfKJdRG4C": {
+        "title": "OrtholugeDB: a bacterial and archaeal orthology resource for improved comparative genomic analysis",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "4OULZ7Gr8RgC": {
+        "title": "InnateDB: systems biology of innate immunity and beyond\u2014recent updates and continuing curation",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "cFHS6HbyZ2cC": {
+        "title": "Computational prediction of protein subcellular localization, Genomic Islands, and virulence to aid antigen discovery",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "rO6llkc54NcC": {
+        "title": "Raloxifene attenuates Pseudomonas aeruginosa pyocyanin production and virulence",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "SeFeTyx0c_EC": {
+        "title": "MicrobeDB: a locally maintainable database of microbial genomic sequences",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "F9fV5C73w3QC": {
+        "title": "Corrigendum: Protein interaction data curation: The International Molecular Exchange (IMEx) consortium (Nature Methods (2012) 9,(345-350))",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "f2IySw72cVMC": {
+        "title": "A Screening Room for Cerebral Malaria Drugs",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "ZHo1McVdvXMC": {
+        "title": "Effective adjunctive therapy by an innate defense regulatory peptide in a preclinical model of severe malaria",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "HoB7MX3m0LUC": {
+        "title": "B cells with high side scatter parameter by flow cytometry correlate with inferior survival in diffuse large B-cell lymphoma",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "pqnbT2bcN3wC": {
+        "title": "Protein interaction data curation: the International Molecular Exchange (IMEx) consortium",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "JV2RwH3_ST0C": {
+        "title": "The human transcriptome during nontyphoid Salmonella and HIV coinfection reveals attenuated NF\u03baB-mediated inflammation and persistent cell cycle disruption",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "TQgYirikUcIC": {
+        "title": "PSICQUIC and PSISCORE: accessing and scoring molecular interactions",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
         "firstOrLast": false,
         "datasource": "Scholars"
       }
