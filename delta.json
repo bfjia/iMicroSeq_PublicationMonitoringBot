@@ -1,1 +1,32 @@
-{}
+{
+  "rQUeGGsAAAAJ": {
+    "Name": "Lawrence Goodridge",
+    "total_new": "1",
+    "publications": {
+      "q3CdL3IzO_QC": {
+        "title": "Functional and Genomic insights into probiotic Lactic Acid Bacteria isolated from the Gastrointestinal microbiota of domestic rabbits (Oryctolagus cuniculus)",
+        "year": "2026/4/9",
+        "publisher": "BMC Microbiology",
+        "author": "Oluwatosin Olubunmi Oladipo, Abimbola Olumide Adekanmbi, Opeyemi U Lawal, Valeria R Parreira, Bolaji Fatai Oyeyemi, Olatunji Abubakar Jimoh, Aderemi Akinyemi, Charles Ayorinde Ologunde, Ayonposi Bukola Olaoye, Olugbenga David Oloruntola, Mitra Soni, Harmanpreet Kaur, Lawrence Goodridge",
+        "url": "https://link.springer.com/article/10.1186/s12866-026-04871-6",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "xqFXwEIAAAAJ": {
+    "Name": "Lori Bradford",
+    "total_new": "1",
+    "publications": {
+      "ipzZ9siozwsC": {
+        "title": "Indigenous knowledge-informed HVAC design for reserve health facilities: a mixed-method case study on Prairie reserves.",
+        "year": "2026",
+        "publisher": "Frontiers in Built Environment",
+        "author": "Bradford L and Zhang WC Ogbeyemi A",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
