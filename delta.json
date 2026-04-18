@@ -1,114 +1,30 @@
 {
-  "1hBTzZAAAAAJ": {
-    "Name": "Robert Delatolla",
-    "total_new": "1",
-    "publications": {
-      "W5xh706n7nkC": {
-        "title": "Systematic evaluation of Wastewater Surveillance of Infectious Diseases in Low-and Middle-Income Countries During the COVID-19 Pandemic",
-        "year": "2026/4/12",
-        "publisher": "E",
-        "author": "Md Pervez Kabir, Asma Safia Disha, Muhammad Mainuddin Patwary, Mahadi Hasan, Sharif Mutasim Billah, Juvair Hossan, Afrin Laila Parvin, Mehedi Hasan, Tyson E Graber, Egide Kalisa, Robert Delatolla",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2213343726016301",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
   "tBwE4O4AAAAJ": {
     "Name": "Ayush Kumar",
-    "total_new": "2",
-    "publications": {
-      "Gpzcm0MMskIC": {
-        "title": "Experimental and numerical investigation of the dynamic response of tunnel in soft rocks. Structures 29: 2162\u20132173",
-        "year": "2021",
-        "publisher": "Unknown",
-        "author": "S Mishra, A Kumar, KS Rao, NK Gupta",
-        "url": "https://scholar.google.com/scholar?cluster=9584748955587927402&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "ODVocpjH1l4C": {
-        "title": "FAKE NEWS DETECTION",
-        "year": "2020",
-        "publisher": "INTERNATIONAL JOURNAL",
-        "author": "A KUMAR, SK PAL, KD ROY, R T MR",
-        "url": "https://elibrary.ru/item.asp?id=76368638",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "whtcVqwAAAAJ": {
-    "Name": "Stephanie Guilherme",
     "total_new": "1",
     "publications": {
-      "ufrVoPGSRksC": {
-        "title": "Analyses de la vuln\u00e9rabilit\u00e9 des sources destin\u00e9es \u00e0 l\u2019alimentation en eau potable au Qu\u00e9bec\u2014Cas particulier du Nunavik",
+      "sruhrGb4OIAC": {
+        "title": "Integrating lifestyle modifications with physiotherapy: Evaluating the role of nutrition and psychological interventions in recovery",
         "year": "2024",
-        "publisher": "Ottawa, ON: Document produced for the Direction de l\u2019eau potable, des eaux souterraines et de surface",
-        "author": "Jessika Pickford, St\u00e9phanie Guilherme",
-        "url": "https://www.environnement.gouv.qc.ca/eau/prelevements/analyse-vulnerabilite-sources-eau-potable-quebec-nunavik.pdf",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "VaLlkyoAAAAJ": {
-    "Name": "Herman W. Barkema",
-    "total_new": "1",
-    "publications": {
-      "aU4yMueWZ3QC": {
-        "title": "In silico performance of a targeted enriched metagenomics approach to infer Mycoplasma bovis strains in milk",
-        "year": "2026/3/18",
-        "publisher": "Frontiers in Veterinary Science",
-        "author": "Marit Marleen Biesheuvel, Herman Wildrik Barkema, Paul S Morley, Lee J Pinnell, Enrique Doster, Robert Valeris-Chacin",
-        "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1770245/full",
+        "publisher": "IP JOURNAL OF NUTRITION, METABOLISM AND HEALTH SCIENCE \u0423\u0447\u0440\u0435\u0434\u0438\u0442\u0435\u043b\u0438: IP Innovative Publication Pvt Ltd",
+        "author": "A Thiyagarajan, S Jeyakumar, PS Rao, A Kumar",
+        "url": "https://elibrary.ru/item.asp?id=74766749",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "VLGLIxUAAAAJ": {
-    "Name": "Stephanie Gora",
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
     "total_new": "1",
     "publications": {
-      "kNdYIx-mwKoC": {
-        "title": "Microfluidic Dean-Flow Enhanced Electrochemical Detection of Lead in Water",
-        "year": "2026/4/13",
-        "publisher": "Analytica Chimica Acta",
-        "author": "Shapour Jafargholinejad, Basit Ilyas, Stephanie Gora, Pouya Rezai",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0003267026004824",
+      "r_W8SUTUyowC": {
+        "title": "Evaluation of hemp hulls and screenings as alternative feed ingredients for ruminants",
+        "year": "2026/4/15",
+        "publisher": "Canadian Journal of Animal Science",
+        "author": "Fisayo Oretomiloye, Tim A McAllister, Kim Ominski, Stephanie A Terry",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjas-2025-0117",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "-wodEfIAAAAJ": {
-    "Name": "Annemieke Farenhorst",
-    "total_new": "1",
-    "publications": {
-      "9vf0nzSNQJEC": {
-        "title": "\" IT'S LIKE DEATH BY A THOUSAND CUTS\"\u2212 SELECTIVE INCIVILITY, HOSTILITY, AND INTENT TO LEAVE PATHWAYS AMONG WOMEN IN ENGINEERING AND TECHNOLOGY CAREERS",
-        "year": "2026",
-        "publisher": "Journal of Women and Minorities in Science and Engineering",
-        "author": "Lyn Hoang, Tracey Peter, Jennifer Dengate, Minna Salminen-Karlsson, Andrea Wolffram, Annemieke Farenhorst",
-        "url": "https://www.dl.begellhouse.com/journals/00551c876cc2f027,78cb17c4127dc4a4,5fd11bbb3d71904f.html",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wHX6pyUAAAAJ": {
-    "Name": "Hugo Asselin",
-    "total_new": "1",
-    "publications": {
-      "_FM0Bhl9EiAC": {
-        "title": "Vivre et vieillir ensemble dans les quartiers ruraux: analyse qualitative des b\u00e9n\u00e9fices de la d\u00e9marche",
-        "year": "2026",
-        "publisher": "U",
-        "author": "Pascale Charlebois, Hugo Asselin",
-        "url": "https://depositum.uqat.ca/id/eprint/1779/",
-        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
