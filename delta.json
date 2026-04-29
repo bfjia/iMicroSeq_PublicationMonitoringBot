@@ -1,1 +1,32 @@
-{}
+{
+  "28A7wWkAAAAJ": {
+    "Name": "Marc-Andr\u00e9 Langlois",
+    "total_new": "1",
+    "publications": {
+      "GJVTs2krol4C": {
+        "title": "Three Doses and Six Months Later: Real-World SARS-CoV-2 Specific Humoral and Cell-Mediated Immunity in Children With Inborn Errors of Immunity",
+        "year": "2026/4/25",
+        "publisher": "Journal of Clinical Immunology",
+        "author": "Luana LTN Porto, Dina Yazji, Dana Unninayar, H\u00e9l\u00e8ne Decaluwe, Beata Derfalvi, Alejandro Palma, Thomas Issekutz, Tatiana Kalashnikova, Luis Murgu\u00eda-Favela, Anne Pham-Huy, Tamar Rubin, Sneha Suresh, Julia Upton, Nicola AM Wright, Hugo Chapdelaine, Emilia Liana Falcone, Karina A Top, Manish Sadarangani, Donald C Vinh, Lisa Barrett, Sharon Oldford, Marc-Andre Langlois, Corey Arnold, Tinghua Zhang, Tim Ramsay, Juthaporn Cowan",
+        "url": "https://link.springer.com/article/10.1007/s10875-026-02021-1",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "rHFCtWwAAAAJ": {
+    "Name": "Finlay Maguire",
+    "total_new": "1",
+    "publications": {
+      "K3LRdlH-MEoC": {
+        "title": "Testing for a wildlife reservoir of divergent SARS-CoV-2 in white-tailed deer",
+        "year": "2026/4/10",
+        "publisher": "FACETS",
+        "author": "Lauren Crawshaw, Jonathon D Kotwa, Simon P Jeeves, Courtney Loomer, Antonia Dibernardo, Ashley Stewart, Sasha L Newar, Emily Chien, Winfield Yim, Peter Kruczkiewicz, Oksana Vernygora, Oliver Lung, Albrecht I Schulte-Hostedde, Larissa Nituch, Finlay Maguire, Bradley Pickering, Claire M Jardine, Heather Coatsworth, Samira Mubareka, Jeff Bowman",
+        "url": "https://www.facetsjournal.com/doi/abs/10.1139/facets-2025-0213",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
