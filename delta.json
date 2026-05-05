@@ -1,1 +1,41 @@
-{}
+{
+  "Ohu9Gc4AAAAJ": {
+    "Name": "B. Jesse Shapiro",
+    "total_new": "1",
+    "publications": {
+      "Lpa4s8qvUTIC": {
+        "title": "Early life \u03b3\u03b4T cell activation enforces intestinal barrier integrity during intergenerational C. difficile colonization",
+        "year": "2026",
+        "publisher": "bioRxiv",
+        "author": "Bavanitha Thurairajah, Susan Westfall, Lisa Chiggiato, Liam Keogh, Anshul Sinha, Kaitlin Olsen, Yohannes Tafesse, Patrick Lypaczewski, Ghislaine Fontes, B Jesse Shapiro, Benoit Cousineau, Samantha Gruenheid, David Vermijlen, Bastien Castagner, Antoine-Emmanuel Saliba, Irah L King",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.04.28.721483.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
+    "total_new": "2",
+    "publications": {
+      "oy0z8GdgWhYC": {
+        "title": "PREDIGT Trial: Piloting an Unsupervised, Home-Based Toolkit to Screen for Parkinson Disease",
+        "year": "2026/1/1",
+        "publisher": "medRxiv",
+        "author": "Juan Li, Kelsey Grimes, Joseph Saade, David Lewis, Julianna J Tomlinson, Andrew Frank, Timothy Ramsay, Natalina Salmaso, Douglas Manuel, Michael G Schlossmacher",
+        "url": "https://www.medrxiv.org/content/10.64898/2026.04.30.26352172",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "6biGW3np0psC": {
+        "title": "PREDIGT 2.0: A Self-Administered, Two-Step Screening Tool to Identify Individuals with Parkinson's Disease",
+        "year": "2025/10/1",
+        "publisher": "W",
+        "author": "J Li, K Grimes, J Saade, N Mauri, J Tomlinson, A Frank, D Manuel, B Mollenhauer, M Schlossmacher",
+        "url": "https://scholar.google.com/scholar?cluster=5594589775500041388&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
