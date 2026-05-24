@@ -1,1 +1,32 @@
-{}
+{
+  "kXK5pzQAAAAJ": {
+    "Name": "Natalie C Knox",
+    "total_new": "1",
+    "publications": {
+      "cFHS6HbyZ2cC": {
+        "title": "How public health decision-makers operationalise wastewater surveillance: a multi-region qualitative study",
+        "year": "2026",
+        "publisher": "medRxiv",
+        "author": "Sana Zakaria, Henry Willis, Cindy Friedman, Mukhlid Yousif, Laura Faherty, Natalie Knox, Kerrigan McCarthy, Casey Aveggio, Derek Roberts, Adeline Williams, Saskia Popescu, Monica Nolan, Lionel Gresh, Jairo Andres Mendez Rico",
+        "url": "https://www.medrxiv.org/content/10.64898/2026.05.14.26353119.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "0t1ZDozeHsAC": {
+        "title": "Rumen-Derived Consortia Shaped by Substrate-Specific Enrichment Show Specialized Lignocellulose Utilization, Diversified Hydrogen Metabolism, and Cryopreservation Stability",
+        "year": "2026/5/19",
+        "publisher": "Microorganisms",
+        "author": "Ajay Badhan, Chunli Li, Le Luo Guan, Tim A McAllister",
+        "url": "https://www.mdpi.com/2076-2607/14/5/1149",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
