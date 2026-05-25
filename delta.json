@@ -1,29 +1,59 @@
 {
-  "kXK5pzQAAAAJ": {
-    "Name": "Natalie C Knox",
+  "RIjsxfIAAAAJ": {
+    "Name": "Amina Stoddart",
     "total_new": "1",
     "publications": {
-      "cFHS6HbyZ2cC": {
-        "title": "How public health decision-makers operationalise wastewater surveillance: a multi-region qualitative study",
-        "year": "2026",
-        "publisher": "medRxiv",
-        "author": "Sana Zakaria, Henry Willis, Cindy Friedman, Mukhlid Yousif, Laura Faherty, Natalie Knox, Kerrigan McCarthy, Casey Aveggio, Derek Roberts, Adeline Williams, Saskia Popescu, Monica Nolan, Lionel Gresh, Jairo Andres Mendez Rico",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.05.14.26353119.abstract",
+      "tkaPQYYpVKoC": {
+        "title": "Data-Driven Decision Support Identifies Treatment Optimization Pathways for Municipal Wastewater",
+        "year": "2026/5/22",
+        "publisher": "Case Studies in Chemical and Environmental Engineering",
+        "author": "Sarah Organ, Jane McDonald, Het Mehta, Maria Ibanez, Nicole McCormick, Carolina Ontiveros, Amina K Stoddart",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2666016426000897",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "ThjB_RcAAAAJ": {
+    "Name": "Jiannis Ragoussis",
+    "total_new": "1",
+    "publications": {
+      "YlPif8NxrbYC": {
+        "title": "Single-Cell Spatial Transcriptomics Reveals Sex-Specific Differences Driving Carotid Atherosclerotic Plaque Instability",
+        "year": "2025/8/10",
+        "publisher": "Arteriosclerosis, Thrombosis, and Vascular Biology",
+        "author": "Jae Hyun Byun, Helena Papacostas Quintanilla, Karina Gasbarrino, Ioanna Gianopoulos, Ashot S Harutyunyan, Spyros Oikonomopoulos, John P Veinot, Huaien Zheng, Jiannis Ragoussis, Stella S Daskalopoulou",
+        "url": "https://www.ahajournals.org/doi/abs/10.1161/ATVBAHA.125.323505",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
+  "28A7wWkAAAAJ": {
+    "Name": "Marc-Andr\u00e9 Langlois",
     "total_new": "1",
     "publications": {
-      "0t1ZDozeHsAC": {
-        "title": "Rumen-Derived Consortia Shaped by Substrate-Specific Enrichment Show Specialized Lignocellulose Utilization, Diversified Hydrogen Metabolism, and Cryopreservation Stability",
-        "year": "2026/5/19",
-        "publisher": "Microorganisms",
-        "author": "Ajay Badhan, Chunli Li, Le Luo Guan, Tim A McAllister",
-        "url": "https://www.mdpi.com/2076-2607/14/5/1149",
+      "WMtz-WDmgKQC": {
+        "title": "Immune Compromising Conditions Impair SARS-CoV-2 Vaccine Humoral Immunogenicity Despite Multiple Booster Doses",
+        "year": "2026/5/20",
+        "publisher": "Unknown",
+        "author": "Alexa Keeshan, Sahar Saeed, Christopher A Gravel, Marc-Andr\u00e9 Langlois, Curtis L Cooper",
+        "url": "https://www.researchsquare.com/article/rs-9406334/latest",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "c-pNH9UAAAAJ": {
+    "Name": "Kenneth K.S. Ng",
+    "total_new": "1",
+    "publications": {
+      "YohjEiUPhakC": {
+        "title": "Abstract 5749 Single-step purification of low-abundance biotinylated biomolecules with engineered, switchable affinity streptavidin muteins",
+        "year": "2026/5/1",
+        "publisher": "Journal of Biological Chemistry",
+        "author": "Jesse Marangoni, Annice Nguyen, Ellowyn Oneschuk, Kiera Sammut, Elliot Mao, Sui-Lam Wong, Kenneth Ng",
+        "url": "https://www.jbc.org/article/S0021-9258(26)01763-1/fulltext",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
