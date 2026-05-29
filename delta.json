@@ -1,14 +1,74 @@
 {
+  "XMdyGgIAAAAJ": {
+    "Name": "Fiona Brinkman",
+    "total_new": "1",
+    "publications": {
+      "oi2SiIJ9l4AC": {
+        "title": "Vaccination attitudes and intentions reported by Canadian children and their parents in the CHILD Cohort Study during the COVID-19 pandemic",
+        "year": "2026/5/26",
+        "publisher": "BMC Public Health",
+        "author": "Maria V Medeleanu, Erin E Gill, Geoffrey L Winsor, Rilwan Azeez, Larisa C Lotoski, Stephanie Goguen, Robin M Humble, Deborah McNeil, David M Patrick, Shelly Bolotin, Jared Bullard, Shannon E MacDonald, Elinor Simons, Stuart E Turvey, Theo J Moraes, Padmaja Subbarao, Fiona SL Brinkman, Meghan B Azad",
+        "url": "https://link.springer.com/article/10.1186/s12889-026-27115-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "xMfpoNQAAAAJ": {
+    "Name": "Erin E. Gill",
+    "total_new": "1",
+    "publications": {
+      "RHpTSmoSYBkC": {
+        "title": "Vaccination attitudes and intentions reported by Canadian children and their parents in the CHILD Cohort Study during the COVID-19 pandemic",
+        "year": "2026/5/26",
+        "publisher": "BMC Public Health",
+        "author": "Maria V Medeleanu, Erin E Gill, Geoffrey L Winsor, Rilwan Azeez, Larisa C Lotoski, Stephanie Goguen, Robin M Humble, Deborah McNeil, David M Patrick, Shelly Bolotin, Jared Bullard, Shannon E MacDonald, Elinor Simons, Stuart E Turvey, Theo J Moraes, Padmaja Subbarao, Fiona SL Brinkman, Meghan B Azad",
+        "url": "https://link.springer.com/article/10.1186/s12889-026-27115-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "AOgtTcItT4oC": {
+        "title": "Agri-food systems transformation for climate action.",
+        "year": "2024/12",
+        "publisher": "Unknown",
+        "author": "Camillo de Camillis, Tim McAllister",
+        "url": "https://www.cabidigitallibrary.org/doi/full/10.5555/20260035261",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
+    "total_new": "1",
+    "publications": {
+      "Ri6SYOTghG4C": {
+        "title": "Pathogen-specific antimicrobial activity prediction with biological large language model-based methods",
+        "year": "2026",
+        "publisher": "bioRxiv",
+        "author": "Berke Ucar, Emre Demirsoy, Ali Salehi, Darcy Sutherland, Anat Yanai, Lauren Coombe, Vanessa C Thompson, Ren\u00e9 L Warren, Caren C Helbing, Inanc Birol",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.05.23.727347.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
   "RX9XNLUAAAAJ": {
     "Name": "Valerie S. Langlois",
     "total_new": "1",
     "publications": {
-      "PR6Y55bgFSsC": {
-        "title": "Forecasting the Invasion of Eurasian Watermilfoil (Myriophyllum spicatum) at the Northern Edge of Its North American Range",
-        "year": "2026/5",
-        "publisher": "Freshwater Biology",
-        "author": "Lars L\u00f8nsmann Iversen, Morgan Botrel, Grace Fedirchuk, Val\u00e9rie Langlois, Olivier Morissette, Marie\u2010Eve Tousignant, Lindsay Trottier, Irene Gregory\u2010Eaves",
-        "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.70231",
+      "ZuybSZzF8UAC": {
+        "title": "Integrating Molecular and Behavioral Endpoints to Assess neurotoxicity of BPA Alternative Compounds",
+        "year": "2026",
+        "publisher": "Unknown",
+        "author": "\u00c1ngela Centeno, Mar\u00eda Costa, Marta Monteiro, Liliya Sokalchuk, Joselyne Caceido, Valerie Langlois, In\u00eas Domingues, Laia Navarro-Mart\u00edn",
+        "url": "https://digital.csic.es/handle/10261/433095",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
