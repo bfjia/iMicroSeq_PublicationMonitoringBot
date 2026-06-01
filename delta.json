@@ -1,44 +1,29 @@
 {
-  "1hBTzZAAAAAJ": {
-    "Name": "Robert Delatolla",
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
     "total_new": "1",
     "publications": {
-      "NJ774b8OgUMC": {
-        "title": "From plant pathogen to public health tool: A review of tobamoviruses and their role in wastewater & environmental surveillance",
-        "year": "2026/5/22",
-        "publisher": "I",
-        "author": "Patrick M D'Aoust, Elisabeth Mercier, Tram B Nguyen, Shen Wan, Chandler H Wong, Nada Hegazy, Elizabeth M Renouf, Tyson E Graber, Robert Delatolla",
-        "url": "https://iwaponline.com/jwh/article/doi/10.2166/wh.2026.261/111816",
-        "firstOrLast": true,
+      "R6aXIXmdpM0C": {
+        "title": "PacBio full-length 16S rRNA gene sequencing processed with Emu and GTDB provides the highest taxonomic resolution for rumen bacteriome profiling",
+        "year": "2026/5/29",
+        "publisher": "ISME Communications",
+        "author": "Hanbeen Kim, Mi Zhou, Limei Lin, Wen Zhu, Tim A McAllister, Le Luo Guan",
+        "url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag148/8698016",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "057RNrQAAAAJ": {
-    "Name": "S\u00e9bastien P. Faucher",
+  "whtcVqwAAAAJ": {
+    "Name": "Stephanie Guilherme",
     "total_new": "1",
     "publications": {
-      "l7t_Zn2s7bgC": {
-        "title": "Variation temporelle et spatiale des microbiomes des tours de refroidissement et pr\u00e9sence de Legionella",
-        "year": "2023",
-        "publisher": "A",
-        "author": "Elliston Vallarino Reyes, Xavier Lefebvre, Hana Trigui, Jacinthe Mailly, M\u00e9lanie Rivard, Dominique Charron, Sara Matthews, Mich\u00e8le Pr\u00e9vost, S\u00e9bastien Faucher",
-        "url": "https://publications.polymtl.ca/76928/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "_bSRxzAAAAAJ": {
-    "Name": "Elizabeth M. Renouf",
-    "total_new": "1",
-    "publications": {
-      "L8Ckcad2t8MC": {
-        "title": "From plant pathogen to public health tool: A review of tobamoviruses and their role in wastewater & environmental surveillance",
-        "year": "2026/5/22",
-        "publisher": "I",
-        "author": "Patrick M D'Aoust, Elisabeth Mercier, Tram B Nguyen, Shen Wan, Chandler H Wong, Nada Hegazy, Elizabeth M Renouf, Tyson E Graber, Robert Delatolla",
-        "url": "https://iwaponline.com/jwh/article/doi/10.2166/wh.2026.261/111816",
+      "UebtZRa9Y70C": {
+        "title": "Understanding Water Quality Interactions within Storage Tanks for Decentralized Drinking Water Systems in Canadian Arctic Communities",
+        "year": "2026/3/2",
+        "publisher": "U",
+        "author": "Ammar Mahgoub, Patrick Di Falco, St\u00e9phanie Guilherme, Zafir Marecayar, Mathilde Duval, Alex McGregor, Stephanie Gora",
+        "url": "https://utppublishing.com/doi/abs/10.3138/csce-2025-0427",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
