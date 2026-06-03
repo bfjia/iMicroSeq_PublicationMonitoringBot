@@ -1,24 +1,30 @@
 {
-  "VLGLIxUAAAAJ": {
-    "Name": "Stephanie Gora",
-    "total_new": "2",
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
+    "total_new": "1",
     "publications": {
-      "Zph67rFs4hoC": {
-        "title": "Assessing water infrastructure, operations, and water safety in Cambridge Bay, NU using water safety planning and participatory system dynamics",
-        "year": "2026/3/2",
-        "publisher": "U",
-        "author": "Caroline Duncan, Gabrielle Slowey, Stephanie Gora",
-        "url": "https://utppublishing.com/doi/abs/10.3138/csce-2025-0259",
-        "firstOrLast": true,
+      "XD-gHx7UXLsC": {
+        "title": "Priorisation des bassins drainage urbains pour l'implantation d'infrastructures vertes afin de r\u00e9duire l'exposition humaine \u00e0 la contamination de l'eau par les surverses",
+        "year": "2023",
+        "publisher": "A",
+        "author": "Justine Petrucci, Natasha McQuaid, Jonathan Jalbert, Sarah Dorner, Fran\u00e7oise Bichai",
+        "url": "https://publications.polymtl.ca/76800/",
+        "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "KlAtU1dfN6UC": {
-        "title": "Understanding Water Quality Interactions within Storage Tanks for Decentralized Drinking Water Systems in Canadian Arctic Communities",
-        "year": "2026/3/2",
-        "publisher": "U",
-        "author": "Ammar Mahgoub, Patrick Di Falco, St\u00e9phanie Guilherme, Zafir Marecayar, Mathilde Duval, Alex McGregor, Stephanie Gora",
-        "url": "https://utppublishing.com/doi/abs/10.3138/csce-2025-0427",
-        "firstOrLast": true,
+      }
+    }
+  },
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
+    "total_new": "1",
+    "publications": {
+      "DNd5GTInPq4C": {
+        "title": "Characteristics of Cardiovascular Disease Prediction Models Considering Mental Disorders: A Systematic Review",
+        "year": "2026",
+        "publisher": "Unknown",
+        "author": "Sara Siddiqi, Teagan Haggerty, Asia Akther, Simone Rusu, Dawn\u2010Li Blair, Heidi Eccles, Jessica Yu, Risa Shorr, Arnav Gupta, Karen Bouchard, Douglas Manuel, Jodi Edwards, Ian Colman, Jess G Fiedorowicz",
+        "url": "https://www.ahajournals.org/doi/abs/10.1161/JAHA.125.046964",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
