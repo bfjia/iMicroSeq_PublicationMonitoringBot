@@ -1,89 +1,14 @@
 {
-  "YngkjFAAAAAJ": {
-    "Name": "Emma Griffiths",
+  "LghEfpEAAAAJ": {
+    "Name": "Gary Van Domselaar",
     "total_new": "1",
     "publications": {
-      "kRWSkSYxWN8C": {
+      "b8wqy9DyMDUC": {
         "title": "The Dataharmonizer: a Tool for Faster Data Harmonization, Validation, Aggregation, and Analysis of Pathogen Genomics Contextual Information",
         "year": "2022",
         "publisher": "Unknown",
         "author": "Ivan S Gill, Emma J Griffiths, Damion Dooley, Rhiannon Cameron, Sarah Savi\u0107 Kalles\u00f8e, Nithu Sara, Levon Kearny, Natalie Knox, Lynette Lau, Jason J LeBlanc, Vincent Li, Pierre Lyons, Keith MacKenzie, Andrew G McArthur, Emily M Panousis, John Palmer, Natalie Prystajecky, Kerri N Smith, Jennifer Tanner, Christopher Townend, Andrea Tyler, Gary Van Domselaar, William WL Hsiao",
         "url": "https://www.academia.edu/download/112588634/download.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "kXK5pzQAAAAJ": {
-    "Name": "Natalie C Knox",
-    "total_new": "1",
-    "publications": {
-      "yD5IFk8b50cC": {
-        "title": "The Dataharmonizer: a Tool for Faster Data Harmonization, Validation, Aggregation, and Analysis of Pathogen Genomics Contextual Information",
-        "year": "2022",
-        "publisher": "Unknown",
-        "author": "Ivan S Gill, Emma J Griffiths, Damion Dooley, Rhiannon Cameron, Sarah Savi\u0107 Kalles\u00f8e, Nithu Sara, Levon Kearny, Natalie Knox, Lynette Lau, Jason J LeBlanc, Vincent Li, Pierre Lyons, Keith MacKenzie, Andrew G McArthur, Emily M Panousis, John Palmer, Natalie Prystajecky, Kerri N Smith, Jennifer Tanner, Christopher Townend, Andrea Tyler, Gary Van Domselaar, William WL Hsiao",
-        "url": "https://www.academia.edu/download/112588634/download.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wY7kQBwAAAAJ": {
-    "Name": "Natalie Prystajecky",
-    "total_new": "1",
-    "publications": {
-      "t6usbXjVLHcC": {
-        "title": "The Dataharmonizer: a Tool for Faster Data Harmonization, Validation, Aggregation, and Analysis of Pathogen Genomics Contextual Information",
-        "year": "2022",
-        "publisher": "Unknown",
-        "author": "Ivan S Gill, Emma J Griffiths, Damion Dooley, Rhiannon Cameron, Sarah Savi\u0107 Kalles\u00f8e, Nithu Sara, Levon Kearny, Natalie Knox, Lynette Lau, Jason J LeBlanc, Vincent Li, Pierre Lyons, Keith MacKenzie, Andrew G McArthur, Emily M Panousis, John Palmer, Natalie Prystajecky, Kerri N Smith, Jennifer Tanner, Christopher Townend, Andrea Tyler, Gary Van Domselaar, William WL Hsiao",
-        "url": "https://www.academia.edu/download/112588634/download.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "zI9NSLcAAAAJ": {
-    "Name": "Andrew G. McArthur",
-    "total_new": "1",
-    "publications": {
-      "9Nmd_mFXekcC": {
-        "title": "The Dataharmonizer: a Tool for Faster Data Harmonization, Validation, Aggregation, and Analysis of Pathogen Genomics Contextual Information",
-        "year": "2022",
-        "publisher": "Unknown",
-        "author": "Ivan S Gill, Emma J Griffiths, Damion Dooley, Rhiannon Cameron, Sarah Savi\u0107 Kalles\u00f8e, Nithu Sara, Levon Kearny, Natalie Knox, Lynette Lau, Jason J LeBlanc, Vincent Li, Pierre Lyons, Keith MacKenzie, Andrew G McArthur, Emily M Panousis, John Palmer, Natalie Prystajecky, Kerri N Smith, Jennifer Tanner, Christopher Townend, Andrea Tyler, Gary Van Domselaar, William WL Hsiao",
-        "url": "https://www.academia.edu/download/112588634/download.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "01K5Ks4AAAAJ": {
-    "Name": "William Hsiao",
-    "total_new": "1",
-    "publications": {
-      "WA5NYHcadZ8C": {
-        "title": "The Dataharmonizer: a Tool for Faster Data Harmonization, Validation, Aggregation, and Analysis of Pathogen Genomics Contextual Information",
-        "year": "2022",
-        "publisher": "Unknown",
-        "author": "Ivan S Gill, Emma J Griffiths, Damion Dooley, Rhiannon Cameron, Sarah Savi\u0107 Kalles\u00f8e, Nithu Sara, Levon Kearny, Natalie Knox, Lynette Lau, Jason J LeBlanc, Vincent Li, Pierre Lyons, Keith MacKenzie, Andrew G McArthur, Emily M Panousis, John Palmer, Natalie Prystajecky, Kerri N Smith, Jennifer Tanner, Christopher Townend, Andrea Tyler, Gary Van Domselaar, William WL Hsiao",
-        "url": "https://www.academia.edu/download/112588634/download.pdf",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wQywY-EAAAAJ": {
-    "Name": "Robert E. W. Hancock",
-    "total_new": "1",
-    "publications": {
-      "oFKsPyNwwpYC": {
-        "title": "Population-specific heterogeneity in ontogeny of the broadly-conserved blood transcriptional program during the first week of life",
-        "year": "2026/6/1",
-        "publisher": "Nature Communications",
-        "author": "Bhavjinder K Dhillon, Travis M Blimkie, Olubukola T Idoko, Rebecca Ford, Asimenia Angelidou, Rym Ben-Othman, Sebastiano Montante, Nelly Amenyogbe, Tida Dibassey, Joann Diray-Arce, Reza Falsafi, Abdulazeez Imam, Kerry McEnaney, Oludare A Odumade, Al Ozonoff, William S Pomat, Peter C Richmond, Kinga K Smolen, Oghenebrume Wariri, Ofer Levy, Anita HJ van den Biggelaar, Beate Kampmann, Tobias R Kollmann, Amy HY Lee, Robert EW Hancock",
-        "url": "https://www.nature.com/articles/s41467-026-73244-4",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
