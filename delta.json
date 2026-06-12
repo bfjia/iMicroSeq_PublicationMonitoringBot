@@ -1,14 +1,173 @@
 {
-  "LghEfpEAAAAJ": {
-    "Name": "Gary Van Domselaar",
+  "O3Kin-IAAAAJ": {
+    "Name": "Michael Parkins",
     "total_new": "1",
     "publications": {
-      "b8wqy9DyMDUC": {
-        "title": "The Dataharmonizer: a Tool for Faster Data Harmonization, Validation, Aggregation, and Analysis of Pathogen Genomics Contextual Information",
-        "year": "2022",
+      "buQ7SEKw-1sC": {
+        "title": "Impact of long-term elexacaftor/tezacaftor/ivacaftor therapy on fungal pathogens and the wider mycobiome in adults with cystic fibrosis",
+        "year": "2026/6/1",
+        "publisher": "Journal of Cystic Fibrosis",
+        "author": "H Gavillet, L Hatfield, M Hardman, R Marsh, G Einarsson, C Thornton, M Parkins, J Duckers, J Bomberger, Y Hilliam, S Lee, R Lord, A Jones, A Horsley, T Daniels, C Teneback, D Rivett, C van der Gast",
+        "url": "https://scholar.google.com/scholar?cluster=11802641020634676097&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wY7kQBwAAAAJ": {
+    "Name": "Natalie Prystajecky",
+    "total_new": "1",
+    "publications": {
+      "HE397vMXCloC": {
+        "title": "Comparative Diagnostic Evaluation of Microscopy and Targeted Next-generation Sequencing of the Barcoding Gene Cytochrome oxidase subunit I for Tick Identification in British \u2026",
+        "year": "2026/6/3",
+        "publisher": "International Journal for Parasitology",
+        "author": "Adriana Cabrera, Tracy D Lee, Angel Y Yao, John Tyson, Kathleen Kolehmainen, Isaac Singh, Martin Cheung, Min-Kuang Lee, LingHui David Su, Navdeep Chahil, Frankie Tsang, Stefan Iwasawa, Quinn Stewart, Erin Fraser, Louwrens P Snyman, Natalie Prystajecky, Jade Savage, Muhammad G Morshed, Catherine A Hogan",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0020751926001281",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "9N3KX2BFTccC": {
+        "title": "Laboratory tests for bovine respiratory bacteria and antimicrobial resistance in commercial feedlot cattle: comparing culture, long-read metagenomics, and recombinase \u2026",
+        "year": "2026/5/20",
+        "publisher": "Frontiers in Microbiology",
+        "author": "Simon JG Otto, Lianne McLeod, E Luke McCarthy, Tara Funk, Stacey R Lacoste, Zhijian Chai, Matthew G Links, Lael D Barlow, Sheryl P Gow, Dana Ramsay, Rahat Zaheer, Tim A McAllister, Paul Stothard, Janet E Hill, Cheryl L Waldner",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13229862/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "7XHhgCIAAAAJ": {
+    "Name": "Andrew DS Cameron",
+    "total_new": "1",
+    "publications": {
+      "uEM9VtRl8xsC": {
+        "title": "Cattle-induced homogenization of microbial communities weakens the influence of geochemical gradients in small water bodies",
+        "year": "2026/6/3",
+        "publisher": "Scientific Reports",
+        "author": "Zohra Zahir, Michael Mensah, Stephanie P Flaman, Andrew DS Cameron, Kerri Finlay, Britt D Hall",
+        "url": "https://www.nature.com/articles/s41598-026-55862-6",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "iQjUDPYAAAAJ": {
+    "Name": "Casey Hubert",
+    "total_new": "1",
+    "publications": {
+      "XvxMoLDsR5gC": {
+        "title": "Using bench-top micro-XRF to characterize alteration systematics and critical mineral potential of Metasomatic Iron Alkali Calcic (MIAC) systems along the Cobequid-Chedabucto \u2026",
+        "year": "2023/1/1",
+        "publisher": "Atlantic Geoscience",
+        "author": "ERIN ADLAKHA",
+        "url": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=25642987&AN=176018069&h=biZp%2FdyuMZ6euH1xO9Lix29XkQAO2uQCUXSIdHosplmTs6w1xo5aEE6I7uDw%2FgHFh5RrIw0LG5t4j2gsIjFtWA%3D%3D&crl=c",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
+    "total_new": "1",
+    "publications": {
+      "3htObqc8RwsC": {
+        "title": "Scanning the horizon for harmful cyanobacterial blooms",
+        "year": "2026/6/2",
+        "publisher": "E",
+        "author": "Xuexiu Chang, Hugh J MacIsaac, Ingrid Chorus, George S Bullerjahn, Rainer Kurmayer, Chi-Yong Ahn, Xiangzhen Kong, Steven W Wilhelm, Susanna A Wood, Xiangming Tang, Hans W Paerl, Sabine Hilt, Erik Jeppesen, David P Hamilton, Shin-ichi Nakano, Petra Visser, Jef Huisman, Haijun Wang, Lirong Song, R Michael Mckay, Boqiang Qin, Lewis Sitoki, Runbing Xu",
+        "url": "https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(26)00085-6",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
+    "total_new": "1",
+    "publications": {
+      "nrtMV_XWKgEC": {
+        "title": "Planification strat\u00e9gique des infrastructures vertes en climat froid: int\u00e9gration de crit\u00e8res de d\u00e9cision li\u00e9s \u00e0 la gestion de la neige en contexte urbain qu\u00e9b\u00e9cois",
+        "year": "2023",
+        "publisher": "A",
+        "author": "Garance Gougeon, Martijn Kuller, Sarah Dorner, Danielle Dagenais, Fran\u00e7oise Bichai",
+        "url": "https://publications.polymtl.ca/76801/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
+    "total_new": "1",
+    "publications": {
+      "YW75zINC-7AC": {
+        "title": "Expanding the PHES-ODM: A Comprehensive, Open-Source Data Model for the Future of Wastewater-Based Epidemiology",
+        "year": "2026/6/4",
+        "publisher": "Microorganisms",
+        "author": "Mathew Thomson, Jean-David Therrien, Nikho Hizon, Janet Ting-mei Lin, Martin Wellman, Eugen-Sorin Sion, Carol Bennett, Peter A Vanrolleghem, Douglas Manuel",
+        "url": "https://www.mdpi.com/2076-2607/14/6/1267",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "gTkdyfsAAAAJ": {
+    "Name": "Trevor Charles",
+    "total_new": "1",
+    "publications": {
+      "dJuzUO4sCEAC": {
+        "title": "From \u201csynthetic\u201d to defined microbial communities for clearer terminology",
+        "year": "2026/6/8",
+        "publisher": "Nature Communications",
+        "author": "Hanna Koch, Thomas Clavel, Cintia Mayr, Benjamin L Coltman, Michael Schloter, Julia A Vorholt, Yolanda Sanz, Tomislav Cernava, Gwyn A Beattie, Lene Lange, St\u00e9phane Chaillou, \u00c1kos T Kov\u00e1cs, Hauke Smidt, Corn\u00e9 MJ Pieterse, Tanja Kostic, Omri M Finkel, Christopher E Lawson, Luca Cocolin, Jes\u00fas Mercado-Blanco, Robert D Finn, Kalliope K Papadopoulou, Matthew Ryan, Marco Candela, Paul D Cotter, Gabriele Berg, Orla O\u2019Sullivan, Manuel Delgado-Baquerizo, Pankaj Trivedi, Trevor C Charles, Brajesh K Singh, G\u00fcnter Brader, Malek Marian, Angela Sessitsch",
+        "url": "https://www.nature.com/articles/s41467-026-74251-1",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wHX6pyUAAAAJ": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
+    "publications": {
+      "NXb4pA-qfm4C": {
+        "title": "Importance of the blueberry (minic) to the Atikamekw Nehirowisiw people: women's key role in knowledge transmission and cultural persistence",
+        "year": "2026/6/3",
+        "publisher": "Botany",
+        "author": "Chl\u00e9o Pelletier, Shawerim Coocoo-Weizineau, Hugo Asselin, Benoit \u00c9thier",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjb-2025-0110",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "sp21VmQAAAAJ": {
+    "Name": "Jeffrey R Brook",
+    "total_new": "2",
+    "publications": {
+      "8gBurD7jEYQC": {
+        "title": "Dual effect of global urban trees on PM2. 5 and associated health burden",
+        "year": "2026/6/3",
+        "publisher": "npj Urban Sustainability",
+        "author": "Hui Sun, Yuchun Ni, Fanhua Kong, Lu Liang, Roy M Harrison, Jeffrey Brook, Zhenyu Gai, Jie Su, Zhou Shen, Haiwei Yin",
+        "url": "https://www.nature.com/articles/s42949-026-00415-z",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "rzmi0EmCOGEC": {
+        "title": "Urban greenspace and dementia: Measures, mechanisms, and methodological guidance",
+        "year": "2026/6",
         "publisher": "Unknown",
-        "author": "Ivan S Gill, Emma J Griffiths, Damion Dooley, Rhiannon Cameron, Sarah Savi\u0107 Kalles\u00f8e, Nithu Sara, Levon Kearny, Natalie Knox, Lynette Lau, Jason J LeBlanc, Vincent Li, Pierre Lyons, Keith MacKenzie, Andrew G McArthur, Emily M Panousis, John Palmer, Natalie Prystajecky, Kerri N Smith, Jennifer Tanner, Christopher Townend, Andrea Tyler, Gary Van Domselaar, William WL Hsiao",
-        "url": "https://www.academia.edu/download/112588634/download.pdf",
+        "author": "Ingrid Jarvis, Lilah Besser, Jessica Finlay, Perry Hystad, Kevin J Lane, Ruth F Hunter, Peter James, Marcia Pescador Jim\u00e9nez, Mark Nieuwenhuijsen, Matilda van den Bosch, David Van Riper, Jinkook Lee, Dany Doiron, Jeffrey Brook, Sara D Adar, Michael Brauer",
+        "url": "https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.71557",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
