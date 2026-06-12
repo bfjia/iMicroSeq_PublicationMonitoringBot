@@ -1,83 +1,14 @@
 {
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
+  "LghEfpEAAAAJ": {
+    "Name": "Gary Van Domselaar",
     "total_new": "1",
     "publications": {
-      "wciTqFkxdgkC": {
-        "title": "In silico identification of conserved amino acids within the resistance-nodulation-division efflux pump proteins of Pseudomonas aeruginosa",
-        "year": "2026/4/23",
-        "publisher": "The Microbe",
-        "author": "Manu Singh, Dawn White, Ayush Kumar",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2950194626000622",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
-    "total_new": "1",
-    "publications": {
-      "fh7vmlWxvT0C": {
-        "title": "Longitudinal Analysis of Bovine Microbiota in Feedlot Cattle Following Treatment with Eprinomectin and Chlortetracycline",
-        "year": "2026/4/22",
-        "publisher": "Canadian Journal of Animal Science",
-        "author": "Chunli Li, Rahat Zaheer, Stephanie A Terry, Kevin Floate, Tim A McAllister",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjas-2025-0094",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "BC6T6L-UY8gC": {
-    "Name": "Caren Helbing",
-    "total_new": "1",
-    "publications": {
-      "_axFR9aDTf0C": {
-        "title": "Impacts of environmental stressors on fertility and fecundity across taxa, with implications for planetary health",
-        "year": "2026/4/23",
-        "publisher": "N",
-        "author": "Susanne M Brander, Shanna H Swan, Alvine C Mehinto, Karen A Kidd, Judith S Weis, Scott M Belcher, Jamie C DeWitt, Stacey L Harper, Caren C Helbing",
-        "url": "https://www.nature.com/articles/s44454-026-00032-6",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "ThjB_RcAAAAJ": {
-    "Name": "Jiannis Ragoussis",
-    "total_new": "2",
-    "publications": {
-      "v6i8RKmR8ToC": {
-        "title": "De novo whole-genome assembly of the Wolbachia sp. endosymbiont from Anastrepha fraterculus using long- and short-read metagenomic data",
-        "year": "2026/4/23",
-        "publisher": "Microbiology Resource Announcements",
-        "author": "Claudia A Conte, Maximo Rivarola, Sergio Gonzalez, Fabian H Milla, Celeste Soria, Mar\u00eda C Giardini, Diego F Segura, Alfred M Handler, Kostas Bourtzis, Jiannis Ragoussis, Silvia B Lanzavecchia",
-        "url": "https://journals.asm.org/doi/abs/10.1128/mra.00425-26",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "-DxkuPiZhfEC": {
-        "title": "A Multi-Modular Approach to Characterize Multiple Sclerosis Brain Pathology in Rapid Autopsy Brain Tissue",
-        "year": "2024/6/1",
-        "publisher": "S",
-        "author": "S Zandee, C Grasmuck, F Tea, R Rebillard, K Thai, M Caron, O Tastet, O Selmi, E Peelen, T Dhaeze, W Klement, L Bourbonniere, S Larouche, SB Ahmed, S Ni, M Lizotte, Y Wang, A Fournier, B Zierfuss, CJ Hoornaert, E Gowing, B Lahav, P Duquette, M Girard, C Larochelle, N Arbour, S Khullar, R Cayrol, J Antel, J Ragoussis, D Bzdok, G Wolf, M Charabati, F Quintana, A Prat",
-        "url": "https://scholar.google.com/scholar?cluster=12470183445718656806&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "rHFCtWwAAAAJ": {
-    "Name": "Finlay Maguire",
-    "total_new": "1",
-    "publications": {
-      "738O_yMBCRsC": {
-        "title": "Divergent SARS-CoV-2 variant emerges in white-tailed deer with deer-to-human transmission (vol 7, pg 2011, 2022)",
-        "year": "2023/1/1",
-        "publisher": "NATURE MICROBIOLOGY",
-        "author": "Bradley Pickering, Oliver Lung, Finlay Maguire, Peter Kruczkiewicz, Jonathon D Kotwa, Tore Buchanan, Marianne Gagnier, Jennifer L Guthrie, Claire M Jardine, Alex Marchand-Austin, Ariane Masse, Heather McClinchey, Kuganya Nirmalarajah, Patryk Aftanas, Juliette Blais-Savoie, Hsien-Yao Chee, Emily Chien, Winfield Yim, Andra Banete, Bryan D Griffin, Lily Yip, Melissa Goolia, Matthew Suderman, Mathieu Pinette, Greg Smith, Daniel Sullivan, Josip Rudar, Oksana Vernygora, Elizabeth Adey, Michelle Nebroski, Guillaume Goyette, Andres Finzi, Genevieve Laroche, Ardeshir Ariana, Brett Vahkal, Marceline Cote, Allison J McGeer, Larissa Nituch, Samira Mubareka, Jeff Bowman",
-        "url": "https://scholar.google.com/scholar?cluster=12584816397992609260&hl=en&oi=scholarr",
+      "b8wqy9DyMDUC": {
+        "title": "The Dataharmonizer: a Tool for Faster Data Harmonization, Validation, Aggregation, and Analysis of Pathogen Genomics Contextual Information",
+        "year": "2022",
+        "publisher": "Unknown",
+        "author": "Ivan S Gill, Emma J Griffiths, Damion Dooley, Rhiannon Cameron, Sarah Savi\u0107 Kalles\u00f8e, Nithu Sara, Levon Kearny, Natalie Knox, Lynette Lau, Jason J LeBlanc, Vincent Li, Pierre Lyons, Keith MacKenzie, Andrew G McArthur, Emily M Panousis, John Palmer, Natalie Prystajecky, Kerri N Smith, Jennifer Tanner, Christopher Townend, Andrea Tyler, Gary Van Domselaar, William WL Hsiao",
+        "url": "https://www.academia.edu/download/112588634/download.pdf",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
