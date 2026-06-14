@@ -1,74 +1,218 @@
 {
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
+  "wY7kQBwAAAAJ": {
+    "Name": "Natalie Prystajecky",
     "total_new": "1",
     "publications": {
-      "Q4B7mEBXgMkC": {
-        "title": "Adams, NJ, GC Smith, and ZL Carpenter. 1982. Performance, carcass, and palatability characteristics of Longhorn and other types of cattle. Meat Sci. 7: 67-79.",
-        "year": "2026",
-        "publisher": "EVALUATION OF CATTLE SUB-SPECIES ON GROWTH PERFORMANCE AND GAS FLUX AND THE COMPARISON OF PREDICTION MODEL ACCURACY AND AGGREGATION TO ESTIMATE ENTERIC METHANE EMISSIONS OF FINISHING BEEF STEERS",
-        "author": "KA Beauchemin, EM Ungerfeld, AL Abdalla, C Alvarez, C Arndt, P Becquet, C Benchaar, A Berndt, RM Mauricio, TA McAllister, W Oyhant\u00e7abal, SA Salami, A Uwizeye, L Shalloo",
-        "url": "https://mountainscholar.org/bitstreams/8912eea8-2789-4f1b-b86c-b69a732c8e4e/download#page=138",
+      "WA5NYHcadZ8C": {
+        "title": "Using whole genome sequencing to investigate routes of transmission of Salmonella Dublin to British Columbian dairy farms",
+        "year": "2026/6/11",
+        "publisher": "Preventive Veterinary Medicine",
+        "author": "E Boyd, C Liu, Ashley Kearney, G Arya, R Azana, L Janz, L Hoang, NA Prystajecky, SL Russell, C Himsworth",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167587726001571",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "zI9NSLcAAAAJ": {
-    "Name": "Andrew G. McArthur",
-    "total_new": "1",
+  "mBdtjsQAAAAJ": {
+    "Name": "Antonio Ruzzini",
+    "total_new": "22",
     "publications": {
-      "nrtMV_XWKgEC": {
-        "title": "EsxA is required for antibacterial toxin export by the type VIIb secretion system",
-        "year": "2026/6/9",
-        "publisher": "Journal of Biological Chemistry",
-        "author": "Prakhar Y Shah, Stephen R Garrett, Timothy A Klein, Roland Pfoh, Amogelang R Raphenya, Andrew G McArthur, P Lynne Howell, John C Whitney",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0021925826021125",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "xqFXwEIAAAAJ": {
-    "Name": "Lori Bradford",
-    "total_new": "1",
-    "publications": {
-      "zLWjf1WUPmwC": {
-        "title": "Mental Health in Uganda and Canada: A Descriptive Case Study of the Issue and Recommendations for Improved Mental Health",
-        "year": "2021/11/21",
-        "publisher": "USURJ: University of Saskatchewan Undergraduate Research Journal",
-        "author": "Cayley Lynn Mackie, Lori Bradford, Eric Enanga",
-        "url": "https://www.academia.edu/download/115611388/358.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "PGYDaL8AAAAJ": {
-    "Name": "Catherine Carrillo",
-    "total_new": "1",
-    "publications": {
-      "rpSJNIKeXWsC": {
-        "title": "Tracking Extended-Spectrum \u03b2-Lactamase-Producing Escherichia coli Across Human Communities and Dairy Ecosystems: A One Health Investigation",
-        "year": "2026/6/9",
-        "publisher": "Antibiotics",
-        "author": "Cassandra Klaas, Shawn Hoogstra, David Mahoney, Mark Lubberts, Emil Jurga, Gabriel Wajnberg, Daniella Rizzo, Richard J Reid-Smith, Catherine Carrillo, Rhiannon L Wallace",
-        "url": "https://www.mdpi.com/2079-6382/15/6/588",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wHX6pyUAAAAJ": {
-    "Name": "Hugo Asselin",
-    "total_new": "1",
-    "publications": {
-      "HtEfBTGE9r8C": {
-        "title": "Charcoal particle deposition in boreal lakes reflects both extreme and low levels of historical fire activity and fire-season aerosol concentrations over the past 15 years",
-        "year": "2026/5/25",
+      "0EnyYjriUFMC": {
+        "title": "Study of bicyclomycin biosynthesis in Streptomyces cinnamoneus by genetic and biochemical approaches",
+        "year": "2025",
         "publisher": "Unknown",
-        "author": "Dorian M Gaboriau, Jonathan Lesven, Andy Hennebelle, Jordan Paillard, S\u00e9bastien Joannin, Pierre Girardin, Hugo Asselin, Carsten Meyer-Jacob, Yves Bergeron, Ahmed Adam Ali",
-        "url": "https://hal.science/hal-05649872/",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "Se3iqnhoufwC": {
+        "title": "Metabolites Involved in Immune Evasion by Batrachochytrium dendrobatidis Include the Polyamine Spermidine",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "roLk4NBRz8UC": {
+        "title": "Biogeography and Microscale Diversity Shape the Biosynthetic Potential of Fungus-growing Ant-associated Pseudonocardia",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "zYLM7Y9cAGgC": {
+        "title": "Pyrazines from bacteria and ants: convergent chemistry within an ecological niche",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "qjMakFHDy7sC": {
+        "title": "Tryptorubin A: A polycyclic peptide from a fungus-derived streptomycete",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "2osOgNQ5qMEC": {
+        "title": "Linear peptides are the major products of a biosynthetic pathway that encodes for cyclic depsipeptides",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "_FxGoFyzp5QC": {
+        "title": "Selvamicin, an atypical antifungal polyene from two alternative genomic contexts",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "u-x6o8ySG0sC": {
+        "title": "Gene flow and molecular innovation in bacteria",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "9yKSN-GCB0IC": {
+        "title": "Genome Sequence of Streptomyces sp. Strain RTd22, an Endophyte of the Mexican Sunflower",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "Tyk-4Ss8FVUC": {
+        "title": "Whole-Genome Sequence of Bacillus sp. SDLI1, Isolated from the Social Bee Scaptotrigona depilis",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "LkGwnXOMwfcC": {
+        "title": "A rebeccamycin analog provides plasmid-encoded niche defense",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "W7OEmFMy1HYC": {
+        "title": "Variable genetic architectures produce virtually identical molecules in bacterial symbionts of fungus-growing ants",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "UeHWp8X0CEIC": {
+        "title": "A P450 fusion library of heme domains from Rhodococcus jostii RHA1 and its evaluation for the biotransformation of drug molecules",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "eQOLeE2rZwMC": {
+        "title": "Structure elucidation of two novel peptides from a mushroom-derived Streptomyces sp.",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "d1gkVwhDpl0C": {
+        "title": "A substrate-assisted mechanism of nucleophile activation in a Ser\u2013His\u2013Asp containing C\u2013C bond hydrolase",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "u5HHmVD_uO8C": {
+        "title": "The impact of nitric oxide toxicity on the evolution of the glutathione transferase superfamily: a proposal for an evolutionary driving force",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "IjCSPb-OGe4C": {
+        "title": "The lid domain of the MCP hydrolase DxnB2 contributes to the reactivity toward recalcitrant PCB metabolites",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "ufrVoPGSRksC": {
+        "title": "Investigating the Catalytic Mechanism of the meta-Cleavage Product Hydrolases",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "Y0pCki6q_DkC": {
+        "title": "Evaluation of drugs and stationary growth on the cell cycle of Giardia intestinalis",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "WF5omc3nYNoC": {
+        "title": "The Catalytic Serine of meta-Cleavage Product Hydrolases Is Activated Differently for C\u2013O Bond Cleavage Than for C\u2013C Bond Cleavage",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "YsMSGLbcyi4C": {
+        "title": "Identification of an Acyl-Enzyme Intermediate in a meta-Cleavage Product Hydrolase Reveals the Versatility of the Catalytic Triad",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "8k81kl-MbHgC": {
+        "title": "Antifungal compounds",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": null,
         "firstOrLast": false,
         "datasource": "Scholars"
       }
