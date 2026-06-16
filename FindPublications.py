@@ -139,6 +139,7 @@ def extractMetadataFromScholarSummary(driver, publicationURL, profileName, title
     driver.switch_to.window(driver.window_handles[1])
     driver.get(publicationURL)
     time.sleep(2)
+    print("BREAKPOINT")
     try:
         external_link = driver.find_element(By.CLASS_NAME, 'gsc_oci_title_link')
         actualPubURL = external_link.get_attribute("href")
@@ -462,7 +463,7 @@ if __name__ == "__main__":
 
     # Setup headless Firefox
     options = Options()
-    options.add_argument('--headless')
+    #options.add_argument('--headless')
     driver = webdriver.Firefox(options=options)
 
 
