@@ -14,7 +14,7 @@ import difflib
 # Run Firefox without a visible window. True for the unattended cron run (a captcha then has no one
 # to solve it, so isBlockedByCaptcha raises). Set False to debug with a visible browser and solve
 # captchas by hand.
-isHeadless = False
+isHeadless = True
 jsonFile = 'allpubs.json'
 lastJsonFile = 'last_allpubs.json'
 authorsToMonitor = "authors.txt"
