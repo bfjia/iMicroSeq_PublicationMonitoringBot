@@ -14,7 +14,8 @@ git pull
 
 #eval "$(conda shell.bash hook)"
 #conda activate pubsurveillance
-source ~/publii_venv/bin/activate
+
+#source ~/publii_venv/bin/activate
 
 #Using the result.tsv file, format the authors.txt file. 
 cut -d$'\t' -f3 results.tsv | tail -n +2 | awk "NF" > authors.txt
@@ -31,7 +32,7 @@ else
     #python slackConnector.py --messagefile msg.md --channel "C097CKA5U4X"
 	python slackConnector.py --messagefile msg.md --channel "C09D86E4T5H"
 	#Since there's new publications, lets insert them into Google Sheets as well
-	python GoogleSheetAPIConnector.py
+	#python GoogleSheetAPIConnector.py
 
 fi
 

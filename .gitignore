@@ -20,3 +20,5 @@ tests/.secret
 *.log
 publii.log
 authors.txt
+CLAUDE.md
+__pycache__
