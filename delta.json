@@ -1,44 +1,14 @@
 {
-  "xMfpoNQAAAAJ": {
-    "Name": "Erin E. Gill",
+  "XMdyGgIAAAAJ": {
+    "Name": "Fiona Brinkman",
     "total_new": "1",
     "publications": {
-      "4JMBOYKVnBMC": {
-        "title": "Targeting the stringent response alters gene expression and extracellular vesicle RNA in Staphylococcus aureus",
-        "year": "2026/6/15",
-        "publisher": "Microbiology Spectrum",
-        "author": "Sarah C Mansour, Samuel JT Wardell, Arjun S Baghela, Travis Blimkie, Erin Gill, Susana K Straus, Reza Falsafi, Daniel Pletzer, Robert EW Hancock",
-        "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.00359-26",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "MNqeC0sAAAAJ": {
-    "Name": "Robert Michael McKay",
-    "total_new": "1",
-    "publications": {
-      "fFSKOagxvKUC": {
-        "title": "Draft genome sequences of two Pseudomonas species from Lake St. Clair (Ontario, Canada) encode multiple heavy metal resistance determinants",
-        "year": "2026/6/15",
-        "publisher": "Microbiology Resource Announcements",
-        "author": "Xuexing Yao, Kate Brown, R Michael McKay, Opeyemi U Lawal",
-        "url": "https://journals.asm.org/doi/abs/10.1128/mra.00483-26",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wQywY-EAAAAJ": {
-    "Name": "Robert E. W. Hancock",
-    "total_new": "1",
-    "publications": {
-      "Q9ss7R9eeXsC": {
-        "title": "Targeting the stringent response alters gene expression and extracellular vesicle RNA in Staphylococcus aureus",
-        "year": "2026/6/15",
-        "publisher": "Microbiology Spectrum",
-        "author": "Sarah C Mansour, Samuel JT Wardell, Arjun S Baghela, Travis Blimkie, Erin Gill, Susana K Straus, Reza Falsafi, Daniel Pletzer, Robert EW Hancock",
-        "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.00359-26",
+      "ziOE8S1-AIUC": {
+        "title": "Predictors of SARS-CoV-2 anti-Spike IgG antibody levels following two COVID-19 vaccine doses among children and adults in the Canadian CHILD Cohort",
+        "year": "2026/4/19",
+        "publisher": "Vaccine",
+        "author": "Rilwan Azeez, Spencer R Ames, Larisa C Lotoski, Geoffrey L Winsor, Corey R Arnold, Yannick Galipeau, Martin Pelchat, Stephanie Goguen, Elinor Simons, Theo J Moraes, Piush J Mandhane, Stuart E Turvey, Shelly Bolotin, David M Patrick, Jared Bullard, Lisa M Lix, Natasha Doucas, Natalie Rodriguez, Fiona SL Brinkman, Padmaja Subbarao, Marc-Andr\u00e9 Langlois, Meghan B Azad",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0264410X26001507",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
