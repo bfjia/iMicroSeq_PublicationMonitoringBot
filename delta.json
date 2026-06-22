@@ -1,44 +1,56 @@
 {
-  "S2HhkvEAAAAJ": {
-    "Name": "Sarah Dorner",
-    "total_new": "1",
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
+    "total_new": "4",
     "publications": {
-      "0KyAp5RtaNEC": {
-        "title": "Indice de vuln\u00e9rabilit\u00e9 d'un site de pr\u00e9l\u00e8vement d'eau de surface: \u00e9tude de cas d'un bassin versant urbain et agricole situ\u00e9 dans le sud du Qu\u00e9bec",
-        "year": "2021",
-        "publisher": "ACFAS",
-        "author": "Raja Kammoun, Fran\u00e7oise Bichai, Mich\u00e8le Pr\u00e9vost, Sarah Dorner",
-        "url": "https://publications.polymtl.ca/76999/",
-        "firstOrLast": true,
+      "H4GFzQhrpr4C": {
+        "title": "Phylogenomic and phenotypic analyses highlight the diversity of antibiotic resistance and virulence in both human and non-human Acinetobacter baumannii. mSphere 9: e0074123",
+        "year": "2024",
+        "publisher": "Unknown",
+        "author": "EME Sykes, V Mateo-Estrada, R Engelberg, A Muzaleva, G Zhanel, J Dettman, J Chapados, S Gerdis, \u00d6 Akineden, IUH Khan, S Castillo-Ram\u00edrez, A Kumar",
+        "url": "https://scholar.google.com/scholar?cluster=1153829573120444830&hl=en&oi=scholarr",
+        "firstOrLast": false,
         "datasource": "Scholars"
-      }
-    }
-  },
-  "poQrlhAAAAAJ": {
-    "Name": "Peter A. Vanrolleghem",
-    "total_new": "1",
-    "publications": {
-      "X-Dm1JipzzIC": {
-        "title": "Expanding the PHES-ODM: A Comprehensive, Open-Source Data Model for the Future of Wastewater-Based Epidemiology",
-        "year": "2026/6/4",
-        "publisher": "Microorganisms",
-        "author": "Mathew Thomson, Jean-David Therrien, Nikho Hizon, Janet Ting-mei Lin, Martin Wellman, Eugen-Sorin Sion, Carol Bennett, Peter A Vanrolleghem, Douglas Manuel",
-        "url": "https://www.mdpi.com/2076-2607/14/6/1267",
+      },
+      "Q-ijiC23VkMC": {
+        "title": "Sustainable deployment of crushed concrete aggregates strengthened with cement and sand",
+        "year": "2022",
+        "publisher": "Archives of Materials Science and Engineering",
+        "author": "V Sharma, A Kumar, A Kaur",
+        "url": "https://bibliotekanauki.pl/articles/2201120.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "sBLHmyPFfXYC": {
+        "title": "Genetic Diversity of Black Turmeric (Curcuma caesia Roxb.) Genotypes Identified by SSR Markers.",
+        "year": "2021/10/1",
+        "publisher": "Mysore Journal of Agricultural Sciences",
+        "author": "AB Mohan Kumar, M Vasundhara, BN Sathyanarayana, S Shyamalamma, C Doreswamy, Veena S Anil",
+        "url": "https://old.uasbangalore.edu.in/images/2021-4th-Issue/24.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "F03Cqbp4CkEC": {
+        "title": "Authentication and DNA bar-coding of Curcuma caesia Roxb. genotypes and other Zingiberaceae species using ITS-2 gene.",
+        "year": "2021",
+        "publisher": "Unknown",
+        "author": "AB Mohan Kumar, M Vasundhara, BN Sathyanarayana, S Shyamalamma, C Doreswamy, Veena S Anil",
+        "url": "https://www.researchgate.net/profile/Surendra-K/publication/354945060_Agronomic_Investigations_on_Sida_Hemp_Sida_alnifolia_L_-_A_Medicinal_Plant_for_Future/links/6155451b2b34872782014070/Agronomic-Investigations-on-Sida-Hemp-Sida-alnifolia-L-A-Medicinal-Plant-for-Future.pdf#page=183",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "28A7wWkAAAAJ": {
-    "Name": "Marc-Andr\u00e9 Langlois",
+  "rHFCtWwAAAAJ": {
+    "Name": "Finlay Maguire",
     "total_new": "1",
     "publications": {
-      "MGPUR4WVBMEC": {
-        "title": "Predictors of SARS-CoV-2 anti-Spike IgG antibody levels following two COVID-19 vaccine doses among children and adults in the Canadian CHILD Cohort",
-        "year": "2026/4/19",
-        "publisher": "Vaccine",
-        "author": "Rilwan Azeez, Spencer R Ames, Larisa C Lotoski, Geoffrey L Winsor, Corey R Arnold, Yannick Galipeau, Martin Pelchat, Stephanie Goguen, Elinor Simons, Theo J Moraes, Piush J Mandhane, Stuart E Turvey, Shelly Bolotin, David M Patrick, Jared Bullard, Lisa M Lix, Natasha Doucas, Natalie Rodriguez, Fiona SL Brinkman, Padmaja Subbarao, Marc-Andr\u00e9 Langlois, Meghan B Azad",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0264410X26001507",
+      "tS2w5q8j5-wC": {
+        "title": "Divergent SARS-CoV-2 variant emerges in white-tailed deer with deer-to-human transmission (vol 7, pg 2011, 2022)",
+        "year": "2023/1/1",
+        "publisher": "NATURE MICROBIOLOGY",
+        "author": "Bradley Pickering, Oliver Lung, Finlay Maguire, Peter Kruczkiewicz, Jonathon D Kotwa, Tore Buchanan, Marianne Gagnier, Jennifer L Guthrie, Claire M Jardine, Alex Marchand-Austin, Ariane Masse, Heather McClinchey, Kuganya Nirmalarajah, Patryk Aftanas, Juliette Blais-Savoie, Hsien-Yao Chee, Emily Chien, Winfield Yim, Andra Banete, Bryan D Griffin, Lily Yip, Melissa Goolia, Matthew Suderman, Mathieu Pinette, Greg Smith, Daniel Sullivan, Josip Rudar, Oksana Vernygora, Elizabeth Adey, Michelle Nebroski, Guillaume Goyette, Andres Finzi, Genevieve Laroche, Ardeshir Ariana, Brett Vahkal, Marceline Cote, Allison J McGeer, Larissa Nituch, Samira Mubareka, Jeff Bowman",
+        "url": "https://scholar.google.com/scholar?cluster=12584816397992609260&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
