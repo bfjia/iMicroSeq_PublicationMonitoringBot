@@ -1,29 +1,14 @@
 {
-  "rQUeGGsAAAAJ": {
-    "Name": "Lawrence Goodridge",
-    "total_new": "1",
-    "publications": {
-      "Ug5p-4gJ2f0C": {
-        "title": "Wastewater-Based Genomics as a Scalable Framework for Antiviral Resistance Surveillance",
-        "year": "2026/6/23",
-        "publisher": "Preprints",
-        "author": "Opeyemi U Lawal, Valeria R Parreira, Alyssa K Overton, Jennifer J Knapp, Richard Gibson, Eric J Arts, Linkang Zhang, Fozia Rizvi, Melinda Precious, Trevor C Charles, Lawrence Goodridge",
-        "url": "https://www.preprints.org/manuscript/202606.1637",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
   "PQ9tLbUAAAAJ": {
     "Name": "Tim A. McAllister",
     "total_new": "1",
     "publications": {
-      "mZB2-lCpWbQC": {
-        "title": "Composting As a Method of Livestock Carrion Disposal",
-        "year": "2025/7/17",
-        "publisher": "Carrion Ecology, Evolution, and Their Applications",
-        "author": "Shanwei Xu, Tim Reuter, Kim Stanford, Tim A McAllister",
-        "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.1201/9781003610885-33&type=chapterpdf",
+      "_3zdsQPSqRAC": {
+        "title": "Evaluating detection of Histophilus somni immunoglobulin-binding protein A DR2 Fic: A species-specific gene target for recombinase polymerase amplification relative to long \u2026",
+        "year": "2026/6/26",
+        "publisher": "Research in Veterinary Science",
+        "author": "Tara Funk, Rahat Zaheer, Bruce Wobeser, Cheyenne Conrad, Lianne McLeod, Sheryl Gow, Simon JG Otto, Cheryl L Waldner, Tim McAllister",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0034528826002699",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -33,132 +18,27 @@
     "Name": "Guillaume Bourque",
     "total_new": "1",
     "publications": {
-      "bsCEZ5n1K3cC": {
-        "title": "IHEC data portal",
-        "year": "2022/1/6",
-        "publisher": "Practical guide to life science databases",
-        "author": "David Bujold, Romain Gr\u00e9goire, David Brownlee, Ksenia Zaytseva, Guillaume Bourque",
-        "url": "https://link.springer.com/chapter/10.1007/978-981-16-5812-9_4",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "RX9XNLUAAAAJ": {
-    "Name": "Valerie S. Langlois",
-    "total_new": "1",
-    "publications": {
-      "hkOj_22Ku90C": {
-        "title": "Aquatic macrophytes as nature\u2010based solutions: Challenges and opportunities across inland and coastal waters",
-        "year": "2026/7",
-        "publisher": "Limnology and Oceanography Letters",
-        "author": "Morgan Botrel, Roxane Maranger, Lindsay L Trottier, Mathieu Cusson, Lars L Iversen, Fanny Noisette, Christian Nozais, Katrine Turgeon, Andrea Bertolo, Thibaud Andr\u00e9\u2010Alphonse, Simon B\u00e9langer, Arthur de Grandpr\u00e9, Jean\u2010Olivier Goyette, Sabine Hilt, Ladd Johnson, Val\u00e9rie Langlois, Martin Laporte, F\u00e9lix Lauzon, Brigitte L\u00e9gar\u00e9, Anne Ola, Marie\u2010Pomme Presne\u2010Poissant, Matthieu Prugne, Caroline Susini, Richard Zimmerman, Irene Gregory\u2010Eaves",
-        "url": "https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lol2.70145",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "-EWOC3cAAAAJ": {
-    "Name": "Diego Borin Nobrega",
-    "total_new": "1",
-    "publications": {
-      "geHnlv5EZngC": {
-        "title": "WHO Global Antimicrobial Resistance Surveillance System (GLASS) for monitoring bloodstream infections due to Candida: findings from a demonstration study",
-        "year": "2026/7/1",
-        "publisher": "eClinicalMedicine",
-        "author": "Daniel Marcano Zamora, Sergey Eremin, Pilar Ramon-Pardo, Agustina Forastiero, Marcelo Galas, Daniel A da Matta, Diego Nobrega, Zlatina Dobreva, Methee Chayakulkeeree, Jong Hee Shin, Susana Zurita, Arunaloke Chakrabarti, Anuradha Chowdhary, Ana Alastruey-Izquierdo, Susana Cordoba, Jana Welna, Nelesh P Govender, Alexandre Alanio, Arnaldo Lopes Colombo, Ivana Marekovi\u0107, Ingibjorg Hilmarsdottir, Silvia Bertagnolio, Carmem L Pessoa-Silva",
-        "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00268-3/fulltext",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "U3rqorsAAAAJ": {
-    "Name": "Doug Manuel",
-    "total_new": "1",
-    "publications": {
-      "f14mYpCygl4C": {
-        "title": "Development and validation of a risk prediction algorithm to estimate all-cause mortality among community-dwelling Canadians: the Mortality Population Risk Tool (MPoRT)",
+      "DejRBzv9GVYC": {
+        "title": "EpiATLAS-a reference for human epigenomic research",
         "year": "2026",
-        "publisher": "medRxiv",
-        "author": "Douglas Manuel, Anan Bader Eddeen, Philippe Fines, Carol Bennett, Stacey Fisher, Mahsa Jessri, Richard Perez, Meltem Tuna, Claudia Sanmartin, Yulric Sequeira, Juan Li, Laura Rosella, Deirdre Hennessy",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.06.12.26355459.abstract",
+        "publisher": "bioRxiv",
+        "author": "International Human Epigenome Consortium, Quirin Manz, Misha Bilenky, Dennis Hecker, Nihit Aggarwal, Juliana E Arcila-Galvis, Shamim Ashrafiyan, Nina Baumgarten, Fatemeh Behjati Ardakani, Paulo R Branco Lins, Charles E Breeze, David Brownlee, David Bujold, Alec R Chapman, Savio Ho-Chit Chow, Tevfik Umut Dincer, Charles Dupras, Gabriella Frosi, Jingyuan Fu, Deborah G\u00e9rard, Axel Hauduc, Jeffrey Hyacinthe, Artur Jaroszewicz, Runjia Li, Riley J Mangan, Aneta Mikulasova, Ismail Moghul, Maria Needhamsen, Nicole Palmour, Maria Pires Pacheco, Jacob Quon, Joanny Raby, Alex Reynolds, Laura Rumpf, Abdulrahman Salhab, Christina Huan Shi, Lasse Sinkkonen, Yosuke Tanigawa, R Matthew Tanner, Ha Vu, Fr\u00e9d\u00e9rique White, Jacqueline TM Aw, Shirin Badii, Reanne Bowlby, Merrill Boyle, Carl Brown, Damini Chand, Marc Calingo, Qi Cao, Annaick Carles, Maxime Caron, Marcus Carreira, Alfred Sze Lok Cheng, Clooney Cheuk Yin Cheng, Dean Cheng, Young Cheng, Ming Fung Cheung, Gina Choe, Eric Chuah, Rola Dali, Athena Deng, Sitanshu Gakkhar, Marta Gut, An He, Simon Charles Heath, Vincy Ho, Angelica Grace Intan, Caryn Y Ito, Qinghong Jiang, Joost L Kluiver, Joon Lee, Seohyun Lee, Ziuwin Leung, Irene Li, Alireza Lorzadeh, Dan McKerricher, Neha Mishra, Karen Mungall, Luis Augusto Eijy Nagai, Mzwanele Ngubo, Diana Palmquist, Johnson Pang, Victoria Park, Patrick Plettner, Akshita Puri, Adriana Redensek, Zohreh Sharafian, Marie-Michelle Simon, Jonathan Steif, Edmund Su, Sabrina Ka Man Tam, Sindy Sing Ting Tam, Anke Van den Berg, Rachel Wong, Tina Wong, Jenny Ka Hei Wu, Alice Zhu, Tony Kwan, Michelle Moksa, Sinead T Aherne, Sam Aparicio, Takahiro Arima, Ho Ryun Chung, Joseph F Costello, Connie J Eaves, Susan J Fisher, Ivo Glynne Gut, Peter W Harrison, Bernhard Horsthemke, Garth R Ilsley, Maja Jagodic, Aly Karsan, Pascal M Lavoie, Danny Leung, Maxwell W Libbrecht, Thomas Manke, Marco A Marra, Wouter Meuleman, Fabian M\u00fcller, Ryuichiro Nakato, Hiroaki Okae, Daniel Rico, Philip Rosenstiel, Hiroyuki Sasaki, Thomas Sauter, Stefan Schreiber, David W Scott, William L Stanford, Christian Steidl, Hendrik G Stunnenberg, Mikita Suyama, Florian Tran, Toshikazu Ushijima, Andrew P Weng, Sam M Wiseman, Angela Ruohao Wu, Kevin Y Yip, Stephen Yip, Stephan Beck, Guillaume Bourque, Jason Ernst, Pierre-\u00c9tienne Jacques, Yann Joly, Manolis Kellis, Markus List, Theodore J Perkins, Marcel H Schulz, J\u00f6rn Walter, Martin Hirst",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.06.22.729579.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "OmUy3vUAAAAJ": {
-    "Name": "Rob Beiko",
+  "gNvadS4AAAAJ": {
+    "Name": "Dustin King",
     "total_new": "1",
     "publications": {
-      "PoWvk5oyLR8C": {
-        "title": "Microbiome Stewardship: Definition and Guiding Principles for Implementation",
-        "year": "2026/6/24",
-        "publisher": "Sustainable Microbiology",
-        "author": "Kieran C O\u2019Doherty, Mikaela Beijbom, Emma Allen-Vercoe, Mallory J Choudoir, Diego S Silva, Carla Bonilla, Justine Debelius, Sarah Elton, Avi\u00e2ja Lyberth Hauptmann, Andreas Heyland, Nicolae Morar, Derek Skillings, Zhongzhi Sun, Patricia G Wolf, Robert G Beiko, Suzanne Lynn Ishaq",
-        "url": "https://academic.oup.com/sumbio/advance-article/doi/10.1093/sumbio/qvag028/8715480",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "xqFXwEIAAAAJ": {
-    "Name": "Lori Bradford",
-    "total_new": "1",
-    "publications": {
-      "epqYDVWIO7EC": {
-        "title": "AI-Based Approach for Statistical Downscaling Using Convection-Permitting Model Outputs and GFS Data for Immersive Intersectional Discussion in Environmental Management and \u2026",
-        "year": "2026/2/10",
-        "publisher": "2026 International Conference on Sustainable Engineering and Digital Innovation (ICSEDI)",
-        "author": "Nemat El Hassan, Suad Al-Kindi, Kwok Pan Chun, C Bayu Risanto, Emir Toker, Yasemin Ezber, Lori Bradford",
-        "url": "https://ieeexplore.ieee.org/iel8/11568200/11568272/11568329.pdf",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "Xv6FyfAAAAAJ": {
-    "Name": "Jennifer Knapp",
-    "total_new": "1",
-    "publications": {
-      "ZeXyd9-uunAC": {
-        "title": "Wastewater-Based Genomics as a Scalable Framework for Antiviral Resistance Surveillance",
-        "year": "2026/6/23",
-        "publisher": "Preprints",
-        "author": "Opeyemi U Lawal, Valeria R Parreira, Alyssa K Overton, Jennifer J Knapp, Richard Gibson, Eric J Arts, Linkang Zhang, Fozia Rizvi, Melinda Precious, Trevor C Charles, Lawrence Goodridge",
-        "url": "https://www.preprints.org/manuscript/202606.1637",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "U9VtJFcAAAAJ": {
-    "Name": "Alyssa Overton",
-    "total_new": "1",
-    "publications": {
-      "UebtZRa9Y70C": {
-        "title": "Wastewater-Based Genomics as a Scalable Framework for Antiviral Resistance Surveillance",
-        "year": "2026/6/23",
-        "publisher": "Preprints",
-        "author": "Opeyemi U Lawal, Valeria R Parreira, Alyssa K Overton, Jennifer J Knapp, Richard Gibson, Eric J Arts, Linkang Zhang, Fozia Rizvi, Melinda Precious, Trevor C Charles, Lawrence Goodridge",
-        "url": "https://www.preprints.org/manuscript/202606.1637",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "gTkdyfsAAAAJ": {
-    "Name": "Trevor Charles",
-    "total_new": "1",
-    "publications": {
-      "XOE35tnTnDYC": {
-        "title": "Wastewater-Based Genomics as a Scalable Framework for Antiviral Resistance Surveillance",
-        "year": "2026/6/23",
-        "publisher": "Preprints",
-        "author": "Opeyemi U Lawal, Valeria R Parreira, Alyssa K Overton, Jennifer J Knapp, Richard Gibson, Eric J Arts, Linkang Zhang, Fozia Rizvi, Melinda Precious, Trevor C Charles, Lawrence Goodridge",
-        "url": "https://www.preprints.org/manuscript/202606.1637",
+      "TQgYirikUcIC": {
+        "title": "Enzymatic Deacetylation as a Selective Strategy for O-GlcNAc Identification",
+        "year": "2026/6/25",
+        "publisher": "Analytical Chemistry",
+        "author": "Jun Bian, Jason C Rogalski, Yongmei Lyu, Yaqing Wang, Jes\u00fas E Serrano-Negr\u00f3n, Pedro Laborda, Sharwan Kumar, Dustin T King, Weifeng Benny Wu, Leonard J Foster, Meng Wang, Li Liu, David J Vocadlo, Josef Voglmeir",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.analchem.6c02363",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
