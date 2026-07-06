@@ -1,29 +1,74 @@
 {
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
     "total_new": "1",
     "publications": {
-      "qU-VGGhXkmEC": {
-        "title": "Development and implementation of a \u2018real estate web application\u2019for modern web application",
-        "year": "2024",
-        "publisher": "International Journal for Research in Applied Science and Engineering Technology",
-        "author": "A Kumar, M Singh, S Dutta, J Kaur",
-        "url": "https://elibrary.ru/item.asp?id=79243593",
+      "5Hlrm_bZEgcC": {
+        "title": "Investigating the mobility and host range of mobile genetic elements harbouring antimicrobial resistance genes in enterococci",
+        "year": "2026/7/2",
+        "publisher": "Microbiology",
+        "author": "Jee In Kim, Rahat Zaheer, Athanasios Zovoilis, Gary Van Domselaar, Sani-e-Zehra Zaidi, Travis Haight, Robert G Beiko, Tim A McAllister",
+        "url": null,
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "-EWOC3cAAAAJ": {
-    "Name": "Diego Borin Nobrega",
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
     "total_new": "1",
     "publications": {
-      "8AbLer7MMksC": {
-        "title": "WHO Global Antimicrobial Resistance Surveillance System (GLASS) for monitoring bloodstream infections due to Candida: findings from a demonstration study",
-        "year": "2026/7/1",
-        "publisher": "Unknown",
-        "author": "S Eremin, P Ramon-Pardo, A Forastiero, M Galas, DA da Matta, D Nobrega, Z Dobreva, M Chayakulkeeree, JH Shin, S Zurita, A Chakrabarti, A Chowdhary, A Alastruey-Izquierdo, S Cordoba, J Welna, NP Govender, A Alanio, AL Colombo, I Marekovi\u0107, I Hilmarsdottir, S Bertagnolio, CL Pessoa-Silva",
-        "url": "https://repository.li.mahidol.ac.th/items/a44d872f-3c2f-40dc-bae1-846ed5ba21d6",
+      "kh2fBNsKQNwC": {
+        "title": "Comparingc lake surface water, deep-water, and sediment for fish environmental DNA detection as part of Indigenous-Community Based Monitoring in Alberta\u2019s Oil Sands Regions",
+        "year": "2026/6/21",
+        "publisher": "Canadian Water Resources Journal/Revue canadienne des ressources hydriques",
+        "author": "Mark Louie D Lopez, Keegan Hicks, Inbal Harim, Thomas Clark, Destiny Martin, Kyle Whiteford, Bonnie Donald, Joey Donald, Erin J Ussery, Ave Dersch, Mark E McMaster, Caren C Helbing",
+        "url": null,
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "01K5Ks4AAAAJ": {
+    "Name": "William Hsiao",
+    "total_new": "1",
+    "publications": {
+      "Mojj43d5GZwC": {
+        "title": "Bioinformatics roadmap for characterizing the gut microbiome to study its interactions and associations with the gut mucosal immune system",
+        "year": "2026/7/2",
+        "publisher": "Mucosal Immunology",
+        "author": "Muhammad Zohaib Anwar, Miguel Dario Prieto, William WL Hsiao",
+        "url": null,
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "OmUy3vUAAAAJ": {
+    "Name": "Rob Beiko",
+    "total_new": "1",
+    "publications": {
+      "Dip1O2bNi0gC": {
+        "title": "Investigating the mobility and host range of mobile genetic elements harbouring antimicrobial resistance genes in enterococci",
+        "year": "2026/7/2",
+        "publisher": "Microbiology",
+        "author": "Jee In Kim, Rahat Zaheer, Athanasios Zovoilis, Gary Van Domselaar, Sani-e-Zehra Zaidi, Travis Haight, Robert G Beiko, Tim A McAllister",
+        "url": null,
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "LghEfpEAAAAJ": {
+    "Name": "Gary Van Domselaar",
+    "total_new": "1",
+    "publications": {
+      "Jxw8hHINxX0C": {
+        "title": "Investigating the mobility and host range of mobile genetic elements harbouring antimicrobial resistance genes in enterococci",
+        "year": "2026/7/2",
+        "publisher": "Microbiology",
+        "author": "Jee In Kim, Rahat Zaheer, Athanasios Zovoilis, Gary Van Domselaar, Sani-e-Zehra Zaidi, Travis Haight, Robert G Beiko, Tim A McAllister",
+        "url": null,
         "firstOrLast": false,
         "datasource": "Scholars"
       }
