@@ -1,1 +1,32 @@
-{}
+{
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
+    "total_new": "1",
+    "publications": {
+      "lPDSu1ZU3VAC": {
+        "title": "Distribution of Staphylococcus chromogenes and Mammaliicoccus sciuri across cows, farm environment, and workers in 3 Chinese dairy herds with distinct bedding systems",
+        "year": "2026/7/3",
+        "publisher": "Journal of Dairy Science",
+        "author": "Xiaoping Li, Tao Zhou, Baoling Zhang, Herman W Barkema, Diego B Nobrega, John P Kastelic, Bo Han, Jian Gao",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022030226030687",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-EWOC3cAAAAJ": {
+    "Name": "Diego Borin Nobrega",
+    "total_new": "1",
+    "publications": {
+      "5Ul4iDaHHb8C": {
+        "title": "Distribution of Staphylococcus chromogenes and Mammaliicoccus sciuri across cows, farm environment, and workers in 3 Chinese dairy herds with distinct bedding systems",
+        "year": "2026/7/3",
+        "publisher": "Journal of Dairy Science",
+        "author": "Xiaoping Li, Tao Zhou, Baoling Zhang, Herman W Barkema, Diego B Nobrega, John P Kastelic, Bo Han, Jian Gao",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022030226030687",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
