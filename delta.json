@@ -1,1 +1,47 @@
-{}
+{
+  "SmBwcwUAAAAJ": {
+    "Name": "Graham Gagnon",
+    "total_new": "1",
+    "publications": {
+      "Wq2b2clWBLsC": {
+        "title": "Retraction notice to \u201cRefractory plasmonic material based floating solar still for simultaneous desalination and electricity generation\u201d[iScience 27 (2024) 111225]",
+        "year": "2026/8/21",
+        "publisher": "iScience",
+        "author": "Matthew J Margeson, Mark Atwood, Jaser Lara de Larrea, Joseph A Weatherby, Heather Daurie, Katlyn Near, Graham A Gagnon, Mita Dasog",
+        "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)02173-5",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "BZgRYfkAAAAJ": {
+    "Name": "Dominic Frigon",
+    "total_new": "1",
+    "publications": {
+      "5LPo_wSKItgC": {
+        "title": "A Framework for Antimicrobial Resistance Risk Assessment, Monitoring, and Risk-Reduction Practices along the Reused Water\u2013Soil\u2013Crop\u2013Human Continuum",
+        "year": "2026/7/8",
+        "publisher": "Environmental Science & Technology",
+        "author": "Laura \u00c1lvarez-Fraga, Mohan Amarasiri, Charlotte Arnal, Xavier Bellanger, Pierre Benoit, Thomas Berendonk, Thibault Bourdin, Carolee Anne Carson, Eddie Cytryn, Oriane Della-Negra, Andrea Di Cesare, Steven P Djordjevic, Barbara Drigo, Erica Donner, Pietro Drei, Dominic Frigon, Pablo Gago-Ferrero, William H Gaze, Karina Yew-Hoong Gin, Danny Greenwald, Bing Guo, Didier Hocquet, Ryo Honda, Jeffrey LeJeune, Caroline Le Mar\u00e9chal, Roberta Maffettone, C\u00e9lia M Manaia, Daniel Martak, Fabrice Martin-Laurent, Christophe Merlin, Alexandre Mrozinski, Dominique Patureau, Alfieri Pollice, Amy Pruden, Ben van den Akker, Sotirios Vasileiadis, Nathalie W\u00e9ry, Edward Topp",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.6c03391",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wHX6pyUAAAAJ": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
+    "publications": {
+      "sNmaIFBj_lkC": {
+        "title": "\u00c9laborer son premier syst\u00e8me de monitorage de la planification territoriale: les pi\u00e8ges \u00e0 \u00e9viter et les pistes pour les d\u00e9jouer",
+        "year": "2025",
+        "publisher": "R\u00e9seau national d'observatoires de l'am\u00e9nagement et du d\u00e9veloppement durable des territoires",
+        "author": "Julie Ruiz, Hugo Asselin, Nicolas Devaux, Mario Gauthier, Karine Lacasse, Adela\u00efde Levavasseur, Arnaud Lombard-Dionne, Sabrina Tremblay",
+        "url": "https://docutheque.uquebec.ca/id/eprint/587/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
