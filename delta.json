@@ -1,1 +1,47 @@
-{}
+{
+  "ceQ3BE0AAAAJ": {
+    "Name": "M\u00e9lanie Courtot",
+    "total_new": "1",
+    "publications": {
+      "D_sINldO8mEC": {
+        "title": "Voices of GA4GH members: Collaborating in technology and policy development",
+        "year": "2021/11/10",
+        "publisher": "Elsevier",
+        "author": "Bartha Maria Knoppers, Danya Vears, Calvin WL Ho, Anna Middleton, Jacob Shujui Hsu, Alex Handler Wagner, Melanie Courtot, Melissa Haendel, Michael Baudis, Orion Buske, Andy Yates, Kathy Reinold, Jonathan Lawson, Melissa Cline, Tiffany Boughtwood, Alexander Kanitz, Jordi Rambla",
+        "url": "https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00043-4",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
+    "total_new": "1",
+    "publications": {
+      "HeT0ZceujKMC": {
+        "title": "Amplicon sequencing data set of bacterial and phytoplankton communities during a record low-ice winter in the North American Great Lakes",
+        "year": "2026/7/13",
+        "publisher": "Microbiology Resource Announcements",
+        "author": "Neve C Hudson, Katelyn M Brown, Brian S Gresham, Taylor E Peace, James R Zittel, Geoffrey M DeLorie, Derek S Niles, George S Bullerjahn, Warren JS Currie, Steven A Ruberg, R Michael McKay",
+        "url": "https://journals.asm.org/doi/abs/10.1128/mra.00369-26",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "v9h5yVEAAAAJ": {
+    "Name": "Art FY Poon",
+    "total_new": "1",
+    "publications": {
+      "DUooU5lO8OsC": {
+        "title": "Pervasive HIV recombination limits the utility of circulating recombinant form nomenclature",
+        "year": "2026/7/13",
+        "publisher": "PLoS pathogens",
+        "author": "Heather E Grant, Abayomi S Olabode, Dorothea Seiler Vellame, Art FY Poon, Andrew J Leigh Brown, David L Robertson",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014286",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
