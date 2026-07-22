@@ -1,1 +1,56 @@
-{}
+{
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
+    "total_new": "1",
+    "publications": {
+      "CxegcQ4u50YC": {
+        "title": "Development and Validation of the Hypertension Population Risk Tool: A Population-Based Diagnostic Algorithm for Canadians",
+        "year": "2025/12/12",
+        "publisher": "Unknown",
+        "author": "R Islam, T Bushnik, MM Sood, M Taljaard, FA McAlister, J Li, DG Manuel",
+        "url": "https://europepmc.org/article/ppr/ppr1266232",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "OmUy3vUAAAAJ": {
+    "Name": "Rob Beiko",
+    "total_new": "1",
+    "publications": {
+      "xtoqd-5pKcoC": {
+        "title": "Development of a lightweight, fully integrated qPCR sensor for environmental DNA",
+        "year": "2026/7/18",
+        "publisher": "Sensing and Bio-Sensing Research",
+        "author": "Edward Luy, Colin Sonnichsen, Andre Hendricks, Iain Grundke, Kyle Park, Jennifer Tolman, Robert G Beiko, Julie LaRoche, Vincent Sieben",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2214180426001091",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "VLGLIxUAAAAJ": {
+    "Name": "Stephanie Gora",
+    "total_new": "2",
+    "publications": {
+      "YOwf2qJgpHMC": {
+        "title": "Advances in Physicochemical and Biological Treatment of Textile Wastewater: An Applied Review of Methods, Technologies, and Costs",
+        "year": "2026/7",
+        "publisher": "Water environment research: a research publication of the Water Environment Federation",
+        "author": "Adedapo O Adeola, Stephanie Gora",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42470234/",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "ULOm3_A8WrAC": {
+        "title": "Detection of hepatitis A virus (HAV) in fresh fruits, vegetable, wastewater and manure from irrigated farms in Ouagadougou, Burkina Faso",
+        "year": "2024/10/31",
+        "publisher": "Journal of Applied Biosciences",
+        "author": "Kuan Abdoulaye Traore, St\u00e9phanie Gora, Madou Sanou, Jean Bienvenue, Lalidia Bruno OUOBA OUOBA, WP Bertrand Tiendrebeogo, Pierre Roques, Nicolas Barro",
+        "url": "https://www.m.elewa.org/journals/wp-content/uploads/2024/10/4.Traore.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
