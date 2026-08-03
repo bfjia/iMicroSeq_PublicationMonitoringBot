@@ -1,224 +1,53 @@
 {
-  "rQUeGGsAAAAJ": {
-    "Name": "Lawrence Goodridge",
-    "total_new": "1",
-    "publications": {
-      "FPJr55Dyh1AC": {
-        "title": "Current Research in Food Science",
-        "year": "2021",
-        "publisher": "Current Research in Food Science",
-        "author": "Maleeka Singh, Azin Sadat, Reihaneh Abdi, Louis A Colaruotolo, Alyssa Francavilla, IKatherine Petker, Pedram Nasr, Maryam Moraveji, Gyllian Cruz, Yinan Huang, Aditi Arora, Aleana Chao, Sarah Walker, Xinya Wang, Sujani Rathnayake, Subramanyam Ragupathy, Steven G Newmaster, Robert H Hanner, Lawrence D Goodridge, Maria G Corradini",
-        "url": "https://www.researchgate.net/profile/Maria-Corradini/publication/354266720_Detection_of_SARS-CoV-2_on_surfaces_in_food_retailers_in_Ontario/links/613a1b520397f5523b15aa4e/Detection-of-SARS-CoV-2-on-surfaces-in-food-retailers-in-Ontario.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wY7kQBwAAAAJ": {
-    "Name": "Natalie Prystajecky",
-    "total_new": "1",
-    "publications": {
-      "Y5dfb0dijaUC": {
-        "title": "Older Adults Mount Less Durable Humoral Responses to a Two-dose COVID-19 mRNA Vaccine Regimen, but Strong Initial Responses to a Third Dose.",
-        "year": "2022/2/21",
-        "publisher": "Medrxiv: the Preprint Server for Health Sciences",
-        "author": "Francis Mwimanzi, Hope R Lapointe, Peter K Cheung, Yurou Sang, Fatima Yaseen, Gisele Umviligihozo, Rebecca Kalikawe, Sneha Datwani, F Harrison Omondi, Laura Burns, Landon Young, Victor Leung, Olga Agafitei, Siobhan Ennis, Winnie Dong, Simran Basra, Li Yi Lim, Kurtis Ng, Ralph Pantophlet, Chanson J Brumme, Julio SG Montaner, Natalie Prystajecky, Christopher F Lowe, Mari L DeMarco, Daniel T Holmes, Janet Simons, Masahiro Niikura, Marc G Romney, Zabrina L Brumme, Mark A Brockman",
-        "url": "https://europepmc.org/article/pmc/pmc8750654",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "PQ9tLbUAAAAJ": {
-    "Name": "Tim A. McAllister",
-    "total_new": "1",
-    "publications": {
-      "de6HPdfwrHoC": {
-        "title": "Efficacy of Biocides in Eliminating Biofilms of Enterobacteriaceae, Lactic Acid Bacteria, and Spoilage Microorganisms Isolated from Meat Fabrication Equipment",
-        "year": "2026/7/2",
-        "publisher": "Foodborne Pathogens and Disease",
-        "author": "Cheyenne C Conrad, Yadav Barun, Tim McAllister, Xianqin Yang",
-        "url": "https://journals.sagepub.com/doi/abs/10.1177/15353141261464411",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "Et_RonIAAAAJ": {
-    "Name": "Guillaume Bourque",
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
     "total_new": "2",
     "publications": {
-      "H4IpxOyCX80C": {
-        "title": "Investigating Sex-Specific Genetic Associations with PheWeb 2.0",
-        "year": "2025/6",
-        "publisher": "Unknown",
-        "author": "Justin Bellavance, Marc-Andr\u00e9 Legault, Sarah Gagliano Taliun, Guillaume Bourque",
-        "url": "https://umontreal.scholaris.ca/server/api/core/bitstreams/691ab0d6-53dd-416b-aee7-6fa2b405748e/content",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "P0sSKRC7TM0C": {
-        "title": "Tol\u00e9rance au soi: r\u00f4le des \u00e9l\u00e9ments transposables dans les tissus somatiques et le thymus",
-        "year": "2023/8",
-        "publisher": "Unknown",
-        "author": "Jean-David Larouche, Philippe Roux, Claude Perreault, Martin Sauvageau, Guillaume Bourque",
-        "url": "https://umontreal.scholaris.ca/server/api/core/bitstreams/9b698e63-39fb-4246-a933-fd1dcbdd15d2/content",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "RX9XNLUAAAAJ": {
-    "Name": "Valerie S. Langlois",
-    "total_new": "5",
-    "publications": {
-      "W5xh706n7nkC": {
-        "title": "Pollution invisible: comment les perturbateurs endocriniens bouleversent le vivant",
-        "year": "2026",
-        "publisher": "Presses de l'Universit\u00e9 du Qu\u00e9bec",
-        "author": "Val\u00e9rie S Langlois",
-        "url": "https://scholar.google.com/scholar?cluster=6526224178695863348&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "_Ybze24A_UAC": {
-        "title": "La peur des moustiques: le confort \u00e0 quel prix?",
-        "year": "2026",
-        "publisher": "Presses de l'Universit\u00e9 du Qu\u00e9bec",
-        "author": "Val\u00e9rie S Langlois, Clayton Peterson, Bert Klein, Alexis Pelletier-C\u00f4t\u00e9",
-        "url": "https://scholar.google.com/scholar?cluster=2333409141217647131&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "JQOojiI6XY0C": {
-        "title": "D\u00e9coder la nature: L'ADN environnemental au service de la biodiversit\u00e9",
-        "year": "2026",
-        "publisher": "Presses de l'Universit\u00e9 du Qu\u00e9bec",
-        "author": "Val\u00e9rie S Langlois, Annie Claude B\u00e9lisle, Marie-Pier Brochu, Marie-Lee Castonguay, Julie Couillard, Fidji Sandr\u00e9, Tuan Anh To",
-        "url": "https://scholar.google.com/scholar?cluster=988267309445747844&hl=en&oi=scholarr",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "Fu2w8maKXqMC": {
-        "title": "Environmental impact of diluted bitumen",
-        "year": "2021/7/16",
-        "publisher": "Natural Resources Canada",
-        "author": "JME Ahad, SL Hepditch, R Martel, VS Langlois, LM Mindorff, N Mahmoudi",
-        "url": "https://ostrnrcan-dostrncan.canada.ca/handle/1845/139058",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "uLbwQdceFCQC": {
-        "title": "2 Lethal and sublethal effects of diluted bitumen and conventional oil on fathead minnow (Pimephales promelas) larvae exposed during their early development",
+      "PNfI_lJY3VoC": {
+        "title": "1, 2-benzenedicarboxylic acid, bis (2-methyl propyl) ester isolated from Onosma bracteata Wall",
         "year": "2021",
-        "publisher": "Comparaison de la toxicit\u00e9 des p\u00e9troles conventionnels et non-conventionnels sur trois esp\u00e8ces de poissons d\u2019eau douce: effets mol\u00e9culaires, d\u00e9veloppement et sant\u00e9 globale",
-        "author": "Roxanne B\u00e9rub\u00e9, Charles Gauthier, Thibault Bourdin, Marilou Bouffard, Ga\u00eblle Triffault-Bouchet, Val\u00e9rie S Langlois, Patrice Couture, Roxanne B\u00e9rub\u00e9, Charles Gauthier, Thibault Bourdin, Marilou Bouffard, Ga\u00eblle Triffault-Bouchet, Val\u00e9rie Langlois, Patrice Couture",
-        "url": "https://search.proquest.com/openview/f3c91a78b142b209daf68ea20c2c8a99/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y#page=59",
+        "publisher": "Inhibits MG-63 Cells Proliferation via Akt-p53-Cyclin Pathway. India",
+        "author": "A Kumar, S Kaur, S Dhiman, PP Singh, S Thakur, U Sharma, S Kumar, S Kaur",
+        "url": "https://scholar.google.com/scholar?cluster=3647189011756539180&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
-      }
-    }
-  },
-  "whtcVqwAAAAJ": {
-    "Name": "Stephanie Guilherme",
-    "total_new": "1",
-    "publications": {
-      "hqOjcs7Dif8C": {
-        "title": "L\u2019eau potable au Nunavik",
-        "year": "2023/12/4",
-        "publisher": "S\u00e9minaire annuel de l\u2019OHMI Nunavik",
-        "author": "St\u00e9phanie Guilherme",
-        "url": "https://hal.science/hal-04642314/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "0RcC8vIAAAAJ": {
-    "Name": "Kerry E. Black, PhD",
-    "total_new": "1",
-    "publications": {
-      "qxL8FJ1GzNcC": {
-        "title": "Lake monitoring and research efforts in Alberta, Canada: an assessment of 15-years of published literature focusing on assessing research collaborations and partnerships",
-        "year": "2026/7/17",
-        "publisher": "Canadian Water Resources Journal/Revue canadienne des ressources hydriques",
-        "author": "Kaitlyn Murgatroyd, David C Barrett, Bradley Peter, Frederick J Wrona, Kerry Black",
-        "url": "https://www.tandfonline.com/doi/abs/10.1080/07011784.2026.2705521",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "mhN0cZoAAAAJ": {
-    "Name": "Thea Van Rossum",
-    "total_new": "1",
-    "publications": {
-      "LPZeul_q3PIC": {
-        "title": "by Subject",
-        "year": "2023/9/9",
-        "publisher": "Policy",
-        "author": "Helen Hardy, Laurence Livermore, Paul Kersey, Ken Norris, Vincent Smith, Monique Janssens, Stefan Gaillard, Judith de Haan, Wim de Leeuw, Matthew Brooke, Maura Burke, Jacques Flores, Iris Kruijen, Julia Menon, Adrian Smith, Ivo Tiebosch, Felix Weijdema, Konrad U F\u00f6rstner, Anke Becker, Jochen Blom, Peer Bork, Thomas Clavel, Marius Dieckmann, Alexander Goesmann, Barbara G\u00f6tz, Thomas G\u00fcbitz, Franziska Hufsky, Sebastian J\u00fcnemann, Marie-Louise K\u00f6rner, Manja Marz, Ulisses Nunes Da Rocha, J\u00f6rg Overmann, Alfred P\u00fchler, Dietrich Rebholz-Schuhmann, Alexander Sczyrba, Jens Stoye, Justine Vandendorpe, Thea Van Rossum, Alice McHardy, Daniel Neidigk, Allie Linkous, Rodney Guttmann, Hangxing Jia, Christian Ohmann, Steve Canham, Kurt Majcen, Petr Holub, Gary Saunders, Jing Tang, Tanushree Tunstall, Philip Gribbon, Reagon Karki, Mari Kleemola, Katja Moilanen, Walter Daelemans, Pieter Fivez, Daan Broeder, Franciska de Jong, Maria Panagiotopoulou, Mathilde Bessert-Nettelbeck, Andreas Bischof, Ulrike Sturm, Emilia Nagy, Martina Schraudner, Julia Backhaus, Till Bruckermann, Susanne Hecker, Justus Henke, Karola K\u00f6pferl, Sabrina Kirschke, Christin Liedtke, Felix Mahr, Arne Maibaum, Audrey Podann, Wiebke R\u00f6ssig, Martina Sch\u00e4fer, Carolin Schr\u00f6der, Philipp Schr\u00f6gel, Victoria Shennan, Norbert Steinhaus, Mhairi Stewart, Vanessa van den Bogaert, Silke Voigt-Heucke, Michael Boehmler, David DeMay, Adriane Rogers, Heidi Murray, Lawrence Hribar, Osamudiamen Obasuyi, Audrey Darnaude, Sophie Arnaud-Haond, Ewan Hunter, Oscar Gaggiotti, Anna Sturrock, Maria Beger, Filip Volckaert, Angel P\u00e9rez-Ruzafa, Luc\u00eda L\u00f3pez-L\u00f3pez, Susanne E Tanner, Cemal Turan",
-        "url": "https://riojournal.com/browse_articles.php?journal_name%5Cx3drio%5Cx26alerts_sdg_cats%5Cx3ds14%5Cx26journal_id%5Cx3d17%5Cx26p%5Cx3d7=&lang=&journal_id=17&p=23&alerts_sdg_cats=s15",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "gNvadS4AAAAJ": {
-    "Name": "Dustin King",
-    "total_new": "1",
-    "publications": {
-      "mVmsd5A6BfQC": {
-        "title": "Antimicrobial resistance",
+      },
+      "8pmPzg0SwZgC": {
+        "title": "Recent advances in genetic tools for Acinetobacter baumannii. Front. Genet. 11, 601380",
         "year": "2020",
-        "publisher": "Springer Singapore",
-        "author": "Thomas, Singh",
-        "url": "http://elearn.psgcas.ac.in/nptel/courses/video/105107173/lec49.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "gTkdyfsAAAAJ": {
-    "Name": "Trevor Charles",
-    "total_new": "1",
-    "publications": {
-      "Yv3O0rUKnT0C": {
-        "title": "Engineered microbial biosensors for environmental monitoring",
-        "year": "2022",
-        "publisher": "of Pre-doctoral Researchers",
-        "author": "Adam Radek Martinez, John Heil, Trevor C Charles",
-        "url": "https://www.academia.edu/download/97354476/Book_of_Abstracts_JoDoc2022.pdf#page=57",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "sp21VmQAAAAJ": {
-    "Name": "Jeffrey R Brook",
-    "total_new": "1",
-    "publications": {
-      "NnTm98qLMbgC": {
-        "title": "Data Considerations for Estimating Ambient Heat Exposure for Environmental Epidemiological Studies",
-        "year": "2026/7/29",
-        "publisher": "Current Environmental Health Reports",
-        "author": "Emma L Gause, Talia Feldscher, Zachary Popp, Keith R Spangler, Sean C Mueller, Quinn H Adams, TC Chakraborty, Lucy R Hutyra, Allison James, Thomas J Luben, Dany Doiron, Carina J Gronlund, Ruth A Engel, Marcia Pescador Jimenez, Jeffrey R Brook, Massimo Stafoggia, Itai Kloog, Michael Brauer, Sara D Adar, Kevin J Lane, Gregory A Wellenius",
-        "url": "https://link.springer.com/article/10.1007/s40572-026-00553-7",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "-bIc5H0AAAAJ": {
-    "Name": "Sarah Otto",
-    "total_new": "1",
-    "publications": {
-      "IrOsW1AMYYMC": {
-        "title": "Effective pandemic policy design through feedback does not need accurate predictions. PLOS Glob Public Health 3 (2): e0000955",
-        "year": "2023",
         "publisher": "Unknown",
-        "author": "K van Heusden, GE Stewart, SP Otto, GA Dumont",
-        "url": "https://pdfs.semanticscholar.org/3225/897c6537ffc9e924b5e4332b86d4579cf077.pdf",
+        "author": "EME Sykes, S Deo, A Kumar",
+        "url": "https://scholar.google.com/scholar?cluster=14426592384816746852&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "v9h5yVEAAAAJ": {
+    "Name": "Art FY Poon",
+    "total_new": "1",
+    "publications": {
+      "2VqYfGB8ITEC": {
+        "title": "Selection profiles in RNA viruses reflect the characteristics of viruses more than individual proteins",
+        "year": "2026/7/24",
+        "publisher": "PLoS pathogens",
+        "author": "Laura Mu\u00f1oz-Baena, Hugo G Castel\u00e1n-S\u00e1nchez, Sareh Bagherichimeh, Paula Magbor, Jorge Rojas-Vargas, Amjad Khan, Abayomi S Olabode, Art FY Poon",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014457",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wQywY-EAAAAJ": {
+    "Name": "Robert E. W. Hancock",
+    "total_new": "1",
+    "publications": {
+      "ealulPZkXgsC": {
+        "title": "The use of DeepQSAR models for the discovery of peptides with enhanced antimicrobial and antibiofilm potential",
+        "year": "2025/11/24",
+        "publisher": "Journal of Chemical Information and Modeling",
+        "author": "Jiaying You, Hazem Mslati, Evan F Haney, Noushin Akhoundsadegh, Robert EW Hancock, Artem Cherkasov",
+        "url": "https://pubs.acs.org/jcisd8/article/65/22/12608/3688159",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
