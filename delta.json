@@ -1,53 +1,29 @@
 {
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
-    "total_new": "2",
+  "wY7kQBwAAAAJ": {
+    "Name": "Natalie Prystajecky",
+    "total_new": "1",
     "publications": {
-      "PNfI_lJY3VoC": {
-        "title": "1, 2-benzenedicarboxylic acid, bis (2-methyl propyl) ester isolated from Onosma bracteata Wall",
-        "year": "2021",
-        "publisher": "Inhibits MG-63 Cells Proliferation via Akt-p53-Cyclin Pathway. India",
-        "author": "A Kumar, S Kaur, S Dhiman, PP Singh, S Thakur, U Sharma, S Kumar, S Kaur",
-        "url": "https://scholar.google.com/scholar?cluster=3647189011756539180&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "8pmPzg0SwZgC": {
-        "title": "Recent advances in genetic tools for Acinetobacter baumannii. Front. Genet. 11, 601380",
-        "year": "2020",
-        "publisher": "Unknown",
-        "author": "EME Sykes, S Deo, A Kumar",
-        "url": "https://scholar.google.com/scholar?cluster=14426592384816746852&hl=en&oi=scholarr",
+      "_B80troHkn4C": {
+        "title": "Wastewater surveillance as an early warning indicator for norovirus: Validating wastewater signals against clinical indicators in British Columbia, Canada, 2021\u20132025",
+        "year": "2026/7",
+        "publisher": "CCDRCANADA",
+        "author": "Bridget Irwin, Natalie Prystajecky, Mayank Singal, Sharon Relova, Anya Smith, David McVea",
+        "url": "https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2026-52/issue-7-8-july-august-2026/ccdrv52i78-eng.pdf#page=21",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "v9h5yVEAAAAJ": {
-    "Name": "Art FY Poon",
+  "U3rqorsAAAAJ": {
+    "Name": "Doug Manuel",
     "total_new": "1",
     "publications": {
-      "2VqYfGB8ITEC": {
-        "title": "Selection profiles in RNA viruses reflect the characteristics of viruses more than individual proteins",
-        "year": "2026/7/24",
-        "publisher": "PLoS pathogens",
-        "author": "Laura Mu\u00f1oz-Baena, Hugo G Castel\u00e1n-S\u00e1nchez, Sareh Bagherichimeh, Paula Magbor, Jorge Rojas-Vargas, Amjad Khan, Abayomi S Olabode, Art FY Poon",
-        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014457",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wQywY-EAAAAJ": {
-    "Name": "Robert E. W. Hancock",
-    "total_new": "1",
-    "publications": {
-      "ealulPZkXgsC": {
-        "title": "The use of DeepQSAR models for the discovery of peptides with enhanced antimicrobial and antibiofilm potential",
-        "year": "2025/11/24",
-        "publisher": "Journal of Chemical Information and Modeling",
-        "author": "Jiaying You, Hazem Mslati, Evan F Haney, Noushin Akhoundsadegh, Robert EW Hancock, Artem Cherkasov",
-        "url": "https://pubs.acs.org/jcisd8/article/65/22/12608/3688159",
+      "6XuKD3u7GOoC": {
+        "title": "Disparities in COVID-19 infection rates across linguistic groups in long-term care homes in Ontario, Canada",
+        "year": "2026/7/29",
+        "publisher": "BMC Public Health",
+        "author": "Ricardo Batista, Michael Fitzgerald, Michael Reaume, Claire E Kendall, Lise M Bjerre, Roshanak Mahdavi, Haris Imsirovic, Alain P Gauthier, Josette-Ren\u00e9e Landry, Marie-Helene Chomienne, Amy Hsu, Louise Bouchard, Denis Prud\u2019homme, Douglas G Manuel, Peter Tanuseputro",
+        "url": "https://link.springer.com/article/10.1186/s12889-026-28468-w",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
