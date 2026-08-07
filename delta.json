@@ -1,1 +1,47 @@
-{}
+{
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
+    "total_new": "1",
+    "publications": {
+      "p9fk1XroOEAC": {
+        "title": "Measurements of equation of state of gold using two frame shadowgraphy: A Kumar et al",
+        "year": "2024/9",
+        "publisher": "Indian Journal of Physics",
+        "author": "A Kumar, S Barnwal, S Jain, RK Patidar, A Singh, C Mukherjee, MP Kamath, YBSR Prasad, NS Benerji, JA Chakera, SK Dixit",
+        "url": "https://link.springer.com/article/10.1007/s12648-024-03106-6",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-EWOC3cAAAAJ": {
+    "Name": "Diego Borin Nobrega",
+    "total_new": "1",
+    "publications": {
+      "fQNAKQ3IYiAC": {
+        "title": "Antimicrobial resistance in companion animals: trends, threats and takeaways",
+        "year": "2025",
+        "publisher": "Revue Scientifique et Technique",
+        "author": "AG Daireaux, DB Nobrega",
+        "url": "https://search.proquest.com/openview/cf327d6e0bc8659465377b094c8260e6/1?pq-origsite=gscholar&cbl=105655",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "poQrlhAAAAAJ": {
+    "Name": "Peter A. Vanrolleghem",
+    "total_new": "1",
+    "publications": {
+      "2SmvwDDsShQC": {
+        "title": "Feedforward-feedback ammonia control at a water resource recovery facility based on a digital twin with hybrid model",
+        "year": "2026/3/1",
+        "publisher": "Journal of Water Process Engineering",
+        "author": "Jeff A Sparks, CB Bott, Peter A Vanrolleghem",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2214714426002242",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
