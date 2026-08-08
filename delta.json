@@ -1,14 +1,83 @@
 {
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
+  "rQUeGGsAAAAJ": {
+    "Name": "Lawrence Goodridge",
     "total_new": "1",
     "publications": {
-      "p9fk1XroOEAC": {
-        "title": "Measurements of equation of state of gold using two frame shadowgraphy: A Kumar et al",
-        "year": "2024/9",
-        "publisher": "Indian Journal of Physics",
-        "author": "A Kumar, S Barnwal, S Jain, RK Patidar, A Singh, C Mukherjee, MP Kamath, YBSR Prasad, NS Benerji, JA Chakera, SK Dixit",
-        "url": "https://link.springer.com/article/10.1007/s12648-024-03106-6",
+      "hCrLmN-GePgC": {
+        "title": "Fate and Growth Kinetics of Escherichia coli O157: H7, Salmonella enterica, and Listeria monocytogenes on Whole Cantaloupe and Watermelon Surfaces During Storage",
+        "year": "2026/8/4",
+        "publisher": "Journal of Food Protection",
+        "author": "Rory Wang, Zeynal Topalcengiz, Joyjit Saha, Loretta M Friedrich, Lawrence D Goodridge, Michelle D Danyluk",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0362028X26001894",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wY7kQBwAAAAJ": {
+    "Name": "Natalie Prystajecky",
+    "total_new": "2",
+    "publications": {
+      "JoZmwDi-zQgC": {
+        "title": "La surveillance des eaux us\u00e9es comme indicateur d\u2019alerte pr\u00e9coce du norovirus: validation des signaux issus des eaux us\u00e9es par comparaison avec les indicateurs cliniques en \u2026",
+        "year": "2026/7",
+        "publisher": "PROGRAMME CANADIEN D\u2019\u00c9PID\u00c9MIOLOGIE DE TERRAIN\u201350 ANS",
+        "author": "Bridget Irwin, Natalie Prystajecky, Mayank Singal, Sharon Relova, Anya Smith, David McVea",
+        "url": "https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2026-52/issue-7-8-july-august-2026/ccdrv52i78f-fra.pdf#page=24",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "PELIpwtuRlgC": {
+        "title": "Validation des signaux issus des eaux us\u00e9es par comparaison avec les indicateurs cliniques en Colombie-Britannique, Canada, 2021\u20132025",
+        "year": "2026/7",
+        "publisher": "Unknown",
+        "author": "Bridget Irwin, Natalie Prystajecky, Mayank Singal, Sharon Relova, Anya Smith, David McVea",
+        "url": "https://www.canada.ca/fr/sante-publique/services/rapports-publications/releve-maladies-transmissibles-canada-rmtc/numero-mensuel/2026-52/numero-7-8-juillet-aout-2026/validation-signaux-issus-eaux-usees-comparaison-indicateurs-cliniques-colombie-britannique-canada-2021-2025.html",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
+    "total_new": "1",
+    "publications": {
+      "4fGpz3EwCPoC": {
+        "title": "A novel culture method for Rana [Lithobates] catesbeiana olfactory epithelium reveals differential effects of transcriptional and translational inhibitors on the temperature \u2026",
+        "year": "2026/8/4",
+        "publisher": "General and Comparative Endocrinology",
+        "author": "Emma M Field, Caren C Helbing",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0016648026001152",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
+    "total_new": "1",
+    "publications": {
+      "a3BOlSfXSfwC": {
+        "title": "Data article",
+        "year": "2025",
+        "publisher": "Unknown",
+        "author": "Ge Pu, Kirill Shchapov, Nolan JT Pearce, Kelly Bowen, Andrew Bramburger, Andrew Camilleri, Hunter Carrick, Justin D Chaffin, William Cody, Maureen L Coleman, Warren JS Currie, David C Depew, Jonathan P Doubek, Rachel Eveleth, Mark Fitzpatrick, Paul W Glyshaw, Casey M Godwin, R Michael McKay, Mohiuddin Munawar, Heather Niblock, Maci Quintanilla, Michael Rennie, Matthew W Sand, Kimberly J Schraitle, Michael R Twiss, Donald G Uzarski, Henry A Vanderploeg, Trista J Vick-Majors, Judy A Westrick, Bridget A Wheelock, Marguerite A Xenopoulos, Arthur Zastepa, Ted Ozersky",
+        "url": "https://uwindsor.scholaris.ca/server/api/core/bitstreams/36353168-8ac4-4aba-a238-874d75a24816/content",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
+    "total_new": "1",
+    "publications": {
+      "p-HGrieyzrAC": {
+        "title": "Genomic and food-safety evaluation of Staphylococcus chromogenes in Chinese dairy milk",
+        "year": "2026/8/3",
+        "publisher": "Food Research International",
+        "author": "Xiaoping Li, Baoling Zhang, Tao Zhou, Moli Li, Kai Chen, Shu Li, Xiaofang Tong, Herman W Barkema, Diego B Nobrega, John P Kastelic, Yuqiong Li, A Yao, Bo Han, Jian Gao",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0963996926019307",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
@@ -18,28 +87,13 @@
     "Name": "Diego Borin Nobrega",
     "total_new": "1",
     "publications": {
-      "fQNAKQ3IYiAC": {
-        "title": "Antimicrobial resistance in companion animals: trends, threats and takeaways",
-        "year": "2025",
-        "publisher": "Revue Scientifique et Technique",
-        "author": "AG Daireaux, DB Nobrega",
-        "url": "https://search.proquest.com/openview/cf327d6e0bc8659465377b094c8260e6/1?pq-origsite=gscholar&cbl=105655",
+      "VOx2b1Wkg3QC": {
+        "title": "Genomic and food-safety evaluation of Staphylococcus chromogenes in Chinese dairy milk",
+        "year": "2026/8/3",
+        "publisher": "Food Research International",
+        "author": "Xiaoping Li, Baoling Zhang, Tao Zhou, Moli Li, Kai Chen, Shu Li, Xiaofang Tong, Herman W Barkema, Diego B Nobrega, John P Kastelic, Yuqiong Li, A Yao, Bo Han, Jian Gao",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0963996926019307",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "poQrlhAAAAAJ": {
-    "Name": "Peter A. Vanrolleghem",
-    "total_new": "1",
-    "publications": {
-      "2SmvwDDsShQC": {
-        "title": "Feedforward-feedback ammonia control at a water resource recovery facility based on a digital twin with hybrid model",
-        "year": "2026/3/1",
-        "publisher": "Journal of Water Process Engineering",
-        "author": "Jeff A Sparks, CB Bott, Peter A Vanrolleghem",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2214714426002242",
-        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
