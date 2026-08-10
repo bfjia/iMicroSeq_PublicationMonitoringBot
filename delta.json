@@ -1,59 +1,44 @@
 {
-  "wY7kQBwAAAAJ": {
-    "Name": "Natalie Prystajecky",
+  "kXK5pzQAAAAJ": {
+    "Name": "Natalie C Knox",
     "total_new": "1",
     "publications": {
-      "dTyEYWd-f8wC": {
-        "title": "Validating wastewater signals against clinical indicators in British Columbia, Canada, 2021\u20132025",
-        "year": "2026/7",
+      "D03iK_w7-QYC": {
+        "title": "Whole Genome Sequencing of SARS-CoV-2 for Canada's COVID-19 Genomic Surveillance",
+        "year": "2023/12/29",
         "publisher": "Unknown",
-        "author": "Bridget Irwin, Natalie Prystajecky, Mayank Singal, Sharon Relova, Anya Smith, David McVea",
-        "url": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2026-52/issue-7-8-july-august-2026/validating-wastewater-signals-against-clinical-indicators-british-columbia-canada-2021-2025.html",
+        "author": "Grace Seo, Anna Majer, Elsie Grudeski, Anneliese Landgraff, Rhiannon Huzarewich, Russell Mandes, Kirsten Biggar, Janice Pettipas, Dan Gaston, Jason LeBlanc, Darian Hole, Philip Mabon, Natalie Knox, Gary Van Domselaar, Tim F Booth",
+        "url": "https://vada.cs.umanitoba.ca/wp-content/uploads/2020/09/2021-07-03-GraceSeo_VADA_Poster.pdf",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "IZQgBh8AAAAJ": {
-    "Name": "Rita Isabel Henderson",
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
     "total_new": "1",
     "publications": {
-      "xtRiw3GOFMkC": {
-        "title": "Cognitive task analysis and Indigenous research: bridging gaps to advance health equity",
-        "year": "2026/12/31",
-        "publisher": "Cogent Social Sciences",
-        "author": "Anika Sehgal, Jes Annan, Elaine Boyling, Rita Henderson, Lee Green, Lynden Crowshoe",
-        "url": "https://www.tandfonline.com/doi/abs/10.1080/23311886.2026.2698159",
+      "ipzZ9siozwsC": {
+        "title": "Saint-Hippolyte: Gardienne de l'eau souterraine",
+        "year": "2025/12/1",
+        "publisher": "Vecteur Environnement",
+        "author": "Oumou Kaltoum Hama Garba, Chesnaux Romain, Sarah Dorner, Dominique Claveau-Mallet",
+        "url": "https://publications.polymtl.ca/79867/",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "wQywY-EAAAAJ": {
-    "Name": "Robert E. W. Hancock",
+  "LghEfpEAAAAJ": {
+    "Name": "Gary Van Domselaar",
     "total_new": "1",
     "publications": {
-      "Huv_iBJ06lEC": {
-        "title": "Pseudomonas aeruginosa mgtC gene is under the control of PhoP and CbrAB regulators, and its expression can be visualized in macrophages",
-        "year": "2026/8/5",
-        "publisher": "Microbiology Spectrum",
-        "author": "Anne Bonhoure, Pauline Nogaret, Val\u00e9rie Perez, Flore Nilly, Sylvaine Huc-Brandt, Malika Moussouni, Robert EW Hancock, Virginie Molle, Anne-B\u00e9atrice Blanc-Potard",
-        "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.00064-26",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "-bIc5H0AAAAJ": {
-    "Name": "Sarah Otto",
-    "total_new": "1",
-    "publications": {
-      "Zk83zdSX4-UC": {
-        "title": "Spatial signatures of group cohesion",
-        "year": "2026",
-        "publisher": "Methods in Ecology and Evolution",
-        "author": "Nicola E Love, Sarah P Otto",
-        "url": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210x.70375",
+      "SC9kKMAi-DoC": {
+        "title": "Whole Genome Sequencing of SARS-CoV-2 for Canada's COVID-19 Genomic Surveillance",
+        "year": "2023/12/29",
+        "publisher": "Unknown",
+        "author": "Grace Seo, Anna Majer, Elsie Grudeski, Anneliese Landgraff, Rhiannon Huzarewich, Russell Mandes, Kirsten Biggar, Janice Pettipas, Dan Gaston, Jason LeBlanc, Darian Hole, Philip Mabon, Natalie Knox, Gary Van Domselaar, Tim F Booth",
+        "url": "https://vada.cs.umanitoba.ca/wp-content/uploads/2020/09/2021-07-03-GraceSeo_VADA_Poster.pdf",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
