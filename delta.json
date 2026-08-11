@@ -1,45 +1,90 @@
 {
-  "kXK5pzQAAAAJ": {
-    "Name": "Natalie C Knox",
+  "XMdyGgIAAAAJ": {
+    "Name": "Fiona Brinkman",
     "total_new": "1",
     "publications": {
-      "D03iK_w7-QYC": {
-        "title": "Whole Genome Sequencing of SARS-CoV-2 for Canada's COVID-19 Genomic Surveillance",
-        "year": "2023/12/29",
-        "publisher": "Unknown",
-        "author": "Grace Seo, Anna Majer, Elsie Grudeski, Anneliese Landgraff, Rhiannon Huzarewich, Russell Mandes, Kirsten Biggar, Janice Pettipas, Dan Gaston, Jason LeBlanc, Darian Hole, Philip Mabon, Natalie Knox, Gary Van Domselaar, Tim F Booth",
-        "url": "https://vada.cs.umanitoba.ca/wp-content/uploads/2020/09/2021-07-03-GraceSeo_VADA_Poster.pdf",
+      "raTqNPD5sRQC": {
+        "title": "Atypical BlaIR Two-Component System in Pseudomonas aeruginosa Regulates Virulence but not \u03b2-Lactam Resistance",
+        "year": "2026",
+        "publisher": "bioRxiv",
+        "author": "Jonathan Ho, Wing Yin Venus Lau, Mila Elizabeth Tkatchouk, Michael Trimble, Manjeet Bains, Olga Pacios Santamar\u00eda, Alexandra Redey, Chloe Chan, Travis Blimkie, Negin Ketabchi, Patrick Taylor, Mahta Amanian, William Hsiao, Fiona Brinkman, Amy HY Lee",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.08.03.742534.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "S2HhkvEAAAAJ": {
-    "Name": "Sarah Dorner",
+  "01K5Ks4AAAAJ": {
+    "Name": "William Hsiao",
     "total_new": "1",
     "publications": {
-      "ipzZ9siozwsC": {
-        "title": "Saint-Hippolyte: Gardienne de l'eau souterraine",
-        "year": "2025/12/1",
-        "publisher": "Vecteur Environnement",
-        "author": "Oumou Kaltoum Hama Garba, Chesnaux Romain, Sarah Dorner, Dominique Claveau-Mallet",
-        "url": "https://publications.polymtl.ca/79867/",
+      "Y5dfb0dijaUC": {
+        "title": "Atypical BlaIR Two-Component System in Pseudomonas aeruginosa Regulates Virulence but not \u03b2-Lactam Resistance",
+        "year": "2026",
+        "publisher": "bioRxiv",
+        "author": "Jonathan Ho, Wing Yin Venus Lau, Mila Elizabeth Tkatchouk, Michael Trimble, Manjeet Bains, Olga Pacios Santamar\u00eda, Alexandra Redey, Chloe Chan, Travis Blimkie, Negin Ketabchi, Patrick Taylor, Mahta Amanian, William Hsiao, Fiona Brinkman, Amy HY Lee",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.08.03.742534.abstract",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "LghEfpEAAAAJ": {
-    "Name": "Gary Van Domselaar",
-    "total_new": "1",
+  "xqFXwEIAAAAJ": {
+    "Name": "Lori Bradford",
+    "total_new": "6",
     "publications": {
-      "SC9kKMAi-DoC": {
-        "title": "Whole Genome Sequencing of SARS-CoV-2 for Canada's COVID-19 Genomic Surveillance",
-        "year": "2023/12/29",
-        "publisher": "Unknown",
-        "author": "Grace Seo, Anna Majer, Elsie Grudeski, Anneliese Landgraff, Rhiannon Huzarewich, Russell Mandes, Kirsten Biggar, Janice Pettipas, Dan Gaston, Jason LeBlanc, Darian Hole, Philip Mabon, Natalie Knox, Gary Van Domselaar, Tim F Booth",
-        "url": "https://vada.cs.umanitoba.ca/wp-content/uploads/2020/09/2021-07-03-GraceSeo_VADA_Poster.pdf",
-        "firstOrLast": false,
+      "ML0RJ9NH7IQC": {
+        "title": "Co-Considering Social and Cultural Sciences in Canadian Engineering Curricula: A Pilot Study of Faculty Perspectives",
+        "year": "2026/8/7",
+        "publisher": "Proceedings of the Canadian Engineering Education Association (CEEA)",
+        "author": "Matthew Taylor, Lori Bradford",
+        "url": "https://ojs.library.queensu.ca/index.php/PCEEA/article/view/21498",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "Z5m8FVwuT1cC": {
+        "title": "Exploring the Factors Influencing Women Engineers' Transition out of the Engineering Field in Saskatchewan: Evidence-Based Recommendations for Inclusive and Retention-Focused \u2026",
+        "year": "2026/8/7",
+        "publisher": "Proceedings of the Canadian Engineering Education Association (CEEA)",
+        "author": "Harini Krishnaraj, Heath Adamcryck, Lindsay Tumback, Lori Bradford",
+        "url": "https://ojs.library.queensu.ca/index.php/PCEEA/article/view/21503",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "BUYA1_V_uYcC": {
+        "title": "Developing Mutualism Scales to Evaluate Social and Cultural Consideration in Engineering Capstone Design",
+        "year": "2026/8/7",
+        "publisher": "Proceedings of the Canadian Engineering Education Association (CEEA)",
+        "author": "Lori Bradford",
+        "url": "https://ojs.library.queensu.ca/index.php/PCEEA/article/view/21506",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "AvfA0Oy_GE0C": {
+        "title": "Minecraft Worlds with Indigenous Youth for Decolonializing Engineering Curriculum",
+        "year": "2026/8/7",
+        "publisher": "Proceedings of the Canadian Engineering Education Association (CEEA)",
+        "author": "Lori Bradford, Indigo Strickert, Justin Burns",
+        "url": "https://ojs.library.queensu.ca/index.php/PCEEA/article/view/21504",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "URolC5Kub84C": {
+        "title": "Barriers to Distal Interdisciplinarity in Engineering Faculty: Qualitative Insights from a Social Network Analysis Study",
+        "year": "2026/8/7",
+        "publisher": "Proceedings of the Canadian Engineering Education Association (CEEA)",
+        "author": "Lori Bradford",
+        "url": "https://ojs.library.queensu.ca/index.php/PCEEA/article/view/21507",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "uWiczbcajpAC": {
+        "title": "Developing Community-Engaged Research Values for Innovative and Culturally Responsive Engineering Practice: A Graduate Student Perspective",
+        "year": "2026/8/7",
+        "publisher": "Proceedings of the Canadian Engineering Education Association (CEEA)",
+        "author": "Akinola Ogbeyemi, Wenjun Zhang, Lori Bradford",
+        "url": "https://ojs.library.queensu.ca/index.php/PCEEA/article/view/21589",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
