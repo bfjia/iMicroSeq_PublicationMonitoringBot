@@ -1,1 +1,17 @@
-{}
+{
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
+    "total_new": "1",
+    "publications": {
+      "zfsRRabFVBUC": {
+        "title": "Bovine leukemia virus proviral load as a measure for selective removal of cattle for bovine leukosis control",
+        "year": "2023",
+        "publisher": "WCDS Advances in Dairy Technology",
+        "author": "Sulav Shrestha, Karin Orsel, H Barkema, Guido van Marle, M Faizal Abdul-Careem, Frank van der Meer",
+        "url": "https://wcds.ualberta.ca/wp-content/uploads/sites/57/2023/08/2023-WCDS_General_Shrestha_Smid.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
