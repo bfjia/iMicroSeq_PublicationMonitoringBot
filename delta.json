@@ -1,54 +1,30 @@
 {
-  "1hBTzZAAAAAJ": {
-    "Name": "Robert Delatolla",
+  "Et_RonIAAAAJ": {
+    "Name": "Guillaume Bourque",
     "total_new": "1",
     "publications": {
-      "tKAzc9rXhukC": {
-        "title": "Available online at www. sciencedirect. com",
-        "year": "2021",
-        "publisher": "journal of environmental sciences",
-        "author": "Alex HS Chik, Xiao-Li Pang, Jean-Baptiste Burnet, Robert Delatolla, John P Giesy Jr, Natalie Prystajecky, Bernadette Conant, Steve E Hrudey",
-        "url": "https://uwindsor.scholaris.ca/server/api/core/bitstreams/1f0111f4-0756-443a-a9b7-62100adb073a/content",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "U3rqorsAAAAJ": {
-    "Name": "Doug Manuel",
-    "total_new": "1",
-    "publications": {
-      "GK0_TXnxOL4C": {
-        "title": "Hospitalization of Children in Foster Homes: A Canadian Cohort Study",
-        "year": "2026/8/11",
-        "publisher": "Pediatrics",
-        "author": "Ashley Quinn, Nicole Racine, Nico Trocm\u00e9, Cindy Blackstock, Barbara Fallon, Kofi Antwi-Boasiako, Jungwee Park, Nick Barrowman, Vid Bijeli\u0107, Doug Manuel, Andrea Evans",
-        "url": "https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2025-073643/208544",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "xqFXwEIAAAAJ": {
-    "Name": "Lori Bradford",
-    "total_new": "2",
-    "publications": {
-      "4MWp96NkSFoC": {
-        "title": "A review of social and cultural science learning requirements in engineering programs at the U15 Group of Canadian research universities",
-        "year": "2026/8/7",
-        "publisher": "Proceedings of the Canadian Engineering Education Association (CEEA)",
-        "author": "Matthew Taylor, Lori Bradford",
-        "url": "https://ojs.library.queensu.ca/index.php/PCEEA/article/view/21494",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "vDijr-p_gm4C": {
-        "title": "Confusion, communication, and consent: ELSI barriers to genomics-enhanced remediation in Alberta\u2019s oil sands",
-        "year": "2026/8/7",
+      "uk0w_JccWH8C": {
+        "title": "Benchmarking of Oxford Nanopore whole genome sequencing for germline variant and CpG methylation detection across Canada\u2019s national platform for genome sequencing and analysis",
+        "year": "2026/8/12",
         "publisher": "Frontiers in Genetics",
-        "author": "Michelle Tilford-Shaw, Max Pospisil, Lori Bradford, Graham Strickert, Diane Dupont",
-        "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1889489/full",
+        "author": "Jose Hector Galvez, Scott Mastromatteo, Kieran O\u2019Neill, Robert Eveleigh, Haig Djambazian, Bhooma Thiruvahindrapuram, Eric Chuah, Shu-Huang Chen, Amirhossein Hajianpour, Zhuozhi Wang, Tara A Paton, Sachin Desai, Sanjeev Pullenayegum, Lan He, Pawan Pandoh, Yongjun Zhao, Karen Mungall, Andrew J Mungall, Richard F Wintle, Guillaume Bourque, Stephen W Scherer, Steven Jones, Mark Lathrop, Meredith McLaren, Jiannis Ragoussis",
+        "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1863034/full",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "ThjB_RcAAAAJ": {
+    "Name": "Jiannis Ragoussis",
+    "total_new": "1",
+    "publications": {
+      "wE-fMHVdjMkC": {
+        "title": "Benchmarking of Oxford Nanopore whole genome sequencing for germline variant and CpG methylation detection across Canada\u2019s national platform for genome sequencing and analysis",
+        "year": "2026/8/12",
+        "publisher": "Frontiers in Genetics",
+        "author": "Jose Hector Galvez, Scott Mastromatteo, Kieran O\u2019Neill, Robert Eveleigh, Haig Djambazian, Bhooma Thiruvahindrapuram, Eric Chuah, Shu-Huang Chen, Amirhossein Hajianpour, Zhuozhi Wang, Tara A Paton, Sachin Desai, Sanjeev Pullenayegum, Lan He, Pawan Pandoh, Yongjun Zhao, Karen Mungall, Andrew J Mungall, Richard F Wintle, Guillaume Bourque, Stephen W Scherer, Steven Jones, Mark Lathrop, Meredith McLaren, Jiannis Ragoussis",
+        "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1863034/full",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
