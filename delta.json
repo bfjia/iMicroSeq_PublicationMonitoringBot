@@ -1,1 +1,32 @@
-{}
+{
+  "wQywY-EAAAAJ": {
+    "Name": "Robert E. W. Hancock",
+    "total_new": "1",
+    "publications": {
+      "q2HS4OCVtYIC": {
+        "title": "Burkholderia cenocepacia physiology and molecular adaptations to the acidic pH of the CF nutritional environment",
+        "year": "2026/1/1",
+        "publisher": "bioRxiv",
+        "author": "LD Morales, BK Dhillon, JC Grigg, A Saraph, LD Eltis, REW Hancock, MEP Murphy",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.08.03.742460.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "BPjrrI4AAAAJ": {
+    "Name": "Melissa L Perreault",
+    "total_new": "1",
+    "publications": {
+      "NhqRSupF_l8C": {
+        "title": "Dimethyl fumarate ameliorates behavioural and brain oscillatory alterations induced by prenatal valproic acid exposure in female rats",
+        "year": "2026/8/14",
+        "publisher": "Neuropharmacology",
+        "author": "Olivia OF Williams, Joshua D Manduca, Alana Y Coulombe, Shannon N Smith, Tori M Rock, Matthew R Holahan, Melissa L Perreault",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0028390826003254",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
