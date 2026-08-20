@@ -1,44 +1,23 @@
 {
-  "zI9NSLcAAAAJ": {
-    "Name": "Andrew G. McArthur",
-    "total_new": "1",
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
+    "total_new": "2",
     "publications": {
-      "yB1At4FlUx8C": {
-        "title": "CARD: Epi-Contextualizing Antimicrobial Resistance Determinants Using Deep Learning Language Models",
-        "year": "2026/1/1",
-        "publisher": "bioRxiv",
-        "author": "Arman Edalatmand, Tiffany E Ta, Claire Zhao, Abdalmuhaymen Ibrahim, Ramkrishna Upadhyaya, Saduni Rajapaksa, Amogelang R Raphenya, Andrew G McArthur",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.08.14.744850.abstract",
+      "nHD5ou89wN0C": {
+        "title": "Real-Time Blood Donor Prediction and Campaign Optimization using DNN-Autoencoder and MERN Architecture",
+        "year": "2025/6/11",
+        "publisher": "2025 3rd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)",
+        "author": "D Vikkiramapandian, M Ajay, R Chowmyan, A Ganesh Kumar",
+        "url": "https://ieeexplore.ieee.org/abstract/document/11080959/",
         "firstOrLast": false,
         "datasource": "Scholars"
-      }
-    }
-  },
-  "xqFXwEIAAAAJ": {
-    "Name": "Lori Bradford",
-    "total_new": "1",
-    "publications": {
-      "BwyfMAYsbu0C": {
-        "title": "ETHICAL RELATIONALITIES IN ENGINEERING",
-        "year": "2026/9/21",
-        "publisher": "Rethinking Research: Ethics, Decolonization, and Community Empowerment",
-        "author": "Lori Bradford",
-        "url": "https://books.google.com/books?hl=en&lr=&id=JokBEgAAQBAJ&oi=fnd&pg=PA2004&dq=info:qsnCR5kEPMsJ:scholar.google.com&ots=ow4KobQbko&sig=q5_83r2KP5IDDBgErWfv7HYO-EA",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "c-pNH9UAAAAJ": {
-    "Name": "Kenneth K.S. Ng",
-    "total_new": "1",
-    "publications": {
-      "bz8QjSJIRt4C": {
-        "title": "Identification et validation des cibles de la tyrosine phosphatase RLPH2 d'Arabidopsis thaliana",
-        "year": "2026",
-        "publisher": "Journ\u00e9es du Prot\u00e9ome et Peptidome Verts",
-        "author": "Anne-Marie Labandera, Ryan Toth, Sierra Mitchell, Jayde J Johnson, Brooklyn Kurucz, Juliette Puyaubert, Emmanuel Baudouin, Kenneth KS Ng, R Glen Uhrig, Greg B Moorhead",
-        "url": "https://hal.science/hal-05717698/",
+      },
+      "ZNOuKgBQx1MC": {
+        "title": "Computer Vision and Deep Learning based Approach for Traffic Violations due to Over-speeding and Wrong Direction Detection",
+        "year": "2025",
+        "publisher": "International Journal of Computer Applications",
+        "author": "SHS KATHAIT, A KUMAR, S SAWAL, R PATIDAR, KH AGRAWAL",
+        "url": "https://scholar.google.com/scholar?cluster=6796404147400977346&hl=en&oi=scholarr",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
