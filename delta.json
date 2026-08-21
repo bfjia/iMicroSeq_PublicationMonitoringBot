@@ -1,24 +1,15 @@
 {
-  "tBwE4O4AAAAJ": {
-    "Name": "Ayush Kumar",
-    "total_new": "2",
+  "Ohu9Gc4AAAAJ": {
+    "Name": "B. Jesse Shapiro",
+    "total_new": "1",
     "publications": {
-      "nHD5ou89wN0C": {
-        "title": "Real-Time Blood Donor Prediction and Campaign Optimization using DNN-Autoencoder and MERN Architecture",
-        "year": "2025/6/11",
-        "publisher": "2025 3rd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)",
-        "author": "D Vikkiramapandian, M Ajay, R Chowmyan, A Ganesh Kumar",
-        "url": "https://ieeexplore.ieee.org/abstract/document/11080959/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "ZNOuKgBQx1MC": {
-        "title": "Computer Vision and Deep Learning based Approach for Traffic Violations due to Over-speeding and Wrong Direction Detection",
-        "year": "2025",
-        "publisher": "International Journal of Computer Applications",
-        "author": "SHS KATHAIT, A KUMAR, S SAWAL, R PATIDAR, KH AGRAWAL",
-        "url": "https://scholar.google.com/scholar?cluster=6796404147400977346&hl=en&oi=scholarr",
-        "firstOrLast": false,
+      "IX653JsL2_EC": {
+        "title": "Glyphosate-based herbicide exposure triggers genetic adaptation but not diversity collapse within bacterioplankton species",
+        "year": "2026/8/18",
+        "publisher": "ISME Communications",
+        "author": "Emma Derrick, Na\u00edla Barbosa da Costa, Rowan DH Barrett, B Jesse Shapiro",
+        "url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag201/8763760",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
