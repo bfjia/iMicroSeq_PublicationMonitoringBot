@@ -1,15 +1,54 @@
 {
-  "Ohu9Gc4AAAAJ": {
-    "Name": "B. Jesse Shapiro",
+  "O3Kin-IAAAAJ": {
+    "Name": "Michael Parkins",
     "total_new": "1",
     "publications": {
-      "IX653JsL2_EC": {
-        "title": "Glyphosate-based herbicide exposure triggers genetic adaptation but not diversity collapse within bacterioplankton species",
+      "1lhNe0rCu4AC": {
+        "title": "PangyPlot: multi-scale interactive visualization of pangenome variation graphs",
         "year": "2026/8/18",
-        "publisher": "ISME Communications",
-        "author": "Emma Derrick, Na\u00edla Barbosa da Costa, Rowan DH Barrett, B Jesse Shapiro",
-        "url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag201/8763760",
-        "firstOrLast": true,
+        "publisher": "Bioinformatics",
+        "author": "Scott Mastromatteo, Shalvi Chirmade, Delnaz Roshandel, Bhooma Thiruvahindrapuram, Zhuozhi Wang, Rohan V Patel, Wilson WL Sung, Amirhossein Hajianpour, Cheng Wang, Fan Lin, Katherine Keenan, Julie Avolio, Paul Eckford, Felix Ratjen, Lisa J Strug",
+        "url": "https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btag619/8764131",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "gqMmJtG4vxUC": {
+        "title": "Manipulation of silage fermentation for ruminant health via probiotic lactic acid bacteria",
+        "year": "2026/8/19",
+        "publisher": "Journal of Dairy Science",
+        "author": "Guanghao Xia, Tim McAllister, Jiayao Zhang, Yun Jiang, Qiang Li, Dongmei Xu, Amole Tunde, Samaila Usman, Xusheng Guo",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022030226031978",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-EWOC3cAAAAJ": {
+    "Name": "Diego Borin Nobrega",
+    "total_new": "2",
+    "publications": {
+      "eJXPG6dFmWUC": {
+        "title": "Antifungal activity of green propolis extract against planktonic cells and biofilms of Trichosporon asahii clinical isolates",
+        "year": "2026/9/1",
+        "publisher": "FITOTERAPIA",
+        "author": "Gabrielle Pires de Morais Monari, Alice Alegreti de Freitas Coelho, Debora Silva Marques de Sousa, Andresa Aparecida Berretta, Jessica Aparecida de Lima, Claudete Rodrigues Paula, Cassiana Ferreira da Rosa, Florenca Sayuri Mikawa dos Santos, Maria Renata Sales Nogueira, Marcos Ereno Auler, Vanessa Campos Paizan, Diego Borin Nobrega, Luciana da Silva Ruiz",
+        "url": "https://scholar.google.com/scholar?cluster=10691596087520374924&hl=en&oi=scholarr",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "D_sINldO8mEC": {
+        "title": "Antifungal activity of green propolis extract against planktonic cells and biofilms of Trichosporon asahii clinical isolates",
+        "year": "2026/7/30",
+        "publisher": "Fitoterapia",
+        "author": "Gabrielle Pires de Morais Monari, Alice Alegreti de Freitas Coelho, D\u00e9bora Silva Marques de Sousa, Andresa Aparecida Berretta, J\u00e9ssica Aparecida de Lima, Claudete Rodrigues Paula, Cassiana Ferreira da Rosa, Floren\u00e7a Sayuri Mikawa Dos Santos, Maria Renata Sales Nogueira, Marcos Ereno Auler, Vanessa Campos Paizan, Diego Borin N\u00f3brega, Luciana da Silva Ruiz",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0367326X2600331X",
+        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
