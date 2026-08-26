@@ -1,75 +1,15 @@
 {
-  "rQUeGGsAAAAJ": {
-    "Name": "Lawrence Goodridge",
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
     "total_new": "1",
     "publications": {
-      "5qfkUJPXOUwC": {
-        "title": "Wastewater-Based Genomic Surveillance of SARS-CoV-2 Antiviral Resistance Determinants in Ontario: Towards a Scalable Framework for Population-Level Antiviral Resistance Monitoring",
-        "year": "2026/8",
-        "publisher": "Viruses",
-        "author": "Opeyemi U Lawal, Valeria R Parreira, Alyssa K Overton, Jennifer J Knapp, Richard Gibson, Eric J Arts, Linkang Zhang, Fozia Rizvi, Melinda Precious, Trevor C Charles, Lawrence Goodridge",
-        "url": "https://www.researchgate.net/profile/Opeyemi-Lawal/publication/413279415_Wastewater-Based_Genomic_Surveillance_of_SARS-CoV-2_Antiviral_Resistance_Determinants_in_Ontario_Towards_a_Scalable_Framework_for_Population-Level_Antiviral_Resistance_Monitoring/links/6a8862413a7ce868e72eca27/Wastewater-Based-Genomic-Surveillance-of-SARS-CoV-2-Antiviral-Resistance-Determinants-in-Ontario-Towards-a-Scalable-Framework-for-Population-Level-Antiviral-Resistance-Monitoring.pdf",
+      "GtLg2Ama23sC": {
+        "title": "TC05: The Power of Environmental Nucleic Acids (eNA) Surveys in Environmental Monitoring and Environmental Impact Assessments",
+        "year": "2024/5/5",
+        "publisher": "SETAC Europe 34 th Annual Meeting",
+        "author": "Valerie S Langlois, Caren C Helbing",
+        "url": "https://setac.confex.com/setac/europe2024/meetingapp.cgi/Session/5297",
         "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "rHFCtWwAAAAJ": {
-    "Name": "Finlay Maguire",
-    "total_new": "1",
-    "publications": {
-      "sSrBHYA8nusC": {
-        "title": "Genomic analysis and evolutionary insights of betacoronaviruses in wild Peromyscus mice and other terrestrial small mammals",
-        "year": "2026/8/22",
-        "publisher": "npj Viruses",
-        "author": "Jonathon D Kotwa, Simon P Jeeves, Lauren Crawshaw, Winfield Yim, Lily Yip, Kaela Beauclerc, Phuc Tran, Will Zhang, Albrecht I Schulte-Hostedde, Bradley S Pickering, David L Pearl, Heather M Murphy, Finlay Maguire, Jeff Bowman, Samira Mubareka, Claire M Jardine",
-        "url": "https://www.nature.com/articles/s44298-026-00227-z",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "Xv6FyfAAAAAJ": {
-    "Name": "Jennifer Knapp",
-    "total_new": "1",
-    "publications": {
-      "IWHjjKOFINEC": {
-        "title": "Wastewater-Based Genomic Surveillance of SARS-CoV-2 Antiviral Resistance Determinants in Ontario: Towards a Scalable Framework for Population-Level Antiviral Resistance Monitoring",
-        "year": "2026/8",
-        "publisher": "Viruses",
-        "author": "Opeyemi U Lawal, Valeria R Parreira, Alyssa K Overton, Jennifer J Knapp, Richard Gibson, Eric J Arts, Linkang Zhang, Fozia Rizvi, Melinda Precious, Trevor C Charles, Lawrence Goodridge",
-        "url": "https://www.researchgate.net/profile/Opeyemi-Lawal/publication/413279415_Wastewater-Based_Genomic_Surveillance_of_SARS-CoV-2_Antiviral_Resistance_Determinants_in_Ontario_Towards_a_Scalable_Framework_for_Population-Level_Antiviral_Resistance_Monitoring/links/6a8862413a7ce868e72eca27/Wastewater-Based-Genomic-Surveillance-of-SARS-CoV-2-Antiviral-Resistance-Determinants-in-Ontario-Towards-a-Scalable-Framework-for-Population-Level-Antiviral-Resistance-Monitoring.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "U9VtJFcAAAAJ": {
-    "Name": "Alyssa Overton",
-    "total_new": "1",
-    "publications": {
-      "hqOjcs7Dif8C": {
-        "title": "Wastewater-Based Genomic Surveillance of SARS-CoV-2 Antiviral Resistance Determinants in Ontario: Towards a Scalable Framework for Population-Level Antiviral Resistance Monitoring",
-        "year": "2026/8",
-        "publisher": "Viruses",
-        "author": "Opeyemi U Lawal, Valeria R Parreira, Alyssa K Overton, Jennifer J Knapp, Richard Gibson, Eric J Arts, Linkang Zhang, Fozia Rizvi, Melinda Precious, Trevor C Charles, Lawrence Goodridge",
-        "url": "https://www.researchgate.net/profile/Opeyemi-Lawal/publication/413279415_Wastewater-Based_Genomic_Surveillance_of_SARS-CoV-2_Antiviral_Resistance_Determinants_in_Ontario_Towards_a_Scalable_Framework_for_Population-Level_Antiviral_Resistance_Monitoring/links/6a8862413a7ce868e72eca27/Wastewater-Based-Genomic-Surveillance-of-SARS-CoV-2-Antiviral-Resistance-Determinants-in-Ontario-Towards-a-Scalable-Framework-for-Population-Level-Antiviral-Resistance-Monitoring.pdf",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "gTkdyfsAAAAJ": {
-    "Name": "Trevor Charles",
-    "total_new": "1",
-    "publications": {
-      "RMVrO4bo-SsC": {
-        "title": "Wastewater-Based Genomic Surveillance of SARS-CoV-2 Antiviral Resistance Determinants in Ontario: Towards a Scalable Framework for Population-Level Antiviral Resistance Monitoring",
-        "year": "2026/8",
-        "publisher": "Viruses",
-        "author": "Opeyemi U Lawal, Valeria R Parreira, Alyssa K Overton, Jennifer J Knapp, Richard Gibson, Eric J Arts, Linkang Zhang, Fozia Rizvi, Melinda Precious, Trevor C Charles, Lawrence Goodridge",
-        "url": "https://www.researchgate.net/profile/Opeyemi-Lawal/publication/413279415_Wastewater-Based_Genomic_Surveillance_of_SARS-CoV-2_Antiviral_Resistance_Determinants_in_Ontario_Towards_a_Scalable_Framework_for_Population-Level_Antiviral_Resistance_Monitoring/links/6a8862413a7ce868e72eca27/Wastewater-Based-Genomic-Surveillance-of-SARS-CoV-2-Antiviral-Resistance-Determinants-in-Ontario-Towards-a-Scalable-Framework-for-Population-Level-Antiviral-Resistance-Monitoring.pdf",
-        "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
