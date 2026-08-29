@@ -1,63 +1,15 @@
 {
-  "BC6T6L-UY8gC": {
-    "Name": "Caren Helbing",
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
     "total_new": "1",
     "publications": {
-      "_FM0Bhl9EiAC": {
-        "title": "Toward Ethical Environmental DNA Practices on Indigenous Territories",
-        "year": "2026/7",
-        "publisher": "Environmental DNA",
-        "author": "Catrina M Alberts, Michael J Allison, Byron Olsen\u2010Grant, Catherine R Propper, Caren C Helbing",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/edn3.70354",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "poQrlhAAAAAJ": {
-    "Name": "Peter A. Vanrolleghem",
-    "total_new": "3",
-    "publications": {
-      "I96H1Mlar6gC": {
-        "title": "Optimization of anaerobic digestion conditions for methane production from waste activated sludge and elucidation of process mechanisms based on a calibrated ADM1",
-        "year": "2026/9/5",
-        "publisher": "Journal of Cleaner Production",
-        "author": "Wenjie Guo, Dunjie Li, Rongrong Mo, Ruyi Wang, Peter A Vanrolleghem, Yongmei Li",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0959652626018081",
+      "OP4eGU-M3BUC": {
+        "title": "A genomic catalog of Earth\u2019s microbiomes",
+        "year": "2021/4",
+        "publisher": "Nature Biotechnology",
+        "author": "R Michael McKay, IMG/M Data Consortium",
+        "url": "https://profiles.bgsu.edu/en/publications/a-genomic-catalog-of-earths-microbiomes/",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "8IsQavbT1M8C": {
-        "title": "AXE 2 MOD\u00c9LISATION DES PROC\u00c9D\u00c9S ET CONTR\u00d4LE-COMMANDE Chapitre 1: Un mod\u00e8le hybride pour l\u2019am\u00e9lioration de la mod\u00e9lisation dynamique du traitement des eaux par biofiltration",
-        "year": "2024",
-        "publisher": "Innover dans les pratiques d\u2019exploitation et de maintenance pour l\u2019assainissement de demain Enseignements scientifiques et techniques de la phase II du programme Mocop\u00e9e (2018-2022)",
-        "author": "Marcello Serrao, Vincent Jauzein, Sam Azimi, Ilan Juran, Vincent Rocher, Bruno Tassin, Peter A Vanrolleghem",
-        "url": "https://hal.science/hal-05672899/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      },
-      "xqRlItQsuMMC": {
-        "title": "AXE 2 Mod\u00e9lisation des proc\u00e9d\u00e9s et contr\u00f4le-commande Chapitre 4 \u00c9valuation automatique de la qualit\u00e9 des donn\u00e9es pour le pr\u00e9traitement des donn\u00e9es \u00e0 haute fr\u00e9quence",
-        "year": "2024",
-        "publisher": "Innover dans les pratiques d'exploitation et de maintenance pour l'assainissement de demain. Enseignements scientifiques et techniques de la phase II du programme Mocop\u00e9e (2018-2022)",
-        "author": "Nathalia Covre, Vincent Jauzein, Vincent Rocher, Peter A Vanrolleghem",
-        "url": "https://hal.science/hal-05706453/",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "sp21VmQAAAAJ": {
-    "Name": "Jeffrey R Brook",
-    "total_new": "1",
-    "publications": {
-      "j7XjBeKFbTsC": {
-        "title": "Understanding Ambient and Settled Dust in Communities Near Intensive Resource Development to Improve Monitoring and Mitigation",
-        "year": "2026/8/24",
-        "publisher": "Atmospheric Pollution Research",
-        "author": "Kristin GL Iorio, Danlin Su, David R Spink, Gregory J Evans, Jeffrey R Brook",
-        "url": "https://www.sciencedirect.com/science/article/pii/S130910422600303X",
-        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
