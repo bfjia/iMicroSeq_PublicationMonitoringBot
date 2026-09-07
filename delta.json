@@ -1,1 +1,32 @@
-{}
+{
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
+    "total_new": "1",
+    "publications": {
+      "nZcligLrVowC": {
+        "title": "A genomic catalog of Earth\u2019s microbiomes",
+        "year": "2021/4",
+        "publisher": "Nature Biotechnology",
+        "author": "R Michael McKay, IMG/M Data Consortium",
+        "url": "https://profiles.bgsu.edu/en/publications/a-genomic-catalog-of-earths-microbiomes/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "057RNrQAAAAJ": {
+    "Name": "S\u00e9bastien P. Faucher",
+    "total_new": "1",
+    "publications": {
+      "tS2w5q8j5-wC": {
+        "title": "Comparative genomic analysis reveals distinct population structure in Legionella anisa",
+        "year": "2026/9/3",
+        "publisher": "FEMS Microbiology Letters",
+        "author": "Maria Najeeb, Sara Matthews, Michele Pr\u00e9vost, Sebastien P Faucher",
+        "url": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnag100/8781086",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
