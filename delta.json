@@ -1,30 +1,15 @@
 {
-  "MNqeC0sAAAAJ": {
-    "Name": "Robert Michael McKay",
+  "28A7wWkAAAAJ": {
+    "Name": "Marc-Andr\u00e9 Langlois",
     "total_new": "1",
     "publications": {
-      "nZcligLrVowC": {
-        "title": "A genomic catalog of Earth\u2019s microbiomes",
-        "year": "2021/4",
-        "publisher": "Nature Biotechnology",
-        "author": "R Michael McKay, IMG/M Data Consortium",
-        "url": "https://profiles.bgsu.edu/en/publications/a-genomic-catalog-of-earths-microbiomes/",
+      "BPS1z4jHU5cC": {
+        "title": "A Multidimensional Immune Signature Predicts Susceptibility to Omicron Infection in Vaccinated Individuals",
+        "year": "2026",
+        "publisher": "medRxiv",
+        "author": "Hend Jarras, Wilfried Wenceslas Bazie, Isalie Blais, Benjamin Goyer, Julien Boucher, Arielle Pakenham, Kimberly Dancause-Caron, Henintsoa Rabezanahary, Mathieu Theriault, Kim Santerre, Marc-Andre Langlois, Philippe A Tessier, Jean-Francois Masson, Joelle N Pelletier, Nicholas Brousseau, Denis Boudreau, Sylvie Trottier, Mariana Baz, Caroline Gilbert",
+        "url": "https://www.medrxiv.org/content/10.64898/2026.08.31.26361844.abstract",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "057RNrQAAAAJ": {
-    "Name": "S\u00e9bastien P. Faucher",
-    "total_new": "1",
-    "publications": {
-      "tS2w5q8j5-wC": {
-        "title": "Comparative genomic analysis reveals distinct population structure in Legionella anisa",
-        "year": "2026/9/3",
-        "publisher": "FEMS Microbiology Letters",
-        "author": "Maria Najeeb, Sara Matthews, Michele Pr\u00e9vost, Sebastien P Faucher",
-        "url": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnag100/8781086",
-        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
