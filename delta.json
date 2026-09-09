@@ -1,14 +1,14 @@
 {
-  "28A7wWkAAAAJ": {
-    "Name": "Marc-Andr\u00e9 Langlois",
+  "7XHhgCIAAAAJ": {
+    "Name": "Andrew DS Cameron",
     "total_new": "1",
     "publications": {
-      "BPS1z4jHU5cC": {
-        "title": "A Multidimensional Immune Signature Predicts Susceptibility to Omicron Infection in Vaccinated Individuals",
-        "year": "2026",
-        "publisher": "medRxiv",
-        "author": "Hend Jarras, Wilfried Wenceslas Bazie, Isalie Blais, Benjamin Goyer, Julien Boucher, Arielle Pakenham, Kimberly Dancause-Caron, Henintsoa Rabezanahary, Mathieu Theriault, Kim Santerre, Marc-Andre Langlois, Philippe A Tessier, Jean-Francois Masson, Joelle N Pelletier, Nicholas Brousseau, Denis Boudreau, Sylvie Trottier, Mariana Baz, Caroline Gilbert",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.08.31.26361844.abstract",
+      "hB2aVRuWZNwC": {
+        "title": "Infection with multiple strains of the Lyme disease bacterium in female mice can affect the strain-specific maternal antibody response in their offspring",
+        "year": "2026/7/1",
+        "publisher": "Ticks and Tick-borne Diseases",
+        "author": "Alexandra H Foley-Eby, Hesham Adam, Georgia Hurry, Eva-Maria Uhlemann, Christopher B Zinck, Cody W Koloski, Catherine Bouchard, Heather Coatsworth, Andrew DS Cameron, Janet E Hill, Maarten J Voordouw",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000671",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
