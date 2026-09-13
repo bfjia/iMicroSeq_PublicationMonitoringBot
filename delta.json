@@ -3,27 +3,42 @@
     "Name": "Casey Hubert",
     "total_new": "1",
     "publications": {
-      "6ZxmRoH8BuwC": {
-        "title": "High-throughput genomic feature extraction reveals environmental adaptations of prokaryotes",
-        "year": "2026",
-        "publisher": "bioRxiv",
-        "author": "Maria B Walter Costa, Rose Brouns, Maria Schreiber, Aristeidis Litos, Francesco Bisiach, Heyde Francielle do Carmo Fran\u00e7a, Casey RJ Hubert, Manja Marz, Bas E Dutilh",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.09.01.748597.abstract",
+      "_5tno0g5mFcC": {
+        "title": "Estimates of sediment organic carbon burial and benthic-pelagic nutrient cycling in subarctic fjords (northern Nunatsiavut, eastern Canada)",
+        "year": "2026/9/9",
+        "publisher": "EGUsphere",
+        "author": "Haley D Geizer, Francesco Bisiach, Alexandre Normandeau, Maria Armstrong, Stephan Hamisch, Silas W Jones, Casey RJ Hubert, Kumiko Azetsu-Scott, Paul VR Snelgrove, Christopher W Hunt, Michelle Saunders, Rodd Laing, Christopher K Algar",
+        "url": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5292/",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "VLGLIxUAAAAJ": {
-    "Name": "Stephanie Gora",
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
     "total_new": "1",
     "publications": {
-      "_kc_bZDykSQC": {
-        "title": "How might climate change impact water safety and boil water advisories in Canada? FACETS V8 1\u201321",
-        "year": "2023",
+      "EkHepimYqZsC": {
+        "title": "From Local Knowledge to Decision Support: A Causal Top-Down Bayesian Network for Drinking-Water Intake Risk Assessment",
+        "year": "2026/3/14",
         "publisher": "Unknown",
-        "author": "S Moghaddam-Ghadimi, A Tam, UT Khan, SL Gora, Y Joly",
-        "url": "https://scholar.google.com/scholar?cluster=11056470763533847445&hl=en&oi=scholarr",
+        "author": "Reza Mofidi Neyestani, Prasad Adhav, Maxence Collado, Raja Kammoun, Natasha McQuaid, Jie He, Jean-Baptiste Burnet, Sarah Dorner",
+        "url": "https://publications.polymtl.ca/78466/",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "28A7wWkAAAAJ": {
+    "Name": "Marc-Andr\u00e9 Langlois",
+    "total_new": "1",
+    "publications": {
+      "B2rIPIGFPLEC": {
+        "title": "An oncolytic reovirus-based platform amenable to oral vaccination",
+        "year": "2026/9/8",
+        "publisher": "Unknown",
+        "author": "Salar Pashangzadeh, Xiao Xiang, Nikolas Martin, Yang Long, Ki-Hoon Song, Negar Sharifi, Eknoor Walia, Serana Topshee, Mariam Maltseva, Kyle Malone, Carlos Giraldo, An-Dao Yang, Thet Fatica, Julia Petryk, Nathalie Earl, Marc-Andre Langlois, Guy Lemay, Young-Kwan Lee, Huy-Dung Hoang, Jiahu Wang, Kensuke Hirasawa, John Bell, Wang-Jun Lee, Shawn Beug, Tommy Alain",
+        "url": "https://www.researchsquare.com/article/rs-9956033/latest",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
