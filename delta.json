@@ -1,14 +1,59 @@
 {
-  "-EWOC3cAAAAJ": {
-    "Name": "Diego Borin Nobrega",
+  "O3Kin-IAAAAJ": {
+    "Name": "Michael Parkins",
     "total_new": "1",
     "publications": {
-      "q3oQSFYPqjQC": {
-        "title": "Identified-but-Unaccompanied Dogs and Cats During the 2026 Iran War in Tehran",
-        "year": "2026/9/14",
-        "publisher": "Preventive Veterinary Medicine: Regional Studies and Reports",
-        "author": "Mohammad Jokar, Mobina Payami, Arman Abdous, Diego B Nobrega",
-        "url": "https://www.sciencedirect.com/science/article/pii/S3051308126000549",
+      "43bX7VzcjpAC": {
+        "title": "Poster: 9The candid truth of Candida in cystic fibrosis",
+        "year": "2026/9/1",
+        "publisher": "Journal of Cystic Fibrosis",
+        "author": "J Burke-Gaffney, K Strayer, M Stephens, B Waddell, A Sombolestani, A Simon, C MacKenzie, M Gillrie, M Parkins, S Znaidi, B McDonald, R Somayaji, C Thornton",
+        "url": "https://www.cysticfibrosisjournal.com/article/S1569-1993(26)01716-9/fulltext",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
+    "total_new": "1",
+    "publications": {
+      "i8eIfGGcn98C": {
+        "title": "Assessment of the Antimicrobial Resistance Research Ecosystem in the Caribbean Region",
+        "year": "2026/9/15",
+        "publisher": "Journal of Global Antimicrobial Resistance",
+        "author": "Lisa Vors, Tamarie Rocke, Danini Marin, Herman W Barkema, Guillaume Lhermie",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2213716526001712",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "ypKzJAUAAAAJ": {
+    "Name": "Christopher T. DeGroot",
+    "total_new": "1",
+    "publications": {
+      "2KloaMYe4IUC": {
+        "title": "EFFECTS OF THE OPERATING PARAMETERS ON THE BOILING RESISTANCES OF A THERMOSYPHON",
+        "year": "2026/9/15",
+        "publisher": "Canadian Society for Mechanical Engineering International Congress",
+        "author": "Sebastian Sanchez, Dwaipayan Sarkar, Eric Savory, Christopher Degroot",
+        "url": "https://utoronto.scholaris.ca/items/77ed1f9a-bbcd-4263-bbff-d10baf9e7d69",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "VLGLIxUAAAAJ": {
+    "Name": "Stephanie Gora",
+    "total_new": "1",
+    "publications": {
+      "4TOpqqG69KYC": {
+        "title": "ENHANCING ELECTROCHEMICAL SENSOR SENSITIVITY THROUGH SECONDARY DEAN FLOW IN A CURVED-CHANNEL MICROFLUIDIC SYSTEM",
+        "year": "2026/9/15",
+        "publisher": "Canadian Society for Mechanical Engineering International Congress",
+        "author": "Shapour Jafargholinejad, Basit Ilyas, Alireza Zabihihesari, Razieh Salahandish, Stephanie Gora, Pouya Rezai",
+        "url": "https://utoronto.scholaris.ca/items/7792e196-6a6a-4cb1-b90e-a1eb87de1dbf",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
