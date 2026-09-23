@@ -1,1 +1,32 @@
-{}
+{
+  "wY7kQBwAAAAJ": {
+    "Name": "Natalie Prystajecky",
+    "total_new": "1",
+    "publications": {
+      "eq2jaN3J8jMC": {
+        "title": "People with HIV receiving suppressive antiretroviral therapy show typical antibody durability after dual COVID-19 vaccination, and strong third dose responses",
+        "year": "2022/1/1",
+        "publisher": "Unknown",
+        "author": "Fatima Yaseen, Peter K Cheung, Gisele Umviligihozo, Francis Mwimanzi, Winnie Dong, Ralph Pantophlet, Maggie C Duncan, Daniel T Holmes, F Harrison Omondi, Zabrina L Brumme, Malcolm Hedgcock, Julio SG Montaner, Laura Burns, Yurou Sang, Silvia Guillemi, Nadia Moran-Garcia, Cecilia T Costiniuk, Victor Leung, Sneha Datwani, Mari L DeMarco, Sarah Speckmaier, Janet Simons, Rebecca Kalikawe, Hesham H Ali, Paul Sereda, Marc G Romney, Masahiro Niikura, Junine Toy, Mark A Brockman, Olga Agafitei, Aslam H Anis, Siobhan Ennis, Hope R Lapointe, Bruce Ganase, Mark Hull, Chanson J Brumme, Rolando Barrios, Curtis Cooper, Christopher F Lowe, Natalie Prystajecky, Marianne Harris",
+        "url": "https://www.academia.edu/download/93229137/pdf.pdf",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wHX6pyUAAAAJ": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
+    "publications": {
+      "_5tno0g5mFcC": {
+        "title": "Recruitment, professional integration, and retention of Indigenous employees within small and medium-sized enterprises",
+        "year": "2026/9",
+        "publisher": "Small Enterprise Research",
+        "author": "Joanie Caron, Isabelle L'Heureux, Hugo Asselin",
+        "url": null,
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
