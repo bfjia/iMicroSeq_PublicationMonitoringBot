@@ -1,1 +1,47 @@
-{}
+{
+  "1hBTzZAAAAAJ": {
+    "Name": "Robert Delatolla",
+    "total_new": "1",
+    "publications": {
+      "ZfRJV9d4-WMC": {
+        "title": "Municipal Wastewater in Ottawa, Canada contains a reservoir of bacteriophages with clinically relevant Escherichia coli and Klebsiella pneumoniae Hosts",
+        "year": "2026/1/1",
+        "publisher": "bioRxiv",
+        "author": "Sean EK Stephenson, Walaa Eid, Elisabeth Mercier, Robert Delatolla, Adam D Rudner, Tyson E Graber",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.09.20.752992",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "RX9XNLUAAAAJ": {
+    "Name": "Valerie S. Langlois",
+    "total_new": "1",
+    "publications": {
+      "NJ774b8OgUMC": {
+        "title": "La peur des moustiques: Le confort \u00e0 quel prix?",
+        "year": "2026/9/2",
+        "publisher": "PUQ",
+        "author": "Bert Klein, Val\u00e9rie S Langlois, Clayton Peterson, Alexis Pelletier-C\u00f4t\u00e9",
+        "url": "https://books.google.com/books?hl=en&lr=&id=4B4OEgAAQBAJ&oi=fnd&pg=PA1982&dq=info:usomrt4OoIcJ:scholar.google.com&ots=4pHNevJ0OY&sig=MWlKk0tgfcq0oL9o7Yd8EhJlnhk",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "057RNrQAAAAJ": {
+    "Name": "S\u00e9bastien P. Faucher",
+    "total_new": "1",
+    "publications": {
+      "4fKUyHm3Qg0C": {
+        "title": "Importance of biofilms for the microbial ecology of cooling towers and Legionella diversity",
+        "year": "2026/9/21",
+        "publisher": "Environmental Science: Water Research & Technology",
+        "author": "Elliston Vallarino Reyes, Sara Matthews, Xavier Lefebvre, Nicola Gasecki, Dominique Charron, Emilie B\u00e9dard, Michele Pr\u00e9vost, S\u00e9bastien P Faucher",
+        "url": "https://pubs.rsc.org/ew/article-abstract/doi/10.1039/d6ew00846a/1358862",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
