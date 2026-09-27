@@ -1,1 +1,17 @@
-{}
+{
+  "1m50zJwAAAAJ": {
+    "Name": "Rees Kassen",
+    "total_new": "1",
+    "publications": {
+      "ye4kPcJQO24C": {
+        "title": "Processing of lysophosphatidylcholines by ExoU secreted by P. aeruginosa leads to inflammasome activation and cell death",
+        "year": "2026/10/27",
+        "publisher": "Cell Reports",
+        "author": "Melissa Sen Phuong, Adam Mahdi, David Cai, Katie Noah, Dikchha Rijal, Rachel Kaul, Avni Bhan, Sahil Yadav, Ardeshir Ariana, Rayan El Hamra, Wangxue Chen, Rees Kassen, Rafael Hernandez, Alex Wong, Dara W Frank, Gerald B Pier, Zhenyu Cheng, Miroslava Cuperlovic-Culf, Steffany AL Bennett, Subash Sad",
+        "url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01115-0",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
