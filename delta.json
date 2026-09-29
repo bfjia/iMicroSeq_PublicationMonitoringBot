@@ -1,14 +1,122 @@
 {
-  "1m50zJwAAAAJ": {
-    "Name": "Rees Kassen",
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
     "total_new": "1",
     "publications": {
-      "ye4kPcJQO24C": {
-        "title": "Processing of lysophosphatidylcholines by ExoU secreted by P. aeruginosa leads to inflammasome activation and cell death",
-        "year": "2026/10/27",
-        "publisher": "Cell Reports",
-        "author": "Melissa Sen Phuong, Adam Mahdi, David Cai, Katie Noah, Dikchha Rijal, Rachel Kaul, Avni Bhan, Sahil Yadav, Ardeshir Ariana, Rayan El Hamra, Wangxue Chen, Rees Kassen, Rafael Hernandez, Alex Wong, Dara W Frank, Gerald B Pier, Zhenyu Cheng, Miroslava Cuperlovic-Culf, Steffany AL Bennett, Subash Sad",
-        "url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01115-0",
+      "lvi_KyGYEDoC": {
+        "title": "Effects of Aspergillus oryzae prebiotic on ruminal fermentation and prokaryotic and fungal microbiotas",
+        "year": "2026/9/15",
+        "publisher": "Frontiers in Animal Science",
+        "author": "Yuxi Wang, Fernando Bargo, I Ipharraguerre, Trevor W Alexander, Matthew Waldner, TA McAllister",
+        "url": "https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2026.1920907/full",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "ceQ3BE0AAAAJ": {
+    "Name": "M\u00e9lanie Courtot",
+    "total_new": "2",
+    "publications": {
+      "5ugPr518TE4C": {
+        "title": "Accelerating equitable cancer genomics and precision oncology in health care and research: a Lancet Oncology Commission",
+        "year": "2026/9/25",
+        "publisher": "The Lancet Oncology",
+        "author": "Raffaella Casolino, Joaquin Mateo, Elisabeth GE de Vries, Amber Johns, Melanie Courtot, Rita T Lawlor, Sandra Perdomo, Stacy W Gray, Raquel Perez-Lopez, Clare Turnbull, David Torrents, Kerstin Noelle Vokinger, Dilara Akhoundova, Jean-Marc Bourque, Andr\u00e9s F Cardona, Yoon Jung Chang, Debyani Chakravarty, Ievgeniia Chicherova, Karen Ann Cranston, Melissa Davis, Amanda Drury, Oskar Frisell, Raquel Manzano Garcia, Robert L Grossman, Yosr Hamdi, Simon Hediger, Thomas Hofmarcher, Oliver Hofmann, Jakob Nikolas Kather, Hannah Kim, Kazuto Kato, Bartha Maria Knoppers, Kjong-Van Lehmann, Dilani Lokuhetty, Patricia M LoRusso, Deborah Mascalzoni, Nicola Mulder, Travis Osterman, Folakemi Odedina, Aparna R Parikh, Solomon Rotimi, Brian Rous, Shawn Sweeney, Bhawna Sirohi, Zbyslaw Sondka, Ciara Staunton, Kjetil Task\u00e9n, Alex Wagner, C Benedikt Westphalen, Jianmin Wu, Joly Yann, Ma\u2019n H Zawati, Andrew V Biankin, Takayuki Yoshino, Lincoln Stein, Mark Lawler",
+        "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00302-5/abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "wbdj-CoPYUoC": {
+        "title": "Cancer genomic data systems in precision oncology: from integration to clinical implementation",
+        "year": "2026/9/25",
+        "publisher": "EBioMedicine",
+        "author": "David Torrents, Oliver Hofmann, Karen Ann Cranston, Raffaella Casolino, Andrew V Biankin, Andr\u00e9s F Cardona, Robert L Grossman, Amber Johns, Mark Lawler, Kjong-Van Lehmann, Raquel Manzano Garcia, Nicola Mulder, Travis Osterman, Timothy Rebbeck, Solomon Rotimi, Zbyslaw Sondka, Shawn Sweeney, Samuel Volchenboum, Alex Wagner, Jianmin Wu, Takayuki Yoshino, M\u00e9lanie Courtot, Lincoln Stein",
+        "url": "https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(26)00364-6/fulltext",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "Et_RonIAAAAJ": {
+    "Name": "Guillaume Bourque",
+    "total_new": "1",
+    "publications": {
+      "TAkmkrPVePIC": {
+        "title": "The gene-regulatory evolution of the human skeleton",
+        "year": "2026/9/23",
+        "publisher": "Nature",
+        "author": "Yizhi Yan, Nadav Mishol, Katharina Lange, Zicong Zhang, Gal Bodek, Aya Kigel, Noam Priel, Nachshon Egyes, Omer Ronen, Itamar Nini, Liat Rotenstreich, Sira Martinez, Silvia Beltramone, Rika Tsujikawa, Adi Rozenblatt, Lucas Esteban Wange, Mar\u00eda Torralvo, Guy Hirsh, Yael Elboim, Sergey Viukov, Idan Korenfeld, Mythili Damal Kandadai, Oc\u00e9ane Cluzeau, Malka Nissim-Rafinia, Eran Meshorer, Jacob H Hanna, Evie Vereecke, Assaf Marom, Martin Kuhlwilm, Guillaume Bourque, Tomas Marques-Bonet, Simon Fishilevich, Fumitaka Inoue, David Gokhman",
+        "url": "https://www.nature.com/articles/s41586-026-11053-x",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
+    "total_new": "1",
+    "publications": {
+      "_OXeSy2IsFwC": {
+        "title": "The FunAqua dataset of global fungal biodiversity in aquatic ecosystems",
+        "year": "2026/9/24",
+        "publisher": "Scientific Data",
+        "author": "V Prins, L Tedersoo, V Mikryukov, P Paiste, M Sepp, H Grossart, V Kisand, A Laas, H Tammert, Kessy Abarenkov, A Agan, H Agasild, R Agha, J Alatalo, J Alvarez-Manjarrez, A Ameryk, J Anderson, S Anslan, A Ant\u00e3o-Geraldes, A Antosiak, J Arce Funck, R Arias-Real, M Ariyan, M Bahram, S Bansal, R Bao, S Beck, P Bernotas, N Berry, S Bertilsson, C Birnbaum, M Bonk, AV Borges, F Botez, FQ Brearley, J Brookes, D Bruno, A Budzy\u0144ska, G Bullerjahn, M Bundschuh, B Calheiros-Nogueira, R Calore, C Capelli, L Caputo, R Carballeira, I Chronis, F \u010ciampor, Z \u010ciamporov\u00e1-Za\u0165ovi\u010dov\u00e1, D Craig, Z Csabai, N Cukrov, L da Silva, E de Eyto, J Delgado, I Dimante-Deimantovica, I Domaizon, R Dondajewska-Pielka, T Dornan, R Drenkhan, K Drouillard, S Duarte, O Dulya, A Dzhulai, D Dziga, B Egeter, M Espenberg, S F\u00e4rkkil\u00e4, S Fazi, A Feckler, E Fenoy, I Fernandes, S Ferreira, V Ferreira, T Fleituch, R Fornaroli, A Freiwald, T Frenken, P Gaffney, O Garc\u00eda-Oliva, H Geara, S Gkelis, D Gohar, R Go\u0142dyn, F Grandjean, A Gsell, C Guti\u00e9rrez-C\u00e1novas, P Haase, N Hagh-Doust, T Harris, A Hashem, S Havens, B Heidari, S Higgins, M Hosseyni Moghaddam, A Ibrahim, D Jerinki\u0107, S Jones, M Kagami, S Kahar, K Kangro, K Kariman, M Katar\u017eyt\u0117, S Kepfer-Rojas, H Khan, LB Knoll, A Knorrn, U K\u00f5ljalg, D Konstantinou, J Kotta, K Kowalczewska-Madura, A Kozak, B Kulawig, J Kupagme, I Ku\u0161an, R Laarmaa, P Laas, S Langenheder, A Lanz\u00e9n, A Lateef, M Ligi, T L\u00f6ffler, U Lortou, K Lujza, T MacConnell, I Ma\u010dek, P Macreadie, K Maileht, F Marazzi, L Marcello, S Markovskaja, A Martin, S Mart\u00ednez, V Mata, N Mato\u010dec, R McKay, K McKindles, M Mehrshad, M Men\u00e9ndez, N Merino, A Me\u0161i\u0107, S Moctar, M Moza, P N\u00f5ges, T N\u00f5ges, R O\u2019Hanlon, B \u00d6\u011fl\u00fc, J Oja, W Okello, H Orav-Kotta, P Orr",
+        "url": "https://www.nature.com/articles/s41597-026-07729-8",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "01K5Ks4AAAAJ": {
+    "Name": "William Hsiao",
+    "total_new": "2",
+    "publications": {
+      "_B80troHkn4C": {
+        "title": "Term Harvester: A FAIR Data Tool to Map or Reuse Trusted Online Vocabularies in Agriculture and Health Science Research Project Data Schemas",
+        "year": "2026",
+        "publisher": "Unknown",
+        "author": "Damion Dooley, William Hsiao",
+        "url": "https://foisconference.org/assets/pdfs/satellitepreprints/Paper-243.pdf",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      },
+      "tkaPQYYpVKoC": {
+        "title": "SWRLCLI: A Program for Displaying and Debugging SWRL Rules Embedded in an OWL Ontology",
+        "year": "2026",
+        "publisher": "Unknown",
+        "author": "Damion Dooley, William Hsiao",
+        "url": "https://foisconference.org/assets/pdfs/satellitepreprints/Paper-210.pdf",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "mBdtjsQAAAAJ": {
+    "Name": "Antonio Ruzzini",
+    "total_new": "1",
+    "publications": {
+      "7PzlFSSx8tAC": {
+        "title": "Coincidental observation of a parvovirus during a targeted bacterial survey of cattle suffering from septic arthritis",
+        "year": "2026/9/24",
+        "publisher": "Canadian Journal of Microbiology",
+        "author": "Daniel Kos, Ashton N Sies, Murray Jelinski, Andrew DS Cameron, Antonio Ruzzini",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjm-2026-0033",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-bIc5H0AAAAJ": {
+    "Name": "Sarah Otto",
+    "total_new": "1",
+    "publications": {
+      "3DOefFFSZ7MC": {
+        "title": "Canada's Species at Risk Act: listing lags and limbos",
+        "year": "2026/9/24",
+        "publisher": "FACETS",
+        "author": "Peter R Thompson, Mathilde L Tissier, Jayme MM Lewthwaite, Sara E Cannon, Mark Louie D Lopez, Allyson K Menzies, Mary Ann C Perron, Morgan L Piczak, Karen Vanderwolf, Laurenne Schiller, William S Bugg, Shelby J Bohn, Wendy J Palen, Justina C Ray, Sarah P Otto",
+        "url": "https://www.facetsjournal.com/doi/abs/10.1139/facets-2026-0031",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
