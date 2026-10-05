@@ -1,143 +1,44 @@
 {
-  "1hBTzZAAAAAJ": {
-    "Name": "Robert Delatolla",
+  "MNqeC0sAAAAJ": {
+    "Name": "Robert Michael McKay",
     "total_new": "1",
     "publications": {
-      "_Re3VWB3Y0AC": {
-        "title": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025",
+      "nVrZBo8bIpAC": {
+        "title": "Winter survey data from Lake Erie from 2018-2019",
+        "year": "2020",
+        "publisher": "Biological and Chemical Oceanography Data Management Office",
+        "author": "George Bullerjahn, Robert McKay",
+        "url": "https://ui.adsabs.harvard.edu/abs/2020bcod.data..345B/abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "poQrlhAAAAAJ": {
+    "Name": "Peter A. Vanrolleghem",
+    "total_new": "1",
+    "publications": {
+      "OWf_fnsf0g4C": {
+        "title": "Long\u2010Term Low\u2010DO Operation Changes the Ammonia Oxidizer Community and Oxygen Kinetics",
         "year": "2026/10",
-        "publisher": "Emerging infectious diseases",
-        "author": "Ryland Corchis-Scott, \u00c9lisabeth Mercier, Edgard M Mejia, Qiudi Geng, Ethan Harrop, Ana Podadera, Jackie Fong, Natalie Lewoc, Kenneth KS Ng, Nataliya Santiago, Natalie Knox, Lawrence Goodridge, Chand S Mangat, Chrystal Landgraff, Karen B Riddell, Mehdi Aloosh, Robert Delatolla, R Michael McKay",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42811349/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "rQUeGGsAAAAJ": {
-    "Name": "Lawrence Goodridge",
-    "total_new": "1",
-    "publications": {
-      "86PQX7AUzd4C": {
-        "title": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025",
-        "year": "2026/10",
-        "publisher": "Emerging infectious diseases",
-        "author": "Ryland Corchis-Scott, \u00c9lisabeth Mercier, Edgard M Mejia, Qiudi Geng, Ethan Harrop, Ana Podadera, Jackie Fong, Natalie Lewoc, Kenneth KS Ng, Nataliya Santiago, Natalie Knox, Lawrence Goodridge, Chand S Mangat, Chrystal Landgraff, Karen B Riddell, Mehdi Aloosh, Robert Delatolla, R Michael McKay",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42811349/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "kXK5pzQAAAAJ": {
-    "Name": "Natalie C Knox",
-    "total_new": "1",
-    "publications": {
-      "pyW8ca7W8N0C": {
-        "title": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025",
-        "year": "2026/10",
-        "publisher": "Emerging infectious diseases",
-        "author": "Ryland Corchis-Scott, \u00c9lisabeth Mercier, Edgard M Mejia, Qiudi Geng, Ethan Harrop, Ana Podadera, Jackie Fong, Natalie Lewoc, Kenneth KS Ng, Nataliya Santiago, Natalie Knox, Lawrence Goodridge, Chand S Mangat, Chrystal Landgraff, Karen B Riddell, Mehdi Aloosh, Robert Delatolla, R Michael McKay",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42811349/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "Et_RonIAAAAJ": {
-    "Name": "Guillaume Bourque",
-    "total_new": "1",
-    "publications": {
-      "4givWmz5LegC": {
-        "title": "Additional file 1 of Transcriptome atlases of rat brain regions and their adaptation to diabetes resolution following gastrectomy in the Goto-Kakizaki rat",
-        "year": "2025/1/1",
-        "publisher": "(No Title)",
-        "author": "Fran\u00e7ois Brial, Aur\u00e9lie Le Lay, Claude Rouch, Edouard Henrion, Mathieu Bourgey, Guillaume Bourque, Mark Lathrop, Christophe Magnan, Dominique Gauguier",
-        "url": "https://cir.nii.ac.jp/crid/1874249668387870208",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "iQjUDPYAAAAJ": {
-    "Name": "Casey Hubert",
-    "total_new": "1",
-    "publications": {
-      "WJVC3Jt7v1AC": {
-        "title": "Evaluating the relationship between cold-water corals and a cold seep in a submarine slope failure at the Northeast Saglek Bank cold-water coral hotspot, Eastern Canadian Arctic",
-        "year": "2026/9/30",
-        "publisher": "Arctic Science",
-        "author": "Marion Boulard, Evan Edinger, Barbara de Moura Neves, Alexandre Normandeau, David C\u00f4t\u00e9, Josiane Ostiguy, Owen Sherwood, Oye Adebayo, Casey Hubert",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/as-2026-0033",
+        "publisher": "Water Environment Research",
+        "author": "Kester McCullough, Lilian McIntosh, Alexandria Gagnon, William Dawson, Hailey Bradshaw, Stephanie Klaus, Dev Hiripitiyage, Belinda Sturm, Diego Rosso, Charles B Bott, Peter A Vanrolleghem",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/wer.70593",
         "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
   },
-  "MNqeC0sAAAAJ": {
-    "Name": "Robert Michael McKay",
+  "28A7wWkAAAAJ": {
+    "Name": "Marc-Andr\u00e9 Langlois",
     "total_new": "1",
     "publications": {
-      "lvd772isFD0C": {
-        "title": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025",
-        "year": "2026/10",
-        "publisher": "Emerging infectious diseases",
-        "author": "Ryland Corchis-Scott, \u00c9lisabeth Mercier, Edgard M Mejia, Qiudi Geng, Ethan Harrop, Ana Podadera, Jackie Fong, Natalie Lewoc, Kenneth KS Ng, Nataliya Santiago, Natalie Knox, Lawrence Goodridge, Chand S Mangat, Chrystal Landgraff, Karen B Riddell, Mehdi Aloosh, Robert Delatolla, R Michael McKay",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42811349/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "U3rqorsAAAAJ": {
-    "Name": "Doug Manuel",
-    "total_new": "2",
-    "publications": {
-      "-LBJnDjEUMIC": {
-        "title": "Considering Mental Disorders in Cardiovascular Disease Prediction Models: A Cross-Sectional Survey of Primary Care Providers",
-        "year": "2026/9/2",
-        "publisher": "BIPOLAR DISORDERS",
-        "author": "Sara Siddiqi, Karen Bouchard, Mia Carbone, Hudaifa Zayed, Jessica Ward-King, Douglas Manuel, Jodi Edwards, Harriette GC Van Spall, Ian Colman, Jess G Fiedorowicz",
-        "url": "https://scholar.google.com/scholar?cluster=14251380287203892399&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "OJBCU0UFcNkC": {
-        "title": "Mindful Heart: Development of a Cardiovascular Disease Prognostic Model Considering Mental Disorders",
-        "year": "2026/9/2",
-        "publisher": "BIPOLAR DISORDERS",
-        "author": "Sara Siddiqi, Jessica Ward-King, Karen Bouchard, Douglas Manuel, Jodi Edwards, Harriette GC Van Spall, Ian Colman, Jess G Fiedorowicz",
-        "url": "https://scholar.google.com/scholar?cluster=12925944849177039329&hl=en&oi=scholarr",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "sp21VmQAAAAJ": {
-    "Name": "Jeffrey R Brook",
-    "total_new": "1",
-    "publications": {
-      "TiIbgCYny7sC": {
-        "title": "The joint effect of long-term exposure to PM2. 5 and gaseous pollutants on cause-specific mortality: A longitudinal cohort study",
-        "year": "2026/8/31",
-        "publisher": "38th Annual Conference of the International Society for Environmental Epidemiology (ISEE 2026)",
-        "author": "WY Chen, S Kharol, J Brook, XQ Lao",
-        "url": "https://scholars.cityu.edu.hk/en/publications/the-joint-effect-of-long-term-exposure-to-pmsub25sub-and-gaseous-/",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "c-pNH9UAAAAJ": {
-    "Name": "Kenneth K.S. Ng",
-    "total_new": "1",
-    "publications": {
-      "GtLg2Ama23sC": {
-        "title": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025",
-        "year": "2026/10",
-        "publisher": "Emerging infectious diseases",
-        "author": "Ryland Corchis-Scott, \u00c9lisabeth Mercier, Edgard M Mejia, Qiudi Geng, Ethan Harrop, Ana Podadera, Jackie Fong, Natalie Lewoc, Kenneth KS Ng, Nataliya Santiago, Natalie Knox, Lawrence Goodridge, Chand S Mangat, Chrystal Landgraff, Karen B Riddell, Mehdi Aloosh, Robert Delatolla, R Michael McKay",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42811349/",
+      "htyGaKyDgHMC": {
+        "title": "The human gut microbiome primes fever after vaccination",
+        "year": "2026/9",
+        "publisher": "IMPACTT 6: Advancing Microbiome Research",
+        "author": "KE Huus, H Abo, YH Tan, E Atay, H Rytter, R Keller, S Dauser, DL Vu, MB Azad, R Knight, A Ke, L Lotoski, MA Langlois, R Liu, AV Tyakht, N Youngblut, SM Kang, J Parsonnet, PG Kremsner, L Maier, B Cassaing, AT Gewirtz, M Esen, RE Ley, \u00b5HEAT Study Group",
+        "url": "https://pure.mpg.de/view/item_3732976_1",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
