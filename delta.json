@@ -1,1 +1,41 @@
-{}
+{
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
+    "total_new": "2",
+    "publications": {
+      "BUYA1_V_uYcC": {
+        "title": "\u00c9valuation de l'impact des strat\u00e9gies de mise en \u0153uvre des infrastructures vertes et bleues sur la r\u00e9silience urbaine",
+        "year": "2025/1/29",
+        "publisher": "10e \u00e9dition du Symposium Ouranos",
+        "author": "Justine Petrucci, Jonathan Jalbert, Sarah Dorner, Fran\u00e7oise Bichai",
+        "url": "https://publications.polymtl.ca/82138/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      },
+      "AvfA0Oy_GE0C": {
+        "title": "Cellules de bior\u00e9tention grand projet de la rue Saint-Maurice \u00e0 Trois-Rivi\u00e8res",
+        "year": "2021/11",
+        "publisher": "Congr\u00e8s INFRA 2021",
+        "author": "Samuel Doucet, Ons Bouattour, Emma Formankova, Fran\u00e7oise Bichai, Sarah Dorner",
+        "url": "https://publications.polymtl.ca/82165/",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "wHX6pyUAAAAJ": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
+    "publications": {
+      "2VqYfGB8ITEC": {
+        "title": "D\u00e9veloppement de coentreprises entre les communaut\u00e9s autochtones et les entreprises de services miniers en Abitibi-T\u00e9miscamingue/Development of joint ventures between \u2026",
+        "year": "2026",
+        "publisher": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue",
+        "author": "Danny Baril, Hugo Asselin, Joanie Caron",
+        "url": "https://depositum.uqat.ca/id/eprint/1893/",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
