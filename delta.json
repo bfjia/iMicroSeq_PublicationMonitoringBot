@@ -1,38 +1,74 @@
 {
-  "S2HhkvEAAAAJ": {
-    "Name": "Sarah Dorner",
-    "total_new": "2",
+  "O3Kin-IAAAAJ": {
+    "Name": "Michael Parkins",
+    "total_new": "1",
     "publications": {
-      "BUYA1_V_uYcC": {
-        "title": "\u00c9valuation de l'impact des strat\u00e9gies de mise en \u0153uvre des infrastructures vertes et bleues sur la r\u00e9silience urbaine",
-        "year": "2025/1/29",
-        "publisher": "10e \u00e9dition du Symposium Ouranos",
-        "author": "Justine Petrucci, Jonathan Jalbert, Sarah Dorner, Fran\u00e7oise Bichai",
-        "url": "https://publications.polymtl.ca/82138/",
+      "U4n9YNQMCAIC": {
+        "title": "50 shades of green: Longitudinal dynamics of sputum colour and associated clinical outcomes in bronchiectasis",
+        "year": "2026/10",
+        "publisher": "Pneumologie",
+        "author": "F Frost, C Seo, D Green, D Wootton, P Mitchelmore, K Mohan, M Parkins, H Rabin, J Fothergill, D Nazareth, F Barker, L Jackson, D Mccauley, D Wat, C Thornton",
+        "url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0046-1826099",
         "firstOrLast": false,
         "datasource": "Scholars"
-      },
-      "AvfA0Oy_GE0C": {
-        "title": "Cellules de bior\u00e9tention grand projet de la rue Saint-Maurice \u00e0 Trois-Rivi\u00e8res",
-        "year": "2021/11",
-        "publisher": "Congr\u00e8s INFRA 2021",
-        "author": "Samuel Doucet, Ons Bouattour, Emma Formankova, Fran\u00e7oise Bichai, Sarah Dorner",
-        "url": "https://publications.polymtl.ca/82165/",
+      }
+    }
+  },
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "COU-sansr_wC": {
+        "title": "Draft genome sequences of Bibersteinia trehalosi isolates from western Canadian feedlot cattle",
+        "year": "2026/10/8",
+        "publisher": "Microbiology Resource Announcements",
+        "author": "Sara Andres-Lasheras, Sujeema Abeysekara, Chloe Brennan, Trevor Alexander, Tim A McAllister, Rahat Zaheer",
+        "url": "https://journals.asm.org/doi/abs/10.1128/mra.00829-26",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "VaLlkyoAAAAJ": {
+    "Name": "Herman W. Barkema",
+    "total_new": "1",
+    "publications": {
+      "gnsKu8c89wgC": {
+        "title": "Bayesian estimation of true herd-level prevalence and spatial distribution of Salmonella Dublin-seropositive dairy herds in Alberta, Canada",
+        "year": "2026/10/9",
+        "publisher": "Journal of Dairy Science",
+        "author": "Waseem Shaukat, Diego B Nobrega, Abdul Rehman, Jessie van Heumen, Rebecca Roos, Marlinde de Pater, Chanda Liaqat, David C Hall, Guillaume Lhermie, John P Kastelic, David K Kelton, Jeroen De Buck, Herman W Barkema",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022030226033564",
         "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
   },
-  "wHX6pyUAAAAJ": {
-    "Name": "Hugo Asselin",
+  "-EWOC3cAAAAJ": {
+    "Name": "Diego Borin Nobrega",
     "total_new": "1",
     "publications": {
-      "2VqYfGB8ITEC": {
-        "title": "D\u00e9veloppement de coentreprises entre les communaut\u00e9s autochtones et les entreprises de services miniers en Abitibi-T\u00e9miscamingue/Development of joint ventures between \u2026",
-        "year": "2026",
-        "publisher": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue",
-        "author": "Danny Baril, Hugo Asselin, Joanie Caron",
-        "url": "https://depositum.uqat.ca/id/eprint/1893/",
+      "kRWSkSYxWN8C": {
+        "title": "Bayesian estimation of true herd-level prevalence and spatial distribution of Salmonella Dublin-seropositive dairy herds in Alberta, Canada",
+        "year": "2026/10/9",
+        "publisher": "Journal of Dairy Science",
+        "author": "Waseem Shaukat, Diego B Nobrega, Abdul Rehman, Jessie van Heumen, Rebecca Roos, Marlinde de Pater, Chanda Liaqat, David C Hall, Guillaume Lhermie, John P Kastelic, David K Kelton, Jeroen De Buck, Herman W Barkema",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022030226033564",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "sp21VmQAAAAJ": {
+    "Name": "Jeffrey R Brook",
+    "total_new": "1",
+    "publications": {
+      "pxXbYLTb8EgC": {
+        "title": "Developing a youth sustainability healthy active living intervention for chronic disease prevention and environmental sustainability through community engagement and codesign \u2026",
+        "year": "2026/10/7",
+        "publisher": "BMJ open",
+        "author": "Rosain Stennett, Sujane Kandasamy, Diana Sherifali, Russell J de Souza, Dipika Desai, Matthew YW Kwan, Joanne A Smith, Thera Edwards, Georgiana Gordon-Strachan, Shrikant I Bangdiwala, Gita Wahi, Jeffrey Brook, Myles Sergeant, Alisha Krishanthan, Sneha Desai, Simon G Anderson, Sonia S Anand",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13646957/",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
