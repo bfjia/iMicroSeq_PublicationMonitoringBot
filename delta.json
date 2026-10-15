@@ -1,1 +1,77 @@
-{}
+{
+  "O3Kin-IAAAAJ": {
+    "Name": "Michael Parkins",
+    "total_new": "1",
+    "publications": {
+      "v1_lew4L6wgC": {
+        "title": "Targeted Depletion of rRNAs and Tobamoviruses Enhances Viral Discovery in Wastewater Metatranscriptomes",
+        "year": "2026",
+        "publisher": "bioRxiv",
+        "author": "Mar\u00eda A Bautista, Tulika Bhardwaj, Dylan J Barbera, Samuel J Rulli, Jackie Zorz, Janine McCalder, Chloe Papparis, Xiaoli Pang, Bonita E Lee, Judy Qiu, Rhonda G Clark, Nicole Acosta, Christine O'Grady, Michael D Parkins, Casey RJ Hubert",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757481.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "PQ9tLbUAAAAJ": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "D8wXzuvKacYC": {
+        "title": "Correction: Effects of Aspergillus oryzae prebiotic on ruminal fermentation and prokaryotic and fungal microbiotas",
+        "year": "2026/10/1",
+        "publisher": "Frontiers in Animal Science",
+        "author": "Yuxi Wang, Fernando Bargo, Ignacio Ipharraguerre, Trevor W Alexander, Matthew Waldner, TA McAllister",
+        "url": "https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2026.2003293/full",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "BC6T6L-UY8gC": {
+    "Name": "Caren Helbing",
+    "total_new": "1",
+    "publications": {
+      "LO7wyVUgiFcC": {
+        "title": "Antimicrobial peptides",
+        "year": "2026/8/20",
+        "publisher": "Unknown",
+        "author": "Unknown",
+        "url": "https://patents.google.com/patent/US20260242416A1/en",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "iQjUDPYAAAAJ": {
+    "Name": "Casey Hubert",
+    "total_new": "1",
+    "publications": {
+      "mlAyqtXpCwEC": {
+        "title": "Targeted Depletion of rRNAs and Tobamoviruses Enhances Viral Discovery in Wastewater Metatranscriptomes",
+        "year": "2026",
+        "publisher": "bioRxiv",
+        "author": "Mar\u00eda A Bautista, Tulika Bhardwaj, Dylan J Barbera, Samuel J Rulli, Jackie Zorz, Janine McCalder, Chloe Papparis, Xiaoli Pang, Bonita E Lee, Judy Qiu, Rhonda G Clark, Nicole Acosta, Christine O'Grady, Michael D Parkins, Casey RJ Hubert",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757481.abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-EWOC3cAAAAJ": {
+    "Name": "Diego Borin Nobrega",
+    "total_new": "1",
+    "publications": {
+      "BrmTIyaxlBUC": {
+        "title": "Impact of the colistin ban on antimicrobial use and resistance-related practices among layer farmers in Indonesia: a comparative KAP study",
+        "year": "2026/9/23",
+        "publisher": "Frontiers in Veterinary Science",
+        "author": "Mohammad Jokar, Sunandar Sunandar, Annisa Rachmawati, Soe Yu Naing, Happy Nanda Larasati, Ridvana Dwibawa Darmawan, Imron Suandy, Riana Aryani Arief, Nofita Nurbiyanti, Anis Karuniawati, Jaap A Wagenaar, Diego B Nobrega, Mathieu Pruvot",
+        "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1885994/full",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
