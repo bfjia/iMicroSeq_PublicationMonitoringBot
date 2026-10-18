@@ -1,1 +1,47 @@
-{}
+{
+  "ceQ3BE0AAAAJ": {
+    "Name": "M\u00e9lanie Courtot",
+    "total_new": "1",
+    "publications": {
+      "olpn-zPbct0C": {
+        "title": "Voices from contributors to Cell Genomics",
+        "year": "2026/10/14",
+        "publisher": "Cell Genomics",
+        "author": "M\u00e9lanie Courtot, Yukinori Okada, Hae Kyung Im, Vardhman Rakyan, John Doench, Jayne Hehir-Kwa, Steven JM Jones, Gael Cristofari, Alison Motsinger-Reif, Segun Fatumo, Evan Eichler, Christine R Beck, Michael C Schatz",
+        "url": "https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00258-2",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "poQrlhAAAAAJ": {
+    "Name": "Peter A. Vanrolleghem",
+    "total_new": "1",
+    "publications": {
+      "xUT3DyvLuJwC": {
+        "title": "From standard to data-driven flow-based design of urban drainage and wastewater management systems: integrating variability, open data, and standardization",
+        "year": "2026/10/14",
+        "publisher": "Water Science & Technology",
+        "author": "Marcello Serrao, Natalia Duque Villarreal, Thibaud Maruejouls, Simon Delmas, Tijana Jovanovic, Robin Maes-Prior, Feiyi Li, Dirk Muschalla, Jean-Luc Bertrand-Krajewski, Peter A Vanrolleghem, Wolfgang Rauch",
+        "url": "https://iwaponline.com/wst/article/doi/10.2166/wst.2026.360/113535",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "IZQgBh8AAAAJ": {
+    "Name": "Rita Isabel Henderson",
+    "total_new": "1",
+    "publications": {
+      "1sJd4Hv_s6UC": {
+        "title": "Understanding Indigenous Diabetes Self-Management Decision-Making Through a Macrocognitive Lens",
+        "year": "2026/11/1",
+        "publisher": "Canadian Journal of Diabetes",
+        "author": "ANIKA SEHGAL, SARA SCOTT, RITA HENDERSON, LEE GREEN, LYNDEN LINDSAY CROWSHOE",
+        "url": "https://www.canadianjournalofdiabetes.com/article/S1499-2671(26)00179-6/abstract",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  }
+}
