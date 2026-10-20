@@ -1,44 +1,14 @@
 {
-  "ypKzJAUAAAAJ": {
-    "Name": "Christopher T. DeGroot",
+  "Et_RonIAAAAJ": {
+    "Name": "Guillaume Bourque",
     "total_new": "1",
     "publications": {
-      "evX43VCCuoAC": {
-        "title": "Analytical Evaluation of Far-UVC (222 nm) Air Disinfection Efficiency in Indoor Environments Using a Multi-Zonal Model",
-        "year": "2026/10/16",
-        "publisher": "Unknown",
-        "author": "Amin Hadizade, Christopher DeGroot",
-        "url": "https://www.aivc.org/resource/analytical-evaluation-far-uvc-222-nm-air-disinfection-efficiency-indoor-environments-using",
-        "firstOrLast": true,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "wQywY-EAAAAJ": {
-    "Name": "Robert E. W. Hancock",
-    "total_new": "1",
-    "publications": {
-      "USX2HHcnDqcC": {
-        "title": "Synthetic host defence peptides modulate phagocytic activity and release of inflammatory mediators by BV-2 microglial cells",
-        "year": "2026/10/15",
-        "publisher": "Peptides",
-        "author": "Ishvin Riar, Tyler J Wenzel, Robert EW Hancock, Andis Klegeris",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0196978126000628",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "c-pNH9UAAAAJ": {
-    "Name": "Kenneth K.S. Ng",
-    "total_new": "1",
-    "publications": {
-      "FAceZFleit8C": {
-        "title": "P3. 197: EPI-326: A Mutation-Independent and Normal Tissue-Sparing Bispecific Antibody That Degrades EGFR for the Treatment of EGFR-driven Solid Tumors",
-        "year": "2026/10/1",
-        "publisher": "Journal of Thoracic Oncology",
-        "author": "J Sitrin, L Marshall, H Tran, K Ng, S Yadav, K Hoi, Z Huang, A Goodrich, F Housley, M Dayao, J Cohen, D Manalo-Hebert, L Zhang, B Hillier, J Gramespacher, N Solomon, G Mann, EW Humke, M Vinogradova, IJ Rondon, SJ Gardai",
-        "url": "https://www.jto.org/article/S1556-0864(26)01818-6/fulltext",
+      "boGf3zyra0UC": {
+        "title": "Altered sperm DNA methylation provides an epigenetic route from overweight and older men to intergenerational disease transmission",
+        "year": "2026/10/20",
+        "publisher": "Proceedings of the National Academy of Sciences",
+        "author": "Mathieu Schulz, Xiaojian Shao, Romain Lambrot, Christine Lafleur, Donovan Chan, Marie-Charlotte Dumargne, Amanda J MacFarlane, Sergey Moskovtsev, Guillaume Bourque, Tomi Pastinen, Clifford Librach, Hope Weiler, Jacquetta Trasler, Sarah Kimmins",
+        "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2534171123",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
