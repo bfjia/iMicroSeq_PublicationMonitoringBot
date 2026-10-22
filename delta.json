@@ -1,14 +1,29 @@
 {
-  "ThjB_RcAAAAJ": {
-    "Name": "Jiannis Ragoussis",
+  "RX9XNLUAAAAJ": {
+    "Name": "Valerie S. Langlois",
     "total_new": "1",
     "publications": {
-      "Wq2b2clWBLsC": {
-        "title": "LINC00536 regulates transcriptional repressor TRPS1 in breast cancer",
-        "year": "2026/9/1",
+      "7T2F9Uy0os0C": {
+        "title": "Downstream Transport and Persistence of Amphibian Environmental DNA and RNA in Small Streams: Insights From a Caged Mudpuppy Experiment",
+        "year": "2026/9",
+        "publisher": "Environmental DNA",
+        "author": "Marie\u2010Pier Brochu, Hugo Asselin, B\u00e9r\u00e9nice Bougas, Guillaume C\u00f4t\u00e9, Catherine Doucet, F\u00e9lix Plante, Lo\u00efc Soumila, Louis Bernatchez, Valerie S Langlois",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/edn3.70379",
+        "firstOrLast": true,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "-bIc5H0AAAAJ": {
+    "Name": "Sarah Otto",
+    "total_new": "1",
+    "publications": {
+      "NM66qo_NnlUC": {
+        "title": "Pleiotropy links host axes of defense against a pathogen",
+        "year": "2026/1/1",
         "publisher": "bioRxiv",
-        "author": "Rui Zhang, Jiarong Li, Dunarel Badescu, Jiannis Ragoussis, Richard Kremer",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.08.31.748275.abstract",
+        "author": "Michael Blazanin, Nowmita Nasir, Emilie Haniak, Bardia Masudy, Phae Elton, Sarah P Otto, Kayla C King",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.10.12.758686",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
