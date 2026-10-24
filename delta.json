@@ -1,23 +1,14 @@
 {
-  "Et_RonIAAAAJ": {
-    "Name": "Guillaume Bourque",
-    "total_new": "2",
+  "wHX6pyUAAAAJ": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
     "publications": {
-      "cTdzRpWJKHEC": {
-        "title": "MJM MedTalks (S03E04): Genomes and Japan (Part 2): How international collaborations are shaping science",
-        "year": "2026/10/19",
-        "publisher": "McGill Journal of Medicine",
-        "author": "Jan Pack, Guillaume Bourque, Susan Joanne Wang, Maryia Samuel, Lilian Alkhalaileh, Ren\u00e9e-Claude Bider",
-        "url": "https://mjm.mcgill.ca/article/view/1315",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      },
-      "c0d25C_dN_AC": {
-        "title": "MJM MedTalks (S03E03): Genomes and Japan (Part 1): The surprising influence of viruses on human evolution",
-        "year": "2026/10/19",
-        "publisher": "McGill Journal of Medicine",
-        "author": "Jan Pack, Guillaume Bourque, Susan Joanne Wang, Maryia Samuel, Lilian Alkhalaileh, Ren\u00e9e-Claude Bider",
-        "url": "https://mjm.mcgill.ca/article/view/1271",
+      "mlAyqtXpCwEC": {
+        "title": "Convergence and divergence of Holocene fire regimes and vegetation dynamics on hills and in the Clay Belt of northwestern Quebec",
+        "year": "2026/10/24",
+        "publisher": "Landscape Ecology",
+        "author": "Dorian M. Gaboriau, Marianne F. S. Vogel, Hugo Asselin, Martin P. Girardin, Ma\u00eblis Olivier, Th\u00e9odore H. Sheth, Jordan Paillard, Rapha\u00ebl Chavard\u00e8s, Carsten Meyer-Jacob, Christopher Carcaillet, Pierre J. H. Richard, Jean J. Veillette, Adam A. Ali, Yves Bergeron",
+        "url": null,
         "firstOrLast": false,
         "datasource": "Scholars"
       }
