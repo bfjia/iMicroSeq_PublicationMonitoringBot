@@ -1,44 +1,29 @@
 {
-  "OmUy3vUAAAAJ": {
-    "Name": "Rob Beiko",
+  "whtcVqwAAAAJ": {
+    "Name": "Stephanie Guilherme",
     "total_new": "1",
     "publications": {
-      "q3CdL3IzO_QC": {
-        "title": "Correction: Automated eDNA and eRNA profiling for biodiversity monitoring in marine and freshwater ecosystems",
-        "year": "2026/10/22",
-        "publisher": "Scientific Reports",
-        "author": "Robert G Beiko, Jennifer Tolman, Soma Sardar Barawi, Mohamed Fares, Sneha Surya Narayana Murthy, Tom Knox, Connor M Mackie, Iain Grundke, Nicholas W Jeffery, Ryan RE Stanley, Vincent Sieben, Julie LaRoche",
-        "url": "https://www.nature.com/articles/s41598-026-77468-8",
+      "0EnyYjriUFMC": {
+        "title": "Tracking disinfection by-products in northern Canada: impacts of dissolved organic matter and regional variation",
+        "year": "2025",
+        "publisher": "Arctic Science",
+        "author": "Camilo A Herrera, J\u00e9r\u00f4me Comte, St\u00e9phanie Guilherme, Manuel Rodriguez, Tim Anaviapik-Soucie, Vincent L'Herault, Danny Masuzumi, Daniel Jackson, Marie-Ange Moisan, Isabelle Laurion",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/as-2026-0016",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
     }
   },
-  "v9h5yVEAAAAJ": {
-    "Name": "Art FY Poon",
+  "Ohu9Gc4AAAAJ": {
+    "Name": "B. Jesse Shapiro",
     "total_new": "1",
     "publications": {
-      "mlAyqtXpCwEC": {
-        "title": "Assessing the impact of phylogenetic reconstruction error on genetic reassortment inference in segmented viruses",
-        "year": "2026/10/22",
-        "publisher": "PLoS One",
-        "author": "Hugo G Castel\u00e1n-S\u00e1nchez, Art FY Poon",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360852",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "-bIc5H0AAAAJ": {
-    "Name": "Sarah Otto",
-    "total_new": "1",
-    "publications": {
-      "IfvCfoBprpQC": {
-        "title": "Evolutionary rescue in toxic combinations of metal is dependent on metal interactions",
-        "year": "2026",
-        "publisher": "bioRxiv",
-        "author": "Penelope C Kahn, Sarah P Otto",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.10.16.759775.abstract",
+      "jODAHDUrbwUC": {
+        "title": "Cholera rapid diagnostic test performance at the host\u2013microbe interface: a prospective longitudinal study in Bangladesh",
+        "year": "2026/10/23",
+        "publisher": "The Lancet Microbe",
+        "author": "Sharia M Ahmed, Md Abu Sayeed, Ishae Sriguha, Emilee T Cato, Ashton Creasy-Marrazzo, Kamrul Islam, Md Imam Ul Khabir, Md Taufiqur R Bhuiyan, Yasmin Begum, Md Taufiqul Islam, Zahid Hasan Khan, Emma Freeman, Ani Vustepalli, Lindsey Brinkley, Manasi Kamat, Laura S Bailey, Naima Madi, Firdausi Qadri, B Jesse Shapiro, Daniel T Leung, Kari B Basso, David A Sack, Jason R Andrews, Ashraful I Khan, Eric J Nelson",
+        "url": "https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(26)00134-5/fulltext",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
