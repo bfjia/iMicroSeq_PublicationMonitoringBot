@@ -1,29 +1,14 @@
 {
-  "whtcVqwAAAAJ": {
-    "Name": "Stephanie Guilherme",
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
     "total_new": "1",
     "publications": {
-      "0EnyYjriUFMC": {
-        "title": "Tracking disinfection by-products in northern Canada: impacts of dissolved organic matter and regional variation",
-        "year": "2025",
-        "publisher": "Arctic Science",
-        "author": "Camilo A Herrera, J\u00e9r\u00f4me Comte, St\u00e9phanie Guilherme, Manuel Rodriguez, Tim Anaviapik-Soucie, Vincent L'Herault, Danny Masuzumi, Daniel Jackson, Marie-Ange Moisan, Isabelle Laurion",
-        "url": "https://cdnsciencepub.com/doi/abs/10.1139/as-2026-0016",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "Ohu9Gc4AAAAJ": {
-    "Name": "B. Jesse Shapiro",
-    "total_new": "1",
-    "publications": {
-      "jODAHDUrbwUC": {
-        "title": "Cholera rapid diagnostic test performance at the host\u2013microbe interface: a prospective longitudinal study in Bangladesh",
+      "KTDIBVVWKcsC": {
+        "title": "Long-term study on spatiotemporal prevalence, distribution, and diversity of clinically relevant and environmental Acinetobacter species in Canadian agricultural watersheds",
         "year": "2026/10/23",
-        "publisher": "The Lancet Microbe",
-        "author": "Sharia M Ahmed, Md Abu Sayeed, Ishae Sriguha, Emilee T Cato, Ashton Creasy-Marrazzo, Kamrul Islam, Md Imam Ul Khabir, Md Taufiqur R Bhuiyan, Yasmin Begum, Md Taufiqul Islam, Zahid Hasan Khan, Emma Freeman, Ani Vustepalli, Lindsey Brinkley, Manasi Kamat, Laura S Bailey, Naima Madi, Firdausi Qadri, B Jesse Shapiro, Daniel T Leung, Kari B Basso, David A Sack, Jason R Andrews, Ashraful I Khan, Eric J Nelson",
-        "url": "https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(26)00134-5/fulltext",
+        "publisher": "Canadian Journal of Microbiology",
+        "author": "Yanzhao Tang, Carmela Duckworth, Danielle Schneiderman, Emilia Craiovan, Ayush Kumar, David R Lapen, Izhar Khan",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjm-2026-0111",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
