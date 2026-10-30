@@ -1,15 +1,45 @@
 {
-  "whtcVqwAAAAJ": {
-    "Name": "Stephanie Guilherme",
+  "kXK5pzQAAAAJ": {
+    "Name": "Natalie C Knox",
     "total_new": "1",
     "publications": {
-      "roLk4NBRz8UC": {
-        "title": "Microbiological quality of drinking water in northern communities: Influence of source water and treatment processes.",
-        "year": "2026",
-        "publisher": "Arctic Science",
-        "author": "Marie-Ange Moisan, Isabelle Laurion, Tim Anaviapik-Soucie, Daniel Jackson, Danny Masuzumi, Vincent L'Herault, Fran\u00e7ois Guillemette, St\u00e9phanie Guilherme, Thomas A Edge, Faizan Saleem, Herb Schellhorn, Kirsty EB Gurney, Camilo Andres Herrera Molina, J\u00e9r\u00f4me Comte",
-        "url": "https://espace.inrs.ca/id/eprint/16724/",
+      "f2IySw72cVMC": {
+        "title": "Gut Microbiome and Physical Activity in Paediatric-Onset Multiple Sclerosis",
+        "year": "2026/10/26",
+        "publisher": "Multiple Sclerosis and Related Disorders",
+        "author": "S Stephens, T Da Silva, F Zhu, DL Arnold, B Banwell, A Bar-Or, CN Bernstein, C Bonner, M Graham, N Knox, J O\u2019Mahony, RA Marrie, AI Mirza, G Van Domselaar, E Waubant, Y Zhao, H Tremlett, EA Yeh, Canadian Demyelinating Disease Network",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2211034826010588",
         "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "S2HhkvEAAAAJ": {
+    "Name": "Sarah Dorner",
+    "total_new": "1",
+    "publications": {
+      "Z5m8FVwuT1cC": {
+        "title": "Fate of antimicrobial resistance genes and non-tuberculous mycobacteria across a full-scale wastewater biological treatment plant with effluent ozonation",
+        "year": "2026/11/1",
+        "publisher": "Journal of Water Process Engineering",
+        "author": "Margot Cazals, Malek Harrabi, Arthur Ouradou, Helena Ferreira Leal, Sarah Dorner, Benoit Barbeau, Emilie B\u00e9dard",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2214714426016624",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "rHFCtWwAAAAJ": {
+    "Name": "Finlay Maguire",
+    "total_new": "1",
+    "publications": {
+      "5Ul4iDaHHb8C": {
+        "title": "Influenza A virus H5Nx genotypes assigned by genetic similarity are incongruent with global phylogenies",
+        "year": "2026",
+        "publisher": "bioRxiv",
+        "author": "Angela McLaughlin, Hoc Tran, Deanna Tait, Hoang-Hai Nguyen, Josip Rudar, Jolene A Giacinti, Anthony V Signore, Oliver A Lung, Yohannes Berhane, Zvonimir Poljak, Finlay Maguire",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.756838.abstract",
+        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
