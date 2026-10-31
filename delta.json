@@ -1,45 +1,30 @@
 {
-  "kXK5pzQAAAAJ": {
-    "Name": "Natalie C Knox",
+  "ThjB_RcAAAAJ": {
+    "Name": "Jiannis Ragoussis",
     "total_new": "1",
     "publications": {
-      "f2IySw72cVMC": {
+      "qE4H1tSSYIIC": {
+        "title": "Whole-transcriptome single-cell spatial landscape of instability in human carotid atherosclerosis",
+        "year": "2026/10/26",
+        "publisher": "Cardiovascular Research",
+        "author": "Jae Hyun Byun, Yiming Cao, Ashot S Harutyunyan, Spyros Oikonomopoulos, Jiannis Ragoussis, John P Veinot, Helena Papacostas Quintanilla, Stella S Daskalopoulou",
+        "url": "https://academic.oup.com/cardiovascres/advance-article/doi/10.1093/cvr/cvag253/9001874",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "LghEfpEAAAAJ": {
+    "Name": "Gary Van Domselaar",
+    "total_new": "1",
+    "publications": {
+      "N5XbD978G_MC": {
         "title": "Gut Microbiome and Physical Activity in Paediatric-Onset Multiple Sclerosis",
         "year": "2026/10/26",
         "publisher": "Multiple Sclerosis and Related Disorders",
         "author": "S Stephens, T Da Silva, F Zhu, DL Arnold, B Banwell, A Bar-Or, CN Bernstein, C Bonner, M Graham, N Knox, J O\u2019Mahony, RA Marrie, AI Mirza, G Van Domselaar, E Waubant, Y Zhao, H Tremlett, EA Yeh, Canadian Demyelinating Disease Network",
         "url": "https://www.sciencedirect.com/science/article/pii/S2211034826010588",
         "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "S2HhkvEAAAAJ": {
-    "Name": "Sarah Dorner",
-    "total_new": "1",
-    "publications": {
-      "Z5m8FVwuT1cC": {
-        "title": "Fate of antimicrobial resistance genes and non-tuberculous mycobacteria across a full-scale wastewater biological treatment plant with effluent ozonation",
-        "year": "2026/11/1",
-        "publisher": "Journal of Water Process Engineering",
-        "author": "Margot Cazals, Malek Harrabi, Arthur Ouradou, Helena Ferreira Leal, Sarah Dorner, Benoit Barbeau, Emilie B\u00e9dard",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2214714426016624",
-        "firstOrLast": false,
-        "datasource": "Scholars"
-      }
-    }
-  },
-  "rHFCtWwAAAAJ": {
-    "Name": "Finlay Maguire",
-    "total_new": "1",
-    "publications": {
-      "5Ul4iDaHHb8C": {
-        "title": "Influenza A virus H5Nx genotypes assigned by genetic similarity are incongruent with global phylogenies",
-        "year": "2026",
-        "publisher": "bioRxiv",
-        "author": "Angela McLaughlin, Hoc Tran, Deanna Tait, Hoang-Hai Nguyen, Josip Rudar, Jolene A Giacinti, Anthony V Signore, Oliver A Lung, Yohannes Berhane, Zvonimir Poljak, Finlay Maguire",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.756838.abstract",
-        "firstOrLast": true,
         "datasource": "Scholars"
       }
     }
