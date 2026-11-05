@@ -1,14 +1,29 @@
 {
-  "MNqeC0sAAAAJ": {
-    "Name": "Robert Michael McKay",
+  "tBwE4O4AAAAJ": {
+    "Name": "Ayush Kumar",
     "total_new": "1",
     "publications": {
-      "vDZJ-YLwNdEC": {
-        "title": "A genomic catalog of Earth\u2019s microbiomes",
-        "year": "2021/4",
-        "publisher": "Nature Biotechnology",
-        "author": "R Michael McKay, IMG/M Data Consortium",
-        "url": "https://profiles.bgsu.edu/en/publications/a-genomic-catalog-of-earths-microbiomes/",
+      "JzmTb4SyfQcC": {
+        "title": "Comparative genomic analysis for selected members of the Ophiostomatales: insights into biosynthetic gene clusters and CAZymes",
+        "year": "2026/10/29",
+        "publisher": "Canadian Journal of Microbiology",
+        "author": "Sawsan Abed, Ayush Kumar, Georg Hausner",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjm-2026-0110",
+        "firstOrLast": false,
+        "datasource": "Scholars"
+      }
+    }
+  },
+  "7XHhgCIAAAAJ": {
+    "Name": "Andrew DS Cameron",
+    "total_new": "1",
+    "publications": {
+      "U3qCfcK-7lkC": {
+        "title": "Coincidental observation of a parvovirus during a targeted bacterial survey of cattle suffering from septic arthritis",
+        "year": "2026/10/21",
+        "publisher": "Canadian Journal of Microbiology",
+        "author": "Dani\u00ebl Kos, Ashton N Sies, Murray Jelinski, Andrew DS Cameron, Antonio Ruzzini",
+        "url": "https://cdnsciencepub.com/doi/abs/10.1139/cjm-2026-0033",
         "firstOrLast": false,
         "datasource": "Scholars"
       }
