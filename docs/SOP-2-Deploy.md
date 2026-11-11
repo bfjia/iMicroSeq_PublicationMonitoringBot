@@ -55,13 +55,13 @@ Do this only after the bot has run in test mode for a QA period.
 - [ ] The messages in the debug channel have looked right for the whole QA period.
 - [ ] The review queue is under control (not a growing pile of unhandled "Needs review" items).
 - [ ] The production sheet is shared with the service account as Editor.
-- [ ] In `publii.sh`, change `isLive=false` to `isLive=true`. Commit it on `main`.
-- [ ] This sends new-publication messages to `C097CKA5U4X` and adds Sheet rows to the PRODUCTION spreadsheet (the script passes `--live`). Review items, summaries and failure alerts still go to the debug channel.
+- [ ] In `config.py`, change `isLive = False` to `isLive = True`. Commit it on `main`.
+- [ ] This sends new-publication messages to `C097CKA5U4X` and adds Sheet rows to the PRODUCTION spreadsheet (`publii.sh` passes `--live`, and the Sheet script refuses `--live` unless `isLive` is True). Review items, summaries and failure alerts still go to the debug channel.
 - [ ] Run **Daily publication check** once by hand and confirm: summary in debug, and (if there was news) the message in the production channel and rows in the production sheet.
 
 ## Rollback
 1. Stop the schedule: **Actions**, **Daily publication check**, the **...** menu at top right, **Disable workflow**.
-2. Set `isLive=false` in `publii.sh` and commit.
+2. Set `isLive = False` in `config.py` and commit.
 3. If a bad run saved bad state, find the "Update YYYYMMDD" commit in **Commits** and revert it: `git pull`, then `git revert <commit-id>`, then `git push`.
 4. Clean up what was already posted. The bot cannot undo this. Delete the Slack message by hand (hover, **...**, **Delete message**), and delete the wrong rows from the Sheet (right-click the row number, **Delete row**).
 5. When fixed, use **Enable workflow** on the same menu.

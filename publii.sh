@@ -5,11 +5,14 @@
 
 PYTHON=${PYTHON:-python}
 
-debugChannel="C09D86E4T5H"       #publication_monitor_debug
-productionChannel="C097CKA5U4X"  #publications
-#GO-LIVE SWITCH. false (testing): everything posts to the debug channel and rows go to the TEST copy of the Google Sheet.
-#true: new publications post to the production channel and rows go to the PRODUCTION Google Sheet.
-isLive=false
+#Settings (channels and the isLive go-live switch) are in config.py. Booleans are printed as true/false.
+readConfig() {
+	$PYTHON -c "import config; v = config.$1; print(str(v).lower() if isinstance(v, bool) else v)"
+}
+debugChannel=$(readConfig debugChannel)
+productionChannel=$(readConfig productionChannel)
+isLive=$(readConfig isLive)
+echo "[INFO] isLive=$isLive"
 
 handle_error() {
 	local exitCode=$?

@@ -64,7 +64,7 @@ python tests/RunOfflineTests.py
 ```bash
 PYTHON=python3 ./publii.sh
 ```
-While `isLive=false` in `publii.sh`, this posts only to the debug channel and writes only to the TEST sheet. It never touches the production channel or sheet.
+While `isLive = False` in `config.py`, this posts only to the debug channel and writes only to the TEST sheet. It never touches the production channel or sheet.
 
 ## Check it worked
 - The offline tests finish without errors.

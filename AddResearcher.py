@@ -17,11 +17,10 @@ import researcherRoster
 
 # ---- Configuration ----
 reportFile = "addResearcherReport.md"
-maxCandidates = 8          # how many search hits to score
-shownCandidates = 5        # how many to show in the report
-minNameScore = 0.8         # below this the best hit is not proposed (NO_MATCH)
-homeCountry = "CA"         # iMicroSeq is a Canadian network; used as a ranking hint only
-recentAffiliationYears = 6
+# Tunable settings live in config.py (see the comments there).
+from config import (maxCandidates, shownCandidates, minNameScore, homeCountry, recentAffiliationYears,
+                    rankWeightName, rankWeightCountry, rankWeightNetwork, networkOverlapCap,
+                    fragmentMinNameScore, fragmentMaxWorks, addResearcherPauseSeconds)
 
 
 def normalizeText(text):
@@ -105,7 +104,8 @@ def scoreCandidates(name, candidates, monitoredIDs):
         overlap, overlapTitles = networkOverlap(candidateID, monitoredIDs) if score >= 0.5 else (0, [])
         inHomeCountry = any(country == homeCountry for _, _, country in institutions)
         # Co-authoring with people already monitored is the strongest signal that this is the right person.
-        rank = 0.45 * score + 0.15 * (1 if inHomeCountry else 0) + 0.40 * min(overlap, 5) / 5.0
+        rank = (rankWeightName * score + rankWeightCountry * (1 if inHomeCountry else 0)
+                + rankWeightNetwork * min(overlap, networkOverlapCap) / float(networkOverlapCap))
         scored.append({"id": candidateID, "candidate": candidate, "nameScore": score, "institutions": institutions,
                        "inHomeCountry": inHomeCountry, "overlap": overlap, "overlapTitles": overlapTitles, "rank": round(rank, 2)})
     scored.sort(key=lambda s: (s["rank"], s["candidate"].get("works_count", 0)), reverse=True)
@@ -118,10 +118,10 @@ def proposeIDs(scored):
     bestInstitutions = set(i for i, _, _ in best["institutions"])
     proposed = [best]
     for other in scored[1:]:
-        if other["nameScore"] < 0.85:
+        if other["nameScore"] < fragmentMinNameScore:
             continue
         sharesInstitution = bool(bestInstitutions & set(i for i, _, _ in other["institutions"]))
-        if sharesInstitution and (other["overlap"] > 0 or other["candidate"].get("works_count", 0) <= 25):
+        if sharesInstitution and (other["overlap"] > 0 or other["candidate"].get("works_count", 0) <= fragmentMaxWorks):
             proposed.append(other)
     return proposed
 
@@ -213,7 +213,7 @@ if __name__ == "__main__":
         if not name:
             continue
         addResearcher(name, orcid, rows, monitoredIDs, report)
-        time.sleep(0.3)
+        time.sleep(addResearcherPauseSeconds)
 
     researcherRoster.saveResearchers(rows)
     with open(reportFile, "w", encoding="utf-8") as f:

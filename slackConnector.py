@@ -6,18 +6,19 @@ import sys
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
 
-maxChunkLength = 3500
+# Settings live in config.py (see the comments there).
+from config import debugChannel, slackTokenFile, slackMaxChunkLength as maxChunkLength
 
 def getToken():
     token = os.environ.get("SLACK_BOT_TOKEN", "").strip()
     if token:
         return token
-    if os.path.exists(".secret/pubiioauthtoken"):
-        with open(".secret/pubiioauthtoken", 'r') as fh:
+    if os.path.exists(slackTokenFile):
+        with open(slackTokenFile, 'r') as fh:
             token = fh.readline().strip()
         if token:
             return token
-    print("[ERROR] Slack token not found. Set SLACK_BOT_TOKEN or place the oauth token in .secret/pubiioauthtoken (do not push it into git).")
+    print("[ERROR] Slack token not found. Set SLACK_BOT_TOKEN or place the oauth token in " + slackTokenFile + " (do not push it into git).")
     sys.exit(1)
 
 def splitLongLine(line, maxLength):
@@ -72,7 +73,7 @@ if __name__ == "__main__":
                         help="path to the file to be uploaded, can specify multiple")
     parser.add_argument("--messagefile", type=str, default=None,
                         help="The filepath for a text file to be sent as the message")
-    parser.add_argument("--channel", type=str, default="C09D86E4T5H",
+    parser.add_argument("--channel", type=str, default=debugChannel,
                         help="Specify the channel that the message should be sent to, default: publication_monitor_debug")
     parser.add_argument("--thread", type=str, default=None,
                         help="Specify the thread that the message should be sent to")

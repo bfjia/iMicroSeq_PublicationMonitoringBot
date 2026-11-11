@@ -10,15 +10,11 @@ import urllib.parse
 import urllib.request
 
 # ---- Configuration ----
-openAlexBaseURL = "https://api.openalex.org"
+# Settings live in config.py (see the comments there).
+from config import openAlexBaseURL, userAgent, maxRetries, requestTimeout, maxRetryAfterSeconds
 # Free key from https://openalex.org/settings/api-key. Works without one, but the keyless budget is
 # tiny ($0.10/day) and shared with everyone on the same IP - on GitHub Actions that's other people.
 openAlexApiKey = os.environ.get("OPENALEX_API_KEY", "").strip()
-userAgent = "PublicationMonitoringBot/2.0 (python-urllib)"
-maxRetries = 6
-requestTimeout = 60
-# A 429 that asks us to wait longer than this means the daily budget is gone; fail instead of sleeping.
-maxRetryAfterSeconds = 300
 
 
 def shortID(openAlexID):

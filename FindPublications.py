@@ -26,20 +26,9 @@ deltaJsonFile = 'delta.json'
 msgFile = 'msg.md'
 reviewFile = 'review.md'
 summaryFile = 'summary.md'
-# How far back to look for publications (replaces the old hardcoded year >= 2025).
-lookbackDays = 365
-# More confident new items than this in one run is suspicious (profile merge, mass re-index): hold them all for review.
-maxNewPerRun = 40
-# A new item whose OpenAlex record was created more than this many days ago was re-attributed, not newly published.
-lateIndexDays = 30
-# Co-authors (surname + first initial) a new item must share with the researcher's known publications to count as confident.
-minSharedCoauthors = 2
+# Tunable settings live in config.py (see the comments there).
+from config import lookbackDays, maxNewPerRun, lateIndexDays, minSharedCoauthors, ignoredTypes, ignoredTitlePattern
 workFields = 'id,doi,title,display_name,type,publication_date,created_date,primary_location,authorships'
-# OpenAlex work types never stored or announced, e.g. ['dataset', 'software', 'peer-review', 'erratum'].
-# Empty = announce every type (articles, reviews, preprints, chapters, datasets, software, ...).
-ignoredTypes = []
-# Supplementary-file deposits (e.g. Figshare "Additional file 3 of <paper>") are not publications; skip them entirely.
-ignoredTitlePattern = re.compile(r'^\s*(additional file|supplementary (file|material|table|figure|data|information))\b', re.IGNORECASE)
 nameSuffixes = ['jr', 'sr', 'ii', 'iii', 'iv']
 
 

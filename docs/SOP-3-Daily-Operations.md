@@ -71,7 +71,7 @@ In `researchers.tsv`, change their Status to `INACTIVE` and commit. Their histor
 Theses, university-repository deposits, conference abstracts and other items without a DOI are often missing ([Missed items](Workflow.md#missed-items)). To add one: open the Google Sheet, right-click row 2 and **Insert row above**, and copy the layout of the row below. Columns are: participant, title, date added, publisher, authors, url, firstOrLast (True or False), blank, year. Post it in Slack by hand if wanted.
 
 ### Changing which types are announced
-Open `FindPublications.py` on GitHub and edit the line near the top, for example:
+Open `config.py` on GitHub and edit the `ignoredTypes` line, for example:
 ```
 ignoredTypes = ['dataset', 'software', 'peer-review']
 ```

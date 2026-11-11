@@ -8,13 +8,13 @@ from googleapiclient.discovery import build
 from google.oauth2 import service_account
 
 # ---- Configuration ----
-# Rows go to the TEST copy unless --live is passed (publii.sh passes it only when isLive=true).
+# Settings live in config.py (see the comments there).
+# Rows go to the TEST copy unless --live is passed AND config.isLive is True (publii.sh passes --live only then).
 # The production sheet must never receive test rows.
-productionSpreadsheetID = "14XeOue130U_01iplm2slQgGWtXyZAurWw1cikuDLga0"
-testSpreadsheetID = "1ZUfZRNoR_WRCu7o32oJqfXaNXPPFFQUfP7UVv9vz0NQ"  # TEST_COPY_OF_iMicroSeqPubsSince20250601
-sheetTabID = 1533674458  # tab 'iMicroSeqPubsSince20250601'; same id in both spreadsheets (not the 0-based index)
+import config
+from config import productionSpreadsheetID, testSpreadsheetID, sheetTabID, googleCredentialsFile, googleScopes
 
-def getCredentials(credsPath = "./.secret/googleToken", scopes = ["https://www.googleapis.com/auth/spreadsheets"]):
+def getCredentials(credsPath = googleCredentialsFile, scopes = googleScopes):
     #env GOOGLE_SERVICE_ACCOUNT_JSON (the JSON content) wins, else the file in .secret
     envJson = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON", "").strip()
     if envJson:
@@ -88,6 +88,10 @@ if __name__ == "__main__":
     jsonFile = "delta.json"
     dryRun = "--dryRun" in sys.argv
     isLive = "--live" in sys.argv
+    if isLive and config.isLive is not True:
+        # second lock: --live alone is not enough to write to the production sheet
+        print("[ERROR] --live was passed but isLive is False in config.py; refusing to write to the PRODUCTION sheet.")
+        sys.exit(1)
     spreadsheetID = productionSpreadsheetID if isLive else testSpreadsheetID
     print("[INFO] Google Sheet target: " + ("PRODUCTION" if isLive else "TEST copy") + (" (dry run, nothing written)" if dryRun else ""))
 

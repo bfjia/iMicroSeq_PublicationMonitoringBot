@@ -54,7 +54,8 @@ jobs:
             # GitHub disables schedules after 60 days without repo activity
             lastCommit=$(git log -1 --format=%ct)
             ageDays=$(( ( $(date +%s) - lastCommit ) / 86400 ))
-            if [ "$ageDays" -gt 50 ]; then
+            keepaliveDays=$(python -c "import config; print(config.keepaliveDays)")
+            if [ "$ageDays" -gt "$keepaliveDays" ]; then
               git commit --allow-empty -m "Keepalive $dateNow"
               git pull --rebase
               git push
@@ -71,10 +72,12 @@ jobs:
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           text="The publication bot run failed outside the pipeline step (setup, tests or saving state). Run: $RUN_URL"
+          # debugChannel from config.py; the literal is a fallback in case config.py itself is what broke
+          channel=$(python3 -c "import config; print(config.debugChannel)" 2>/dev/null || echo "C09D86E4T5H")
           curl -sS -X POST https://slack.com/api/chat.postMessage \
             -H "Authorization: Bearer $SLACK_BOT_TOKEN" \
             -H "Content-Type: application/json; charset=utf-8" \
-            --data "{\"channel\": \"C09D86E4T5H\", \"text\": \"$text\"}"
+            --data "{\"channel\": \"$channel\", \"text\": \"$text\"}"
 
       - name: Upload log
         if: always()

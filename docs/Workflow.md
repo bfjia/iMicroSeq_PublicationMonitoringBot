@@ -47,9 +47,10 @@ GitHub Actions runs all of this daily and commits allpubs.json / delta.json.
 | `allpubs.json` | The bot's memory: every paper seen, per OpenAlex id. Never edit by hand. |
 | `delta.json` | The confident new papers from the latest run. Feeds the Google Sheet step. |
 | `msg.md`, `review.md`, `summary.md` | The three Slack messages from the latest run. Not committed. |
-| `FindPublications.py` | The daily check. Settings are at the top of the file. |
+| `config.py` | Every setting in one place, each with a comment: the `isLive` switch, Slack channels, Sheet ids, the daily-check thresholds, `AddResearcher.py` scoring, OpenAlex retries. Edit settings here. |
+| `FindPublications.py` | The daily check. |
 | `AddResearcher.py` | Finds the OpenAlex profile for a new person. Writes `addResearcherReport.md`. |
-| `publii.sh` | Runs the steps and posts. Contains the `isLive` switch. |
+| `publii.sh` | Runs the steps and posts. Reads the channels and `isLive` from `config.py`. |
 | `slackConnector.py`, `GoogleSheetAPIConnector.py`, `openAlexClient.py`, `researcherRoster.py` | Helpers for Slack, the Sheet, OpenAlex and reading `researchers.tsv`. |
 | `.github/workflows/` | `publii.yml` (daily run) and `addResearcher.yml` (the "Add researcher candidate" button). |
 | `tests/` | Offline tests. Run by the workflow before every daily run. |
@@ -84,9 +85,9 @@ An item is announced or sent to review once only. After that it is stored as see
 
 ## Test mode and live mode
 
-The switch is `isLive` near the top of `publii.sh`. It is currently `false`.
+The switch is `isLive` in `config.py`. It is currently `False`.
 
-| | `isLive=false` (test mode) | `isLive=true` (live) |
+| | `isLive = False` (test mode) | `isLive = True` (live) |
 |---|---|---|
 | New publications message | Debug channel `C09D86E4T5H` | Production channel `C097CKA5U4X` |
 | Needs review, summary, failure alerts | Debug channel | Debug channel |
