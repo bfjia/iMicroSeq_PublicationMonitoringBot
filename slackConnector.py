@@ -1,90 +1,99 @@
-#since this isnt a constant connection bot, we dont need to run things async. For now, lets initialize as an slack_bolt.App rather than .AsyncApp.
-#this drops the async libraries required to reduce the amount of dependencies we need.
-#requires pip packages slack-bolt
+#Thin CLI over slack_sdk. Token from env SLACK_BOT_TOKEN, falling back to .secret/pubiioauthtoken.
+#requires pip package slack-sdk
 import os
 import argparse
 import sys
-#import json
-from slack_bolt import App
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
-#in fact, we dont even need to use socketmode, we dgaf about listening to events for now. 
-#from slack_bolt.adapter.socket_mode import SocketModeHandler
 
-def initSlackBot():
-    if not (os.path.exists(".secret/pubiioauthtoken") and os.path.exists(".secret/pubiiapptoken")):
-        print ("This script reqires the oauth token and app token for duoli to be placed in .secret/duolioauthtoken and .secret/duoliapptoken")
-        print ("Please check that they exist and the tokens are valid.")
-        print ("Remeber to not push them into git.")
-        sys.exit("token not found.")
+maxChunkLength = 3500
 
-    with open (".secret/pubiioauthtoken", 'r') as fh:
-        authToken = fh.readline().strip()
-    with open (".secret/pubiiapptoken", 'r') as fh:
-        appToken = fh.readline().strip()
-        #appToken is used for websocket connections, NOT USED CURRENTLY
+def getToken():
+    token = os.environ.get("SLACK_BOT_TOKEN", "").strip()
+    if token:
+        return token
+    if os.path.exists(".secret/pubiioauthtoken"):
+        with open(".secret/pubiioauthtoken", 'r') as fh:
+            token = fh.readline().strip()
+        if token:
+            return token
+    print("[ERROR] Slack token not found. Set SLACK_BOT_TOKEN or place the oauth token in .secret/pubiioauthtoken (do not push it into git).")
+    sys.exit(1)
 
-    app = App(token=authToken)
-    client = WebClient(token=authToken)
+def splitLongLine(line, maxLength):
+    return [line[i:i+maxLength] for i in range(0, len(line), maxLength)]
 
-    return app, client
-
-def sendMessage(app, client, channel_id, fileList, message_filepath, threadTS, message_text):
-    ts = 0
-    try:
-        if (len(fileList) >0):
-            for file in fileList:
-                upload=client.files_upload_v2(file=file,filename=file)
-                message_text=message_text+" <"+upload['file']['permalink']+"| > "
-            #print(message_text)
-            if (threadTS != None):
-                response = client.chat_postMessage(channel=channel_id,text=message_text, thread_ts=threadTS, unfurl_links=False, unfurl_media=False)
-            else:
-                response = client.chat_postMessage(channel=channel_id,text=message_text, unfurl_links=False, unfurl_media=False)
-            #response = client.files_upload_v2(channel=channel_id,initial_comment=message_text,file_uploads=filesJson)
+def splitMessage(text, maxLength=maxChunkLength):
+    #split on blank lines first, then on lines, then hard-cut anything still too long
+    chunks = []
+    current = ""
+    for paragraph in text.split("\n\n"):
+        if len(paragraph) > maxLength:
+            pieces = []
+            for line in paragraph.split("\n"):
+                pieces.extend(splitLongLine(line, maxLength))
+            sep = "\n"
         else:
-            if (threadTS != None):
-                response = client.chat_postMessage(channel=channel_id,text=message_text, thread_ts=threadTS, unfurl_links=False, unfurl_media=False )
+            pieces = [paragraph]
+            sep = "\n\n"
+        for piece in pieces:
+            candidate = piece if current == "" else current + sep + piece
+            if len(candidate) <= maxLength:
+                current = candidate
             else:
-                response = client.chat_postMessage(channel=channel_id,text=message_text, unfurl_links=False, unfurl_media=False )
+                if current != "":
+                    chunks.append(current)
+                current = piece
+    if current.strip() != "":
+        chunks.append(current)
+    return chunks
 
+def sendMessage(client, channelID, fileList, threadTS, messageText):
+    ts = 0
+    chunks = splitMessage(messageText) if messageText.strip() != "" else []
+    for file in fileList:
+        upload = client.files_upload_v2(file=file, filename=os.path.basename(file))
+        link = " <" + upload['file']['permalink'] + "| > "
+        if len(chunks) > 0:
+            chunks[-1] = chunks[-1] + link
+        else:
+            chunks.append(link)
+    for chunk in chunks:
+        response = client.chat_postMessage(channel=channelID, text=chunk, thread_ts=threadTS, unfurl_links=False, unfurl_media=False)
         ts = response['ts']
-    except SlackApiError as e:
-        print("Error sending message: {}".format(e))
-
     return ts
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser("Duoli - Duotang's slack integration.")
 
-    parser.add_argument("--message", type=str, 
+    parser.add_argument("--message", type=str, default=None,
                         help="The message to be sent")
-    parser.add_argument("--file",action='extend', nargs="+",  default=[],
+    parser.add_argument("--file", action='extend', nargs="+", default=[],
                         help="path to the file to be uploaded, can specify multiple")
     parser.add_argument("--messagefile", type=str, default=None,
                         help="The filepath for a text file to be sent as the message")
     parser.add_argument("--channel", type=str, default="C09D86E4T5H",
-                        help="Specify the channel that the message should be sent to, default: duotang-integrations")
+                        help="Specify the channel that the message should be sent to, default: publication_monitor_debug")
     parser.add_argument("--thread", type=str, default=None,
                         help="Specify the thread that the message should be sent to")
 
     args = parser.parse_args()
-    
-    #old covarrnet channel: C046T5JA48H
 
-    app, client = initSlackBot()
-    
-    channel_id = args.channel
-    fileList = args.file
-    message_filepath = args.messagefile
-    threadTS = args.thread
-    
-    if (message_filepath != None):
-        with open (message_filepath, 'r') as fh:
-            message_text = fh.read()
+    if args.messagefile is not None:
+        with open(args.messagefile, 'r') as fh:
+            messageText = fh.read()
     else:
-        message_text = args.message
-    
-    ts = sendMessage(app, client, channel_id, fileList, message_filepath, threadTS, message_text)
+        messageText = args.message or ""
+
+    if messageText.strip() == "" and len(args.file) == 0:
+        print("[INFO] Empty message and no files, skipping Slack post.")
+        sys.exit(0)
+
+    client = WebClient(token=getToken())
+    try:
+        ts = sendMessage(client, args.channel, args.file, args.thread, messageText)
+    except SlackApiError as e:
+        print("[ERROR] Error sending message: {}".format(e))
+        sys.exit(1)
 
     print(ts)

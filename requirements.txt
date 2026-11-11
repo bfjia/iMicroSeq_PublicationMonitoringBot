@@ -1,8 +1,4 @@
 python-dateutil
 google-auth
 google-api-python-client
-scholarly
-selenium
-slack-bolt
 slack-sdk
-requests

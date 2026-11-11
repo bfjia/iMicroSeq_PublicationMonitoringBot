@@ -1,0 +1,1936 @@
+[
+ {
+  "id": "https://openalex.org/W7221010631",
+  "doi": "https://doi.org/10.1128/mra.00829-26",
+  "title": "Draft genome sequences of Bibersteinia trehalosi isolates from western Canadian feedlot cattle",
+  "display_name": "Draft genome sequences of Bibersteinia trehalosi isolates from western Canadian feedlot cattle",
+  "type": "article",
+  "publication_date": "2026-10-08",
+  "created_date": "2026-10-09T00:00:00",
+  "primary_location": {
+   "landing_page_url": "https://doi.org/10.1128/mra.00829-26",
+   "source": {
+    "id": "https://openalex.org/S4210232526",
+    "display_name": "Microbiology Resource Announcements",
+    "type": "journal"
+   }
+  },
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5062116564",
+     "display_name": "Sara Andrés-Lasheras"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Sara Andres-Lasheras"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5065758892",
+     "display_name": "Sujeema Abeysekara"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Sujeema Abeysekara"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5069055939",
+     "display_name": "Chloe Brennan"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107949126",
+      "display_name": "University of Lethbridge",
+      "lineage": [
+       "https://openalex.org/I107949126"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Chloe Brennan"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5103066911",
+     "display_name": "Trevor W. Alexander"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Trevor Alexander"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5042633786",
+     "display_name": "Tim Angus McAllister"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Tim A. McAllister"
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5033995070",
+     "display_name": "Rahat Zaheer"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Rahat Zaheer"
+   }
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7155628488",
+  "doi": "https://doi.org/10.1128/spectrum.02472-26",
+  "title": "Optimizing a culture-enriched hybrid metagenomics pipeline to assess the AMR footprint of livestock manure in anaerobic digestate",
+  "display_name": "Optimizing a culture-enriched hybrid metagenomics pipeline to assess the AMR footprint of livestock manure in anaerobic digestate",
+  "type": "article",
+  "publication_date": "2026-09-03",
+  "created_date": "2026-04-26T00:00:00",
+  "primary_location": {
+   "landing_page_url": "https://doi.org/10.1128/spectrum.02472-26",
+   "source": {
+    "id": "https://openalex.org/S2764766708",
+    "display_name": "Microbiology Spectrum",
+    "type": "journal"
+   }
+  },
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5002530043",
+     "display_name": "Nahidur Rahman"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I46247651",
+      "display_name": "University of Manitoba",
+      "lineage": [
+       "https://openalex.org/I46247651"
+      ]
+     }
+    ],
+    "raw_author_name": "Nahidur Rahman"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5134590001",
+     "display_name": "A S M Zisanur Rahman"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I46247651",
+      "display_name": "University of Manitoba",
+      "lineage": [
+       "https://openalex.org/I46247651"
+      ]
+     }
+    ],
+    "raw_author_name": "A. S. M. Zisanur Rahman"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5108485524",
+     "display_name": "David B. Levin"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I46247651",
+      "display_name": "University of Manitoba",
+      "lineage": [
+       "https://openalex.org/I46247651"
+      ]
+     }
+    ],
+    "raw_author_name": "David B. Levin"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5042633786",
+     "display_name": "Tim Angus McAllister"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I46247651",
+      "display_name": "University of Manitoba",
+      "lineage": [
+       "https://openalex.org/I46247651"
+      ]
+     }
+    ],
+    "raw_author_name": "Tim A. McAllister"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5107990610",
+     "display_name": "Nazim Çiçek"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I46247651",
+      "display_name": "University of Manitoba",
+      "lineage": [
+       "https://openalex.org/I46247651"
+      ]
+     }
+    ],
+    "raw_author_name": "Nazim Cicek"
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5031609788",
+     "display_name": "Hooman Derakhshani"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I46247651",
+      "display_name": "University of Manitoba",
+      "lineage": [
+       "https://openalex.org/I46247651"
+      ]
+     }
+    ],
+    "raw_author_name": "Hooman Derakhshani"
+   }
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7154060862",
+  "doi": "https://doi.org/10.3389/fvets.2026.1814107",
+  "title": "Correction: Integrative and conjugative elements in Mycoplasmopsis bovis from Western Canadian feedlot cattle: characterization and conjugative transfer",
+  "display_name": "Correction: Integrative and conjugative elements in Mycoplasmopsis bovis from Western Canadian feedlot cattle: characterization and conjugative transfer",
+  "type": "erratum",
+  "publication_date": "2026-04-13",
+  "created_date": "2026-04-14T00:00:00",
+  "primary_location": {
+   "landing_page_url": "https://doi.org/10.3389/fvets.2026.1814107",
+   "source": {
+    "id": "https://openalex.org/S2594976040",
+    "display_name": "Frontiers in Veterinary Science",
+    "type": "journal"
+   }
+  },
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5062116564",
+     "display_name": "Sara Andrés-Lasheras"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Sara Andres-Lasheras"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5033995070",
+     "display_name": "Rahat Zaheer"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Rahat Zaheer"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5000854319",
+     "display_name": "Rodrigo Ortega Polo"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Rodrigo Ortega-Polo"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5052160642",
+     "display_name": "Timothy Damian Schwinghamer"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Timothy Schwinghamer"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5065758892",
+     "display_name": "Sujeema Abeysekara"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Sujeema Abeysekara"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5038643122",
+     "display_name": "Athanasios Zovoilis"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I46247651",
+      "display_name": "University of Manitoba",
+      "lineage": [
+       "https://openalex.org/I46247651"
+      ]
+     }
+    ],
+    "raw_author_name": "Athanasios Zovoilis"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5077574924",
+     "display_name": "Sani-e-Zehra Zaidi"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I46247651",
+      "display_name": "University of Manitoba",
+      "lineage": [
+       "https://openalex.org/I46247651"
+      ]
+     }
+    ],
+    "raw_author_name": "Sani-e-Zehra Zaidi"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5089370531",
+     "display_name": "Murray D. Jelinski"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I32625721",
+      "display_name": "University of Saskatchewan",
+      "lineage": [
+       "https://openalex.org/I32625721"
+      ]
+     }
+    ],
+    "raw_author_name": "Murray Jelinski"
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5042633786",
+     "display_name": "Tim Angus McAllister"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331897569",
+      "display_name": "Agriculture and Agri-Food Canada",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4390039381",
+      "display_name": "Lethbridge Research and Development Centre",
+      "lineage": [
+       "https://openalex.org/I1331897569",
+       "https://openalex.org/I2802286613",
+       "https://openalex.org/I4390039381"
+      ]
+     }
+    ],
+    "raw_author_name": "Tim A. McAllister"
+   }
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7221344554",
+  "doi": "https://doi.org/10.64898/2026.10.08.757481",
+  "title": "Targeted Depletion of rRNAs and Tobamoviruses Enhances Viral Discovery in Wastewater Metatranscriptomes",
+  "display_name": "Targeted Depletion of rRNAs and Tobamoviruses Enhances Viral Discovery in Wastewater Metatranscriptomes",
+  "type": "preprint",
+  "publication_date": "2026-10-10",
+  "created_date": "2026-10-11T00:00:00",
+  "primary_location": {
+   "landing_page_url": "https://doi.org/10.64898/2026.10.08.757481",
+   "source": {
+    "id": "https://openalex.org/S4306402567",
+    "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "type": "repository"
+   }
+  },
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5112887587",
+     "display_name": "María A. Bautista"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "María A. Bautista"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5064496715",
+     "display_name": "Tulika Bhardwaj"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Tulika Bhardwaj"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5070697625",
+     "display_name": "Dylan J. Barbera"
+    },
+    "institutions": [],
+    "raw_author_name": "Dylan J. Barbera"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5061572362",
+     "display_name": "Samuel J. Rulli"
+    },
+    "institutions": [],
+    "raw_author_name": "Samuel J. Rulli"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5042621165",
+     "display_name": "Jackie Zorz"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Jackie Zorz"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5005209032",
+     "display_name": "Janine McCalder"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Janine McCalder"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5074353268",
+     "display_name": "Chloe Papparis"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Chloe Papparis"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5060135268",
+     "display_name": "Xiaoli Pang"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I154425047",
+      "display_name": "University of Alberta",
+      "lineage": [
+       "https://openalex.org/I154425047"
+      ]
+     }
+    ],
+    "raw_author_name": "Xiaoli Pang"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5002378682",
+     "display_name": "Bonita E. Lee"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I154425047",
+      "display_name": "University of Alberta",
+      "lineage": [
+       "https://openalex.org/I154425047"
+      ]
+     }
+    ],
+    "raw_author_name": "Bonita E. Lee"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5136221657",
+     "display_name": "Judy Qiu"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I154425047",
+      "display_name": "University of Alberta",
+      "lineage": [
+       "https://openalex.org/I154425047"
+      ]
+     }
+    ],
+    "raw_author_name": "Judy Qiu"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5052619173",
+     "display_name": "Rhonda Gail Clark"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Rhonda G. Clark"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5070710877",
+     "display_name": "Nicole Acosta"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Nicole Acosta"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5158259825",
+     "display_name": "Christine O' Grady"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Christine O’ Grady"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5063583896",
+     "display_name": "Michael D. Parkins"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Michael D. Parkins"
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5029134801",
+     "display_name": "Casey R. J. Hubert"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Casey R.J. Hubert"
+   }
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7204137749",
+  "doi": "https://doi.org/10.13140/rg.2.2.25465.22884",
+  "title": "One Panel, Many Pathogens: Pan-Viral Wastewater Genomics Across Alberta Communities",
+  "display_name": "One Panel, Many Pathogens: Pan-Viral Wastewater Genomics Across Alberta Communities",
+  "type": "article",
+  "publication_date": "2026-08-24",
+  "created_date": "2026-08-25T00:00:00",
+  "primary_location": {
+   "landing_page_url": "https://doi.org/10.13140/rg.2.2.25465.22884",
+   "source": null
+  },
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5029997605",
+     "display_name": "Linnet Immaraj"
+    },
+    "institutions": [],
+    "raw_author_name": "Linnet Immaraj"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5148009555",
+     "display_name": "Qiang Jiang"
+    },
+    "institutions": [],
+    "raw_author_name": "Qiang Jiang"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5148007606",
+     "display_name": "Fan Zhao"
+    },
+    "institutions": [],
+    "raw_author_name": "Fan Zhao"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5147958247",
+     "display_name": "Judy Yuanyuan Qiu"
+    },
+    "institutions": [],
+    "raw_author_name": "Judy Yuanyuan Qiu"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5130408937",
+     "display_name": "Tiejun Gao"
+    },
+    "institutions": [],
+    "raw_author_name": "Tiejun Gao"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5013551932",
+     "display_name": "Matthew A. Croxen"
+    },
+    "institutions": [],
+    "raw_author_name": "Matthew Croxen"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5063583896",
+     "display_name": "Michael D. Parkins"
+    },
+    "institutions": [],
+    "raw_author_name": "Michael D. Parkins"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5128958200",
+     "display_name": "Casey Hubert"
+    },
+    "institutions": [],
+    "raw_author_name": "Casey Hubert"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5147979879",
+     "display_name": "Bonita E. Lee"
+    },
+    "institutions": [],
+    "raw_author_name": "Bonita E. Lee"
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5136217682",
+     "display_name": "Xiaoli  Lilly Pang"
+    },
+    "institutions": [],
+    "raw_author_name": "Xiaoli Pang"
+   }
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4406508397",
+  "doi": "https://doi.org/10.1016/j.scitotenv.2026.181851",
+  "title": "Longitudinal wastewater-based surveillance of vancomycin-resistant Enterococci in tertiary-care hospitals",
+  "display_name": "Longitudinal wastewater-based surveillance of vancomycin-resistant Enterococci in tertiary-care hospitals",
+  "type": "article",
+  "publication_date": "2026-05-30",
+  "created_date": "2025-01-18T00:00:00",
+  "primary_location": {
+   "landing_page_url": "https://doi.org/10.1016/j.scitotenv.2026.181851",
+   "source": {
+    "id": "https://openalex.org/S86852077",
+    "display_name": "The Science of The Total Environment",
+    "type": "journal"
+   }
+  },
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5029163359",
+     "display_name": "Emily Au"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Emily Au"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5070710877",
+     "display_name": "Nicole Acosta"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Nicole Acosta"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5072535625",
+     "display_name": "Barbara Jean M. Waddell"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Barbara J. Waddell"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5145379643",
+     "display_name": "이장우"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Jangwoo Lee"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5073081390",
+     "display_name": "Kristine Du"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Kristine Du"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5085585871",
+     "display_name": "R. Benson Weyant"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "R. Benson Weyant"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5112887587",
+     "display_name": "María A. Bautista"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Maria Bautista"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5005209032",
+     "display_name": "Janine McCalder"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Janine McCalder"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5091169555",
+     "display_name": "Jennifer Van Doorn"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Jennifer Van Doorn"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5033467037",
+     "display_name": "Kashtin Low"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Kashtin Low"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5033981818",
+     "display_name": "September Stefani"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "September Stefani"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5034325735",
+     "display_name": "Gail Visser"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Gail Visser"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5052619173",
+     "display_name": "Rhonda Gail Clark"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Rhonda Clark"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5071372879",
+     "display_name": "Johann D D Pitout"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4405270139",
+      "display_name": "Alberta Precision Laboratories",
+      "lineage": [
+       "https://openalex.org/I4405270139"
+      ]
+     }
+    ],
+    "raw_author_name": "Johann Pitout"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5100650737",
+     "display_name": "Joseph D. Kim"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Joseph Kim"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5005805442",
+     "display_name": "Bayan Missaghi"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Bayan Missaghi"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5054016214",
+     "display_name": "Oscar E. Larios"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4405270139",
+      "display_name": "Alberta Precision Laboratories",
+      "lineage": [
+       "https://openalex.org/I4405270139"
+      ]
+     }
+    ],
+    "raw_author_name": "Oscar Larios"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5054530370",
+     "display_name": "Jamil N. Kanji"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4405270139",
+      "display_name": "Alberta Precision Laboratories",
+      "lineage": [
+       "https://openalex.org/I4405270139"
+      ]
+     }
+    ],
+    "raw_author_name": "Jamil Kanji"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5051273274",
+     "display_name": "Joseph Varkey Vayalumkal"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Joseph Vayalumkal"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5034109971",
+     "display_name": "Jenine R. Leal"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Jenine Leal"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5019360863",
+     "display_name": "Paul Westlund"
+    },
+    "institutions": [],
+    "raw_author_name": "Paul Westlund"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5053045284",
+     "display_name": "Robert Ross Quinn"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Robert R. Quinn"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5055947281",
+     "display_name": "Matthew Thomas James"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Matthew T. James"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5002378682",
+     "display_name": "Bonita E. Lee"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I154425047",
+      "display_name": "University of Alberta",
+      "lineage": [
+       "https://openalex.org/I154425047"
+      ]
+     }
+    ],
+    "raw_author_name": "Bonita Lee"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": null,
+     "display_name": "Xiao-Li Pang"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I154425047",
+      "display_name": "University of Alberta",
+      "lineage": [
+       "https://openalex.org/I154425047"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4405270139",
+      "display_name": "Alberta Precision Laboratories",
+      "lineage": [
+       "https://openalex.org/I4405270139"
+      ]
+     }
+    ],
+    "raw_author_name": "Xiao-Li Pang"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5110265240",
+     "display_name": "Bruce Dalton"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     }
+    ],
+    "raw_author_name": "Bruce Dalton"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": null,
+     "display_name": "Kevin Frankowski"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Kevin Frankowski"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5096741604",
+     "display_name": "Christine O’Grady"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Christine O'Grady"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5089536235",
+     "display_name": "John Maynard Conly"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "John M. Conly"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5029134801",
+     "display_name": "Casey R. J. Hubert"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Casey R.J. Hubert"
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5063583896",
+     "display_name": "Michael D. Parkins"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I168635309",
+      "display_name": "University of Calgary",
+      "lineage": [
+       "https://openalex.org/I168635309"
+      ]
+     }
+    ],
+    "raw_author_name": "Michael D. Parkins"
+   }
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7172243868",
+  "doi": "https://doi.org/10.6084/m9.figshare.33140573",
+  "title": "Additional file 2 of Remodelling of cystic fibrosis respiratory microbiota in response to extended elexacaftor–tezacaftor–ivacaftor therapy",
+  "display_name": "Additional file 2 of Remodelling of cystic fibrosis respiratory microbiota in response to extended elexacaftor–tezacaftor–ivacaftor therapy",
+  "type": "article",
+  "publication_date": "2026-05-30",
+  "created_date": "2026-08-04T00:00:00",
+  "primary_location": {
+   "landing_page_url": "https://doi.org/10.6084/m9.figshare.33140573",
+   "source": {
+    "id": "https://openalex.org/S4377196282",
+    "display_name": "Figshare",
+    "type": "repository"
+   }
+  },
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5051856277",
+     "display_name": "Helen Gavillet"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I32394136",
+      "display_name": "Northumbria University",
+      "lineage": [
+       "https://openalex.org/I32394136"
+      ]
+     }
+    ],
+    "raw_author_name": "Helen Gavillet"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5005883759",
+     "display_name": "Lauren R. Hatfield"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I11983389",
+      "display_name": "Manchester Metropolitan University",
+      "lineage": [
+       "https://openalex.org/I11983389"
+      ]
+     }
+    ],
+    "raw_author_name": "Lauren R. Hatfield"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5144242608",
+     "display_name": "Michelle Hardman"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I28407311",
+      "display_name": "University of Manchester",
+      "lineage": [
+       "https://openalex.org/I28407311"
+      ]
+     }
+    ],
+    "raw_author_name": "Michelle Hardman"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5086295933",
+     "display_name": "Ryan Marsh"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I32394136",
+      "display_name": "Northumbria University",
+      "lineage": [
+       "https://openalex.org/I32394136"
+      ]
+     }
+    ],
+    "raw_author_name": "Ryan Marsh"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5082682240",
+     "display_name": "Gisli G. Einarsson"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126231945",
+      "display_name": "Queen's University Belfast",
+      "lineage": [
+       "https://openalex.org/I126231945"
+      ]
+     }
+    ],
+    "raw_author_name": "Gisli G. Einarsson"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5074713910",
+     "display_name": "Christina S. Thornton"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     }
+    ],
+    "raw_author_name": "Christina S. Thornton"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5063583896",
+     "display_name": "Michael D. Parkins"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126859394",
+      "display_name": "Alberta Health Services",
+      "lineage": [
+       "https://openalex.org/I126859394"
+      ]
+     }
+    ],
+    "raw_author_name": "Michael D. Parkins"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5082181496",
+     "display_name": "Jamie M Duckers"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1299209451",
+      "display_name": "Cardiff and Vale University Health Board",
+      "lineage": [
+       "https://openalex.org/I1299209451",
+       "https://openalex.org/I4210144625"
+      ]
+     }
+    ],
+    "raw_author_name": "Jamie Duckers"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5136107224",
+     "display_name": "Jennifer M. Bomberger"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107672454",
+      "display_name": "Dartmouth College",
+      "lineage": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ],
+    "raw_author_name": "Jennifer M. Bomberger"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5035839395",
+     "display_name": "Yasmin Hilliam"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107672454",
+      "display_name": "Dartmouth College",
+      "lineage": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ],
+    "raw_author_name": "Yasmin Hilliam"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5072790450",
+     "display_name": "Stella E. Lee"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1283280774",
+      "display_name": "Brigham and Women's Hospital",
+      "lineage": [
+       "https://openalex.org/I121934306",
+       "https://openalex.org/I1283280774",
+       "https://openalex.org/I48633490"
+      ]
+     }
+    ],
+    "raw_author_name": "Stella E. Lee"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5009723939",
+     "display_name": "Robert W. Lord"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I28407311",
+      "display_name": "University of Manchester",
+      "lineage": [
+       "https://openalex.org/I28407311"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210092852",
+      "display_name": "Manchester University NHS Foundation Trust",
+      "lineage": [
+       "https://openalex.org/I4210092852"
+      ]
+     }
+    ],
+    "raw_author_name": "Robert W. Lord"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5076505283",
+     "display_name": "Andrew M. Jones"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I28407311",
+      "display_name": "University of Manchester",
+      "lineage": [
+       "https://openalex.org/I28407311"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210092852",
+      "display_name": "Manchester University NHS Foundation Trust",
+      "lineage": [
+       "https://openalex.org/I4210092852"
+      ]
+     }
+    ],
+    "raw_author_name": "Andrew Jones"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5026193678",
+     "display_name": "Alex Robert Horsley"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I28407311",
+      "display_name": "University of Manchester",
+      "lineage": [
+       "https://openalex.org/I28407311"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210092852",
+      "display_name": "Manchester University NHS Foundation Trust",
+      "lineage": [
+       "https://openalex.org/I4210092852"
+      ]
+     }
+    ],
+    "raw_author_name": "Alexander Horsley"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5022948451",
+     "display_name": "Thomas W V Daniels"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2802965805",
+      "display_name": "University Hospital Southampton NHS Foundation Trust",
+      "lineage": [
+       "https://openalex.org/I2802965805"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I34931013",
+      "display_name": "National Institute for Health and Care Research",
+      "lineage": [
+       "https://openalex.org/I34931013"
+      ]
+     }
+    ],
+    "raw_author_name": "Thomas W. V. Daniels"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5087445151",
+     "display_name": "Charlotte C. Tenebäck"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I111236770",
+      "display_name": "University of Vermont",
+      "lineage": [
+       "https://openalex.org/I111236770"
+      ]
+     }
+    ],
+    "raw_author_name": "Charlotte C. Teneback"
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5018648590",
+     "display_name": "Damian William Rivett"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I11983389",
+      "display_name": "Manchester Metropolitan University",
+      "lineage": [
+       "https://openalex.org/I11983389"
+      ]
+     }
+    ],
+    "raw_author_name": "Damian W. Rivett"
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5014755332",
+     "display_name": "Chris Gast"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I32394136",
+      "display_name": "Northumbria University",
+      "lineage": [
+       "https://openalex.org/I32394136"
+      ]
+     }
+    ],
+    "raw_author_name": "Christopher van der Gast"
+   }
+  ]
+ }
+]

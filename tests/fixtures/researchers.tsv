@@ -1,0 +1,5 @@
+Status	Name	OpenAlexIDs	ORCID	InstitutionIDs	ScholarID	Notes
+OK	Tim McAllister	A5042633786		I1331897569		fixture
+OK	Michael Parkins	A5063583896				fixture, no InstitutionIDs on purpose
+OK	Casey Hubert	A5029134801|A5128958200		I168635309		fixture, split profile
+INACTIVE	Someone Inactive	A5000000001				fixture, must be ignored
