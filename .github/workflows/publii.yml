@@ -1,0 +1,68 @@
+name: Daily publication check
+
+on:
+  schedule:
+    - cron: "20 15 * * *"   # 07:20 PST / 08:20 PDT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publii
+  cancel-in-progress: false
+
+jobs:
+  publii:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Offline tests
+        run: python tests/RunOfflineTests.py
+
+      - name: Run pipeline
+        shell: bash
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: ./publii.sh 2>&1 | tee publii.log
+
+      - name: Commit state
+        if: success()
+        shell: bash
+        run: |
+          dateNow=$(date +%Y%m%d)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add allpubs.json delta.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update $dateNow"
+            git push
+          else
+            # GitHub disables schedules after 60 days without repo activity
+            lastCommit=$(git log -1 --format=%ct)
+            ageDays=$(( ( $(date +%s) - lastCommit ) / 86400 ))
+            if [ "$ageDays" -gt 50 ]; then
+              git commit --allow-empty -m "Keepalive $dateNow"
+              git push
+            fi
+          fi
+
+      - name: Upload log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: publii-log
+          path: publii.log
+          retention-days: 7
+          if-no-files-found: ignore

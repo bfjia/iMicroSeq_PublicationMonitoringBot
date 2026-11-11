@@ -1,0 +1,55 @@
+name: Add researcher candidate
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "Researcher name"
+        required: true
+      orcid:
+        description: "ORCID (optional)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publii
+  cancel-in-progress: false
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Add researcher
+        shell: bash
+        env:
+          NAME: ${{ inputs.name }}
+          ORCID_ARG: ${{ inputs.orcid }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: |
+          python AddResearcher.py "$NAME" $ORCID_ARG
+          cat addResearcherReport.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit researchers.tsv
+        shell: bash
+        env:
+          NAME: ${{ inputs.name }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add researchers.tsv
+          if ! git diff --cached --quiet; then
+            git commit -m "Add researcher candidate: $NAME"
+            git push
+          fi
