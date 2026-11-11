@@ -35,6 +35,9 @@ lateIndexDays = 30
 # Co-authors (surname + first initial) a new item must share with the researcher's known publications to count as confident.
 minSharedCoauthors = 2
 workFields = 'id,doi,title,display_name,type,publication_date,created_date,primary_location,authorships'
+# OpenAlex work types never stored or announced, e.g. ['dataset', 'software', 'peer-review', 'erratum'].
+# Empty = announce every type (articles, reviews, preprints, chapters, datasets, software, ...).
+ignoredTypes = []
 # Supplementary-file deposits (e.g. Figshare "Additional file 3 of <paper>") are not publications; skip them entirely.
 ignoredTitlePattern = re.compile(r'^\s*(additional file|supplementary (file|material|table|figure|data|information))\b', re.IGNORECASE)
 nameSuffixes = ['jr', 'sr', 'ii', 'iii', 'iv']
@@ -234,8 +237,6 @@ def buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDT
     for researcher, works in zip(researchers, worksByResearcher):
         name = researcher['Name']
         researcherIDs = splitIDs(researcher['OpenAlexIDs'])
-        if len(works) == 0:
-            zeroWorkNames.append(name)
 
         # Everything already known under any of this researcher's ids.
         knownPublications = []
@@ -248,6 +249,12 @@ def buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDT
                 doi = recordDOI(record)
                 if doi:
                     knownDOIs.add(doi)
+
+        # Silent-gap warning: works within the lookback window were stored before, but none came back today.
+        # (Someone who simply hasn't published this year is not flagged.)
+        windowStart = (today - datetime.timedelta(days=lookbackDays)).isoformat()
+        if len(works) == 0 and any((record.get('year') or "") >= windowStart for record in knownPublications):
+            zeroWorkNames.append(name)
 
         # Carry forward every stored publication (append-only).
         for authorID in researcherIDs:
@@ -267,6 +274,9 @@ def buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDT
                 continue
             if ignoredTitlePattern.search(title):
                 print("[DEBUG] Skipping supplementary file " + pubID + ": " + title)
+                continue
+            if work.get('type') in ignoredTypes:
+                print("[DEBUG] Skipping " + str(work.get('type')) + " " + pubID + " (type listed in ignoredTypes): " + title)
                 continue
 
             presentIDs = workAuthorIDs(work)
@@ -434,8 +444,9 @@ def formatSummary(today, researchers, newCount, reviewCount, zeroWorkNames, floo
     summary = ("[INFO] Run summary " + today.isoformat() + ": checked " + str(len(researchers)) + " researchers ("
                + str(profileCount) + " OpenAlex profiles); " + str(newCount) + " new, " + str(reviewCount) + " need review.\n")
     if zeroWorkNames:
-        summary = summary + ("[WARNING] No works found in the last " + str(lookbackDays) + " days for: " + ", ".join(zeroWorkNames)
-                             + ". OpenAlex may have merged or split their profile - re-run AddResearcher.py for them.\n")
+        summary = summary + ("[WARNING] OpenAlex returned no works today for: " + ", ".join(zeroWorkNames)
+                             + ", although works from the last " + str(lookbackDays) + " days were stored before."
+                             + " OpenAlex may have merged or split their profile - re-run AddResearcher.py for them.\n")
     if floodWarning:
         summary = summary + "[WARNING] " + floodWarning + "\n"
     return summary

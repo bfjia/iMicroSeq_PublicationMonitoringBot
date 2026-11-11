@@ -188,9 +188,18 @@ def testSupplementaryFilesSkipped():
 
 
 def testZeroWorkNames():
+    # Nothing stored and nothing returned: someone who simply hasn't published this year is not flagged.
     allPubs, newItems, zero = findNew([mcallister, parkins], [[work("W7221010631")], []], {})
-    assert zero == ["Michael Parkins"], zero
+    assert zero == [], zero
     assert allPubs["A5063583896"]["publications"] == {}  # id recorded even with no works, so it is diffed next run
+    # Recent works were stored before, but none came back today: flagged (profile probably merged/split).
+    last = stateFor("A5063583896", "Michael Parkins", {"W1": record(year="2026-09-01")})
+    allPubs, newItems, zero = findNew([parkins], [[]], last)
+    assert zero == ["Michael Parkins"], zero
+    # Only old works were stored: not flagged.
+    last = stateFor("A5063583896", "Michael Parkins", {"W1": record(year="2024-01-01")})
+    allPubs, newItems, zero = findNew([parkins], [[]], last)
+    assert zero == [], zero
 
 
 # ---- Doubt check ----
@@ -351,8 +360,8 @@ def testReviewAndSummaryFormat():
                       "    Matched OpenAlex author A5063583896 (https://openalex.org/A5063583896). Reason: late\n\n"), repr(review)
     summary = fp.formatSummary(today, researchers, 2, 1, ["Michael Parkins"], "")
     assert summary == ("[INFO] Run summary 2026-11-11: checked 3 researchers (4 OpenAlex profiles); 2 new, 1 need review.\n"
-                       "[WARNING] No works found in the last 365 days for: Michael Parkins. OpenAlex may have merged or split "
-                       "their profile - re-run AddResearcher.py for them.\n"), repr(summary)
+                       "[WARNING] OpenAlex returned no works today for: Michael Parkins, although works from the last 365 days "
+                       "were stored before. OpenAlex may have merged or split their profile - re-run AddResearcher.py for them.\n"), repr(summary)
     assert fp.formatSummary(today, researchers, 0, 0, [], "Flood breaker: x").endswith("[WARNING] Flood breaker: x\n")
 
 
@@ -404,7 +413,7 @@ def testPipelineTwoRuns():
         assert fp.loadJson("delta.json") == {} and readText("review.md") == ""
         assert set(fp.loadJson("allpubs.json").keys()) == set(["A5042633786", "A5063583896", "A5029134801", "A5128958200"])
         assert readText("summary.md").startswith("[INFO] Run summary 2026-11-11: checked 3 researchers (4 OpenAlex profiles); 0 new, 0 need review.\n")
-        assert "No works found" not in readText("summary.md")
+        assert "returned no works" not in readText("summary.md")
         # run 2: new confident works, one doubtful, one supplementary file; Hubert's id returns nothing
         available["Tim McAllister"] = [work("W7221010631"), work("W7155628488", createdDaysAgo=None)]
         available["Michael Parkins"] = [work("W7204137749"), work("W7172243868"), work("W7221344554")]
@@ -427,7 +436,7 @@ def testPipelineTwoRuns():
         assert "Tim McAllister: Optimizing a culture-enriched hybrid metagenomics" in review and "Matched OpenAlex author A5042633786" in review
         assert "Reason: OpenAlex indexed this 199 days ago" in review, review
         summary = readText("summary.md")
-        assert "; 2 new, 1 need review." in summary and "No works found in the last 365 days for: Casey Hubert." in summary, summary
+        assert "; 2 new, 1 need review." in summary and "returned no works today for: Casey Hubert," in summary, summary
         # append-only: run-1 works are still there even though they were not returned again
         state = fp.loadJson("allpubs.json")
         assert "W7221344554" in state["A5029134801"]["publications"] and "W7154060862" in state["A5042633786"]["publications"]
