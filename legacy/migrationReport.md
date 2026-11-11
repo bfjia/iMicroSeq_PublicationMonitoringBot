@@ -1,0 +1,106 @@
+# Scholar -> OpenAlex migration report
+
+Status counts: NO_MATCH=29, OK=65, REVIEW=3
+
+## Researchers with a Scholar profile
+
+- **Fiona Brinkman** -> OK: ids A5050197558 (votes A5050197558=12; 12/12 resolved papers, 15 DOI papers tried)
+- **Emma Griffiths** -> OK: ids A5023286690 (votes A5023286690=14; 14/15 resolved papers, 15 DOI papers tried)
+- **Erin E. Gill** -> OK: ids A5088561520 (votes A5088561520=11; 11/11 resolved papers, 12 DOI papers tried)
+- **Robert Delatolla** -> OK: ids A5085386037 (votes A5085386037=12; 12/12 resolved papers, 15 DOI papers tried)
+- **Michael Parkins** -> OK: ids A5063583896 (votes A5063583896=12; 12/12 resolved papers, 15 DOI papers tried)
+- **Lawrence Goodridge** -> OK: ids A5021286386 (votes A5021286386=13; 13/13 resolved papers, 15 DOI papers tried)
+- **Ayush Kumar** -> OK: ids A5028360618|A5002721372|A5060958307|A5101930096 (votes A5028360618=10, A5002721372=1, A5060958307=1, A5101930096=1; 13/14 resolved papers, 15 DOI papers tried); possible extra: A5100695007 (Ranjit Kumar, 407 works, 1 votes)
+- **Natalie C Knox** -> OK: ids A5079694314 (votes A5079694314=13; 13/13 resolved papers, 15 DOI papers tried)
+- **Natalie Prystajecky** -> OK: ids A5012701075 (votes A5012701075=15; 15/15 resolved papers, 15 DOI papers tried)
+- **Tim A. McAllister** -> OK: ids A5042633786|A5129961035 (votes A5042633786=12, A5129961035=2; 14/14 resolved papers, 15 DOI papers tried)
+- **Caren Helbing** -> OK: ids A5082440634 (votes A5082440634=13; 13/13 resolved papers, 15 DOI papers tried)
+- **Mélanie Courtot** -> OK: ids A5008255694 (votes A5008255694=9; 9/9 resolved papers, 11 DOI papers tried)
+- **Amina Stoddart** -> OK: ids A5068552988 (votes A5068552988=11; 11/11 resolved papers, 15 DOI papers tried)
+- **Lupin Battersby** -> OK: ids A5055338819 (votes A5055338819=4; 4/4 resolved papers, 4 DOI papers tried)
+- **Miguel Uyaguari** -> OK: ids A5006062054 (votes A5006062054=8; 8/8 resolved papers, 8 DOI papers tried)
+- **Andrew G. McArthur** -> OK: ids A5012803072 (votes A5012803072=10; 10/11 resolved papers, 15 DOI papers tried)
+- **Guillaume Bourque** -> OK: ids A5047911076 (votes A5047911076=11; 11/11 resolved papers, 15 DOI papers tried)
+- **R. Eric Collins** -> OK: ids A5054521581 (votes A5054521581=4; 4/5 resolved papers, 5 DOI papers tried)
+- **Andrew DS Cameron** -> OK: ids A5039914186 (votes A5039914186=14; 14/14 resolved papers, 15 DOI papers tried)
+- **Valerie S. Langlois** -> OK: ids A5075339235|A5020632043 (votes A5075339235=13, A5020632043=1; 14/15 resolved papers, 15 DOI papers tried)
+- **Casey Hubert** -> OK: ids A5029134801|A5128958200|A5136899265 (votes A5029134801=9, A5128958200=2, A5136899265=1; 12/12 resolved papers, 15 DOI papers tried)
+- **Stephanie Guilherme** -> OK: ids A5005746481 (votes A5005746481=8; 8/8 resolved papers, 8 DOI papers tried)
+- **Kerry E. Black** -> OK: ids A5089063682 (votes A5089063682=5; 5/6 resolved papers, 6 DOI papers tried)
+- **Marc Fiume** -> REVIEW: ids A5112877330 (votes A5112877330=2; 2/2 resolved papers, 2 DOI papers tried)
+- **Thea Van Rossum** -> OK: ids A5051428361 (votes A5051428361=5; 5/6 resolved papers, 6 DOI papers tried)
+- **Graham Gagnon** -> OK: ids A5050508415 (votes A5050508415=13; 13/13 resolved papers, 15 DOI papers tried)
+- **Robert Michael McKay** -> OK: ids A5044801271 (votes A5044801271=12; 12/12 resolved papers, 15 DOI papers tried)
+- **Herman W. Barkema** -> OK: ids A5062115118 (votes A5062115118=14; 14/14 resolved papers, 15 DOI papers tried)
+- **Diego Borin Nobrega** -> OK: ids A5015254879|A5134901776|A5125966888 (votes A5015254879=12, A5134901776=1, A5125966888=1; 14/14 resolved papers, 15 DOI papers tried)
+- **Srijak Bhatnagar** -> OK: ids A5041931998 (votes A5041931998=15; 15/15 resolved papers, 15 DOI papers tried)
+- **Sébastien P. Faucher** -> OK: ids A5078973829 (votes A5078973829=15; 15/15 resolved papers, 15 DOI papers tried)
+- **Sarah Dorner** -> OK: ids A5108080644 (votes A5108080644=15; 15/15 resolved papers, 15 DOI papers tried)
+- **Peter A. Vanrolleghem** -> OK: ids A5045272351 (votes A5045272351=15; 15/15 resolved papers, 15 DOI papers tried)
+- **Rita Isabel Henderson** -> OK: ids A5019833898 (votes A5019833898=13; 13/15 resolved papers, 15 DOI papers tried)
+- **B. Jesse Shapiro** -> OK: ids A5067717492 (votes A5067717492=9; 9/9 resolved papers, 15 DOI papers tried)
+- **Doug Manuel** -> OK: ids A5034701753|A5135256978 (votes A5034701753=11, A5135256978=1; 12/13 resolved papers, 15 DOI papers tried); possible extra: A5001609658 (Doug Manuel, 39 works, 1 votes)
+- **Vera Tai** -> OK: ids A5011080535 (votes A5011080535=10; 10/10 resolved papers, 11 DOI papers tried)
+- **Jiannis Ragoussis** -> OK: ids A5044600248 (votes A5044600248=12; 12/12 resolved papers, 15 DOI papers tried)
+- **William Hsiao** -> OK: ids A5019488638 (votes A5019488638=13; 13/14 resolved papers, 15 DOI papers tried)
+- **Rob Beiko** -> OK: ids A5063083987 (votes A5063083987=12; 12/12 resolved papers, 15 DOI papers tried)
+- **Marc-André Langlois** -> OK: ids A5011981202 (votes A5011981202=12; 12/12 resolved papers, 15 DOI papers tried)
+- **Art FY Poon** -> OK: ids A5004110504 (votes A5004110504=14; 14/14 resolved papers, 15 DOI papers tried)
+- **Rees Kassen** -> OK: ids A5038822237 (votes A5038822237=14; 14/14 resolved papers, 15 DOI papers tried)
+- **Finlay Maguire** -> OK: ids A5051594885 (votes A5051594885=10; 10/10 resolved papers, 15 DOI papers tried)
+- **Christopher T. DeGroot** -> OK: ids A5043724136 (votes A5043724136=9; 9/9 resolved papers, 10 DOI papers tried)
+- **Stephanie Gora** -> OK: ids A5047214127 (votes A5047214127=11; 11/11 resolved papers, 11 DOI papers tried)
+- **Dominic Frigon** -> OK: ids A5044052313 (votes A5044052313=15; 15/15 resolved papers, 15 DOI papers tried)
+- **Dustin King** -> OK: ids A5056122200 (votes A5056122200=9; 9/9 resolved papers, 9 DOI papers tried)
+- **Robert E. W. Hancock** -> OK: ids A5066530115 (votes A5066530115=13; 13/14 resolved papers, 15 DOI papers tried)
+- **Annemieke Farenhorst** -> OK: ids A5000424696 (votes A5000424696=13; 13/13 resolved papers, 15 DOI papers tried)
+- **Lori Bradford** -> OK: ids A5045094286|A5135995766 (votes A5045094286=14, A5135995766=1; 15/15 resolved papers, 15 DOI papers tried)
+- **Gary Van Domselaar** -> OK: ids A5008793716 (votes A5008793716=15; 15/15 resolved papers, 15 DOI papers tried)
+- **Catherine Carrillo** -> OK: ids A5015660108|A5122456633 (votes A5015660108=13, A5122456633=1; 14/14 resolved papers, 15 DOI papers tried)
+- **Jennifer Knapp** -> OK: ids A5024701006 (votes A5024701006=9; 9/9 resolved papers, 10 DOI papers tried)
+- **Alyssa Overton** -> OK: ids A5002374396 (votes A5002374396=3; 3/3 resolved papers, 3 DOI papers tried)
+- **Trevor Charles** -> OK: ids A5078008559 (votes A5078008559=15; 15/15 resolved papers, 15 DOI papers tried)
+- **Antonio Ruzzini** -> OK: ids A5016372093 (votes A5016372093=12; 12/12 resolved papers, 14 DOI papers tried)
+- **Melissa L Perreault** -> OK: ids A5058760354 (votes A5058760354=15; 15/15 resolved papers, 15 DOI papers tried)
+- **Hugo Asselin** -> OK: ids A5020213915|A5030546624 (votes A5020213915=12, A5030546624=1; 13/13 resolved papers, 15 DOI papers tried)
+- **Jeffrey R Brook** -> OK: ids A5002629392|A5128907569 (votes A5002629392=12, A5128907569=1; 13/14 resolved papers, 15 DOI papers tried); possible extra: A5108706281 (Jeff Brook, 88 works, 1 votes)
+- **Kenneth K.S. Ng** -> OK: ids A5090448483 (votes A5090448483=12; 12/14 resolved papers, 15 DOI papers tried); possible extra: A5103407872 (Kenneth K. Ng, 31 works, 1 votes)
+- **Ashlyn Kirk** -> REVIEW: ids A5113334930 (votes A5113334930=1; 1/1 resolved papers, 1 DOI papers tried)
+- **Jade Daigle** -> OK: ids A5021466488 (votes A5021466488=3; 3/4 resolved papers, 4 DOI papers tried)
+- **Sarah Otto** -> OK: ids A5079514639 (votes A5079514639=12; 12/12 resolved papers, 15 DOI papers tried)
+- **Erin A Marshall** -> OK: ids A5059437727 (votes A5059437727=8; 8/9 resolved papers, 9 DOI papers tried)
+- **Tyler P Cobb** -> REVIEW: ids A5061058480 (votes A5061058480=1; 1/1 resolved papers, 2 DOI papers tried)
+- **Jori Harrison**: 0 DOI papers, 0 resolved, no matching authorship -> NO_MATCH
+- **Baofeng Jia** -> OK: ids A5025864936 (votes A5025864936=6; 6/6 resolved papers, 8 DOI papers tried)
+- **Elizabeth M. Renouf** -> OK: ids A5048473115 (votes A5048473115=8; 8/8 resolved papers, 10 DOI papers tried)
+
+## No Scholar profile (to be searched with AddResearcher.py)
+
+- Mathieya Alatini
+- Stephane McLachlan
+- Kathy McCoy
+- Attiq Rehman
+- Diane Botelho
+- Megan Fuller
+- Carolina Koutras
+- Christine O'Grady
+- Robert Henry
+- Malcolm Kendall
+- Chand Mangat
+- Chrystal Landgraff
+- Rod Beresford
+- Bhavik Bhagat
+- Charlie Barclay
+- Justin Richardsson
+- Mathew Thomson
+- Dimple Patel
+- Ana Maria Podadera Gonzalez
+- Mat Wlodarski
+- Dean Wenham
+- Jacob Imbery
+- Vanessa Thompson
+- Sarah Trilesky
+- Katie Gregg
+- Sherry Wabisca
+- Justine Aman
+- Mohamed Kharbouch
