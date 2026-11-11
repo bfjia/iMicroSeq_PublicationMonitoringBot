@@ -47,6 +47,7 @@ jobs:
           git add allpubs.json delta.json
           if ! git diff --cached --quiet; then
             git commit -m "Update $dateNow"
+            git pull --rebase
             git push
           else
             # GitHub disables schedules after 60 days without repo activity
@@ -54,6 +55,7 @@ jobs:
             ageDays=$(( ( $(date +%s) - lastCommit ) / 86400 ))
             if [ "$ageDays" -gt 50 ]; then
               git commit --allow-empty -m "Keepalive $dateNow"
+              git pull --rebase
               git push
             fi
           fi

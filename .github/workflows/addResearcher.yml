@@ -51,5 +51,6 @@ jobs:
           git add researchers.tsv
           if ! git diff --cached --quiet; then
             git commit -m "Add researcher candidate: $NAME"
+            git pull --rebase
             git push
           fi
