@@ -30,6 +30,7 @@ jobs:
         run: python tests/RunOfflineTests.py
 
       - name: Run pipeline
+        id: pipeline
         shell: bash
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
@@ -59,6 +60,21 @@ jobs:
               git push
             fi
           fi
+
+      # publii.sh alerts on its own failures. This covers the other steps (setup, tests, saving state),
+      # using curl so it works even when installing the Python packages is what failed.
+      - name: Alert on failure outside the pipeline
+        if: failure() && steps.pipeline.outcome != 'failure'
+        shell: bash
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          text="The publication bot run failed outside the pipeline step (setup, tests or saving state). Run: $RUN_URL"
+          curl -sS -X POST https://slack.com/api/chat.postMessage \
+            -H "Authorization: Bearer $SLACK_BOT_TOKEN" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            --data "{\"channel\": \"C09D86E4T5H\", \"text\": \"$text\"}"
 
       - name: Upload log
         if: always()
