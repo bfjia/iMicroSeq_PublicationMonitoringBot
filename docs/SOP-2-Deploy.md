@@ -14,7 +14,7 @@ A repository admin, once, after [SOP-1](SOP-1-Setup.md) is done. Steps 1 to 8 ta
 - You are an **admin** of `bfjia/iMicroSeq_PublicationMonitoringBot` on GitHub. Steps 2 and 3 need the **Settings** tab.
 - You can log in to the old server (or reach whoever can) to turn off its cron job.
 - Keep in mind:
-  - The repository is public. Logs and `allpubs.json` can be read by anyone ([Public repo](Workflow.md#public-repo)). Secrets stay masked. Paste secrets only into the Secrets page.
+  - The repository is public. Logs and `state/allpubs.json` can be read by anyone ([Public repo](Workflow.md#public-repo)). Secrets stay masked. Paste secrets only into the Secrets page.
   - Scheduled runs happen only on the default branch (`main`), so nothing runs daily until step 4 ([GitHub scheduling](Workflow.md#github-scheduling)).
   - The bot starts in test mode (`isLive = False` in `config.py`). Everything you do here posts only to `#publication_monitor_debug` and writes only to the TEST sheet.
 
@@ -43,24 +43,15 @@ The old bot runs from a crontab and pushes to `main`. If it is still on after th
 ### 3. Let Actions run and save its state
 1. **Settings**, **Actions**, **General**.
 2. Under **Actions permissions**, choose **Allow all actions and reusable workflows**. Click **Save**.
-3. Under **Workflow permissions**, choose **Read and write permissions**. Click **Save**. Without this, the bot cannot commit `allpubs.json` and every run fails at the end.
+3. Under **Workflow permissions**, choose **Read and write permissions**. Click **Save**. Without this, the bot cannot commit `state/allpubs.json` and every run fails at the end.
 4. **Settings**, **Branches** (and **Rules**, if shown). If `main` has a rule that blocks direct pushes or requires pull requests, the bot's daily commit will be rejected. Either remove that rule or add **GitHub Actions** to its bypass list.
 
-### 4. Merge the new code into main
-1. Click **Pull requests**, then **New pull request**.
-2. Set **base** to `main` and **compare** to `openalex-migration`. GitHub should say "Able to merge". If it doesn't, see the troubleshooting table below.
-3. Click **Create pull request**, give it a title (for example "Move the bot to OpenAlex and GitHub Actions"), and click **Create pull request** again.
-4. Click **Merge pull request**, then **Confirm merge**.
-5. Open the **Code** tab on `main` and check that `config.py` and `.github/workflows/publii.yml` are there.
-6. Open the **Actions** tab. The left list should show **Daily publication check** and **Add researcher candidate**. The daily schedule is now active.
+### 4. Make sure the code is on main
+The new code was merged into `main` in pull request #8, so normally you only check:
+1. Open the **Code** tab on `main`. It should have `config.py`, `researchers.tsv`, `publii.sh`, the `src/` and `state/` folders, and `.github/workflows/publii.yml`.
+2. Open the **Actions** tab. The left list should show **Daily publication check** and **Add researcher candidate**. The daily schedule is active.
 
-Command-line alternative to items 1 to 4:
-```bash
-git checkout main
-git pull
-git merge openalex-migration
-git push
-```
+If you are deploying from another branch (for example a future rewrite), merge it first: **Pull requests**, **New pull request**, **base** `main`, **compare** your branch, **Create pull request**, then **Merge pull request** and **Confirm merge**.
 
 ### 5. First run by hand
 1. **Actions**, then **Daily publication check** in the left list.
@@ -117,7 +108,7 @@ Do not turn the old server's cron back on. Its Google Scholar scraper no longer 
 ## If something goes wrong
 | You see | Fix |
 |---|---|
-| Step 4: "Can't automatically merge" | Someone (probably the old cron) pushed to `main` after the branch was made. Keep the branch's versions: `git checkout main && git pull && git merge openalex-migration`, then `git checkout --theirs allpubs.json delta.json && git add allpubs.json delta.json && git commit`, then `git push`. Then check step 1 was done. |
+| Step 4: "Can't automatically merge" | `main` changed after the branch was made, usually the bot's own daily commit to `state/`. Bring the branch up to date: `git checkout <branch> && git merge origin/main`. If only `state/allpubs.json` or `state/delta.json` conflict, keep `main`'s versions: `git checkout --theirs state/ && git add state/ && git commit`. Push, then merge the pull request. |
 | No **Run workflow** button, or the workflow is missing from the Actions list | The workflow file is not on `main` yet. Finish step 4. |
 | Run fails at **Commit state** with `403` or "permission denied" | Redo step 3, item 3 (Read and write permissions). |
 | Run fails at **Commit state** with "protected branch" | Redo step 3, item 4. |

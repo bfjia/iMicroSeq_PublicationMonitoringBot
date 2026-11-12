@@ -12,11 +12,12 @@ import sys
 import time
 import unicodedata
 
+import paths
 import openAlexClient
 import researcherRoster
 
 # ---- Configuration ----
-reportFile = "addResearcherReport.md"
+reportFile = paths.addResearcherReportFile
 # Tunable settings live in config.py (see the comments there).
 from config import (maxCandidates, shownCandidates, minNameScore, homeCountry, recentAffiliationYears,
                     rankWeightName, rankWeightCountry, rankWeightNetwork, networkOverlapCap,
@@ -216,6 +217,7 @@ if __name__ == "__main__":
         time.sleep(addResearcherPauseSeconds)
 
     researcherRoster.saveResearchers(rows)
+    paths.ensureDir(reportFile)
     with open(reportFile, "w", encoding="utf-8") as f:
         f.write("\n".join(report) + "\n")
     print("\n".join(report))

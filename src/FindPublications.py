@@ -1,11 +1,11 @@
 #Find new publications by the monitored researchers using the OpenAlex API.
 #
 #Reads researchers.tsv, fetches each researcher's works from the last lookbackDays, updates the
-#append-only state in allpubs.json, and writes:
-#  delta.json  - confident new publications (read by GoogleSheetAPIConnector.py)
-#  msg.md      - the Slack announcement (same layout as the old Google Scholar bot)
-#  review.md   - new publications we could not confirm belong to the researcher (empty if none)
-#  summary.md  - one-line run summary plus warnings
+#append-only state in state/allpubs.json, and writes:
+#  state/delta.json   - confident new publications (read by GoogleSheetAPIConnector.py)
+#  output/msg.md      - the Slack announcement (same layout as the old Google Scholar bot)
+#  output/review.md   - new publications we could not confirm belong to the researcher (empty if none)
+#  output/summary.md  - one-line run summary plus warnings
 #Nothing is written unless every researcher was fetched successfully.
 import datetime
 import json
@@ -15,17 +15,18 @@ import shutil
 import unicodedata
 from dateutil import parser
 
+import paths
 from openAlexClient import listWorks, shortID
 from researcherRoster import monitoredResearchers, splitIDs
 
 # ---- Configuration ----
-rosterFile = 'researchers.tsv'
-jsonFile = 'allpubs.json'
-lastJsonFile = 'last_allpubs.json'
-deltaJsonFile = 'delta.json'
-msgFile = 'msg.md'
-reviewFile = 'review.md'
-summaryFile = 'summary.md'
+rosterFile = paths.rosterFile
+jsonFile = paths.allPubsFile
+lastJsonFile = paths.lastAllPubsFile
+deltaJsonFile = paths.deltaFile
+msgFile = paths.msgFile
+reviewFile = paths.reviewFile
+summaryFile = paths.summaryFile
 # Tunable settings live in config.py (see the comments there).
 from config import lookbackDays, maxNewPerRun, lateIndexDays, minSharedCoauthors, ignoredTypes, ignoredTitlePattern
 workFields = 'id,doi,title,display_name,type,publication_date,created_date,primary_location,authorships'
@@ -34,6 +35,7 @@ nameSuffixes = ['jr', 'sr', 'ii', 'iii', 'iv']
 
 #save json data
 def saveJson(data, filename):
+    paths.ensureDir(filename)
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
 
@@ -47,6 +49,7 @@ def loadJson(filename):
 
 
 def saveText(text, filename):
+    paths.ensureDir(filename)
     with open(filename, "w", encoding="utf-8", newline="\n") as f:
         f.write(text)
 
@@ -445,6 +448,7 @@ def runPipeline(today=None):
     """The whole daily run. Raises (and writes nothing) if any fetch fails or nothing at all comes back."""
     today = today or datetime.date.today()
     if os.path.exists(jsonFile):
+        paths.ensureDir(lastJsonFile)
         shutil.copy2(jsonFile, lastJsonFile)
     lastState = loadJson(lastJsonFile)
 

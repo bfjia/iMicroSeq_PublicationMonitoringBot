@@ -38,8 +38,8 @@ jobs:
           ORCID_ARG: ${{ inputs.orcid }}
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
         run: |
-          python AddResearcher.py "$NAME" $ORCID_ARG
-          cat addResearcherReport.md >> "$GITHUB_STEP_SUMMARY"
+          python src/AddResearcher.py "$NAME" $ORCID_ARG
+          cat output/addResearcherReport.md >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit researchers.tsv
         shell: bash

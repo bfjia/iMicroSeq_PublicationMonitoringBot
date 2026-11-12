@@ -7,14 +7,16 @@ from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
 
 # Settings live in config.py (see the comments there).
+import paths  # puts the repo root on sys.path for config.py
 from config import debugChannel, slackTokenFile, slackMaxChunkLength as maxChunkLength
 
 def getToken():
     token = os.environ.get("SLACK_BOT_TOKEN", "").strip()
     if token:
         return token
-    if os.path.exists(slackTokenFile):
-        with open(slackTokenFile, 'r') as fh:
+    tokenPath = paths.fromRepo(slackTokenFile)
+    if os.path.exists(tokenPath):
+        with open(tokenPath, 'r') as fh:
             token = fh.readline().strip()
         if token:
             return token

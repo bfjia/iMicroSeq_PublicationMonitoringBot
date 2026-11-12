@@ -11,10 +11,11 @@ from google.oauth2 import service_account
 # Settings live in config.py (see the comments there).
 # Rows go to the TEST copy unless --live is passed AND config.isLive is True (publii.sh passes --live only then).
 # The production sheet must never receive test rows.
+import paths  # puts the repo root on sys.path for config.py
 import config
 from config import productionSpreadsheetID, testSpreadsheetID, sheetTabID, googleCredentialsFile, googleScopes
 
-def getCredentials(credsPath = googleCredentialsFile, scopes = googleScopes):
+def getCredentials(credsPath = paths.fromRepo(googleCredentialsFile), scopes = googleScopes):
     #env GOOGLE_SERVICE_ACCOUNT_JSON (the JSON content) wins, else the file in .secret
     envJson = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON", "").strip()
     if envJson:
@@ -85,7 +86,7 @@ def getNewPublications(json):
     return pubList
 
 if __name__ == "__main__":
-    jsonFile = "delta.json"
+    jsonFile = paths.deltaFile
     dryRun = "--dryRun" in sys.argv
     isLive = "--live" in sys.argv
     if isLive and config.isLive is not True:

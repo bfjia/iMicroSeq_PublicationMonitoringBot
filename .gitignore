@@ -1,28 +1,15 @@
-notebook_demo_covarrnetpillar6_test_files
-.DS_Store
-.Rhistory
-Rnotebook_demo_covarrnetpillar6_old.Rmd
-.format_table_last
-.RData
-data_needed/*
-scripts/__pycache__
-# the HTML is the public facing document, to be reviewed before release
-duotang.md
-.vs
-scripts/.vscode
-.checkpoint
-.secret/*
-msg.md
-last_allpubs.json
-.vscode
-pubsSince*.tsv
-tests/.secret
-*.log
-publii.log
-authors.txt
-CLAUDE.md
-__pycache__
-review.md
-summary.md
-addResearcherReport.md
+# Secrets - never commit (the repo is public)
+.secret/
 .env
+
+# Generated on every run (msg.md, review.md, summary.md, publii.log, last_allpubs.json, reports, exports)
+output/
+*.log
+__pycache__/
+
+# Editor settings
+.vs/
+.vscode/
+
+# Local notes for Claude Code
+CLAUDE.md

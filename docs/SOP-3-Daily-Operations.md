@@ -46,8 +46,8 @@ A researcher with several papers reads "has new publications:". Types other than
 
 ### Adding a researcher
 1. On GitHub: **Actions**, **Add researcher candidate**, **Run workflow**. Enter the name. Enter the ORCID if you know it (for example `0000-0002-1234-5678`). Click **Run workflow**.
-2. Or locally: `python AddResearcher.py "Jane Doe"` or `python AddResearcher.py "Jane Doe" 0000-0002-1234-5678`. Set `OPENALEX_API_KEY` first.
-3. Open the run's **Summary** page (or `addResearcherReport.md` if local). For each person you see the proposed profile, recent works, and a table of candidates.
+2. Or locally: `python src/AddResearcher.py "Jane Doe"` or `python src/AddResearcher.py "Jane Doe" 0000-0002-1234-5678`. Set `OPENALEX_API_KEY` first.
+3. Open the run's **Summary** page (or `output/addResearcherReport.md` if local). For each person you see the proposed profile, recent works, and a table of candidates.
 4. In the table, **Co-authored with network** is the number of that profile's papers shared with researchers already monitored. A number above 0 is the strongest sign it is the right person. 0 comes with a warning: check carefully. **Name score** and **Rank** are the bot's own ratings.
 5. Open the candidate links. If the recent works are theirs, edit `researchers.tsv` on GitHub and change `REVIEW` to `OK` in that row. If a runner-up (listed in the Notes column) is the right one, replace the ids in `OpenAlexIDs`. A person can have several ids separated by `|`.
 6. If the status is `NO_MATCH`, try again with their ORCID.
@@ -56,7 +56,7 @@ A researcher with several papers reads "has new publications:". Types other than
 Currently waiting in `researchers.tsv`: **27 REVIEW rows** (24 candidates for people who never had a Scholar profile, and 3 with weak evidence: Marc Fiume, Ashlyn Kirk, Tyler P Cobb) and **5 NO_MATCH rows** (Mathieya Alatini, Bhavik Bhagat, Ana Maria Podadera Gonzalez, Mat Wlodarski, Sherry Wabisca). Work through these as time allows. Nobody with `REVIEW` or `NO_MATCH` is monitored.
 
 ### Removing a researcher
-In `researchers.tsv`, change their Status to `INACTIVE` and commit. Their history stays in `allpubs.json`, so re-activating them later (back to `OK`) will not re-announce old work.
+In `researchers.tsv`, change their Status to `INACTIVE` and commit. Their history stays in `state/allpubs.json`, so re-activating them later (back to `OK`) will not re-announce old work.
 
 ### If a failure alert arrives
 1. Open the link in the Slack message (or **Actions** and the red run).
@@ -69,6 +69,13 @@ In `researchers.tsv`, change their Status to `INACTIVE` and commit. Their histor
 
 ### Items the bot cannot see
 Theses, university-repository deposits, conference abstracts and other items without a DOI are often missing ([Missed items](Workflow.md#missed-items)). To add one: open the Google Sheet, right-click row 2 and **Insert row above**, and copy the layout of the row below. Columns are: participant, title, date added, publisher, authors, url, firstOrLast (True or False), blank, year. Post it in Slack by hand if wanted.
+
+### Exporting a list of publications
+To get everything the bot has stored since a date (for example to check the Sheet against it), run locally:
+```bash
+python src/ExportPubsSince.py 20260101
+```
+It writes `output/pubsSince20260101.tsv` with one row per researcher per paper, newest first. Give a second argument to choose the file name.
 
 ### Changing which types are announced
 Open `config.py` on GitHub and edit the `ignoredTypes` line, for example:

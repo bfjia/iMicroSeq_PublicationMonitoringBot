@@ -11,6 +11,7 @@ import urllib.request
 
 # ---- Configuration ----
 # Settings live in config.py (see the comments there).
+import paths  # puts the repo root on sys.path for config.py
 from config import openAlexBaseURL, userAgent, maxRetries, requestTimeout, maxRetryAfterSeconds
 # Free key from https://openalex.org/settings/api-key. Works without one, but the keyless budget is
 # tiny ($0.10/day) and shared with everyone on the same IP - on GitHub Actions that's other people.

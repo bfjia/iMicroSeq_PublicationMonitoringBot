@@ -2,8 +2,11 @@
 
 #Daily pipeline. Run by .github/workflows/publii.yml; git handling is done by the workflow.
 #Needs env SLACK_BOT_TOKEN (or .secret/pubiioauthtoken), OPENALEX_API_KEY, GOOGLE_SERVICE_ACCOUNT_JSON (or .secret/googleToken).
+#Code is in src/, bot state in state/, generated files (msg.md, review.md, summary.md, publii.log) in output/.
 
 PYTHON=${PYTHON:-python}
+cd "$(dirname "$0")"
+mkdir -p output
 
 #Settings (channels and the isLive go-live switch) are in config.py. Booleans are printed as true/false.
 readConfig() {
@@ -22,56 +25,56 @@ handle_error() {
 	if [ -n "$GITHUB_RUN_ID" ]; then
 		message="$message Run: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
 	fi
-	if [ -f publii.log ]; then
-		$PYTHON slackConnector.py --message "$message" --file publii.log --channel "$debugChannel"
+	if [ -f output/publii.log ]; then
+		$PYTHON src/slackConnector.py --message "$message" --file output/publii.log --channel "$debugChannel"
 	else
-		$PYTHON slackConnector.py --message "$message" --channel "$debugChannel"
+		$PYTHON src/slackConnector.py --message "$message" --channel "$debugChannel"
 	fi
 	exit $exitCode
 }
 
 trap handle_error ERR
 
-#Find publications (writes msg.md, review.md, summary.md, delta.json, allpubs.json)
-$PYTHON FindPublications.py
+#Find publications (writes output/msg.md, output/review.md, output/summary.md, state/delta.json, state/allpubs.json)
+$PYTHON src/FindPublications.py
 
-if grep -q "\[INFO\]" msg.md && grep -q "No new publication found." msg.md; then
+if grep -q "\[INFO\]" output/msg.md && grep -q "No new publication found." output/msg.md; then
 	hasNew=false
-	$PYTHON slackConnector.py --messagefile msg.md --channel "$debugChannel"
+	$PYTHON src/slackConnector.py --messagefile output/msg.md --channel "$debugChannel"
 else
 	hasNew=true
 	if [ "$isLive" = true ]; then
-		$PYTHON slackConnector.py --messagefile msg.md --channel "$productionChannel"
+		$PYTHON src/slackConnector.py --messagefile output/msg.md --channel "$productionChannel"
 	else
-		$PYTHON slackConnector.py --messagefile msg.md --channel "$debugChannel"
+		$PYTHON src/slackConnector.py --messagefile output/msg.md --channel "$debugChannel"
 	fi
 fi
 
 #Anything needing human review goes to the debug channel
-if [ -s review.md ]; then
-	$PYTHON slackConnector.py --messagefile review.md --channel "$debugChannel"
+if [ -s output/review.md ]; then
+	$PYTHON src/slackConnector.py --messagefile output/review.md --channel "$debugChannel"
 fi
 
-$PYTHON slackConnector.py --messagefile summary.md --channel "$debugChannel"
+$PYTHON src/slackConnector.py --messagefile output/summary.md --channel "$debugChannel"
 
 #Show the results in the GitHub job summary when available
 if [ -n "$GITHUB_STEP_SUMMARY" ]; then
 	{
-		cat summary.md
+		cat output/summary.md
 		echo
-		cat msg.md
-		if [ -s review.md ]; then
+		cat output/msg.md
+		if [ -s output/review.md ]; then
 			echo
 			echo "### Review"
-			cat review.md
+			cat output/review.md
 		fi
 	} >> "$GITHUB_STEP_SUMMARY"
 fi
 
 if [ "$hasNew" = true ]; then
 	if [ "$isLive" = true ]; then
-		$PYTHON GoogleSheetAPIConnector.py --live   #production sheet
+		$PYTHON src/GoogleSheetAPIConnector.py --live   #production sheet
 	else
-		$PYTHON GoogleSheetAPIConnector.py          #TEST copy of the sheet; never production
+		$PYTHON src/GoogleSheetAPIConnector.py          #TEST copy of the sheet; never production
 	fi
 fi

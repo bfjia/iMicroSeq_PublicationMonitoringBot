@@ -9,51 +9,55 @@ The bot used to read Google Scholar. It was moved to OpenAlex because Scholar bl
 ## Pipeline
 
 ```
-researchers.tsv  (who to watch, and their OpenAlex ids)
+researchers.tsv  (who to watch, and their OpenAlex ids)      config.py  (all settings)
        |
        v
-FindPublications.py  <--- OpenAlex API (works from the last 365 days)
+src/FindPublications.py  <--- OpenAlex API (works from the last 365 days)
        |
-       +--> allpubs.json  (memory of every paper seen; committed)
-       +--> delta.json    (confident new papers; committed)
-       +--> msg.md        (Slack text for new papers)
-       +--> review.md     (Slack text for papers needing review)
-       +--> summary.md    (one-line run summary + warnings)
+       +--> state/allpubs.json  (memory of every paper seen; committed)
+       +--> state/delta.json    (confident new papers; committed)
+       +--> output/msg.md       (Slack text for new papers)
+       +--> output/review.md    (Slack text for papers needing review)
+       +--> output/summary.md   (one-line run summary + warnings)
        |
        v
 publii.sh --> Slack  (msg.md, review.md, summary.md)
-          --> Google Sheet  (rows from delta.json)
+          --> Google Sheet  (rows from state/delta.json)
 
-GitHub Actions runs all of this daily and commits allpubs.json / delta.json.
+GitHub Actions runs all of this daily and commits state/allpubs.json and state/delta.json.
 ```
 
 ## A daily run, step by step
 
 1. GitHub starts the "Daily publication check" workflow at 15:20 UTC (about 07:20 Pacific time in winter). It may start late.
 2. It installs the dependencies and runs the offline tests.
-3. `FindPublications.py` reads `researchers.tsv`. It uses only rows with Status `OK` and at least one OpenAlex id.
+3. `src/FindPublications.py` reads `researchers.tsv`. It uses only rows with Status `OK` and at least one OpenAlex id.
 4. For each researcher it asks OpenAlex for all works from the last 365 days.
-5. It compares them with `allpubs.json`. Anything not already stored is "new".
+5. It compares them with `state/allpubs.json`. Anything not already stored is "new".
 6. Each new item is judged confident or needs review (see below).
-7. Confident items go to `msg.md` and `delta.json`. Items needing review go to `review.md`.
+7. Confident items go to `output/msg.md` and `state/delta.json`. Items needing review go to `output/review.md`.
 8. `publii.sh` posts to Slack and, if there was something new, adds Google Sheet rows.
-9. If `allpubs.json` or `delta.json` changed, the workflow commits "Update YYYYMMDD".
+9. If `state/allpubs.json` or `state/delta.json` changed, the workflow commits "Update YYYYMMDD".
 
 ## Files
 
-| File | Role |
+The two files people edit are at the top of the repository. Everything else is in a folder.
+
+| File or folder | Role |
 |---|---|
-| `researchers.tsv` | The list of people. Columns: Status, Name, OpenAlexIDs, ORCID, InstitutionIDs, ScholarID, Notes. Edit this to change who is watched. |
-| `allpubs.json` | The bot's memory: every paper seen, per OpenAlex id. Never edit by hand. |
-| `delta.json` | The confident new papers from the latest run. Feeds the Google Sheet step. |
-| `msg.md`, `review.md`, `summary.md` | The three Slack messages from the latest run. Not committed. |
 | `config.py` | Every setting in one place, each with a comment: the `isLive` switch, Slack channels, Sheet ids, the daily-check thresholds, `AddResearcher.py` scoring, OpenAlex retries. Edit settings here. |
-| `FindPublications.py` | The daily check. |
-| `AddResearcher.py` | Finds the OpenAlex profile for a new person. Writes `addResearcherReport.md`. |
-| `publii.sh` | Runs the steps and posts. Reads the channels and `isLive` from `config.py`. |
-| `slackConnector.py`, `GoogleSheetAPIConnector.py`, `openAlexClient.py`, `researcherRoster.py` | Helpers for Slack, the Sheet, OpenAlex and reading `researchers.tsv`. |
+| `researchers.tsv` | The list of people. Columns: Status, Name, OpenAlexIDs, ORCID, InstitutionIDs, ScholarID, Notes. Edit this to change who is watched. |
+| `publii.sh` | Runs the daily steps and posts. Reads the channels and `isLive` from `config.py`. |
+| `src/FindPublications.py` | The daily check. |
+| `src/AddResearcher.py` | Finds the OpenAlex profile for a new person. Writes `output/addResearcherReport.md`. |
+| `src/ExportPubsSince.py` | Exports every stored paper after a date to a TSV, for example to check or backfill the Sheet. |
+| `src/slackConnector.py`, `src/GoogleSheetAPIConnector.py`, `src/openAlexClient.py`, `src/researcherRoster.py`, `src/paths.py` | Helpers for Slack, the Sheet, OpenAlex, reading `researchers.tsv`, and where files live. |
+| `state/allpubs.json` | The bot's memory: every paper seen, per OpenAlex id. Committed by the bot. Never edit by hand. |
+| `state/delta.json` | The confident new papers from the latest run. Feeds the Google Sheet step. |
+| `output/` | Made fresh by each run and not committed: the three Slack messages (`msg.md`, `review.md`, `summary.md`), `publii.log`, `last_allpubs.json` (the memory before this run) and reports. |
 | `.github/workflows/` | `publii.yml` (daily run) and `addResearcher.yml` (the "Add researcher candidate" button). |
 | `tests/` | Offline tests. Run by the workflow before every daily run. |
+| `docs/` | This page and the SOPs. |
 | `legacy/` | The old Google Scholar bot and data. Reference only. |
 
 ## How researchers are matched to OpenAlex profiles
@@ -121,7 +125,7 @@ Matching is imperfect. About 3.5% of real papers went to review in the back-test
 OpenAlex usually has a paper within days. In the back-test the median was about 3 days earlier than Scholar. Occasionally it takes weeks (the longest was about 2 months). So an announcement can arrive late. What you can do: nothing; it will appear when OpenAlex has it.
 
 ### Public repo
-The repository is public. GitHub Actions logs and `allpubs.json` (researcher names and paper titles) can be read by anyone. Secrets stay masked in logs. What you can do: never put secrets or private notes in the repo, and keep Notes in `researchers.tsv` professional. See [SOP-2](SOP-2-Deploy.md#before-you-start).
+The repository is public. GitHub Actions logs and `state/allpubs.json` (researcher names and paper titles) can be read by anyone. Secrets stay masked in logs. What you can do: never put secrets or private notes in the repo, and keep Notes in `researchers.tsv` professional. See [SOP-2](SOP-2-Deploy.md#before-you-start).
 
 ### GitHub scheduling
 Runs can start late, often 5 to 30 minutes and sometimes more. GitHub also switches off scheduled runs after 60 days with no repository activity. The workflow makes a "Keepalive" commit after 50 quiet days, but check monthly. What you can do: see [SOP-3](SOP-3-Daily-Operations.md#routine-checks) and the troubleshooting row for a disabled schedule.

@@ -12,7 +12,7 @@ import traceback
 
 testsDir = os.path.dirname(os.path.abspath(__file__))
 repoDir = os.path.dirname(testsDir)
-sys.path.insert(0, repoDir)
+sys.path.insert(0, os.path.join(repoDir, "src"))
 
 import FindPublications as fp
 import researcherRoster
@@ -367,10 +367,13 @@ def testReviewAndSummaryFormat():
 
 # ---- Whole pipeline in a temp dir ----
 outputFiles = ["allpubs.json", "delta.json", "msg.md", "review.md", "summary.md"]
+# FindPublications' file globals, pointed at bare names inside the temp dir so a test can never touch the real state/.
+sandboxFiles = {"jsonFile": "allpubs.json", "lastJsonFile": "last_allpubs.json", "deltaJsonFile": "delta.json",
+                "msgFile": "msg.md", "reviewFile": "review.md", "summaryFile": "summary.md"}
 
 
 class pipelineSandbox:
-    """chdir into a temp dir, point the roster at the fixture and replace the fetcher; undo everything on exit."""
+    """chdir into a temp dir, point every file at it and the roster at the fixture, replace the fetcher; undo on exit."""
     def __init__(self, fakeFetch):
         self.fakeFetch = fakeFetch
 
@@ -378,9 +381,12 @@ class pipelineSandbox:
         self.oldDir = os.getcwd()
         self.oldFetch = fp.fetchWorksForResearcher
         self.oldRoster = fp.rosterFile
+        self.oldFiles = dict((name, getattr(fp, name)) for name in sandboxFiles)
         self.tempDir = tempfile.mkdtemp(prefix="publiiTest")
         os.chdir(self.tempDir)
         fp.rosterFile = fixtureRoster
+        for name, fileName in sandboxFiles.items():
+            setattr(fp, name, fileName)
         fp.fetchWorksForResearcher = self.fakeFetch
         return self.tempDir
 
@@ -388,6 +394,8 @@ class pipelineSandbox:
         os.chdir(self.oldDir)
         fp.fetchWorksForResearcher = self.oldFetch
         fp.rosterFile = self.oldRoster
+        for name, path in self.oldFiles.items():
+            setattr(fp, name, path)
         shutil.rmtree(self.tempDir, ignore_errors=True)
         return False
 

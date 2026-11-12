@@ -1,7 +1,7 @@
 #Settings for the publication bot, in one place. Edit values here, not in the scripts.
 #
-#Read by FindPublications.py, AddResearcher.py, openAlexClient.py, slackConnector.py,
-#GoogleSheetAPIConnector.py, publii.sh and .github/workflows/publii.yml.
+#Read by the scripts in src/, by publii.sh and by .github/workflows/publii.yml.
+#File paths below are relative to the repository root.
 #Secrets never go in this file (the repo is public): they come from env vars or the gitignored .secret/ folder.
 #
 #Not here, because GitHub reads it from the workflow file itself: the daily run time
@@ -44,7 +44,7 @@ googleScopes = ["https://www.googleapis.com/auth/spreadsheets"]
 
 
 # ======================================================================
-# Daily check (FindPublications.py)
+# Daily check (src/FindPublications.py)
 # ======================================================================
 # How many days back to ask OpenAlex for works. Older papers are never announced.
 lookbackDays = 365
@@ -66,10 +66,10 @@ ignoredTitlePattern = re.compile(r'^\s*(additional file|supplementary (file|mate
 
 
 # ======================================================================
-# Adding researchers (AddResearcher.py)
+# Adding researchers (src/AddResearcher.py)
 # ======================================================================
 maxCandidates = 8            # how many OpenAlex search hits to score per name
-shownCandidates = 5          # how many of them to list in addResearcherReport.md
+shownCandidates = 5          # how many of them to list in output/addResearcherReport.md
 minNameScore = 0.8           # if the best hit's name similarity (0-1) is below this, the row becomes NO_MATCH
 homeCountry = "CA"           # iMicroSeq is a Canadian network; an institution in this country is a ranking hint only
 recentAffiliationYears = 6   # affiliations from the last N years count as the candidate's current institutions
@@ -90,7 +90,7 @@ addResearcherPauseSeconds = 0.3
 
 
 # ======================================================================
-# OpenAlex API (openAlexClient.py)
+# OpenAlex API (src/openAlexClient.py)
 # ======================================================================
 # The API key is the OPENALEX_API_KEY env var (GitHub secret), never this file.
 openAlexBaseURL = "https://api.openalex.org"

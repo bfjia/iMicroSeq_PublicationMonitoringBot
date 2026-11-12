@@ -10,7 +10,9 @@
 #  Notes           free text; AddResearcher.py writes runner-up candidates here
 import os
 
-rosterFile = "researchers.tsv"
+import paths
+
+rosterFile = paths.rosterFile
 rosterColumns = ["Status", "Name", "OpenAlexIDs", "ORCID", "InstitutionIDs", "ScholarID", "Notes"]
 validStatuses = ["OK", "REVIEW", "NO_MATCH", "INACTIVE"]
 

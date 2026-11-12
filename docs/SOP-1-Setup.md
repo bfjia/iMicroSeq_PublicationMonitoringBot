@@ -39,7 +39,6 @@ Share **both** sheets. The bot only writes to the test copy until you go live, b
 ```bash
 git clone git@github.com:bfjia/iMicroSeq_PublicationMonitoringBot.git
 cd iMicroSeq_PublicationMonitoringBot
-git checkout openalex-migration
 pip install -r requirements.txt
 ```
 
@@ -69,7 +68,7 @@ While `isLive = False` in `config.py`, this posts only to the debug channel and 
 ## Check it worked
 - The offline tests finish without errors.
 - The debug channel receives an "[INFO] Run summary ..." message, plus "No new publication found." or a list.
-- `git status` shows `allpubs.json` and `delta.json` possibly changed. Do not commit them from a test run: run `git checkout allpubs.json delta.json` to undo.
+- `git status` shows `state/allpubs.json` and `state/delta.json` possibly changed. Do not commit them from a test run: run `git checkout state/` to undo. The messages it posted are also in `output/`.
 
 ## If something goes wrong
 | You see | Fix |
