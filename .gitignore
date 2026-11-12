@@ -22,3 +22,7 @@ publii.log
 authors.txt
 CLAUDE.md
 __pycache__
+review.md
+summary.md
+addResearcherReport.md
+.env

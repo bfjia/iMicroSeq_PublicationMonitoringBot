@@ -1,287 +1,42 @@
+#Find new publications by the monitored researchers using the OpenAlex API.
+#
+#Reads researchers.tsv, fetches each researcher's works from the last lookbackDays, updates the
+#append-only state in allpubs.json, and writes:
+#  delta.json  - confident new publications (read by GoogleSheetAPIConnector.py)
+#  msg.md      - the Slack announcement (same layout as the old Google Scholar bot)
+#  review.md   - new publications we could not confirm belong to the researcher (empty if none)
+#  summary.md  - one-line run summary plus warnings
+#Nothing is written unless every researcher was fetched successfully.
+import datetime
 import json
 import os
-import shutil
-from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.common.by import By
-import time
 import re
-import random
+import shutil
+import unicodedata
 from dateutil import parser
-import difflib
+
+from openAlexClient import listWorks, shortID
+from researcherRoster import monitoredResearchers, splitIDs
 
 # ---- Configuration ----
-# Run Firefox without a visible window. True for the unattended cron run (a captcha then has no one
-# to solve it, so isBlockedByCaptcha raises). Set False to debug with a visible browser and solve
-# captchas by hand.
-isHeadless = True
+rosterFile = 'researchers.tsv'
 jsonFile = 'allpubs.json'
 lastJsonFile = 'last_allpubs.json'
-authorsToMonitor = "authors.txt"
 deltaJsonFile = 'delta.json'
-AuthorNameSimilarityFuzzyMatchingCutoff = 0.75
+msgFile = 'msg.md'
+reviewFile = 'review.md'
+summaryFile = 'summary.md'
+# Tunable settings live in config.py (see the comments there).
+from config import lookbackDays, maxNewPerRun, lateIndexDays, minSharedCoauthors, ignoredTypes, ignoredTitlePattern
+workFields = 'id,doi,title,display_name,type,publication_date,created_date,primary_location,authorships'
+nameSuffixes = ['jr', 'sr', 'ii', 'iii', 'iv']
 
-class publications:
-    def __init__(self, title, year, publisher, author, url, firstOrLast, publicationID, datasource):
-        self.title = title
-        self.year = year
-        self.publisher = publisher
-        self.author = author
-        self.url = url
-        self.firstOrLast = firstOrLast
-        self.publicationID = publicationID
-        self.datasource = datasource
-
-    def toDict(self):
-        return {
-            "title": self.title,
-            "year": self.year,
-            "publisher": self.publisher,
-            "author": self.author,
-            "url": self.url,
-            "firstOrLast": self.firstOrLast,
-            "datasource":self.datasource
-        }
-
-
-def politeSleep(lo=2.0, hi=5.0):
-    """Sleep a randomized human-like interval to avoid hammering Google Scholar (throttle/captcha)."""
-    time.sleep(random.uniform(lo, hi))
-
-
-def isBlockedByCaptcha(driver):
-    """Detect Google Scholar's throttle/captcha interstitial.
-
-    Headless (isHeadless=True): no human can solve it, so raise and let publii.sh's ERR trap alert.
-    Non-headless: warn and wait for the operator to solve it in the Firefox window, then continue."""
-    try:
-        currentUrl = driver.current_url.lower()
-    except Exception:
-        currentUrl = ""
-
-    captchaDetected = "/sorry/" in currentUrl or "captcha" in currentUrl
-    if not captchaDetected:
-        try:
-            captchaDetected = bool(
-                driver.find_elements(By.ID, "gs_captcha_ccl")
-                or driver.find_elements(By.ID, "gs_captcha_f")
-                or driver.find_elements(By.CSS_SELECTOR, "form#captcha-form")
-                or driver.find_elements(By.CSS_SELECTOR, "#g-recaptcha"))
-        except Exception:
-            captchaDetected = False
-
-    if captchaDetected:
-        if isHeadless:
-            raise RuntimeError("[ERROR] Google Scholar captcha detected while running headless; cannot solve it automatically.")
-        print("[WARNING] Google Scholar captcha detected. Running non-headless: solve it in the Firefox window, then press Enter here to continue...")
-        try:
-            input()
-        except EOFError:
-            pass
-
-    return captchaDetected
-
-
-def readPublicationRows(driver):
-    """Read (pubID, title, detailURL, listingYear) for every row on a profile listing page.
-    The year is taken from the listing itself (td.gsc_a_y), so we can filter by year WITHOUT
-    opening a per-publication detail page and WITHOUT trusting Scholar's sort order."""
-    rows = []
-    for pub in driver.find_elements(By.CSS_SELECTOR, 'tr.gsc_a_tr'):
-        try:
-            titleElem = pub.find_element(By.CLASS_NAME, 'gsc_a_at')
-            title = titleElem.text
-
-            href = titleElem.get_attribute("href")
-            detailURL = "https://scholar.google.com" + href if href.startswith("/citations?") else href
-
-            match = re.search(r'citation_for_view=[^:]+:([^&]+)', detailURL)
-            if not match:
-                continue
-            pubID = match.group(1)
-
-            listingYear = None
-            yearMatch = re.search(r'\d{4}', pub.find_element(By.CSS_SELECTOR, 'td.gsc_a_y').text)
-            if yearMatch:
-                listingYear = int(yearMatch.group(0))
-
-            rows.append((pubID, title, detailURL, listingYear))
-        except Exception as e:
-            print("[WARNING] Could not parse a publication row: " + str(e))
-    return rows
-
-
-def isSortedNewestFirst(rows):
-    """True if the listing years (ignoring blanks) are non-increasing, i.e. Scholar's
-    sortby=pubdate actually took effect. Used to detect a silently-failed sort."""
-    years = [year for _, _, _, year in rows if year is not None]
-    return all(years[i] >= years[i + 1] for i in range(len(years) - 1))
-
-
-#extract publication metadata from google scholar's summary page
-def extractMetadataFromScholarSummary(driver, publicationURL, profileName, title, pubID, maxRetries=3):
-    #open a new window and go to the publication url
-    driver.execute_script("window.open('');")
-    driver.switch_to.window(driver.window_handles[1])
-
-    # Load the detail page, reloading if it didn't render. The metadata table (gsc_oci_field) is
-    # our "page actually loaded" signal: a missing title link alone is fine (citation-only entries
-    # genuinely have no external URL), but a missing table means a slow/partial load -> reload.
-    meta_rows = []
-    for attempt in range(1, maxRetries + 1):
-        driver.get(publicationURL)
-        politeSleep()
-
-        isBlockedByCaptcha(driver)  # raises if headless+captcha; pauses for manual solve if not
-
-        meta_rows = driver.find_elements(By.CLASS_NAME, 'gsc_oci_field')
-        if meta_rows:
-            break
-        print(f"[WARNING] Detail page for {pubID} did not render (attempt {attempt}/{maxRetries}); reloading...")
-        time.sleep(min(3 * attempt, 30))
-
-    if not meta_rows:
-        print(f"[ERROR] Detail page for {pubID} never rendered after {maxRetries} reloads; metadata may be incomplete.")
-
-    # find_elements returns [] instead of raising when the title link is absent (citation-only pubs).
-    linkElements = driver.find_elements(By.CLASS_NAME, 'gsc_oci_title_link')
-    actualPubURL = linkElements[0].get_attribute("href") if linkElements else None
-
-    # Extract metadata rows (zip so a field/value count mismatch can't IndexError)
-    meta_values = driver.find_elements(By.CLASS_NAME, 'gsc_oci_value')
-    metadata = dict()
-    for field, value in zip(meta_rows, meta_values):
-        metadata[field.text.lower().strip()] = value.text.strip()
-
-    #switch back to the main window
-    driver.close()
-    driver.switch_to.window(driver.window_handles[0])
-
-    #format the metadata.
-    pubDate = metadata['publication date'] if 'publication date' in metadata else "Unknown"
-    # Keep the WHOLE venue string. The old code used metadata['publisher'][0], which indexes the
-    # first CHARACTER of the string (hence "Published in C."). Fall through the possible venue labels.
-    journal = (metadata.get('journal') or metadata.get('conference') or metadata.get('source')
-               or metadata.get('book') or metadata.get('publisher') or "Unknown")
-    authors = metadata['authors'] if 'authors' in metadata else "Unknown"
-
-    profileName2 = profileName.lower()
-    firstAuthor = authors.split(",")[0].strip()
-    lastAuthor = authors.split(",")[-1].strip()
-    similarityFirst = difflib.SequenceMatcher(None, profileName2, firstAuthor).ratio()
-    similarityLast = difflib.SequenceMatcher(None, profileName2, lastAuthor).ratio()
-    firstOrLastAuthor = True  if similarityFirst > AuthorNameSimilarityFuzzyMatchingCutoff or similarityLast > AuthorNameSimilarityFuzzyMatchingCutoff else False
-    publication = publications(title, pubDate, journal, authors, actualPubURL, firstOrLastAuthor,  pubID, "Scholars")
-    return publication
-
-#fetch the most recent 100 publications
-def fetchPublicationsUsingSelenium(driver, scholarID, previousJsonData, maxYear = 2020, maxRetries = 20):
-    url = f"https://scholar.google.com/citations?user={scholarID}&hl=en&cstart=0&pagesize=100&sortby=pubdate"
-
-    knownPubs = previousJsonData[scholarID]['publications'] if scholarID in previousJsonData else {}
-    profileName = "Unknown"
-    rows = []
-
-    for attempt in range(1, maxRetries + 1):
-        try:
-            driver.set_page_load_timeout(20)  # Set timeout in seconds
-            driver.get(url)
-            isBlockedByCaptcha(driver)  # raises if headless+captcha; pauses for manual solve if not
-            politeSleep(4, 7)  # let the page settle
-
-            try:
-                profileName = driver.find_element(By.ID, "gsc_prf_in").text.strip()
-            except Exception:
-                profileName = "Unknown"
-
-            rows = readPublicationRows(driver)
-
-            # If the listing isn't newest-first, Scholar's sort silently failed. Per-row year
-            # filtering below still works, but a failed sort can hide a recent pub when an author
-            # has >100 entries, so retry the load a few times before accepting the order.
-            if isSortedNewestFirst(rows) or attempt >= 5:
-                break
-            print(f"[WARNING] Publication list for {scholarID} does not look date-sorted (attempt {attempt}). Retrying...")
-            time.sleep(min(5 * attempt, 60))
-        except Exception as e:
-            print(f"Attempt {attempt} failed with error: {e}")
-            if attempt < maxRetries:
-                backoff = min(5 * (2 ** (attempt - 1)), 300)  # exponential backoff, capped at 5 min
-                print(f"Retrying in {backoff} seconds...")
-                time.sleep(backoff)
-            else:
-                raise RuntimeError(f"[ERROR] Could not load profile {scholarID} after {maxRetries} attempts (captcha or load failure).")
-
-    print("[INFO] " + "Looking for publications by " + profileName + " with google scholar ID " + scholarID)
-
-    publicationList = {}
-    for pubID, title, publicationURL, listingYear in rows:
-        # Robust to sort failures: skip anything older than maxYear by listing year alone.
-        # Unknown/blank year -> keep, so genuinely-new pubs with missing dates aren't dropped.
-        if listingYear is not None and listingYear < maxYear:
-            continue
-
-        # Use cached metadata for already-known pubs to avoid an unnecessary detail-page request.
-        if pubID in knownPubs:
-            print("[DEBUG] " + "Found known publication with ID " + pubID)
-            publicationList[pubID] = knownPubs[pubID]
-            continue
-
-        # New, in-range pub -> open its detail page for full metadata.
-        publication = extractMetadataFromScholarSummary(driver, publicationURL, profileName, title, pubID)
-        if publication is None:
-            print("[ERROR] Absolutely Nothing found.")
-            continue
-
-        # Determine the year. Prefer the detail-page date; fall back to the listing-page year.
-        # If neither yields a year, this is undated cruft (posters, conference abstracts, merged
-        # "cluster" citations, old PDFs that Scholar lists without a date) - skip it rather than
-        # assuming it's current. The old code forced an Unknown date to "2025", which is exactly
-        # why pre-2020 items leaked through and surfaced as new publications.
-        try:
-            pubYear = parser.parse(publication.toDict()['year']).year
-        except Exception:
-            pubYear = listingYear
-
-        if pubYear is None:
-            print("[INFO] Skipping publication with ID " + pubID + " ('" + title + "') - no determinable publication date.")
-            continue
-        if pubYear < maxYear:
-            continue
-
-        # Detail page had no parseable date but the listing did: store the real listing year so the
-        # rest of the pipeline (which parses 'year') works and the pub isn't mislabelled.
-        if publication.toDict()['year'] == "Unknown":
-            publication.year = str(pubYear)
-
-        publicationList[pubID] = publication.toDict()
-        print("[INFO] " + "Found new publication with ID " + pubID + " Titled: " + title)
-
-    # Sometimes publications in previousJsonData don't show up in the new list - either old
-    # manuscripts outside the top 100, or recent pubs Scholar de-indexed. Brute-force the known
-    # ones back in, but only if they're within range so stale pre-maxYear entries get pruned.
-    if scholarID not in previousJsonData:
-        print("[INFO] New author added. Not comparing to previous publication list.")
-    else:
-        keysInPrevButNotCur = set(knownPubs.keys()) - set(publicationList.keys())
-        if len(keysInPrevButNotCur) > 0:
-            print("[WARNING] " + "There were existing publications that were not indexed in this round " + str(keysInPrevButNotCur))
-            for key in keysInPrevButNotCur:
-                pub = knownPubs[key]
-                try:
-                    if parser.parse(pub['year']).year < maxYear:
-                        print("[INFO] Pruning stale pre-" + str(maxYear) + " publication " + key)
-                        continue
-                except Exception:
-                    pass
-                publicationList[key] = pub
-
-    return {'Name' : profileName, 'total_publications' : str(len(publicationList)), 'publications':publicationList}
 
 #save json data
 def saveJson(data, filename):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
+
 
 #load json data
 def loadJson(filename):
@@ -291,124 +46,448 @@ def loadJson(filename):
         return json.load(f)
 
 
+def saveText(text, filename):
+    with open(filename, "w", encoding="utf-8", newline="\n") as f:
+        f.write(text)
+
+
+def normalizeDOI(doi):
+    """'https://doi.org/10.1128/MRA.0012' -> '10.1128/mra.0012'. None/'' -> None."""
+    if not doi:
+        return None
+    doi = doi.strip().lower()
+    match = re.search(r'(10\.\d{4,9}/\S+)', doi)
+    return match.group(1) if match else None
+
+
+def recordDOI(record):
+    """DOI of a stored record. Older (Google Scholar era) records have no 'doi' field, so fall back to a doi.org url."""
+    doi = normalizeDOI(record.get('doi'))
+    if doi:
+        return doi
+    url = record.get('url') or ""
+    return normalizeDOI(url) if "doi.org/" in url.lower() else None
+
+
+def workTitle(work):
+    return (work.get('display_name') or work.get('title') or "Untitled").strip()
+
+
+def workAuthorIDs(work):
+    """Short ids of every author on a work (authors without an id are skipped)."""
+    return [shortID((a.get('author') or {}).get('id')) for a in (work.get('authorships') or []) if (a.get('author') or {}).get('id')]
+
+
+def authorshipsFor(work, authorIDs):
+    return [a for a in (work.get('authorships') or []) if shortID((a.get('author') or {}).get('id')) in authorIDs]
+
+
+def mapWorkToRecord(work, authorID):
+    """Convert an OpenAlex work into the publication record stored in allpubs.json, from the point of view of authorID."""
+    location = work.get('primary_location') or {}
+    source = location.get('source') or {}
+    authorships = work.get('authorships') or []
+    authors = ", ".join((a.get('author') or {}).get('display_name') or a.get('raw_author_name') or "" for a in authorships)
+    doi = normalizeDOI(work.get('doi'))
+    if doi:
+        url = "https://doi.org/" + doi
+    else:
+        url = location.get('landing_page_url') or work.get('id')
+    firstOrLast = any(a.get('author_position') in ('first', 'last') for a in authorshipsFor(work, [authorID]))
+    return {
+        "title": workTitle(work),
+        "year": work.get('publication_date'),
+        "publisher": source.get('display_name') or None,
+        "author": authors,
+        "url": url,
+        "firstOrLast": firstOrLast,
+        "datasource": "OpenAlex",
+        "type": work.get('type'),
+        "doi": doi,
+        "created": (work.get('created_date') or "")[:10] or None
+    }
+
+
+def normalizePersonName(name):
+    """'Tim Angus McAllister' / 'TA McAllister' -> 'mcallister t'. Returns '' when it can't tell (single token, non-Latin)."""
+    text = unicodedata.normalize("NFKD", name or "")
+    text = "".join(c for c in text if not unicodedata.combining(c))
+    text = re.sub(r"['’`]", "", text)
+    text = re.sub(r"[^A-Za-z\-\s]", " ", text).lower()
+    tokens = [t.strip("-") for t in text.split() if t.strip("-") and t.strip("-") not in nameSuffixes]
+    if len(tokens) < 2:
+        return ""
+    return tokens[-1] + " " + tokens[0][0]
+
+
+def authorNameKeys(authorString):
+    """Set of normalized names from a comma-joined author string."""
+    keys = set()
+    for name in (authorString or "").split(","):
+        key = normalizePersonName(name)
+        if key:
+            keys.add(key)
+    return keys
+
+
+def daysBetween(dateString, today):
+    try:
+        return (today - parser.parse(dateString).date()).days
+    except Exception:
+        return None
+
+
+def isDoubtfulMatch(work, researcher, knownPublications, monitoredIDToName, today):
+    """Decide whether a new work really belongs to this researcher.
+
+    knownPublications: list of the researcher's previously stored records (any of their ids).
+    monitoredIDToName: {OpenAlex author id: roster Name} for every monitored researcher.
+    Returns (isDoubtful, reason). The reason explains the decision either way."""
+    researcherIDs = splitIDs(researcher.get('OpenAlexIDs'))
+    name = researcher.get('Name')
+
+    # Re-attribution: an already-published paper that OpenAlex has had for a while only now shows up
+    # under this person. Both dates must be old: OpenAlex often creates a record at DOI registration,
+    # months before the publication date, and those are normal new papers.
+    created = (work.get('created_date') or "")[:10]
+    age = daysBetween(created, today) if created else None
+    publishedAge = daysBetween(work.get('publication_date') or "", today)
+    if age is not None and age > lateIndexDays and publishedAge is not None and publishedAge > lateIndexDays:
+        return True, ("OpenAlex indexed this " + str(age) + " days ago (published " + str(work.get('publication_date'))
+                      + "); it only now appears under this researcher")
+
+    # (a) affiliation on the researcher's own authorship matches the roster InstitutionIDs.
+    rosterInstitutions = set(splitIDs(researcher.get('InstitutionIDs')))
+    listedInstitutions = []
+    for authorship in authorshipsFor(work, researcherIDs):
+        for institution in authorship.get('institutions') or []:
+            ids = set([shortID(institution.get('id'))] + [shortID(i) for i in institution.get('lineage') or []])
+            listedInstitutions.append(institution.get('display_name') or shortID(institution.get('id')))
+            if ids & rosterInstitutions:
+                return False, "affiliation match (" + (institution.get('display_name') or shortID(institution.get('id'))) + ")"
+
+    # (b) another monitored researcher is a co-author.
+    for authorID in workAuthorIDs(work):
+        if authorID in researcherIDs:
+            continue
+        otherName = monitoredIDToName.get(authorID)
+        if otherName and otherName != name:
+            return False, "co-authored with monitored researcher " + otherName
+
+    # (c) enough co-authors already appear in the researcher's earlier publications.
+    ownKeys = set([normalizePersonName(name)])
+    for authorship in authorshipsFor(work, researcherIDs):
+        ownKeys.add(normalizePersonName((authorship.get('author') or {}).get('display_name')))
+    knownCoauthors = set()
+    for record in knownPublications:
+        knownCoauthors |= authorNameKeys(record.get('author'))
+    coauthors = set()
+    for authorship in work.get('authorships') or []:
+        if shortID((authorship.get('author') or {}).get('id')) in researcherIDs:
+            continue
+        coauthors.add(normalizePersonName((authorship.get('author') or {}).get('display_name') or authorship.get('raw_author_name')))
+    shared = sorted((coauthors & knownCoauthors) - ownKeys - set([""]))
+    if len(shared) >= minSharedCoauthors:
+        return False, str(len(shared)) + " co-authors seen in earlier publications (" + ", ".join(shared[:3]) + ")"
+
+    affiliationText = ("listed affiliation: " + "; ".join(sorted(set(listedInstitutions)))) if listedInstitutions else "no affiliation listed"
+    if not rosterInstitutions:
+        affiliationText = affiliationText + ", no InstitutionIDs on the roster row"
+    return True, ("Could not confirm the author: " + affiliationText + "; no other monitored researcher is a co-author; "
+                  + str(len(shared)) + " co-author(s) seen in their earlier publications")
+
+
+def buildMonitoredIDMap(researchers):
+    monitoredIDToName = {}
+    for researcher in researchers:
+        for authorID in splitIDs(researcher['OpenAlexIDs']):
+            if authorID in monitoredIDToName and monitoredIDToName[authorID] != researcher['Name']:
+                print("[WARNING] OpenAlex id " + authorID + " is listed for both " + monitoredIDToName[authorID]
+                      + " and " + researcher['Name'] + " in " + rosterFile)
+            monitoredIDToName.setdefault(authorID, researcher['Name'])
+    return monitoredIDToName
+
+
+def fetchWorksForResearcher(researcher, fromDate):
+    """All works (any type) for the researcher's OpenAlex ids published on/after fromDate. Raises on API failure."""
+    filterString = "authorships.author.id:" + "|".join(splitIDs(researcher['OpenAlexIDs'])) + ",from_publication_date:" + fromDate
+    return listWorks(filterString, select=workFields, sort='publication_date:desc')
+
+
+def buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDToName, today):
+    """Merge fetched works into the append-only state and collect the new items.
+
+    worksByResearcher is a list parallel to researchers. Returns (allPubs, newItems, zeroWorkNames)
+    where each new item is {authorID, Name, pubID, record, work, doubtful, reason}."""
+    allPubs = {}
+    newItems = []
+    zeroWorkNames = []
+
+    for researcher, works in zip(researchers, worksByResearcher):
+        name = researcher['Name']
+        researcherIDs = splitIDs(researcher['OpenAlexIDs'])
+
+        # Everything already known under any of this researcher's ids.
+        knownPublications = []
+        knownKeys = set()
+        knownDOIs = set()
+        for authorID in researcherIDs:
+            for pubID, record in lastState.get(authorID, {}).get('publications', {}).items():
+                knownPublications.append(record)
+                knownKeys.add(pubID)
+                doi = recordDOI(record)
+                if doi:
+                    knownDOIs.add(doi)
+
+        # Silent-gap warning: works within the lookback window were stored before, but none came back today.
+        # (Someone who simply hasn't published this year is not flagged.)
+        windowStart = (today - datetime.timedelta(days=lookbackDays)).isoformat()
+        if len(works) == 0 and any((record.get('year') or "") >= windowStart for record in knownPublications):
+            zeroWorkNames.append(name)
+
+        # Carry forward every stored publication (append-only).
+        for authorID in researcherIDs:
+            allPubs[authorID] = {
+                'Name': name,
+                'total_publications': "0",
+                'publications': dict(lastState.get(authorID, {}).get('publications', {}))
+            }
+
+        seenKeys = set()
+        seenDOIs = set()
+        researcherNew = 0
+        for work in works:
+            pubID = shortID(work.get('id'))
+            title = workTitle(work)
+            if not pubID:
+                continue
+            if ignoredTitlePattern.search(title):
+                print("[DEBUG] Skipping supplementary file " + pubID + ": " + title)
+                continue
+            if work.get('type') in ignoredTypes:
+                print("[DEBUG] Skipping " + str(work.get('type')) + " " + pubID + " (type listed in ignoredTypes): " + title)
+                continue
+
+            presentIDs = workAuthorIDs(work)
+            matchedIDs = [authorID for authorID in researcherIDs if authorID in presentIDs]
+            if not matchedIDs:
+                print("[WARNING] " + pubID + " was returned for " + name + " but none of their ids are in its author list "
+                      + "(author list may be truncated); filing it under " + researcherIDs[0])
+                matchedIDs = [researcherIDs[0]]
+
+            for authorID in matchedIDs:
+                record = mapWorkToRecord(work, authorID)
+                publications = allPubs[authorID]['publications']
+                if pubID not in publications:
+                    publications[pubID] = record  # existing records are never rewritten
+
+                if authorID not in lastState:
+                    continue  # new to the surveillance list: recorded silently below
+                if pubID in lastState[authorID].get('publications', {}):
+                    continue
+                doi = record['doi']
+                if pubID in knownKeys or (doi and doi in knownDOIs):
+                    print("[DEBUG] " + pubID + " is already known under another of " + name + "'s ids.")
+                    continue
+                if pubID in seenKeys or (doi and doi in seenDOIs):
+                    continue
+                seenKeys.add(pubID)
+                if doi:
+                    seenDOIs.add(doi)
+
+                doubtful, reason = isDoubtfulMatch(work, researcher, knownPublications, monitoredIDToName, today)
+                newItems.append({'authorID': authorID, 'Name': name, 'pubID': pubID, 'record': publications[pubID],
+                                 'work': work, 'doubtful': doubtful, 'reason': reason})
+                researcherNew = researcherNew + 1
+                print("[INFO] Found new publication " + pubID + " under " + authorID + " titled: " + title
+                      + (" [NEEDS REVIEW: " + reason + "]" if doubtful else " [" + reason + "]"))
+
+        for authorID in researcherIDs:
+            allPubs[authorID]['total_publications'] = str(len(allPubs[authorID]['publications']))
+            if authorID not in lastState:
+                print("[INFO] " + name + " (" + authorID + ") is a new author added to the surveillance list, ignoring until next time.")
+        if researcherNew > 0:
+            print("[INFO] " + name + " has " + str(researcherNew) + " new publication(s)!")
+        else:
+            print("[INFO] " + name + " has no new publications.")
+
+    # Keep ids that are no longer monitored, so re-activating someone can never re-announce their back-catalog.
+    for authorID in lastState:
+        if authorID not in allPubs:
+            allPubs[authorID] = lastState[authorID]
+
+    return allPubs, newItems, zeroWorkNames
+
+
+def applyFloodBreaker(newItems):
+    """If too many confident items arrived at once, move all of them to review. Returns (newItems, warning or '')."""
+    confident = [item for item in newItems if not item['doubtful']]
+    if len(confident) <= maxNewPerRun:
+        return newItems, ""
+    warning = ("Flood breaker: " + str(len(confident)) + " new publications in one run is more than maxNewPerRun ("
+               + str(maxNewPerRun) + "), so none were announced. This usually means OpenAlex merged profiles or re-indexed a batch.")
+    for item in confident:
+        item['doubtful'] = True
+        item['reason'] = warning + " (otherwise: " + item['reason'] + ")"
+    return newItems, warning
+
+
+def buildDelta(confidentItems):
+    """Legacy delta.json shape: {authorID: {Name, total_new, publications: {pubID: record}}}."""
+    delta = {}
+    for item in confidentItems:
+        entry = delta.setdefault(item['authorID'], {'Name': item['Name'], 'total_new': "0", 'publications': {}})
+        entry['publications'][item['pubID']] = item['record']
+    for authorID in delta:
+        delta[authorID]['total_new'] = str(len(delta[authorID]['publications']))
+    return delta
+
+
+def typeTag(pub):
+    pubType = pub.get('type')
+    if not pubType or pubType == 'article':
+        return ""
+    return " [" + pubType + "]"
+
+
+def hasVenue(pub):
+    return pub.get('publisher') not in (None, "", "Unknown")
+
+
+def messageTitle(pub):
+    """Title for a message line; a trailing period is dropped so the layout's own '. ' doesn't double it."""
+    return pub["title"].rstrip().rstrip(".")
+
+
+def formatPubLine(pub):
+    line = "  * " + messageTitle(pub) + typeTag(pub) + ". "
+    if hasVenue(pub):
+        line = line + " Published in " + pub['publisher'] + ". "
+    if pub.get('url'):
+        line = line + " " + pub['url'] + "\n"
+    else:
+        line = line + "URL unavailable.\n"
+    return line
+
+
 def formatSlackMsg2(deltaJson):
-    Msg = ""
     if len(deltaJson) == 0: #if theres nothing in the json file, return the appropariate msg
         return "[INFO]\nNo new publication found."
-    else:
-        #first we switch from scholarID based index to publication title based index.
-        publicationTitleKVP = {}
-        for authorID in deltaJson:
-            for pubID in deltaJson[authorID]['publications']:
-                pub = deltaJson[authorID]['publications'][pubID]
-                title = pub['title']
-                if (parser.parse(pub['year']).year >= 2025):
-                    if title not in publicationTitleKVP.keys(): #new pub
-                        publicationTitleKVP[title] = pub
-                        publicationTitleKVP[title]["Name"] = deltaJson[authorID]["Name"]
-                    else: #existing pub, append new author to existing list
-                        publicationTitleKVP[title]["Name"] = publicationTitleKVP[title]["Name"]  + ", " + deltaJson[authorID]["Name"]
-                else:
-                    print("[WARNING] Some how picked up a old publication in delta Json: (" +
-                            pub['year'] + ") " + pub['title'] + ". Published in " + pub['publisher'] + ". Available at " + pub['url'] + "\n")
 
-        # If there's no new publications, just return the msg. Else,  we reindex the publications with the Name as the index .
-        if len(publicationTitleKVP.keys()) == 0:
-            return "[INFO]\nNo new publication found."
-        else:
-            publicationNameKVP = {}
-            for title in publicationTitleKVP:
-                pub = publicationTitleKVP[title]
-                name = pub["Name"]
-                if name not in publicationNameKVP:
-                    publicationNameKVP[name] = [pub]
-                else:
-                    publicationNameKVP[name].append(pub)
+    #first we switch from author-id based index to publication title based index, combining researchers on shared titles.
+    publicationTitleKVP = {}
+    for authorID in deltaJson:
+        for pubID in deltaJson[authorID]['publications']:
+            pub = deltaJson[authorID]['publications'][pubID]
+            titleKey = (pub['title'].strip().lower(), pub.get('type'))
+            name = deltaJson[authorID]["Name"]
+            if titleKey not in publicationTitleKVP: #new pub
+                publicationTitleKVP[titleKey] = dict(pub)
+                publicationTitleKVP[titleKey]["Name"] = name
+            elif name not in publicationTitleKVP[titleKey]["Name"].split(", "): #existing pub, append new researcher to existing list
+                publicationTitleKVP[titleKey]["Name"] = publicationTitleKVP[titleKey]["Name"] + ", " + name
 
+    if len(publicationTitleKVP) == 0:
+        return "[INFO]\nNo new publication found."
 
-        #Format the output msg
-        for name in publicationNameKVP:
-            if len(publicationNameKVP[name]) == 1: #only  1 publication:
-                pub = publicationNameKVP[name][0]
-                Msg = Msg + name + " has a new publication: \n"
-                Msg = Msg + "  * " + pub["title"] + ". "
-                if pub['publisher'] != None:
-                    Msg = Msg + " Published in " + pub['publisher'] + ". "
-                if pub['url'] != None:
-                    Msg = Msg + " " + pub['url'] + "\n"
-            else: #multiple pubs for same author
-                Msg = Msg + name + " has new publications: \n"
-                for pub in publicationNameKVP[name]:
-                    Msg = Msg + "  * " + pub["title"] + ". "
-                    if pub['publisher'] != None:
-                        Msg = Msg + " Published in " + pub['publisher'] + ". "
-                    if pub['url'] != None:
-                        Msg = Msg + " " + pub['url'] + "\n"
-                    else:
-                        Msg = Msg + "URL unavailable."
-                    Msg = Msg + "\n"
+    #then reindex the publications with the Name as the index.
+    publicationNameKVP = {}
+    for titleKey in publicationTitleKVP:
+        pub = publicationTitleKVP[titleKey]
+        publicationNameKVP.setdefault(pub["Name"], []).append(pub)
+
+    #Format the output msg
+    Msg = ""
+    for name in publicationNameKVP:
+        if len(publicationNameKVP[name]) == 1: #only 1 publication
+            Msg = Msg + name + " has a new publication: \n"
+            Msg = Msg + formatPubLine(publicationNameKVP[name][0])
+        else: #multiple pubs for same researcher
+            Msg = Msg + name + " has new publications: \n"
+            for pub in publicationNameKVP[name]:
+                Msg = Msg + formatPubLine(pub)
+                Msg = Msg + "\n"
+        Msg = Msg + "\n"
+    return Msg
 
 
-            Msg = Msg + "\n"
+def formatReviewMsg(reviewItems):
+    """Slack text for doubtful items, or '' when there is nothing to review."""
+    if len(reviewItems) == 0:
+        return ""
+    Msg = ("*Needs review* - " + str(len(reviewItems)) + " publication(s) matched a monitored researcher but could not be confirmed. "
+           + "They were not added to the Google Sheet.\n\n")
+    for item in reviewItems:
+        pub = item['record']
+        Msg = Msg + "  * " + item['Name'] + ": " + messageTitle(pub) + typeTag(pub) + ". "
+        if hasVenue(pub):
+            Msg = Msg + "Published in " + pub['publisher'] + ". "
+        Msg = Msg + (pub.get('url') or "URL unavailable.") + "\n"
+        Msg = Msg + ("    Matched OpenAlex author " + item['authorID'] + " (https://openalex.org/" + item['authorID'] + "). Reason: "
+                     + item['reason'] + "\n\n")
+    return Msg
 
-        return Msg
+
+def formatSummary(today, researchers, newCount, reviewCount, zeroWorkNames, floodWarning):
+    profileCount = sum(len(splitIDs(r['OpenAlexIDs'])) for r in researchers)
+    summary = ("[INFO] Run summary " + today.isoformat() + ": checked " + str(len(researchers)) + " researchers ("
+               + str(profileCount) + " OpenAlex profiles); " + str(newCount) + " new, " + str(reviewCount) + " need review.\n")
+    if zeroWorkNames:
+        summary = summary + ("[WARNING] OpenAlex returned no works today for: " + ", ".join(zeroWorkNames)
+                             + ", although works from the last " + str(lookbackDays) + " days were stored before."
+                             + " OpenAlex may have merged or split their profile - re-run AddResearcher.py for them.\n")
+    if floodWarning:
+        summary = summary + "[WARNING] " + floodWarning + "\n"
+    return summary
+
+
+def runPipeline(today=None):
+    """The whole daily run. Raises (and writes nothing) if any fetch fails or nothing at all comes back."""
+    today = today or datetime.date.today()
+    if os.path.exists(jsonFile):
+        shutil.copy2(jsonFile, lastJsonFile)
+    lastState = loadJson(lastJsonFile)
+
+    researchers = monitoredResearchers(rosterFile)
+    if len(researchers) == 0:
+        raise RuntimeError("[ERROR] No monitored researchers (Status OK with an OpenAlex id) in " + rosterFile)
+    monitoredIDToName = buildMonitoredIDMap(researchers)
+    fromDate = (today - datetime.timedelta(days=lookbackDays)).isoformat()
+
+    print("[INFO] Indexing publications since " + fromDate + "...")
+    worksByResearcher = []
+    for researcher in researchers:
+        print("[INFO] Looking for publications by " + researcher['Name'] + " (" + researcher['OpenAlexIDs'] + ")")
+        works = fetchWorksForResearcher(researcher, fromDate)  # any failure propagates: nothing gets written
+        print("[DEBUG] " + str(len(works)) + " works returned.")
+        worksByResearcher.append(works)
+
+    if sum(len(works) for works in worksByResearcher) == 0:
+        raise RuntimeError("[ERROR] OpenAlex returned zero works for all " + str(len(researchers))
+                           + " researchers; refusing to write state. Check the API and " + rosterFile + ".")
+
+    print("[INFO] Looking for anything new...")
+    allPubs, newItems, zeroWorkNames = buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDToName, today)
+    newItems, floodWarning = applyFloodBreaker(newItems)
+    if floodWarning:
+        print("[WARNING] " + floodWarning)
+    confidentItems = [item for item in newItems if not item['doubtful']]
+    reviewItems = [item for item in newItems if item['doubtful']]
+
+    delta = buildDelta(confidentItems)
+    msg = formatSlackMsg2(delta)
+    reviewMsg = formatReviewMsg(reviewItems)
+    summary = formatSummary(today, researchers, len(confidentItems), len(reviewItems), zeroWorkNames, floodWarning)
+
+    saveJson(allPubs, jsonFile)
+    saveJson(delta, deltaJsonFile)
+    saveText(msg, msgFile)
+    saveText(reviewMsg, reviewFile)
+    saveText(summary, summaryFile)
+    print(summary.rstrip("\n"))
+    return {'allPubs': allPubs, 'delta': delta, 'msg': msg, 'review': reviewMsg, 'summary': summary,
+            'confidentItems': confidentItems, 'reviewItems': reviewItems}
 
 
 if __name__ == "__main__":
-    if os.path.exists(jsonFile):
-        shutil.copy2(jsonFile, lastJsonFile)
-    lastPublicationJson = loadJson(lastJsonFile)
-    with open(authorsToMonitor, 'r') as f:
-        authorIDList = [line.strip() for line in f]
-
-    # Setup Firefox (headless when isHeadless is set; see the config flag at the top).
-    options = Options()
-    if isHeadless:
-        options.add_argument('--headless')
-    driver = webdriver.Firefox(options=options)
-
-
-    print("[INFO] " + "Indexing publications...")
-    allPubs = {}
-    for authorID in authorIDList:
-        allPubs[authorID] = fetchPublicationsUsingSelenium(driver, authorID, lastPublicationJson)
-
-    saveJson(allPubs, jsonFile)
-
-    currentPublicationJson = loadJson(jsonFile)
-    driver.quit()
-
-
-    #look for differences
-    print("[INFO] " + "Looking for anything new...")
-    newPublications = {}
-    for authorID in authorIDList:
-        id = authorID
-        #this is not a new person, check if new pubs exists.
-        if id in lastPublicationJson.keys():
-            if currentPublicationJson[id]['publications'].keys() != lastPublicationJson[id]['publications'].keys():
-                diff = [item for item in currentPublicationJson[id]['publications'].keys() if item not in lastPublicationJson[id]['publications'].keys()] #holds the pubid of NEW pubs
-                if len(diff) > 0:
-                    print(currentPublicationJson[id]['Name'] + " have " + str(len(diff)) + " new publications!")
-                    for pubid in diff:
-                        if (authorID not in newPublications.keys()):
-                            newPublications[authorID] = {
-                                'Name' : currentPublicationJson[id]['Name'],
-                                'total_new' : str(len(diff)),
-                                'publications' : {pubid : currentPublicationJson[id]['publications'][pubid]}
-                            }
-                        else:
-                            newPublications[authorID]['publications'][pubid] = currentPublicationJson[id]['publications'][pubid]
-            else:
-                print("[INFO] " + currentPublicationJson[id]['Name'] + " have no new publications.")
-        else: #we just added someone new to the list. DO NOT delta them until the next time.
-            print ("[INFO] " + currentPublicationJson[id]['Name'] + " is a new author added to the surveillance list, we ignoring until next time.")
-
-    saveJson(newPublications, deltaJsonFile)
-
-    #Lets format the message for the slack bot
-    Msg = formatSlackMsg2(loadJson(deltaJsonFile))
-
-    #write it to an md file to upload via slack bolt
-    with open ("msg.md", 'w') as f:
-        f.writelines(Msg)
+    runPipeline()

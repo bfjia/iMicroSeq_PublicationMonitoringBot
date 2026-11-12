@@ -1,0 +1,89 @@
+name: Daily publication check
+
+on:
+  schedule:
+    - cron: "20 15 * * *"   # 07:20 PST / 08:20 PDT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publii
+  cancel-in-progress: false
+
+jobs:
+  publii:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Offline tests
+        run: python tests/RunOfflineTests.py
+
+      - name: Run pipeline
+        id: pipeline
+        shell: bash
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: ./publii.sh 2>&1 | tee publii.log
+
+      - name: Commit state
+        if: success()
+        shell: bash
+        run: |
+          dateNow=$(date +%Y%m%d)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add allpubs.json delta.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update $dateNow"
+            git pull --rebase
+            git push
+          else
+            # GitHub disables schedules after 60 days without repo activity
+            lastCommit=$(git log -1 --format=%ct)
+            ageDays=$(( ( $(date +%s) - lastCommit ) / 86400 ))
+            keepaliveDays=$(python -c "import config; print(config.keepaliveDays)")
+            if [ "$ageDays" -gt "$keepaliveDays" ]; then
+              git commit --allow-empty -m "Keepalive $dateNow"
+              git pull --rebase
+              git push
+            fi
+          fi
+
+      # publii.sh alerts on its own failures. This covers the other steps (setup, tests, saving state),
+      # using curl so it works even when installing the Python packages is what failed.
+      - name: Alert on failure outside the pipeline
+        if: failure() && steps.pipeline.outcome != 'failure'
+        shell: bash
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          text="The publication bot run failed outside the pipeline step (setup, tests or saving state). Run: $RUN_URL"
+          # debugChannel from config.py; the literal is a fallback in case config.py itself is what broke
+          channel=$(python3 -c "import config; print(config.debugChannel)" 2>/dev/null || echo "C09D86E4T5H")
+          curl -sS -X POST https://slack.com/api/chat.postMessage \
+            -H "Authorization: Bearer $SLACK_BOT_TOKEN" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            --data "{\"channel\": \"$channel\", \"text\": \"$text\"}"
+
+      - name: Upload log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: publii-log
+          path: publii.log
+          retention-days: 7
+          if-no-files-found: ignore

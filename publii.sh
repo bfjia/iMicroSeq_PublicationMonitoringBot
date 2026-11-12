@@ -1,48 +1,77 @@
 #!/bin/bash -e
 
-#crontab command
-#0 7 * * * /bin/bash -c 'cd ~/iMicroSeq_PublicationMonitoringBot && sleep $((RANDOM % 3600)) && ./publii.sh >> publii.log 2>&1'
+#Daily pipeline. Run by .github/workflows/publii.yml; git handling is done by the workflow.
+#Needs env SLACK_BOT_TOKEN (or .secret/pubiioauthtoken), OPENALEX_API_KEY, GOOGLE_SERVICE_ACCOUNT_JSON (or .secret/googleToken).
 
+PYTHON=${PYTHON:-python}
+
+#Settings (channels and the isLive go-live switch) are in config.py. Booleans are printed as true/false.
+readConfig() {
+	$PYTHON -c "import config; v = config.$1; print(str(v).lower() if isinstance(v, bool) else v)"
+}
+debugChannel=$(readConfig debugChannel)
+productionChannel=$(readConfig productionChannel)
+isLive=$(readConfig isLive)
+echo "[INFO] isLive=$isLive"
 
 handle_error() {
-	python slackConnector.py --message "The script errored out. Please see log attached." --file publii.log --channel "C09D86E4T5H"
+	local exitCode=$?
+	trap - ERR   #do not loop if Slack itself fails
+	set +e
+	local message="The publication bot run failed."
+	if [ -n "$GITHUB_RUN_ID" ]; then
+		message="$message Run: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+	fi
+	if [ -f publii.log ]; then
+		$PYTHON slackConnector.py --message "$message" --file publii.log --channel "$debugChannel"
+	else
+		$PYTHON slackConnector.py --message "$message" --channel "$debugChannel"
+	fi
+	exit $exitCode
 }
 
 trap handle_error ERR
 
-git pull
+#Find publications (writes msg.md, review.md, summary.md, delta.json, allpubs.json)
+$PYTHON FindPublications.py
 
-#eval "$(conda shell.bash hook)"
-#conda activate pubsurveillance
-
-source ~/publii_venv/bin/activate
-
-#Using the result.tsv file, format the authors.txt file. 
-cut -d$'\t' -f3 results.tsv | tail -n +2 | awk "NF" > authors.txt
-
-echo "There are $(wc -l < authors.txt) authors in the list to monitor."
-
-#Find publications
-python ./FindPublications.py
-
-#Post the message into the correct slack channel
 if grep -q "\[INFO\]" msg.md && grep -q "No new publication found." msg.md; then
-    python slackConnector.py --messagefile msg.md --channel "C09D86E4T5H"
+	hasNew=false
+	$PYTHON slackConnector.py --messagefile msg.md --channel "$debugChannel"
 else
-    python slackConnector.py --messagefile msg.md --channel "C097CKA5U4X"
-#	python slackConnector.py --messagefile msg.md --channel "C09D86E4T5H"
-	#Since there's new publications, lets insert them into Google Sheets as well
-	python GoogleSheetAPIConnector.py
-
+	hasNew=true
+	if [ "$isLive" = true ]; then
+		$PYTHON slackConnector.py --messagefile msg.md --channel "$productionChannel"
+	else
+		$PYTHON slackConnector.py --messagefile msg.md --channel "$debugChannel"
+	fi
 fi
 
-#While in QA, post the logs too. 
-python slackConnector.py --message "Logs are temporarily attached for debugging purposes only, if needed." --channel "C09D86E4T5H" --file publii.log
+#Anything needing human review goes to the debug channel
+if [ -s review.md ]; then
+	$PYTHON slackConnector.py --messagefile review.md --channel "$debugChannel"
+fi
 
-dateNow=$(date +%Y%m%d)
+$PYTHON slackConnector.py --messagefile summary.md --channel "$debugChannel"
 
-git add .
-git commit -m "Update $dateNow"
-git push
+#Show the results in the GitHub job summary when available
+if [ -n "$GITHUB_STEP_SUMMARY" ]; then
+	{
+		cat summary.md
+		echo
+		cat msg.md
+		if [ -s review.md ]; then
+			echo
+			echo "### Review"
+			cat review.md
+		fi
+	} >> "$GITHUB_STEP_SUMMARY"
+fi
 
-source deactivate
+if [ "$hasNew" = true ]; then
+	if [ "$isLive" = true ]; then
+		$PYTHON GoogleSheetAPIConnector.py --live   #production sheet
+	else
+		$PYTHON GoogleSheetAPIConnector.py          #TEST copy of the sheet; never production
+	fi
+fi
