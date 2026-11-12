@@ -1,1 +1,20 @@
-{}
+{
+  "A5015660108": {
+    "Name": "Catherine Carrillo",
+    "total_new": "1",
+    "publications": {
+      "W7225799759": {
+        "title": "Complete genome sequences of nine novel Enterococcus species recovered from dairy, swine, and imported foods in Canada",
+        "year": "2026-11-11",
+        "publisher": "Microbiology Resource Announcements",
+        "author": "Shawn J. Hoogstra, Chloe Anastasiadis, Bridgette Kelly, Ashley L. Cooper, Mathu Malar C, Yilin Dong, Jillaine Kuelker, Karoline Lauzon, Alexandra Langlois, Dominic Poulin\u2010Laprade, Dongyun Jung, Joseph Elliot Rubin, Catherine D. Carrillo, Rhiannon L. Wallace",
+        "url": "https://doi.org/10.1128/mra.01097-26",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1128/mra.01097-26",
+        "created": "2026-11-12"
+      }
+    }
+  }
+}
