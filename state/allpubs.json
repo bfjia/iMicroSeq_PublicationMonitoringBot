@@ -565,7 +565,7 @@
   },
   "A5021286386": {
     "Name": "Lawrence Goodridge",
-    "total_publications": "14",
+    "total_publications": "16",
     "publications": {
       "W7214007804": {
         "title": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025",
@@ -734,6 +734,30 @@
         "type": "article",
         "doi": "10.3389/fpubh.2025.1675080",
         "created": "2025-11-27"
+      },
+      "W7225876949": {
+        "title": "Faire progresser la surveillance des eaux us\u00e9es gr\u00e2ce \u00e0 la collaboration transfrontali\u00e8re : un r\u00e9sum\u00e9 d'atelier",
+        "year": "2026-11-12",
+        "publisher": "Relev\u00e9 des maladies transmissibles au Canada",
+        "author": "R\u00e9seau int\u00e9gr\u00e9 de surveillance des pathog\u00e8nes (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06f",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.14745/ccdr.v52i11a06f",
+        "created": "2026-11-13"
+      },
+      "W7225918029": {
+        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
+        "year": "2026-11-12",
+        "publisher": "Canada Communicable Disease Report",
+        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.14745/ccdr.v52i11a06",
+        "created": "2026-11-13"
       }
     }
   },
@@ -991,7 +1015,7 @@
   },
   "A5079694314": {
     "Name": "Natalie C Knox",
-    "total_publications": "10",
+    "total_publications": "11",
     "publications": {
       "W7214007804": {
         "title": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025",
@@ -1112,6 +1136,18 @@
         "type": "article",
         "doi": "10.1016/j.envint.2025.109922",
         "created": "2025-11-20"
+      },
+      "W7225918029": {
+        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
+        "year": "2026-11-12",
+        "publisher": "Canada Communicable Disease Report",
+        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.14745/ccdr.v52i11a06",
+        "created": "2026-11-13"
       }
     }
   },
@@ -3144,7 +3180,7 @@
   },
   "A5020632043": {
     "Name": "Valerie S. Langlois",
-    "total_publications": "3",
+    "total_publications": "4",
     "publications": {
       "W7222920425": {
         "title": "Lac Hertel Macrophyte Biomass and eDNA Data [Quebec, Canada, 2024]",
@@ -3181,6 +3217,18 @@
         "type": "article",
         "doi": "10.1002/lol2.70145",
         "created": "2026-06-25"
+      },
+      "W7162145572": {
+        "title": "Forecasting the Invasion of Eurasian Watermilfoil ( Myriophyllum spicatum ) at the Northern Edge of Its North American Range",
+        "year": "2026-05-01",
+        "publisher": "Freshwater Biology",
+        "author": "Lars L\u00f8nsmann Iversen, Morgan Botrel, Gray Fedirchuk, Val\u00e9rie Langlois, Olivier Morissette, Marie\u2010Eve Tousignant, Lindsay Louise Trottier, Irene Gregory\u2010Eaves",
+        "url": "https://doi.org/10.1111/fwb.70231",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1111/fwb.70231",
+        "created": "2026-05-23"
       }
     }
   },
@@ -3437,7 +3485,7 @@
   },
   "A5089063682": {
     "Name": "Kerry E. Black",
-    "total_publications": "4",
+    "total_publications": "5",
     "publications": {
       "W7214220832": {
         "title": "Water failures in England and Wales are a warning for Canada and the US",
@@ -3486,6 +3534,18 @@
         "type": "article",
         "doi": "10.1080/07011784.2026.2663787",
         "created": "2026-06-12"
+      },
+      "W7225917712": {
+        "title": "What Bill C-39\u2019s loosened environmental regulations could mean for Canadians",
+        "year": "2026-11-12",
+        "publisher": "The Conversation",
+        "author": "Kerry Black",
+        "url": "https://doi.org/10.64628/aam.m9y9x69v7",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "other",
+        "doi": "10.64628/aam.m9y9x69v7",
+        "created": "2026-11-13"
       }
     }
   },
@@ -7229,7 +7289,7 @@
   },
   "A5078008559": {
     "Name": "Trevor Charles",
-    "total_publications": "4",
+    "total_publications": "5",
     "publications": {
       "W7203859417": {
         "title": "Wastewater-Based Genomic Surveillance of SARS-CoV-2 Antiviral Resistance Determinants in Ontario: Towards a Scalable Framework for Population-Level Antiviral Resistance Monitoring",
@@ -7278,6 +7338,18 @@
         "type": "article",
         "doi": "10.3389/fmicb.2025.1717424",
         "created": "2025-11-28"
+      },
+      "W7225918029": {
+        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
+        "year": "2026-11-12",
+        "publisher": "Canada Communicable Disease Report",
+        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.14745/ccdr.v52i11a06",
+        "created": "2026-11-13"
       }
     }
   },
@@ -7810,7 +7882,7 @@
   },
   "A5002629392": {
     "Name": "Jeffrey R Brook",
-    "total_publications": "14",
+    "total_publications": "15",
     "publications": {
       "W7214707971": {
         "title": "Childhood asthma development and early life exposure to traffic-related air pollution: effect modification by indoor biological agents",
@@ -7979,6 +8051,18 @@
         "type": "article",
         "doi": "10.1186/s12940-025-01237-9",
         "created": "2025-11-11"
+      },
+      "W7225891850": {
+        "title": "Understanding the exposome across the life course to promote healthy aging: consensus recommendations from the Gateway Exposome Coordinating Center",
+        "year": "2026-11-12",
+        "publisher": "Nature Aging",
+        "author": "Jinkook Lee, Emma Nichols, Sara Dubowsky Adar, David Knapp, Samer Atshan, Mauricio Avenda\u00f1o, Ava Bindas, Michael D Brauer, Jeffrey Robert Brook, Howard H. Chang, Yao\u2010Yi Chiang, HwaJung Choi, Dany Doiron, Sarah Flood, Maya M. Fransz-Myers, Alden L. Gross, Eleanor Hayes\u2010Larson, Birgit Claus Henn, Margaret Hicken, Kayleigh P. Keller, Katrina Kezios, Cl\u00e9mence Kieny, Kevin Lane, Thomas J. Luben, Erik Meijer, Shrikanth Shri Narayanan, Regina A. Shih, Adam A. Szpiro, Lorna E. Thorpe, David C. Van Riper, Bas Weerman, Jordan Weiss, Gregory A. Wellenius, Jennifer Weuve",
+        "url": "https://doi.org/10.1038/s43587-026-01212-0",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1038/s43587-026-01212-0",
+        "created": "2026-11-13"
       }
     }
   },

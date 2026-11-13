@@ -1,19 +1,103 @@
 {
-  "A5015660108": {
-    "Name": "Catherine Carrillo",
-    "total_new": "1",
+  "A5021286386": {
+    "Name": "Lawrence Goodridge",
+    "total_new": "2",
     "publications": {
-      "W7225799759": {
-        "title": "Complete genome sequences of nine novel Enterococcus species recovered from dairy, swine, and imported foods in Canada",
-        "year": "2026-11-11",
-        "publisher": "Microbiology Resource Announcements",
-        "author": "Shawn J. Hoogstra, Chloe Anastasiadis, Bridgette Kelly, Ashley L. Cooper, Mathu Malar C, Yilin Dong, Jillaine Kuelker, Karoline Lauzon, Alexandra Langlois, Dominic Poulin\u2010Laprade, Dongyun Jung, Joseph Elliot Rubin, Catherine D. Carrillo, Rhiannon L. Wallace",
-        "url": "https://doi.org/10.1128/mra.01097-26",
+      "W7225876949": {
+        "title": "Faire progresser la surveillance des eaux us\u00e9es gr\u00e2ce \u00e0 la collaboration transfrontali\u00e8re : un r\u00e9sum\u00e9 d'atelier",
+        "year": "2026-11-12",
+        "publisher": "Relev\u00e9 des maladies transmissibles au Canada",
+        "author": "R\u00e9seau int\u00e9gr\u00e9 de surveillance des pathog\u00e8nes (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06f",
         "firstOrLast": false,
         "datasource": "OpenAlex",
         "type": "article",
-        "doi": "10.1128/mra.01097-26",
-        "created": "2026-11-12"
+        "doi": "10.14745/ccdr.v52i11a06f",
+        "created": "2026-11-13"
+      },
+      "W7225918029": {
+        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
+        "year": "2026-11-12",
+        "publisher": "Canada Communicable Disease Report",
+        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.14745/ccdr.v52i11a06",
+        "created": "2026-11-13"
+      }
+    }
+  },
+  "A5079694314": {
+    "Name": "Natalie C Knox",
+    "total_new": "1",
+    "publications": {
+      "W7225918029": {
+        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
+        "year": "2026-11-12",
+        "publisher": "Canada Communicable Disease Report",
+        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.14745/ccdr.v52i11a06",
+        "created": "2026-11-13"
+      }
+    }
+  },
+  "A5089063682": {
+    "Name": "Kerry E. Black",
+    "total_new": "1",
+    "publications": {
+      "W7225917712": {
+        "title": "What Bill C-39\u2019s loosened environmental regulations could mean for Canadians",
+        "year": "2026-11-12",
+        "publisher": "The Conversation",
+        "author": "Kerry Black",
+        "url": "https://doi.org/10.64628/aam.m9y9x69v7",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "other",
+        "doi": "10.64628/aam.m9y9x69v7",
+        "created": "2026-11-13"
+      }
+    }
+  },
+  "A5078008559": {
+    "Name": "Trevor Charles",
+    "total_new": "1",
+    "publications": {
+      "W7225918029": {
+        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
+        "year": "2026-11-12",
+        "publisher": "Canada Communicable Disease Report",
+        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.14745/ccdr.v52i11a06",
+        "created": "2026-11-13"
+      }
+    }
+  },
+  "A5002629392": {
+    "Name": "Jeffrey R Brook",
+    "total_new": "1",
+    "publications": {
+      "W7225891850": {
+        "title": "Understanding the exposome across the life course to promote healthy aging: consensus recommendations from the Gateway Exposome Coordinating Center",
+        "year": "2026-11-12",
+        "publisher": "Nature Aging",
+        "author": "Jinkook Lee, Emma Nichols, Sara Dubowsky Adar, David Knapp, Samer Atshan, Mauricio Avenda\u00f1o, Ava Bindas, Michael D Brauer, Jeffrey Robert Brook, Howard H. Chang, Yao\u2010Yi Chiang, HwaJung Choi, Dany Doiron, Sarah Flood, Maya M. Fransz-Myers, Alden L. Gross, Eleanor Hayes\u2010Larson, Birgit Claus Henn, Margaret Hicken, Kayleigh P. Keller, Katrina Kezios, Cl\u00e9mence Kieny, Kevin Lane, Thomas J. Luben, Erik Meijer, Shrikanth Shri Narayanan, Regina A. Shih, Adam A. Szpiro, Lorna E. Thorpe, David C. Van Riper, Bas Weerman, Jordan Weiss, Gregory A. Wellenius, Jennifer Weuve",
+        "url": "https://doi.org/10.1038/s43587-026-01212-0",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1038/s43587-026-01212-0",
+        "created": "2026-11-13"
       }
     }
   }
