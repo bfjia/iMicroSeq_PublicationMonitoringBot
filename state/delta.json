@@ -1,103 +1,49 @@
 {
-  "A5021286386": {
-    "Name": "Lawrence Goodridge",
+  "A5051428361": {
+    "Name": "Thea Van Rossum",
     "total_new": "2",
     "publications": {
-      "W7225876949": {
-        "title": "Faire progresser la surveillance des eaux us\u00e9es gr\u00e2ce \u00e0 la collaboration transfrontali\u00e8re : un r\u00e9sum\u00e9 d'atelier",
-        "year": "2026-11-12",
-        "publisher": "Relev\u00e9 des maladies transmissibles au Canada",
-        "author": "R\u00e9seau int\u00e9gr\u00e9 de surveillance des pathog\u00e8nes (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
-        "url": "https://doi.org/10.14745/ccdr.v52i11a06f",
+      "W7225989474": {
+        "title": "grp-bork/meta_eukaryome_detect: metaEukaryome 1.0.0",
+        "year": "2026-11-13",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "Oleksandr M. Maistrenko, Chan Yeong Kim, Suguru Nishijima, Anthony Fullam, Pamela Ferretti, Christian Schudoma, Marisa Isabell Keller, Shahriyar Mahdi Robbani, Ece Kartal, Wasiu A. Akanni, Renato Alves, Thea Van Rossum, Supriya Khedkar, Daniel Podlesny, Yasushi Kojima, Takashi Hamabata, Naomi Uemura, Naoyoshi Nagata, Anja Spang, Anna Heintz\u2010Buschart, Thomas Schmidt, Michael Kuhn, Peer Bork",
+        "url": "https://doi.org/10.5281/zenodo.24199946",
         "firstOrLast": false,
         "datasource": "OpenAlex",
-        "type": "article",
-        "doi": "10.14745/ccdr.v52i11a06f",
-        "created": "2026-11-13"
+        "type": "software",
+        "doi": "10.5281/zenodo.24199946",
+        "created": "2026-11-14"
       },
-      "W7225918029": {
-        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
-        "year": "2026-11-12",
-        "publisher": "Canada Communicable Disease Report",
-        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
-        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
+      "W7226040599": {
+        "title": "metaEukaryome database",
+        "year": "2026-11-13",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "Oleksandr M. Maistrenko, Chan Yeong Kim, Suguru Nishijima, Anthony Fullam, Pamela Ferretti, Christian Schudoma, Marisa Isabell Keller, Shahriyar Mahdi Robbani, Ece Kartal, Wasiu A. Akanni, Renato Alves, Thea Van Rossum, Supriya Khedkar, Daniel Podlesny, Yasushi Kojima, Takashi Hamabata, Naomi Uemura, Naoyoshi Nagata, Anja Spang, Anna Heintz\u2010Buschart, Thomas Schmidt, Michael Kuhn, Peer Bork",
+        "url": "https://doi.org/10.5281/zenodo.24198235",
         "firstOrLast": false,
         "datasource": "OpenAlex",
-        "type": "article",
-        "doi": "10.14745/ccdr.v52i11a06",
-        "created": "2026-11-13"
+        "type": "dataset",
+        "doi": "10.5281/zenodo.24198235",
+        "created": "2026-11-14"
       }
     }
   },
-  "A5079694314": {
-    "Name": "Natalie C Knox",
+  "A5044801271": {
+    "Name": "Robert Michael McKay",
     "total_new": "1",
     "publications": {
-      "W7225918029": {
-        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
-        "year": "2026-11-12",
-        "publisher": "Canada Communicable Disease Report",
-        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
-        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "article",
-        "doi": "10.14745/ccdr.v52i11a06",
-        "created": "2026-11-13"
-      }
-    }
-  },
-  "A5089063682": {
-    "Name": "Kerry E. Black",
-    "total_new": "1",
-    "publications": {
-      "W7225917712": {
-        "title": "What Bill C-39\u2019s loosened environmental regulations could mean for Canadians",
-        "year": "2026-11-12",
-        "publisher": "The Conversation",
-        "author": "Kerry Black",
-        "url": "https://doi.org/10.64628/aam.m9y9x69v7",
+      "W7226032269": {
+        "title": "Spatiotemporal Variability in Wastewater-Derived Carbapenem-Resistance Genes from Diverse Municipal Sources in the Laurentian Great Lakes Catchment",
+        "year": "2026-11-13",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "Ethan Harrop, Qiudi Geng, Ryland Corchis-Scott, Mackenzie Beach, Owen Corchis-Scott, John Norton, Andrea Elisabeth Busch, Ian Morgan, Mehdi Aloosh, Robert Michael L. McKay",
+        "url": "https://doi.org/10.5281/zenodo.24201888",
         "firstOrLast": true,
         "datasource": "OpenAlex",
-        "type": "other",
-        "doi": "10.64628/aam.m9y9x69v7",
-        "created": "2026-11-13"
-      }
-    }
-  },
-  "A5078008559": {
-    "Name": "Trevor Charles",
-    "total_new": "1",
-    "publications": {
-      "W7225918029": {
-        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
-        "year": "2026-11-12",
-        "publisher": "Canada Communicable Disease Report",
-        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
-        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "article",
-        "doi": "10.14745/ccdr.v52i11a06",
-        "created": "2026-11-13"
-      }
-    }
-  },
-  "A5002629392": {
-    "Name": "Jeffrey R Brook",
-    "total_new": "1",
-    "publications": {
-      "W7225891850": {
-        "title": "Understanding the exposome across the life course to promote healthy aging: consensus recommendations from the Gateway Exposome Coordinating Center",
-        "year": "2026-11-12",
-        "publisher": "Nature Aging",
-        "author": "Jinkook Lee, Emma Nichols, Sara Dubowsky Adar, David Knapp, Samer Atshan, Mauricio Avenda\u00f1o, Ava Bindas, Michael D Brauer, Jeffrey Robert Brook, Howard H. Chang, Yao\u2010Yi Chiang, HwaJung Choi, Dany Doiron, Sarah Flood, Maya M. Fransz-Myers, Alden L. Gross, Eleanor Hayes\u2010Larson, Birgit Claus Henn, Margaret Hicken, Kayleigh P. Keller, Katrina Kezios, Cl\u00e9mence Kieny, Kevin Lane, Thomas J. Luben, Erik Meijer, Shrikanth Shri Narayanan, Regina A. Shih, Adam A. Szpiro, Lorna E. Thorpe, David C. Van Riper, Bas Weerman, Jordan Weiss, Gregory A. Wellenius, Jennifer Weuve",
-        "url": "https://doi.org/10.1038/s43587-026-01212-0",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "article",
-        "doi": "10.1038/s43587-026-01212-0",
-        "created": "2026-11-13"
+        "type": "dataset",
+        "doi": "10.5281/zenodo.24201888",
+        "created": "2026-11-14"
       }
     }
   }

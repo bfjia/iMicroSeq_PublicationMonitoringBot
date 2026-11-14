@@ -3551,7 +3551,7 @@
   },
   "A5051428361": {
     "Name": "Thea Van Rossum",
-    "total_publications": "1",
+    "total_publications": "3",
     "publications": {
       "W4416704622": {
         "title": "metaTraits: a large-scale integration of microbial phenotypic trait information",
@@ -3564,6 +3564,30 @@
         "type": "article",
         "doi": "10.1093/nar/gkaf1241",
         "created": "2025-11-27"
+      },
+      "W7225989474": {
+        "title": "grp-bork/meta_eukaryome_detect: metaEukaryome 1.0.0",
+        "year": "2026-11-13",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "Oleksandr M. Maistrenko, Chan Yeong Kim, Suguru Nishijima, Anthony Fullam, Pamela Ferretti, Christian Schudoma, Marisa Isabell Keller, Shahriyar Mahdi Robbani, Ece Kartal, Wasiu A. Akanni, Renato Alves, Thea Van Rossum, Supriya Khedkar, Daniel Podlesny, Yasushi Kojima, Takashi Hamabata, Naomi Uemura, Naoyoshi Nagata, Anja Spang, Anna Heintz\u2010Buschart, Thomas Schmidt, Michael Kuhn, Peer Bork",
+        "url": "https://doi.org/10.5281/zenodo.24199946",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "software",
+        "doi": "10.5281/zenodo.24199946",
+        "created": "2026-11-14"
+      },
+      "W7226040599": {
+        "title": "metaEukaryome database",
+        "year": "2026-11-13",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "Oleksandr M. Maistrenko, Chan Yeong Kim, Suguru Nishijima, Anthony Fullam, Pamela Ferretti, Christian Schudoma, Marisa Isabell Keller, Shahriyar Mahdi Robbani, Ece Kartal, Wasiu A. Akanni, Renato Alves, Thea Van Rossum, Supriya Khedkar, Daniel Podlesny, Yasushi Kojima, Takashi Hamabata, Naomi Uemura, Naoyoshi Nagata, Anja Spang, Anna Heintz\u2010Buschart, Thomas Schmidt, Michael Kuhn, Peer Bork",
+        "url": "https://doi.org/10.5281/zenodo.24198235",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.5281/zenodo.24198235",
+        "created": "2026-11-14"
       }
     }
   },
@@ -3707,7 +3731,7 @@
   },
   "A5044801271": {
     "Name": "Robert Michael McKay",
-    "total_publications": "16",
+    "total_publications": "17",
     "publications": {
       "W7212382983": {
         "title": "A decade of oil spills in the Laurentian Great Lakes (2015\u20132024): A review of incidents, trends, and lessons for environmental protection",
@@ -3900,6 +3924,18 @@
         "type": "article",
         "doi": "10.1029/2026ef009213",
         "created": "2026-11-05"
+      },
+      "W7226032269": {
+        "title": "Spatiotemporal Variability in Wastewater-Derived Carbapenem-Resistance Genes from Diverse Municipal Sources in the Laurentian Great Lakes Catchment",
+        "year": "2026-11-13",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "Ethan Harrop, Qiudi Geng, Ryland Corchis-Scott, Mackenzie Beach, Owen Corchis-Scott, John Norton, Andrea Elisabeth Busch, Ian Morgan, Mehdi Aloosh, Robert Michael L. McKay",
+        "url": "https://doi.org/10.5281/zenodo.24201888",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.5281/zenodo.24201888",
+        "created": "2026-11-14"
       }
     }
   },
@@ -6587,7 +6623,7 @@
   },
   "A5066530115": {
     "Name": "Robert E. W. Hancock",
-    "total_publications": "15",
+    "total_publications": "16",
     "publications": {
       "W7222095417": {
         "title": "Synthetic host defence peptides modulate phagocytic activity and release of inflammatory mediators by BV-2 microglial cells",
@@ -6768,6 +6804,18 @@
         "type": "article",
         "doi": "10.1021/acsinfecdis.6c01001",
         "created": "2026-11-11"
+      },
+      "W7225999423": {
+        "title": "Combined heat and drought stress alters chromatin accessibility and primes potato abscisic acid biosynthesis",
+        "year": "2026-11-13",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "Tim Godec, Maja Kri\u017enik, Maja Zagor\u0161\u010dak, Katja Stare, \u017diva Ram\u0161ak, Sophia Sonnewald, Lamis Osama Anwar Abdelhakim, Klar\u00e1 Panzarov\u00e1, Natalia Yaneth Rodriguez\u2010Granados, Robert E. W. Hancock, Mark A. Taylor, Raymond Campbell, Rashmi Sasidharan, Salom\u00e9 Prat, M.A.Q. Shaikh, Markus Teige, Marko Petek, Kristina Gruden",
+        "url": "https://doi.org/10.64898/2026.11.11.765576",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.11.765576",
+        "created": "2026-11-14"
       }
     }
   },
