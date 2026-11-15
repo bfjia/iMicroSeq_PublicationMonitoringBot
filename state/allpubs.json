@@ -3941,7 +3941,7 @@
   },
   "A5062115118": {
     "Name": "Herman W. Barkema",
-    "total_publications": "28",
+    "total_publications": "29",
     "publications": {
       "W7221170214": {
         "title": "Bayesian estimation of true herd-level prevalence and spatial distribution of Salmonella Dublin-seropositive dairy herds in Alberta, Canada",
@@ -4278,6 +4278,18 @@
         "type": "article",
         "doi": "10.3168/jds.2025-27142",
         "created": "2025-11-25"
+      },
+      "W7232350726": {
+        "title": "Knowledge, attitudes, and practices regarding food safety and zoonoses among female farmers in rural Punjab, Pakistan",
+        "year": "2026-11-01",
+        "publisher": "Preventive Veterinary Medicine",
+        "author": "Chanda Liaqat, Muhammad Hassan Mushtaq, Aamir Ghafoor, Waseem Shaukat, Fatima Mariam, Beatriz Mart\u00ednez\u2010L\u00f3pez, Herman Wildrik Barkema, Abdul Rehman",
+        "url": "https://doi.org/10.1016/j.prevetmed.2026.107079",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1016/j.prevetmed.2026.107079",
+        "created": "2026-11-15"
       }
     }
   },
@@ -8313,7 +8325,7 @@
   },
   "A5079514639": {
     "Name": "Sarah Otto",
-    "total_publications": "21",
+    "total_publications": "23",
     "publications": {
       "W7224116762": {
         "title": "Data for Phylogenies can be used to predict future diversification but with limited success",
@@ -8566,6 +8578,30 @@
         "type": "article",
         "doi": "10.1139/facets-2026-0031",
         "created": "2026-09-25"
+      },
+      "W7226158541": {
+        "title": "Appendix from Sexually antagonistic selection: a review of the theory and its implications",
+        "year": "2026-11-14",
+        "publisher": "Figshare",
+        "author": "Ewan Flintham, Thomas Lesaffre, Sarah Perin Otto, Charles Mullon",
+        "url": "https://doi.org/10.6084/m9.figshare.35010678",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.6084/m9.figshare.35010678",
+        "created": "2026-11-15"
+      },
+      "W7229797795": {
+        "title": "Slim Code from Sexually antagonistic selection: a review of the theory and its implications",
+        "year": "2026-11-14",
+        "publisher": "Figshare",
+        "author": "Ewan Flintham, Thomas Lesaffre, Sarah Perin Otto, Charles Mullon",
+        "url": "https://doi.org/10.6084/m9.figshare.35010675",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.6084/m9.figshare.35010675",
+        "created": "2026-11-15"
       }
     }
   },

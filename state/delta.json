@@ -1,49 +1,49 @@
 {
-  "A5051428361": {
-    "Name": "Thea Van Rossum",
-    "total_new": "2",
+  "A5062115118": {
+    "Name": "Herman W. Barkema",
+    "total_new": "1",
     "publications": {
-      "W7225989474": {
-        "title": "grp-bork/meta_eukaryome_detect: metaEukaryome 1.0.0",
-        "year": "2026-11-13",
-        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
-        "author": "Oleksandr M. Maistrenko, Chan Yeong Kim, Suguru Nishijima, Anthony Fullam, Pamela Ferretti, Christian Schudoma, Marisa Isabell Keller, Shahriyar Mahdi Robbani, Ece Kartal, Wasiu A. Akanni, Renato Alves, Thea Van Rossum, Supriya Khedkar, Daniel Podlesny, Yasushi Kojima, Takashi Hamabata, Naomi Uemura, Naoyoshi Nagata, Anja Spang, Anna Heintz\u2010Buschart, Thomas Schmidt, Michael Kuhn, Peer Bork",
-        "url": "https://doi.org/10.5281/zenodo.24199946",
+      "W7232350726": {
+        "title": "Knowledge, attitudes, and practices regarding food safety and zoonoses among female farmers in rural Punjab, Pakistan",
+        "year": "2026-11-01",
+        "publisher": "Preventive Veterinary Medicine",
+        "author": "Chanda Liaqat, Muhammad Hassan Mushtaq, Aamir Ghafoor, Waseem Shaukat, Fatima Mariam, Beatriz Mart\u00ednez\u2010L\u00f3pez, Herman Wildrik Barkema, Abdul Rehman",
+        "url": "https://doi.org/10.1016/j.prevetmed.2026.107079",
         "firstOrLast": false,
         "datasource": "OpenAlex",
-        "type": "software",
-        "doi": "10.5281/zenodo.24199946",
-        "created": "2026-11-14"
-      },
-      "W7226040599": {
-        "title": "metaEukaryome database",
-        "year": "2026-11-13",
-        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
-        "author": "Oleksandr M. Maistrenko, Chan Yeong Kim, Suguru Nishijima, Anthony Fullam, Pamela Ferretti, Christian Schudoma, Marisa Isabell Keller, Shahriyar Mahdi Robbani, Ece Kartal, Wasiu A. Akanni, Renato Alves, Thea Van Rossum, Supriya Khedkar, Daniel Podlesny, Yasushi Kojima, Takashi Hamabata, Naomi Uemura, Naoyoshi Nagata, Anja Spang, Anna Heintz\u2010Buschart, Thomas Schmidt, Michael Kuhn, Peer Bork",
-        "url": "https://doi.org/10.5281/zenodo.24198235",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "dataset",
-        "doi": "10.5281/zenodo.24198235",
-        "created": "2026-11-14"
+        "type": "article",
+        "doi": "10.1016/j.prevetmed.2026.107079",
+        "created": "2026-11-15"
       }
     }
   },
-  "A5044801271": {
-    "Name": "Robert Michael McKay",
-    "total_new": "1",
+  "A5079514639": {
+    "Name": "Sarah Otto",
+    "total_new": "2",
     "publications": {
-      "W7226032269": {
-        "title": "Spatiotemporal Variability in Wastewater-Derived Carbapenem-Resistance Genes from Diverse Municipal Sources in the Laurentian Great Lakes Catchment",
-        "year": "2026-11-13",
-        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
-        "author": "Ethan Harrop, Qiudi Geng, Ryland Corchis-Scott, Mackenzie Beach, Owen Corchis-Scott, John Norton, Andrea Elisabeth Busch, Ian Morgan, Mehdi Aloosh, Robert Michael L. McKay",
-        "url": "https://doi.org/10.5281/zenodo.24201888",
-        "firstOrLast": true,
+      "W7226158541": {
+        "title": "Appendix from Sexually antagonistic selection: a review of the theory and its implications",
+        "year": "2026-11-14",
+        "publisher": "Figshare",
+        "author": "Ewan Flintham, Thomas Lesaffre, Sarah Perin Otto, Charles Mullon",
+        "url": "https://doi.org/10.6084/m9.figshare.35010678",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.6084/m9.figshare.35010678",
+        "created": "2026-11-15"
+      },
+      "W7229797795": {
+        "title": "Slim Code from Sexually antagonistic selection: a review of the theory and its implications",
+        "year": "2026-11-14",
+        "publisher": "Figshare",
+        "author": "Ewan Flintham, Thomas Lesaffre, Sarah Perin Otto, Charles Mullon",
+        "url": "https://doi.org/10.6084/m9.figshare.35010675",
+        "firstOrLast": false,
         "datasource": "OpenAlex",
         "type": "dataset",
-        "doi": "10.5281/zenodo.24201888",
-        "created": "2026-11-14"
+        "doi": "10.6084/m9.figshare.35010675",
+        "created": "2026-11-15"
       }
     }
   }
