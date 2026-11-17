@@ -253,9 +253,11 @@ def testLateReattribution():
     # Real fixture: created 2025-01-18, published 2026-05-30.
     reason = fp.lateReattributionReason(work("W4406508397", createdDaysAgo=None), today)
     assert "OpenAlex indexed this 662 days ago (published 2026-05-30)" in reason, reason
-    # W7221010631 was published 2026-10-08 (34 days before the test date), so only the created date varies here.
-    assert fp.lateReattributionReason(work("W7221010631", createdDaysAgo=fp.lateIndexDays), today) == ""  # exactly lateIndexDays is fine
-    assert "indexed this 31 days ago" in fp.lateReattributionReason(work("W7221010631", createdDaysAgo=fp.lateIndexDays + 1), today)
+    # Published well before the threshold, so only the created date varies here.
+    published = (today - datetime.timedelta(days=fp.lateIndexDays + 4)).isoformat()
+    assert fp.lateReattributionReason(work("W7221010631", createdDaysAgo=fp.lateIndexDays, publication_date=published), today) == ""  # exactly lateIndexDays is fine
+    reason = fp.lateReattributionReason(work("W7221010631", createdDaysAgo=fp.lateIndexDays + 1, publication_date=published), today)
+    assert "indexed this " + str(fp.lateIndexDays + 1) + " days ago" in reason, reason
     # Created long ago (e.g. at DOI registration) but only just published: a normal new paper, not late.
     recent = work("W7221010631", createdDaysAgo=200)
     recent["publication_date"] = (today - datetime.timedelta(days=3)).isoformat()
@@ -437,7 +439,8 @@ def testPipelineTwoRuns():
         assert readText("summary.md").startswith("[INFO] Run summary 2026-11-11: checked 3 researchers (4 OpenAlex profiles); 0 new, 0 need review.\n")
         assert "returned no works" not in readText("summary.md")
         # run 2: new confident works, one old paper newly attributed (skipped), one supplementary file; Hubert's id returns nothing
-        available["Tim McAllister"] = [work("W7221010631"), work("W7155628488", createdDaysAgo=None)]
+        oldDate = (today - datetime.timedelta(days=fp.lateIndexDays + 10)).isoformat()
+        available["Tim McAllister"] = [work("W7221010631"), work("W7155628488", createdDaysAgo=None, publication_date=oldDate)]
         available["Michael Parkins"] = [work("W7204137749"), work("W7172243868"), work("W7221344554")]
         available["Casey Hubert"] = []
         result = fp.runPipeline(today)

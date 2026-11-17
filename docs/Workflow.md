@@ -70,7 +70,7 @@ A new person is added with `AddResearcher.py`. It searches OpenAlex, ranks the c
 
 First, old papers are dropped:
 
-- **Re-attribution rule.** OpenAlex created the record more than 30 days ago and the paper was published more than 30 days ago, but it only now appears under this person. This usually means OpenAlex moved an old paper onto their profile, so it is not treated as new. It is **skipped**: stored as seen, but not posted anywhere and not added to the Sheet. The run summary counts them ("N skipped as old"). The 30 days is `lateIndexDays` in `config.py`.
+- **Re-attribution rule.** OpenAlex created the record more than 90 days ago and the paper was published more than 90 days ago, but it only now appears under this person. This usually means OpenAlex moved an old paper onto their profile, so it is not treated as new. It is **skipped**: stored as seen, but not posted anywhere and not added to the Sheet. The run summary counts them ("N skipped as old"). The 90 days is `lateIndexDays` in `config.py`.
 
 Every other new item is **confident** if any one of these is true, checked in this order:
 
@@ -126,7 +126,7 @@ A preprint and its journal version are separate records, so both get announced. 
 Matching is imperfect. About 3.5% of real papers went to review in the back-test because the affiliation was missing. Common names (for example "Ayush Kumar") can pull in another person's papers. The check caught two such cases, but it can still let one through or hold back a real one. OpenAlex also merges and splits profiles over time. The "returned no works today" warning catches a profile that suddenly empties. What you can do: handle review items ([SOP-3](SOP-3-Daily-Operations.md#handling-a-needs-review-item)) and re-run `AddResearcher.py` when you see that warning.
 
 ### Indexing lag
-OpenAlex usually has a paper within days. In the back-test the median was about 3 days earlier than Scholar. Occasionally it takes weeks (the longest was about 2 months). So an announcement can arrive late. If OpenAlex takes more than 30 days to put a paper on the researcher's profile, the paper counts as old and is skipped without any message (the re-attribution rule). In the first week of testing that happened to about 1 paper in 6, for example one published in September 2026 and attributed in November. What you can do: add such papers to the Sheet by hand if you notice them, or raise `lateIndexDays` in `config.py`.
+OpenAlex usually has a paper within days. In the back-test the median was about 3 days earlier than Scholar. Occasionally it takes weeks (the longest was about 2 months). So an announcement can arrive late. If OpenAlex takes more than 90 days to put a paper on the researcher's profile, the paper counts as old and is skipped without any message (the re-attribution rule). In the first week of testing that applied to 2 of 17 new papers, both published 6 to 10 months earlier. What you can do: add such papers to the Sheet by hand if you notice them, or raise `lateIndexDays` in `config.py`.
 
 ### Public repo
 The repository is public. GitHub Actions logs and `state/allpubs.json` (researcher names and paper titles) can be read by anyone. Secrets stay masked in logs. What you can do: never put secrets or private notes in the repo, and keep Notes in `researchers.tsv` professional. See [SOP-2](SOP-2-Deploy.md#before-you-start).

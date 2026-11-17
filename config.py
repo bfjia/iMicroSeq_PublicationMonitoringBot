@@ -55,7 +55,7 @@ maxNewPerRun = 40
 # A new item whose OpenAlex record was created AND published more than this many days ago was moved
 # onto the researcher's profile late (re-attribution), not newly published. It is skipped: stored so it
 # never comes back, but not announced, not sent to review and not added to the Sheet. The run summary counts them.
-lateIndexDays = 30
+lateIndexDays = 90
 # A new item counts as confident if at least this many of its co-authors (surname + first initial)
 # appear in the researcher's earlier publications. (Matching institution or a monitored co-author also counts.)
 minSharedCoauthors = 2
