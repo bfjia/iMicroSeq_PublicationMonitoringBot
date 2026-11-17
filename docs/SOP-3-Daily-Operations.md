@@ -96,7 +96,7 @@ Commit it. Ignored types are not stored or announced. Other types: see [Extra it
 ## If something goes wrong
 | Symptom | Likely cause | Fix |
 |---|---|---|
-| No message today | GitHub started the run late, the run failed before posting, or the schedule is disabled | Wait 30 minutes, then check **Actions**. Run by hand if needed. |
+| No message today | GitHub started the run late (often hours after 08:00), the run failed before posting, or the schedule is disabled | Check **Actions** in the late afternoon. Run by hand if needed. |
 | Failure alert | See the `[ERROR]` line in the log | See [If a failure alert arrives](#if-a-failure-alert-arrives). |
 | `429` or "daily budget exhausted" | No OpenAlex key, or the key's budget is used up | Check the `OPENALEX_API_KEY` secret ([SOP-2](SOP-2-Deploy.md)). Look at the usage page. Re-run tomorrow. |
 | `key_not_activated` | OpenAlex key not activated | Click the link in the OpenAlex email. |

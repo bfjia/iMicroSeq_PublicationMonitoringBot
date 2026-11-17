@@ -140,6 +140,20 @@ def daysBetween(dateString, today):
         return None
 
 
+def lateReattributionReason(work, today):
+    """An already-published paper that OpenAlex has had for a while, only now showing up under this person
+    (OpenAlex moved it onto their profile). It is not a new paper, so it is skipped: stored, never announced.
+    Both dates must be old: OpenAlex often creates a record at DOI registration, months before the
+    publication date, and those are normal new papers. Returns the reason, or '' if the paper is not late."""
+    created = (work.get('created_date') or "")[:10]
+    age = daysBetween(created, today) if created else None
+    publishedAge = daysBetween(work.get('publication_date') or "", today)
+    if age is not None and age > lateIndexDays and publishedAge is not None and publishedAge > lateIndexDays:
+        return ("OpenAlex indexed this " + str(age) + " days ago (published " + str(work.get('publication_date'))
+                + "); it only now appears under this researcher")
+    return ""
+
+
 def isDoubtfulMatch(work, researcher, knownPublications, monitoredIDToName, today):
     """Decide whether a new work really belongs to this researcher.
 
@@ -148,16 +162,6 @@ def isDoubtfulMatch(work, researcher, knownPublications, monitoredIDToName, toda
     Returns (isDoubtful, reason). The reason explains the decision either way."""
     researcherIDs = splitIDs(researcher.get('OpenAlexIDs'))
     name = researcher.get('Name')
-
-    # Re-attribution: an already-published paper that OpenAlex has had for a while only now shows up
-    # under this person. Both dates must be old: OpenAlex often creates a record at DOI registration,
-    # months before the publication date, and those are normal new papers.
-    created = (work.get('created_date') or "")[:10]
-    age = daysBetween(created, today) if created else None
-    publishedAge = daysBetween(work.get('publication_date') or "", today)
-    if age is not None and age > lateIndexDays and publishedAge is not None and publishedAge > lateIndexDays:
-        return True, ("OpenAlex indexed this " + str(age) + " days ago (published " + str(work.get('publication_date'))
-                      + "); it only now appears under this researcher")
 
     # (a) affiliation on the researcher's own authorship matches the roster InstitutionIDs.
     rosterInstitutions = set(splitIDs(researcher.get('InstitutionIDs')))
@@ -220,11 +224,13 @@ def fetchWorksForResearcher(researcher, fromDate):
 def buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDToName, today):
     """Merge fetched works into the append-only state and collect the new items.
 
-    worksByResearcher is a list parallel to researchers. Returns (allPubs, newItems, zeroWorkNames)
-    where each new item is {authorID, Name, pubID, record, work, doubtful, reason}."""
+    worksByResearcher is a list parallel to researchers. Returns (allPubs, newItems, zeroWorkNames, skippedItems)
+    where each new item is {authorID, Name, pubID, record, work, doubtful, reason}, and skippedItems are
+    old papers newly attributed to the researcher ({authorID, Name, pubID, reason}): stored, never announced."""
     allPubs = {}
     newItems = []
     zeroWorkNames = []
+    skippedItems = []
 
     for researcher, works in zip(researchers, worksByResearcher):
         name = researcher['Name']
@@ -298,6 +304,13 @@ def buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDT
                 if doi:
                     seenDOIs.add(doi)
 
+                lateReason = lateReattributionReason(work, today)
+                if lateReason:
+                    skippedItems.append({'authorID': authorID, 'Name': name, 'pubID': pubID, 'reason': lateReason})
+                    print("[INFO] Skipped old publication " + pubID + " under " + authorID + " titled: " + title
+                          + " [" + lateReason + "]")
+                    continue
+
                 doubtful, reason = isDoubtfulMatch(work, researcher, knownPublications, monitoredIDToName, today)
                 newItems.append({'authorID': authorID, 'Name': name, 'pubID': pubID, 'record': publications[pubID],
                                  'work': work, 'doubtful': doubtful, 'reason': reason})
@@ -319,7 +332,7 @@ def buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDT
         if authorID not in allPubs:
             allPubs[authorID] = lastState[authorID]
 
-    return allPubs, newItems, zeroWorkNames
+    return allPubs, newItems, zeroWorkNames, skippedItems
 
 
 def applyFloodBreaker(newItems):
@@ -431,10 +444,11 @@ def formatReviewMsg(reviewItems):
     return Msg
 
 
-def formatSummary(today, researchers, newCount, reviewCount, zeroWorkNames, floodWarning):
+def formatSummary(today, researchers, newCount, reviewCount, zeroWorkNames, floodWarning, skippedCount=0):
     profileCount = sum(len(splitIDs(r['OpenAlexIDs'])) for r in researchers)
     summary = ("[INFO] Run summary " + today.isoformat() + ": checked " + str(len(researchers)) + " researchers ("
-               + str(profileCount) + " OpenAlex profiles); " + str(newCount) + " new, " + str(reviewCount) + " need review.\n")
+               + str(profileCount) + " OpenAlex profiles); " + str(newCount) + " new, " + str(reviewCount) + " need review"
+               + ((", " + str(skippedCount) + " skipped as old") if skippedCount else "") + ".\n")
     if zeroWorkNames:
         summary = summary + ("[WARNING] OpenAlex returned no works today for: " + ", ".join(zeroWorkNames)
                              + ", although works from the last " + str(lookbackDays) + " days were stored before."
@@ -471,7 +485,7 @@ def runPipeline(today=None):
                            + " researchers; refusing to write state. Check the API and " + rosterFile + ".")
 
     print("[INFO] Looking for anything new...")
-    allPubs, newItems, zeroWorkNames = buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDToName, today)
+    allPubs, newItems, zeroWorkNames, skippedItems = buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDToName, today)
     newItems, floodWarning = applyFloodBreaker(newItems)
     if floodWarning:
         print("[WARNING] " + floodWarning)
@@ -481,7 +495,8 @@ def runPipeline(today=None):
     delta = buildDelta(confidentItems)
     msg = formatSlackMsg2(delta)
     reviewMsg = formatReviewMsg(reviewItems)
-    summary = formatSummary(today, researchers, len(confidentItems), len(reviewItems), zeroWorkNames, floodWarning)
+    summary = formatSummary(today, researchers, len(confidentItems), len(reviewItems), zeroWorkNames, floodWarning,
+                            len(skippedItems))
 
     saveJson(allPubs, jsonFile)
     saveJson(delta, deltaJsonFile)
@@ -490,7 +505,7 @@ def runPipeline(today=None):
     saveText(summary, summaryFile)
     print(summary.rstrip("\n"))
     return {'allPubs': allPubs, 'delta': delta, 'msg': msg, 'review': reviewMsg, 'summary': summary,
-            'confidentItems': confidentItems, 'reviewItems': reviewItems}
+            'confidentItems': confidentItems, 'reviewItems': reviewItems, 'skippedItems': skippedItems}
 
 
 if __name__ == "__main__":

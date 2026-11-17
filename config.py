@@ -5,7 +5,8 @@
 #Secrets never go in this file (the repo is public): they come from env vars or the gitignored .secret/ folder.
 #
 #Not here, because GitHub reads it from the workflow file itself: the daily run time
-#(cron "20 15 * * *" = 15:20 UTC, in .github/workflows/publii.yml).
+#(cron "0 8 * * *" with timezone "America/Vancouver" = 08:00 Vancouver time, in .github/workflows/publii.yml).
+#GitHub may start scheduled runs hours late when Actions is busy; see docs/Workflow.md "GitHub scheduling".
 import re
 
 
@@ -52,7 +53,8 @@ lookbackDays = 365
 # all of them go to the review message instead and a warning is added ("flood breaker").
 maxNewPerRun = 40
 # A new item whose OpenAlex record was created AND published more than this many days ago was moved
-# onto the researcher's profile late (re-attribution), not newly published, so it goes to review.
+# onto the researcher's profile late (re-attribution), not newly published. It is skipped: stored so it
+# never comes back, but not announced, not sent to review and not added to the Sheet. The run summary counts them.
 lateIndexDays = 30
 # A new item counts as confident if at least this many of its co-authors (surname + first initial)
 # appear in the researcher's earlier publications. (Matching institution or a monitored co-author also counts.)

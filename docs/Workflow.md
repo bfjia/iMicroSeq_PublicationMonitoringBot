@@ -29,7 +29,7 @@ GitHub Actions runs all of this daily and commits state/allpubs.json and state/d
 
 ## A daily run, step by step
 
-1. GitHub starts the "Daily publication check" workflow at 15:20 UTC (about 07:20 Pacific time in winter). It may start late.
+1. GitHub starts the "Daily publication check" workflow at 08:00 Vancouver time. It often starts hours late ([GitHub scheduling](#github-scheduling)).
 2. It installs the dependencies and runs the offline tests.
 3. `src/FindPublications.py` reads `researchers.tsv`. It uses only rows with Status `OK` and at least one OpenAlex id.
 4. For each researcher it asks OpenAlex for all works from the last 365 days.
@@ -68,24 +68,28 @@ A new person is added with `AddResearcher.py`. It searches OpenAlex, ranks the c
 
 ## Confident or "needs review"?
 
-A new item is **confident** if any one of these is true, checked in this order:
+First, old papers are dropped:
+
+- **Re-attribution rule.** OpenAlex created the record more than 30 days ago and the paper was published more than 30 days ago, but it only now appears under this person. This usually means OpenAlex moved an old paper onto their profile, so it is not treated as new. It is **skipped**: stored as seen, but not posted anywhere and not added to the Sheet. The run summary counts them ("N skipped as old"). The 30 days is `lateIndexDays` in `config.py`.
+
+Every other new item is **confident** if any one of these is true, checked in this order:
 
 1. The researcher's own author entry lists an institution whose id is in their `InstitutionIDs`.
 2. Another monitored researcher is a co-author.
 3. At least 2 of the co-authors already appear in the researcher's earlier papers.
 
-It **needs review** if none is true, or if this applies first:
+It **needs review** if none is true. One more rule can also send items to review:
 
-- **Re-attribution rule.** OpenAlex created the record more than 30 days ago and the paper was published more than 30 days ago, but it only now appears under this person. This usually means OpenAlex moved an old paper onto their profile. It is not a new paper.
 - **Flood breaker.** If more than 40 confident items turn up in a single run, all of them are moved to review and a warning is added. This usually means OpenAlex merged profiles or re-indexed a batch.
 
 | Outcome | Slack | Google Sheet |
 |---|---|---|
 | Confident | Publications message (live: production channel) | Row added |
 | Needs review | "Needs review" message, always the debug channel | Not added |
+| Old paper, newly attributed (skipped) | Not posted; counted in the run summary | Not added |
 | Nothing new | "No new publication found." in the debug channel | Nothing |
 
-An item is announced or sent to review once only. After that it is stored as seen.
+An item is announced, sent to review or skipped once only. After that it is stored as seen.
 
 ## Test mode and live mode
 
@@ -122,13 +126,13 @@ A preprint and its journal version are separate records, so both get announced. 
 Matching is imperfect. About 3.5% of real papers went to review in the back-test because the affiliation was missing. Common names (for example "Ayush Kumar") can pull in another person's papers. The check caught two such cases, but it can still let one through or hold back a real one. OpenAlex also merges and splits profiles over time. The "returned no works today" warning catches a profile that suddenly empties. What you can do: handle review items ([SOP-3](SOP-3-Daily-Operations.md#handling-a-needs-review-item)) and re-run `AddResearcher.py` when you see that warning.
 
 ### Indexing lag
-OpenAlex usually has a paper within days. In the back-test the median was about 3 days earlier than Scholar. Occasionally it takes weeks (the longest was about 2 months). So an announcement can arrive late. What you can do: nothing; it will appear when OpenAlex has it.
+OpenAlex usually has a paper within days. In the back-test the median was about 3 days earlier than Scholar. Occasionally it takes weeks (the longest was about 2 months). So an announcement can arrive late. If OpenAlex takes more than 30 days to put a paper on the researcher's profile, the paper counts as old and is skipped without any message (the re-attribution rule). In the first week of testing that happened to about 1 paper in 6, for example one published in September 2026 and attributed in November. What you can do: add such papers to the Sheet by hand if you notice them, or raise `lateIndexDays` in `config.py`.
 
 ### Public repo
 The repository is public. GitHub Actions logs and `state/allpubs.json` (researcher names and paper titles) can be read by anyone. Secrets stay masked in logs. What you can do: never put secrets or private notes in the repo, and keep Notes in `researchers.tsv` professional. See [SOP-2](SOP-2-Deploy.md#before-you-start).
 
 ### GitHub scheduling
-Runs can start late, often 5 to 30 minutes and sometimes more. GitHub also switches off scheduled runs after 60 days with no repository activity. The workflow makes a "Keepalive" commit after 50 quiet days, but check monthly. What you can do: see [SOP-3](SOP-3-Daily-Operations.md#routine-checks) and the troubleshooting row for a disabled schedule.
+The run is set for 08:00 Vancouver time, but GitHub starts scheduled runs when it has capacity. In November 2026 they started 4 to 9 hours late, usually in the afternoon. GitHub does not guarantee the time and can even drop a run when it is very busy. GitHub also switches off scheduled runs after 60 days with no repository activity. The workflow makes a "Keepalive" commit after 50 quiet days, but check monthly. What you can do: see [SOP-3](SOP-3-Daily-Operations.md#routine-checks) and the troubleshooting row for a disabled schedule.
 
 ### OpenAlex terms
 OpenAlex changed its pricing in Feb 2026 (an API key is now standard, with a usage-based budget) and could change it again. This bot uses about 1% of the free key's daily budget. What you can do: check the usage page monthly.

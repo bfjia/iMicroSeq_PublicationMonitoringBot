@@ -49,7 +49,7 @@ def record(title="Old paper", author="", doi=None, url=None, year="2026-01-01"):
 
 
 def findNew(researcherList, worksList, lastState):
-    return fp.buildStateAndFindNew(researcherList, worksList, lastState, fp.buildMonitoredIDMap(researcherList), today)
+    return fp.buildStateAndFindNew(researcherList, worksList, lastState, fp.buildMonitoredIDMap(researcherList), today)[:3]
 
 
 # ---- Mapping ----
@@ -249,31 +249,45 @@ def testDoubtNoEvidence():
     assert "no affiliation listed" in reason and "no InstitutionIDs on the roster row" in reason, reason
 
 
-def testDoubtLateIndex():
-    # Real fixture: created 2025-01-18, published 2026-05-30. Late index wins even with an affiliation/co-author match.
-    doubtful, reason = fp.isDoubtfulMatch(work("W4406508397", createdDaysAgo=None), parkins, [], monitoredIDToName, today)
-    assert doubtful is True and "OpenAlex indexed this 662 days ago (published 2026-05-30)" in reason, reason
+def testLateReattribution():
+    # Real fixture: created 2025-01-18, published 2026-05-30.
+    reason = fp.lateReattributionReason(work("W4406508397", createdDaysAgo=None), today)
+    assert "OpenAlex indexed this 662 days ago (published 2026-05-30)" in reason, reason
     # W7221010631 was published 2026-10-08 (34 days before the test date), so only the created date varies here.
-    doubtful, reason = fp.isDoubtfulMatch(work("W7221010631", createdDaysAgo=fp.lateIndexDays), mcallister, [], monitoredIDToName, today)
-    assert doubtful is False, reason  # exactly lateIndexDays is still fine
-    doubtful, reason = fp.isDoubtfulMatch(work("W7221010631", createdDaysAgo=fp.lateIndexDays + 1), mcallister, [], monitoredIDToName, today)
-    assert doubtful is True and "indexed this 31 days ago" in reason, reason
+    assert fp.lateReattributionReason(work("W7221010631", createdDaysAgo=fp.lateIndexDays), today) == ""  # exactly lateIndexDays is fine
+    assert "indexed this 31 days ago" in fp.lateReattributionReason(work("W7221010631", createdDaysAgo=fp.lateIndexDays + 1), today)
     # Created long ago (e.g. at DOI registration) but only just published: a normal new paper, not late.
     recent = work("W7221010631", createdDaysAgo=200)
     recent["publication_date"] = (today - datetime.timedelta(days=3)).isoformat()
-    doubtful, reason = fp.isDoubtfulMatch(recent, mcallister, [], monitoredIDToName, today)
+    assert fp.lateReattributionReason(recent, today) == ""
+    # The age rule is no longer part of the doubt check: with an affiliation match this late work is confident.
+    doubtful, reason = fp.isDoubtfulMatch(work("W4406508397", createdDaysAgo=None), parkins, [], monitoredIDToName, today)
     assert doubtful is False, reason
+
+
+def testLateItemsAreSkippedButStored():
+    last = stateFor("A5063583896", "Michael Parkins")
+    allPubs, newItems, _, skipped = fp.buildStateAndFindNew([parkins], [[work("W4406508397", createdDaysAgo=None), work("W7221344554")]],
+                                                            last, monitoredIDToName, today)
+    assert [i["pubID"] for i in newItems] == ["W7221344554"], newItems
+    assert [s["pubID"] for s in skipped] == ["W4406508397"] and "indexed this 662 days ago" in skipped[0]["reason"], skipped
+    assert "W4406508397" in allPubs["A5063583896"]["publications"]  # stored, so it is never flagged again
+    allPubs2, newItems2, _, skipped2 = fp.buildStateAndFindNew([parkins], [[work("W4406508397", createdDaysAgo=None)]],
+                                                               allPubs, monitoredIDToName, today)
+    assert newItems2 == [] and skipped2 == []
 
 
 def testDoubtfulItemsGoToReviewNotDelta():
     last = stateFor("A5063583896", "Michael Parkins")
-    allPubs, newItems, _ = fp.buildStateAndFindNew([parkins], [[work("W4406508397", createdDaysAgo=None), work("W7221344554")]],
-                                                   last, monitoredIDToName, today)
+    # W7221344554 is confirmed by co-author Hubert (A5029134801). W7204137749 lists Hubert only under his other id,
+    # left out of this map, so nothing confirms it.
+    partialMap = {"A5063583896": "Michael Parkins", "A5029134801": "Casey Hubert"}
+    allPubs, newItems, _, _ = fp.buildStateAndFindNew([parkins], [[work("W7204137749"), work("W7221344554")]],
+                                                      last, partialMap, today)
     byID = dict((i["pubID"], i) for i in newItems)
-    assert byID["W4406508397"]["doubtful"] is True and byID["W7221344554"]["doubtful"] is False
+    assert byID["W7204137749"]["doubtful"] is True and byID["W7221344554"]["doubtful"] is False, byID
     delta = fp.buildDelta([i for i in newItems if not i["doubtful"]])
     assert list(delta["A5063583896"]["publications"].keys()) == ["W7221344554"] and delta["A5063583896"]["total_new"] == "1"
-    assert "W4406508397" in allPubs["A5063583896"]["publications"]  # stored, so it is not re-flagged tomorrow
 
 
 # ---- Flood breaker ----
@@ -422,7 +436,7 @@ def testPipelineTwoRuns():
         assert set(fp.loadJson("allpubs.json").keys()) == set(["A5042633786", "A5063583896", "A5029134801", "A5128958200"])
         assert readText("summary.md").startswith("[INFO] Run summary 2026-11-11: checked 3 researchers (4 OpenAlex profiles); 0 new, 0 need review.\n")
         assert "returned no works" not in readText("summary.md")
-        # run 2: new confident works, one doubtful, one supplementary file; Hubert's id returns nothing
+        # run 2: new confident works, one old paper newly attributed (skipped), one supplementary file; Hubert's id returns nothing
         available["Tim McAllister"] = [work("W7221010631"), work("W7155628488", createdDaysAgo=None)]
         available["Michael Parkins"] = [work("W7204137749"), work("W7172243868"), work("W7221344554")]
         available["Casey Hubert"] = []
@@ -439,18 +453,19 @@ def testPipelineTwoRuns():
         msg = readText("msg.md")
         assert msg.startswith("Tim McAllister has a new publication: \n  * Draft genome sequences"), msg
         assert "Michael Parkins has a new publication: \n  * One Panel, Many Pathogens" in msg and "Published in None" not in msg, msg
-        review = readText("review.md")
-        assert review.startswith("*Needs review* - 1 publication(s)") and "W7155628488" not in review, review
-        assert "Tim McAllister: Optimizing a culture-enriched hybrid metagenomics" in review and "Matched OpenAlex author A5042633786" in review
-        assert "Reason: OpenAlex indexed this 199 days ago" in review, review
+        assert readText("review.md") == ""  # the old paper (W7155628488, indexed 199 days ago) is skipped, not reviewed
+        assert "Optimizing a culture-enriched hybrid metagenomics" not in msg
+        assert [s["pubID"] for s in result["skippedItems"]] == ["W7155628488"], result["skippedItems"]
         summary = readText("summary.md")
-        assert "; 2 new, 1 need review." in summary and "returned no works today for: Casey Hubert," in summary, summary
+        assert "; 2 new, 0 need review, 1 skipped as old." in summary and "returned no works today for: Casey Hubert," in summary, summary
         # append-only: run-1 works are still there even though they were not returned again
         state = fp.loadJson("allpubs.json")
+        assert "W7155628488" in state["A5042633786"]["publications"]  # skipped items are stored
         assert "W7221344554" in state["A5029134801"]["publications"] and "W7154060862" in state["A5042633786"]["publications"]
         # run 3: same data -> nothing new
         fp.runPipeline(today)
         assert readText("msg.md") == "[INFO]\nNo new publication found." and readText("review.md") == ""
+        assert "skipped" not in readText("summary.md")
 
 
 def testZeroWorksRaises():
