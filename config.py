@@ -5,7 +5,7 @@
 #Secrets never go in this file (the repo is public): they come from env vars or the gitignored .secret/ folder.
 #
 #Not here, because GitHub reads it from the workflow file itself: the daily run time
-#(cron "0 8 * * *" with timezone "America/Vancouver" = 08:00 Vancouver time, in .github/workflows/publii.yml).
+#(cron "0 5 * * *" with timezone "America/Vancouver" = 05:00 Vancouver time, in .github/workflows/publii.yml).
 #GitHub may start scheduled runs hours late when Actions is busy; see docs/Workflow.md "GitHub scheduling".
 import re
 

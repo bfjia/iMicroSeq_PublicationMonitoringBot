@@ -74,7 +74,7 @@ This checks the OpenAlex key and the button without changing the roster.
 3. When it is green, open the run's **Summary**. It should say she is already monitored and the roster was not changed. No new commit appears.
 
 ### 8. Check the next scheduled run
-1. The next day, open **Actions**. A run marked **Scheduled** should be there. It is set for 08:00 Vancouver time, but GitHub often starts it hours late, so check in the afternoon.
+1. The next day, open **Actions**. A run marked **Scheduled** should be there. It is set for 05:00 Vancouver time, but GitHub often starts it hours late, so check around midday.
 2. Check that the debug channel got that day's run summary.
 3. Check there are no commits on `main` from the old server's account (it used to commit "Update YYYYMMDD" as `PaphlagonUpdater`). Commits should come only from `github-actions[bot]`.
 

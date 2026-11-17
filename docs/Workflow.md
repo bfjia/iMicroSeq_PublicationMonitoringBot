@@ -29,7 +29,7 @@ GitHub Actions runs all of this daily and commits state/allpubs.json and state/d
 
 ## A daily run, step by step
 
-1. GitHub starts the "Daily publication check" workflow at 08:00 Vancouver time. It often starts hours late ([GitHub scheduling](#github-scheduling)).
+1. GitHub starts the "Daily publication check" workflow at 05:00 Vancouver time. It often starts hours late ([GitHub scheduling](#github-scheduling)).
 2. It installs the dependencies and runs the offline tests.
 3. `src/FindPublications.py` reads `researchers.tsv`. It uses only rows with Status `OK` and at least one OpenAlex id.
 4. For each researcher it asks OpenAlex for all works from the last 365 days.
@@ -132,7 +132,7 @@ OpenAlex usually has a paper within days. In the back-test the median was about 
 The repository is public. GitHub Actions logs and `state/allpubs.json` (researcher names and paper titles) can be read by anyone. Secrets stay masked in logs. What you can do: never put secrets or private notes in the repo, and keep Notes in `researchers.tsv` professional. See [SOP-2](SOP-2-Deploy.md#before-you-start).
 
 ### GitHub scheduling
-The run is set for 08:00 Vancouver time, but GitHub starts scheduled runs when it has capacity. In November 2026 they started 4 to 9 hours late, usually in the afternoon. GitHub does not guarantee the time and can even drop a run when it is very busy. GitHub also switches off scheduled runs after 60 days with no repository activity. The workflow makes a "Keepalive" commit after 50 quiet days, but check monthly. What you can do: see [SOP-3](SOP-3-Daily-Operations.md#routine-checks) and the troubleshooting row for a disabled schedule.
+The run is set for 05:00 Vancouver time, but GitHub starts scheduled runs when it has capacity. In November 2026 they started 4 to 9 hours late. GitHub does not guarantee the time and can even drop a run when it is very busy. GitHub also switches off scheduled runs after 60 days with no repository activity. The workflow makes a "Keepalive" commit after 50 quiet days, but check monthly. What you can do: see [SOP-3](SOP-3-Daily-Operations.md#routine-checks) and the troubleshooting row for a disabled schedule.
 
 ### OpenAlex terms
 OpenAlex changed its pricing in Feb 2026 (an API key is now standard, with a usage-based budget) and could change it again. This bot uses about 1% of the free key's daily budget. What you can do: check the usage page monthly.
