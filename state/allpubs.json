@@ -2035,7 +2035,7 @@
   },
   "A5008255694": {
     "Name": "M\u00e9lanie Courtot",
-    "total_publications": "9",
+    "total_publications": "10",
     "publications": {
       "W7221750456": {
         "title": "Voices from contributors to Cell Genomics",
@@ -2144,6 +2144,18 @@
         "type": "data-paper",
         "doi": "10.1038/s41597-025-06068-4",
         "created": "2025-11-20"
+      },
+      "W7124709221": {
+        "title": "Benchmarking LLM-based Information Extraction Tools for Medical Documents",
+        "year": "2026-01-16",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "Aaron Yu, Jochen Weile, M\u00e9lanie Courtot",
+        "url": "https://doi.org/10.5281/zenodo.18272507",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.5281/zenodo.18272507",
+        "created": "2026-01-20"
       }
     }
   },
@@ -5969,7 +5981,7 @@
   },
   "A5011981202": {
     "Name": "Marc-Andr\u00e9 Langlois",
-    "total_publications": "9",
+    "total_publications": "10",
     "publications": {
       "W7140357130": {
         "title": "The human gut microbiome primes fever after vaccination",
@@ -6078,6 +6090,18 @@
         "type": "article",
         "doi": "10.1182/bloodadvances.2025018117",
         "created": "2026-01-28"
+      },
+      "W7208768645": {
+        "title": "Vaccine Immunogenicity and Safety in ImmunoDeficient Patients [VISID, study data contributed to the CITF Databank]",
+        "year": "2026-09-04",
+        "publisher": "Borealis",
+        "author": "Juthaporn Cowan, Dana Unninayar, Dina Yazji, Emilia Liana Falcone, Hugo Chapdelaine, Donald C. Vinh, Karina A. Top, Be\u00e1ta D\u00e9rfalvi, Thomas B. Issekutz, H\u00e9l\u00e8ne Decaluwe, Anne Pham\u2010Huy, Julia Elizabeth Mainwaring Upton, Stephen D. Betschel, Tamar S. Rubin, Sneha Suresh, Nicola A. M. Wright, Luis E. Murgu\u00eda-Favela, Tatiana Kalashnikova, Lisa Barrett, Sharon A. Oldford, Marc\u2010Andr\u00e9 Langlois, Corey R. Arnold, Manish Sadarangani, Tinghua Zhang, Tim Ramsay",
+        "url": "https://doi.org/10.5683/sp3/odtnaf",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.5683/sp3/odtnaf",
+        "created": "2026-09-05"
       }
     }
   },
