@@ -2251,8 +2251,21 @@
   },
   "A5055338819": {
     "Name": "Lupin Battersby",
-    "total_publications": "0",
-    "publications": {}
+    "total_publications": "1",
+    "publications": {
+      "W7235292267": {
+        "title": "Community Engaged Research in STEM: A handbook for community engaged researchers in science, technology, engineering and math",
+        "year": "2026-11-03",
+        "publisher": "Summit, the SFU Research Repository",
+        "author": "Cassidy Acheson, Lupin Battersby, Poh Tan",
+        "url": "https://doi.org/10.48410/arkf-t191",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "book",
+        "doi": "10.48410/arkf-t191",
+        "created": "2026-11-18"
+      }
+    }
   },
   "A5006062054": {
     "Name": "Miguel Uyaguari",
