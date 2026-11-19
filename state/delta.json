@@ -1,1 +1,56 @@
-{}
+{
+  "A5042633786": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "W7235961528": {
+        "title": "Culture-enriched metagenomics recovers a novel, high-quality genome catalogue and a host-linked virome of the cultivable bovine rumen microbiome",
+        "year": "2026-11-18",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "A S M Zisanur Rahman, Larissa Scott, Arezoo Alizadeh, Robert J. Gruninger, Tim Angus McAllister, Le Lou Guan, Hooman Derakhshani",
+        "url": "https://doi.org/10.5281/zenodo.24350669",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.5281/zenodo.24350669",
+        "created": "2026-11-19"
+      }
+    }
+  },
+  "A5082440634": {
+    "Name": "Caren Helbing",
+    "total_new": "1",
+    "publications": {
+      "W7236010545": {
+        "title": "Evaluating the Sensitivity of Airborne eDNA for Detecting Myotis Bats: Recommendations for Sampling Design",
+        "year": "2026-11-01",
+        "publisher": "Environmental DNA",
+        "author": "Samantha E. Gidora, Ghassen Chaieb, Caren C. Helbing, Mark Louie D. Lopez, Anna H. Dema, Sarah L. Trilesky, Faith M. Walker, Daniel E. Sanchez, Elizabeth L. Clare, Lauchlan Hugh Fraser, Cori L. Lausen",
+        "url": "https://doi.org/10.1002/edn3.70393",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1002/edn3.70393",
+        "created": "2026-11-19"
+      }
+    }
+  },
+  "A5020213915": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
+    "publications": {
+      "W7236313496": {
+        "title": "Participatory mapping to identify offsetting and banking measures to compensate for alterations to fish habitats due to industrial activities in Eeyou Istchee",
+        "year": "2026-01-01",
+        "publisher": "Canadian Journal of Fisheries and Aquatic Sciences",
+        "author": "Adriana R. Aguilar\u2010Melo, Kathleen Church, Anna Krupa, Graeme Morin, Thomas Stevens, Katrine Turgeon, Hugo Asselin",
+        "url": "https://doi.org/10.1139/cjfas-2026-0027",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1139/cjfas-2026-0027",
+        "created": "2026-11-19"
+      }
+    }
+  }
+}
