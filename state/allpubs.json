@@ -565,7 +565,7 @@
   },
   "A5021286386": {
     "Name": "Lawrence Goodridge",
-    "total_publications": "16",
+    "total_publications": "17",
     "publications": {
       "W7214007804": {
         "title": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025",
@@ -758,6 +758,18 @@
         "type": "article",
         "doi": "10.14745/ccdr.v52i11a06",
         "created": "2026-11-13"
+      },
+      "W4416933190": {
+        "title": "Building capacity in One Health: a case study in developing and sustaining interdisciplinary programs in higher education",
+        "year": "2025-12-02",
+        "publisher": "BioScience",
+        "author": "Brian C. Husband, Heather Pollock, Katie M. Clow, Elizabeth Finnis, Lawrence D. Goodridge, Amy E. M. Newman, Elizabeth Jane Parmley, Stephanie Rosen, Travis S. Steffens",
+        "url": "https://doi.org/10.1093/biosci/biaf160",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1093/biosci/biaf160",
+        "created": "2025-12-03"
       }
     }
   },
@@ -2389,7 +2401,7 @@
   },
   "A5047911076": {
     "Name": "Guillaume Bourque",
-    "total_publications": "25",
+    "total_publications": "26",
     "publications": {
       "W4415023122": {
         "title": "Long-read sequencing reveals telomere inheritance patterns from human trios",
@@ -2690,6 +2702,18 @@
         "type": "preprint",
         "doi": "10.64898/2026.11.06.764993",
         "created": "2026-11-10"
+      },
+      "W4362588200": {
+        "title": "Data from Application of Genomic Sequencing to Refine Patient Stratification for Adjuvant Therapy in Renal Cell Carcinoma",
+        "year": "2025-11-25",
+        "publisher": null,
+        "author": "Naveen S. Vasudev, Ghislaine Sc\u00e9lo, Kate I. Glennon, Michelle Wilson, Louis L\u00e9tourneau, Robert J. M. Eveleigh, Nazanin Nourbehesht, Madeleine Arseneault, Antoine Paccard, Lars Egevad, Juris V\u012bksna, Edgars Celms, Sharon M. Jackson, Behnoush Abedi\u2010Ardekani, Anne Yvonne Warren, Peter John Selby, Sebastian Trainor, Michael N\u2019Tege Kimuli, Jon J. Cartledge, Naeem Soomro, Adebanji Adeyoju, Poulam M. Patel, Magdalena B. Wozniak, Ivana Holc\u00e1tov\u00e1, A. Brisuda, Vladimir Janout, Estelle Chanudet, David Georgievich Zaridze, Anush Moukeria, Oxana Shangina, Lenka Foretov\u00e1, Marie Navr\u00e1tilov\u00e1, Dana Mate\u0219, Viorel Jinga, Ljiljana M. Bogdanovic, Bo\u017eidar Kova\u010devi\u0107, Anne Cambon\u2010Thomsen, Guillaume Bourque, Alvis Br\u0101zma, J\u00f6rg Tost, Paul Brennan, Mark G. Lathrop, Yasser Riazalhosseini, Rosamonde Elizabeth Banks",
+        "url": "https://doi.org/10.1158/1078-0432.c.6533221",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "other",
+        "doi": "10.1158/1078-0432.c.6533221",
+        "created": "2023-04-06"
       }
     }
   },
@@ -4344,7 +4368,7 @@
   },
   "A5015254879": {
     "Name": "Diego Borin Nobrega",
-    "total_publications": "14",
+    "total_publications": "15",
     "publications": {
       "W7225151416": {
         "title": "Temporal Trends and Associations of Antimicrobial Use and Resistance in Enterococcus Species From Broiler Farms in Canada",
@@ -4513,6 +4537,18 @@
         "type": "article",
         "doi": "10.1016/j.vaccine.2025.127998",
         "created": "2025-11-17"
+      },
+      "W4417088487": {
+        "title": "Bayesian modeling of Escherichia coli contamination in household drinking water in Bangladesh: evidence from the Multiple Indicator Cluster Survey 2019",
+        "year": "2025-12-05",
+        "publisher": "International Health",
+        "author": "Iqramul Haq, Azizur Rahman, Mst. Morsheda Akter, Delower Hossain, Diego B. N\u00f3brega",
+        "url": "https://doi.org/10.1093/inthealth/ihaf138",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1093/inthealth/ihaf138",
+        "created": "2025-12-06"
       }
     }
   },
