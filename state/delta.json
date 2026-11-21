@@ -1,1 +1,50 @@
-{}
+{
+  "A5068552988": {
+    "Name": "Amina Stoddart",
+    "total_new": "2",
+    "publications": {
+      "W7208795247": {
+        "title": "Revised Methodology for Fluence Determination and Sample Loss Correction in Near-Field, Long-Exposure Bench-Scale UV LED Experiments",
+        "year": "2026-11-20",
+        "publisher": "Research Square",
+        "author": "Rania Elsebai, Jessica L. Bennett, Sean A. MacIsaac, Rich M. Simons, Amina K. Stoddart, Graham A. Gagnon",
+        "url": "https://doi.org/10.21203/rs.3.rs-11623515/v1",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.21203/rs.3.rs-11623515/v1",
+        "created": "2026-09-05"
+      },
+      "W7237075957": {
+        "title": "Evaluating Passive Sampling as a Lower-Cost Alternative to Large-Volume Electropositive Filtration for Viral Monitoring in a Freshwater River",
+        "year": "2026-01-01",
+        "publisher": "Environmental Science Water Research & Technology",
+        "author": "Taylor Prest, Emalie K. Hayes, Madison Gouthro, Amina K. Stoddart, Graham Gagnon",
+        "url": "https://doi.org/10.1039/d6ew00628k",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1039/d6ew00628k",
+        "created": "2026-11-21"
+      }
+    }
+  },
+  "A5050508415": {
+    "Name": "Graham Gagnon",
+    "total_new": "1",
+    "publications": {
+      "W7208795247": {
+        "title": "Revised Methodology for Fluence Determination and Sample Loss Correction in Near-Field, Long-Exposure Bench-Scale UV LED Experiments",
+        "year": "2026-11-20",
+        "publisher": "Research Square",
+        "author": "Rania Elsebai, Jessica L. Bennett, Sean A. MacIsaac, Rich M. Simons, Amina K. Stoddart, Graham A. Gagnon",
+        "url": "https://doi.org/10.21203/rs.3.rs-11623515/v1",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.21203/rs.3.rs-11623515/v1",
+        "created": "2026-09-05"
+      }
+    }
+  }
+}

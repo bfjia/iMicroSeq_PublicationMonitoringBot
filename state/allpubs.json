@@ -2197,7 +2197,7 @@
   },
   "A5068552988": {
     "Name": "Amina Stoddart",
-    "total_publications": "7",
+    "total_publications": "9",
     "publications": {
       "W7213467744": {
         "title": "Assessment of UV LED Scale And Feasibility For Municipal Disinfection",
@@ -2282,6 +2282,30 @@
         "type": "dataset",
         "doi": "10.17632/gckypbpbn2",
         "created": "2026-03-08"
+      },
+      "W7208795247": {
+        "title": "Revised Methodology for Fluence Determination and Sample Loss Correction in Near-Field, Long-Exposure Bench-Scale UV LED Experiments",
+        "year": "2026-11-20",
+        "publisher": "Research Square",
+        "author": "Rania Elsebai, Jessica L. Bennett, Sean A. MacIsaac, Rich M. Simons, Amina K. Stoddart, Graham A. Gagnon",
+        "url": "https://doi.org/10.21203/rs.3.rs-11623515/v1",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.21203/rs.3.rs-11623515/v1",
+        "created": "2026-09-05"
+      },
+      "W7237075957": {
+        "title": "Evaluating Passive Sampling as a Lower-Cost Alternative to Large-Volume Electropositive Filtration for Viral Monitoring in a Freshwater River",
+        "year": "2026-01-01",
+        "publisher": "Environmental Science Water Research & Technology",
+        "author": "Taylor Prest, Emalie K. Hayes, Madison Gouthro, Amina K. Stoddart, Graham Gagnon",
+        "url": "https://doi.org/10.1039/d6ew00628k",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1039/d6ew00628k",
+        "created": "2026-11-21"
       }
     }
   },
@@ -3666,7 +3690,7 @@
   },
   "A5050508415": {
     "Name": "Graham Gagnon",
-    "total_publications": "11",
+    "total_publications": "12",
     "publications": {
       "W7213467744": {
         "title": "Assessment of UV LED Scale And Feasibility For Municipal Disinfection",
@@ -3799,6 +3823,18 @@
         "type": "article",
         "doi": "10.1021/acsestwater.5c00725",
         "created": "2025-12-03"
+      },
+      "W7208795247": {
+        "title": "Revised Methodology for Fluence Determination and Sample Loss Correction in Near-Field, Long-Exposure Bench-Scale UV LED Experiments",
+        "year": "2026-11-20",
+        "publisher": "Research Square",
+        "author": "Rania Elsebai, Jessica L. Bennett, Sean A. MacIsaac, Rich M. Simons, Amina K. Stoddart, Graham A. Gagnon",
+        "url": "https://doi.org/10.21203/rs.3.rs-11623515/v1",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.21203/rs.3.rs-11623515/v1",
+        "created": "2026-09-05"
       }
     }
   },
