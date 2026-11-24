@@ -24,7 +24,6 @@ state/             the bot's memory (allpubs.json, delta.json); committed by the
 output/            files generated each run (Slack messages, logs, reports); not in git
 docs/              how it works and the SOPs
 tests/             offline tests, run before every daily run
-legacy/            the old Google Scholar bot, reference only
 .github/workflows/ the daily run and the "Add researcher candidate" button
 ```
 

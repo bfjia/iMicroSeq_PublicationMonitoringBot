@@ -1,5 +1,5 @@
 #Shared helper for talking to the OpenAlex API (https://api.openalex.org).
-#Used by FindPublications.py, AddResearcher.py and legacy/MigrateScholarToOpenAlex.py.
+#Used by FindPublications.py and AddResearcher.py.
 #Only needs the python standard library.
 import json
 import os

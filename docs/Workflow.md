@@ -58,7 +58,6 @@ The two files people edit are at the top of the repository. Everything else is i
 | `.github/workflows/` | `publii.yml` (daily run) and `addResearcher.yml` (the "Add researcher candidate" button). |
 | `tests/` | Offline tests. Run by the workflow before every daily run. |
 | `docs/` | This page and the SOPs. |
-| `legacy/` | The old Google Scholar bot and data. Reference only. |
 
 ## How researchers are matched to OpenAlex profiles
 
@@ -138,4 +137,4 @@ The run is set for 05:00 Vancouver time, but GitHub starts scheduled runs when i
 OpenAlex changed its pricing in Feb 2026 (an API key is now standard, with a usage-based budget) and could change it again. This bot uses about 1% of the free key's daily budget. What you can do: check the usage page monthly.
 
 ### Old Scholar data
-The old Google Scholar data is kept in `legacy/` for reference only. The bot does not use it.
+The old Google Scholar bot, its data and the migration script were removed after go-live (2026-11-24). They are still in the git history: check out commit `dbb3c4b` to see the `legacy/` folder.
