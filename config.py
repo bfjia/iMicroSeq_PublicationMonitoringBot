@@ -65,9 +65,6 @@ ignoredTypes = ['other', 'supplementary-materials', 'erratum', 'peer-review', 'r
 # Titles matching this are skipped entirely. Catches supplementary-file deposits such as
 # Figshare "Additional file 3 of <paper>", which are not publications.
 ignoredTitlePattern = re.compile(r'^\s*(additional file|supplementary (file|material|table|figure|data|information))\b', re.IGNORECASE)
-# First line of the new-publication message on a catch-up run (state/reindexSince.txt, see docs/Workflow.md).
-# {since} is replaced by the date in that file. Edit the wording before the next catch-up if the reason differs.
-reindexMessageHeader = "Catching up on publications indexed since {since}, while the bot moved from Google Scholar to OpenAlex."
 
 
 # ======================================================================

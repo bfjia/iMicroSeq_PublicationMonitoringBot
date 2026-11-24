@@ -15,11 +15,6 @@ outputDir = os.path.join(repoDir, "output")   # generated each run, gitignored
 rosterFile = os.path.join(repoDir, "researchers.tsv")
 allPubsFile = os.path.join(stateDir, "allpubs.json")
 deltaFile = os.path.join(stateDir, "delta.json")
-# One-time catch-up: if this file exists (one line, a date such as 2026-11-05), the next run ignores the stored state,
-# re-indexes from OpenAlex and announces everything indexed or published since that date. The run deletes it.
-reindexFile = os.path.join(stateDir, "reindexSince.txt")
-# The old Google Scholar bot's final state (its last run was 2026-11-05). A re-index skips titles found here.
-scholarStateFile = os.path.join(repoDir, "legacy", "allpubsScholar.json")
 lastAllPubsFile = os.path.join(outputDir, "last_allpubs.json")
 msgFile = os.path.join(outputDir, "msg.md")
 reviewFile = os.path.join(outputDir, "review.md")
