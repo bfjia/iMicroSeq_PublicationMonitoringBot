@@ -29,7 +29,7 @@ Why it is required: a free key has a budget of $1 per day and this bot uses abou
 
 ### 3. Google service account
 1. In the Google Cloud console, open the service account whose email ends in `@imicroseqpublicationmonitor.iam.gserviceaccount.com`.
-2. If you already have its JSON key (the old server kept it as `.secret/googleToken`), reuse that. Otherwise open **Keys**, then **Add key**, then **Create new key**, type **JSON**. A file downloads. Keep it safe.
+2. If you already have its JSON key, reuse that. Otherwise open **Keys**, then **Add key**, then **Create new key**, type **JSON**. A file downloads. Keep it safe.
 3. Open the TEST copy of the Google Sheet (named `TEST_COPY_OF_iMicroSeqPubsSince20250601`), click **Share**, paste the service account's `client_email` and give it **Editor**.
 4. Do the same for the production sheet (the real one the team uses; it has a tab named `iMicroSeqPubsSince20250601`).
 
