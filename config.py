@@ -13,11 +13,11 @@ import re
 # ======================================================================
 # Go-live switch
 # ======================================================================
+# True (live, since 2026-11-24): new-publication messages go to productionChannel and rows go to the PRODUCTION sheet.
 # False (testing): every Slack post goes to debugChannel and Sheet rows go to the TEST copy of the sheet.
-# True (live): new-publication messages go to productionChannel and rows go to the PRODUCTION sheet.
 # Review items, run summaries and failure alerts always go to debugChannel.
-# Do not set to True without the go-live checklist in docs/SOP-2-Deploy.md.
-isLive = False
+# Go-live checklist and rollback: docs/SOP-2-Deploy.md.
+isLive = True
 
 
 # ======================================================================
@@ -59,12 +59,15 @@ lateIndexDays = 90
 # A new item counts as confident if at least this many of its co-authors (surname + first initial)
 # appear in the researcher's earlier publications. (Matching institution or a monitored co-author also counts.)
 minSharedCoauthors = 2
-# OpenAlex work types that are never stored or announced, e.g. ['dataset', 'software', 'peer-review', 'erratum'].
-# Empty = announce every type (articles, reviews, preprints, chapters, datasets, software, ...).
-ignoredTypes = []
+# OpenAlex work types that are never stored or announced. Every other type is announced
+# (articles, reviews, preprints, chapters, datasets, software, ...). Empty = announce every type.
+ignoredTypes = ['other', 'supplementary-materials', 'erratum', 'peer-review', 'retraction']
 # Titles matching this are skipped entirely. Catches supplementary-file deposits such as
 # Figshare "Additional file 3 of <paper>", which are not publications.
 ignoredTitlePattern = re.compile(r'^\s*(additional file|supplementary (file|material|table|figure|data|information))\b', re.IGNORECASE)
+# First line of the new-publication message on a catch-up run (state/reindexSince.txt, see docs/Workflow.md).
+# {since} is replaced by the date in that file. Edit the wording before the next catch-up if the reason differs.
+reindexMessageHeader = "Catching up on publications indexed since {since}, while the bot moved from Google Scholar to OpenAlex."
 
 
 # ======================================================================

@@ -3,7 +3,7 @@
 A bot that checks OpenAlex every day for new publications by iMicroSeq network researchers.
 It posts them to Slack and a Google Sheet, and flags uncertain matches for a person to review.
 
-**Status:** Currently in test mode: posts to the debug channel and the test Google Sheet only.
+**Status:** Live since 2026-11-24: new publications go to the production Slack channel and the production Google Sheet. Review items, run summaries and failure alerts go to the debug channel.
 
 ## Quickstart
 
@@ -16,7 +16,7 @@ It posts them to Slack and a Google Sheet, and flags uncertain matches for a per
 ## Layout
 
 ```
-config.py          every setting, with comments (incl. the isLive go-live switch)
+config.py          every setting, with comments (incl. the isLive go-live switch, now True)
 researchers.tsv    who is monitored (edit this to add/remove people)
 publii.sh          the daily pipeline, run by GitHub Actions
 src/               the Python code

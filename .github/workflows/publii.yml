@@ -48,7 +48,8 @@ jobs:
           dateNow=$(date +%Y%m%d)
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add state/allpubs.json state/delta.json
+          # -A so a catch-up run's deletion of state/reindexSince.txt is committed too
+          git add -A state/
           if ! git diff --cached --quiet; then
             git commit -m "Update $dateNow"
             git pull --rebase

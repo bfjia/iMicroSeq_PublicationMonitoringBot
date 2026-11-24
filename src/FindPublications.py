@@ -7,6 +7,7 @@
 #  output/review.md   - new publications we could not confirm belong to the researcher (empty if none)
 #  output/summary.md  - one-line run summary plus warnings
 #Nothing is written unless every researcher was fetched successfully.
+#If state/reindexSince.txt exists, the run is a one-time catch-up instead (see buildReindexBaseline).
 import datetime
 import json
 import os
@@ -27,8 +28,11 @@ deltaJsonFile = paths.deltaFile
 msgFile = paths.msgFile
 reviewFile = paths.reviewFile
 summaryFile = paths.summaryFile
+reindexFile = paths.reindexFile
+scholarStateFile = paths.scholarStateFile
 # Tunable settings live in config.py (see the comments there).
 from config import lookbackDays, maxNewPerRun, lateIndexDays, minSharedCoauthors, ignoredTypes, ignoredTitlePattern
+from config import reindexMessageHeader
 workFields = 'id,doi,title,display_name,type,publication_date,created_date,primary_location,authorships'
 nameSuffixes = ['jr', 'sr', 'ii', 'iii', 'iv']
 
@@ -335,6 +339,70 @@ def buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDT
     return allPubs, newItems, zeroWorkNames, skippedItems
 
 
+def normalizeTitle(title):
+    """Lowercase letters and digits only, for matching a title across Google Scholar and OpenAlex."""
+    text = unicodedata.normalize("NFKD", title or "")
+    text = "".join(c for c in text if not unicodedata.combining(c))
+    return re.sub(r'[^a-z0-9]+', ' ', text.lower()).strip()
+
+
+def readReindexSince(today):
+    """The catch-up date in reindexFile as YYYY-MM-DD, or None when the file does not exist.
+    Raises on a malformed date, or one more than lateIndexDays ago (older catch-up items would be skipped as old)."""
+    if not os.path.exists(reindexFile):
+        return None
+    with open(reindexFile, 'r', encoding='utf-8') as f:
+        text = f.read().strip()
+    try:
+        since = datetime.datetime.strptime(text.replace("-", ""), "%Y%m%d").date()
+    except ValueError:
+        raise RuntimeError("[ERROR] " + reindexFile + " must hold one date such as 2026-11-05, not " + repr(text))
+    if since > today or (today - since).days > lateIndexDays:
+        raise RuntimeError("[ERROR] The date in " + reindexFile + " (" + since.isoformat() + ") must be between "
+                           + str(lateIndexDays) + " days ago (lateIndexDays) and today.")
+    return since.isoformat()
+
+
+def isBeforeReindex(work, since):
+    """True if OpenAlex had the work, and it was published, before the catch-up date."""
+    published = work.get('publication_date') or ""
+    created = (work.get('created_date') or "")[:10] or published
+    return created < since and published < since
+
+
+def loadOldBotTitles():
+    """Normalized titles in the old Google Scholar bot's final state: everything it had already posted (or seen)."""
+    titles = set()
+    for entry in loadJson(scholarStateFile).values():
+        for record in entry.get('publications', {}).values():
+            key = normalizeTitle(record.get('title'))
+            if key:
+                titles.add(key)
+    return titles
+
+
+def buildReindexBaseline(researchers, worksByResearcher, since, oldBotTitles, monitoredIDToName, today):
+    """The 'already seen' state for a catch-up run, built from today's fetch only (the stored state is not used):
+    every work indexed and published before since, plus later works the old bot already posted (same title).
+    Everything else is then announced. Returns (baseline, ids of works skipped as already posted by the old bot)."""
+    baselineWorks = []
+    alreadyPosted = set()
+    for works in worksByResearcher:
+        keep = []
+        for work in works:
+            if isBeforeReindex(work, since):
+                keep.append(work)
+            elif normalizeTitle(workTitle(work)) in oldBotTitles:
+                keep.append(work)
+                if shortID(work.get('id')) not in alreadyPosted:
+                    print("[INFO] Not re-announcing " + str(shortID(work.get('id'))) + ", the old bot already posted it: " + workTitle(work))
+                alreadyPosted.add(shortID(work.get('id')))
+        baselineWorks.append(keep)
+    print("[INFO] Building the catch-up baseline (its 'new author' lines below are expected, not this run's results)...")
+    baseline = buildStateAndFindNew(researchers, baselineWorks, {}, monitoredIDToName, today)[0]
+    return baseline, alreadyPosted
+
+
 def applyFloodBreaker(newItems):
     """If too many confident items arrived at once, move all of them to review. Returns (newItems, warning or '')."""
     confident = [item for item in newItems if not item['doubtful']]
@@ -461,6 +529,7 @@ def formatSummary(today, researchers, newCount, reviewCount, zeroWorkNames, floo
 def runPipeline(today=None):
     """The whole daily run. Raises (and writes nothing) if any fetch fails or nothing at all comes back."""
     today = today or datetime.date.today()
+    reindexSince = readReindexSince(today)
     if os.path.exists(jsonFile):
         paths.ensureDir(lastJsonFile)
         shutil.copy2(jsonFile, lastJsonFile)
@@ -484,9 +553,19 @@ def runPipeline(today=None):
         raise RuntimeError("[ERROR] OpenAlex returned zero works for all " + str(len(researchers))
                            + " researchers; refusing to write state. Check the API and " + rosterFile + ".")
 
+    alreadyPosted = set()
+    if reindexSince:
+        print("[INFO] Catch-up run (" + reindexFile + "): ignoring the stored state and announcing everything indexed or published since "
+              + reindexSince + ".")
+        lastState, alreadyPosted = buildReindexBaseline(researchers, worksByResearcher, reindexSince, loadOldBotTitles(),
+                                                        monitoredIDToName, today)
+
     print("[INFO] Looking for anything new...")
     allPubs, newItems, zeroWorkNames, skippedItems = buildStateAndFindNew(researchers, worksByResearcher, lastState, monitoredIDToName, today)
-    newItems, floodWarning = applyFloodBreaker(newItems)
+    if reindexSince:
+        floodWarning = ""  # a catch-up is expected to be large
+    else:
+        newItems, floodWarning = applyFloodBreaker(newItems)
     if floodWarning:
         print("[WARNING] " + floodWarning)
     confidentItems = [item for item in newItems if not item['doubtful']]
@@ -494,17 +573,26 @@ def runPipeline(today=None):
 
     delta = buildDelta(confidentItems)
     msg = formatSlackMsg2(delta)
+    if reindexSince and delta:
+        msg = reindexMessageHeader.replace("{since}", reindexSince) + "\n\n" + msg
     reviewMsg = formatReviewMsg(reviewItems)
     summary = formatSummary(today, researchers, len(confidentItems), len(reviewItems), zeroWorkNames, floodWarning,
                             len(skippedItems))
+    if reindexSince:
+        summary = summary + ("[INFO] Catch-up run from " + reindexSince + ": the stored state was rebuilt from OpenAlex, "
+                             + str(len(alreadyPosted)) + " item(s) the old bot already posted were not re-announced, "
+                             + "and the flood breaker was off.\n")
 
     saveJson(allPubs, jsonFile)
     saveJson(delta, deltaJsonFile)
     saveText(msg, msgFile)
     saveText(reviewMsg, reviewFile)
     saveText(summary, summaryFile)
+    if reindexSince:
+        os.remove(reindexFile)  # one-time: the next run is a normal one (the workflow commits the deletion)
+        print("[INFO] Catch-up done; removed " + reindexFile + ".")
     print(summary.rstrip("\n"))
-    return {'allPubs': allPubs, 'delta': delta, 'msg': msg, 'review': reviewMsg, 'summary': summary,
+    return {'reindexSince': reindexSince, 'allPubs': allPubs, 'delta': delta, 'msg': msg, 'review': reviewMsg, 'summary': summary,
             'confidentItems': confidentItems, 'reviewItems': reviewItems, 'skippedItems': skippedItems}
 
 

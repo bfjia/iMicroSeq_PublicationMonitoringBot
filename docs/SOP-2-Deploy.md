@@ -86,14 +86,15 @@ The bot is now deployed in test mode. Use [SOP-3](SOP-3-Daily-Operations.md) for
 - A failed run shows a red cross on the Actions page, and the debug channel gets "The publication bot run failed." with a link to the run and `publii.log` attached. If the failure was in setup, tests or saving state, the message reads "The publication bot run failed outside the pipeline step ..." instead. You do not need to cause a failure to test this.
 
 ## Go-live checklist
-Do this only after the bot has run in test mode for the QA period.
+Do this only after the bot has run in test mode for the QA period. Done on 2026-11-24, with a catch-up from 2026-11-05 (the old bot's last run).
 - [ ] The debug-channel messages have looked right for the whole QA period, with no repeats, wrong people or missing days.
 - [ ] The review queue is under control: no growing pile of unhandled "Needs review" items.
 - [ ] The production sheet is shared with the service account as Editor (SOP-1 step 3).
 - [ ] The bot is a member of the production channel `C097CKA5U4X` (SOP-1 step 2).
-- [ ] On GitHub, open `config.py` on `main` and click the pencil icon. Change `isLive = False` to `isLive = True`, then click **Commit changes**.
+- [ ] Papers found during the QA period went only to the debug channel and the TEST sheet. To post them to production as well, add a catch-up file in the same commit as the switch: `state/reindexSince.txt` holding the date of the old bot's last run, for example `2026-11-05` ([Catch-up re-index](Workflow.md#catch-up-re-index)). In the same commit is important: whichever run comes next then does the catch-up, so a scheduled run cannot post the newest papers first and have them posted again.
+- [ ] In `config.py`, change `isLive = False` to `isLive = True` and commit (together with the catch-up file, if any).
 - [ ] From now on, new-publication messages go to `C097CKA5U4X`, and Sheet rows go to the PRODUCTION spreadsheet (`publii.sh` passes `--live`, and the Sheet script refuses `--live` unless `isLive` is True). Review items, summaries and failure alerts still go to the debug channel.
-- [ ] Run **Daily publication check** once by hand. Confirm the log says `[INFO] isLive=true`, the summary is in the debug channel, and any new items are in the production channel and the production sheet.
+- [ ] Run **Daily publication check** once by hand, or wait for the scheduled run. Confirm the log says `[INFO] isLive=true`, the summary is in the debug channel, and any new items are in the production channel and the production sheet. After a catch-up, `state/reindexSince.txt` is gone from `main`.
 - [ ] Decommission the old server (or at least delete its copy of the Slack token and Google key).
 
 ## Rollback

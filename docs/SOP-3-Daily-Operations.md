@@ -85,7 +85,7 @@ ignoredTypes = ['dataset', 'software', 'peer-review']
 Commit it. Ignored types are not stored or announced. Other types: see [Extra items and noise](Workflow.md#extra-items-and-noise).
 
 ### Routine checks
-- **Weekly, while in test mode:** glance at the debug channel. Is anything strange or repeated?
+- **Weekly:** glance at the debug channel (review items, summaries) and the production channel. Is anything strange or repeated?
 - **Monthly:** open your OpenAlex usage page and check the budget is far from used (about 1% is normal). Check the daily workflow is not disabled (**Actions** should show recent runs). Look for "returned no works today" warnings. For each person named, re-run `AddResearcher.py` for them and fix `OpenAlexIDs` if needed.
 - The workflow adds a "Keepalive" commit after 50 quiet days to stop GitHub switching the schedule off ([GitHub scheduling](Workflow.md#github-scheduling)).
 

@@ -21,6 +21,8 @@ import researcherRoster
 fixtureRoster = os.path.join(testsDir, "fixtures", "researchers.tsv")
 fixtureWorks = os.path.join(testsDir, "fixtures", "openAlexWorks.json")
 today = datetime.date(2026, 11, 11)
+# Tests use fixture works of any type (W7154060862 is an erratum), so they must not depend on config's ignoredTypes.
+fp.ignoredTypes = []
 
 with open(fixtureWorks, "r", encoding="utf-8") as f:
     worksByID = dict((fp.shortID(w["id"]), w) for w in json.load(f))
@@ -185,6 +187,19 @@ def testSupplementaryFilesSkipped():
     allPubs, newItems, zero = findNew([parkins], [[work("W7172243868")]], stateFor("A5063583896", "Michael Parkins"))
     assert newItems == [] and "W7172243868" not in allPubs["A5063583896"]["publications"]
     assert zero == []  # a researcher with only skipped works still "had works"
+
+
+def testIgnoredTypesSkipped():
+    last = stateFor("A5042633786", "Tim McAllister")
+    saved = fp.ignoredTypes
+    try:
+        fp.ignoredTypes = ["erratum"]
+        allPubs, newItems, zero = findNew([mcallister], [[work("W7221010631"), work("W7154060862")]], last)
+    finally:
+        fp.ignoredTypes = saved
+    assert [i["pubID"] for i in newItems] == ["W7221010631"], newItems  # the erratum is dropped, the article announced
+    assert "W7154060862" not in allPubs["A5042633786"]["publications"]  # and not stored
+    assert zero == []
 
 
 def testZeroWorkNames():
@@ -385,7 +400,8 @@ def testReviewAndSummaryFormat():
 outputFiles = ["allpubs.json", "delta.json", "msg.md", "review.md", "summary.md"]
 # FindPublications' file globals, pointed at bare names inside the temp dir so a test can never touch the real state/.
 sandboxFiles = {"jsonFile": "allpubs.json", "lastJsonFile": "last_allpubs.json", "deltaJsonFile": "delta.json",
-                "msgFile": "msg.md", "reviewFile": "review.md", "summaryFile": "summary.md"}
+                "msgFile": "msg.md", "reviewFile": "review.md", "summaryFile": "summary.md",
+                "reindexFile": "reindexSince.txt", "scholarStateFile": "allpubsScholar.json"}
 
 
 class pipelineSandbox:
@@ -498,6 +514,108 @@ def testFetchFailureWritesNothing():
         assert readText("allpubs.json") == before
         for name in ["delta.json", "msg.md", "review.md", "summary.md"]:
             assert not os.path.exists(name), name + " should not be written"
+
+
+# ---- Catch-up re-index (state/reindexSince.txt) ----
+def testReadReindexSince():
+    with pipelineSandbox(fetchFrom({})):
+        assert fp.readReindexSince(today) is None  # no file: a normal run
+        for text, expected in [("20261105\n", "2026-11-05"), (" 2026-11-05 ", "2026-11-05"), ("2026-11-11", "2026-11-11")]:
+            fp.saveText(text, "reindexSince.txt")
+            assert fp.readReindexSince(today) == expected, text
+        for text, message in [("Nov 5", "must hold one date"), ("2026-11-12", "and today"), ("2026-08-01", "lateIndexDays")]:
+            fp.saveText(text, "reindexSince.txt")
+            try:
+                fp.readReindexSince(today)
+                assert False, "expected RuntimeError for " + text
+            except RuntimeError as e:
+                assert message in str(e), str(e)
+
+
+def testIsBeforeReindex():
+    since = "2026-11-05"
+    assert fp.isBeforeReindex({"created_date": "2026-11-04T10:00:00", "publication_date": "2026-11-04"}, since)
+    assert not fp.isBeforeReindex({"created_date": "2026-11-05T00:00:00", "publication_date": "2026-10-01"}, since)  # indexed since
+    assert not fp.isBeforeReindex({"created_date": "2026-10-01T00:00:00", "publication_date": "2026-11-20"}, since)  # published since
+    assert not fp.isBeforeReindex({"publication_date": "2026-11-06"}, since)  # no created date: published date decides
+    assert fp.normalizeTitle(" Cholera  Rapid-Diagnostic test: Performance… ") == "cholera rapid diagnostic test performance"
+
+
+def testReindexBaseline():
+    # W7155628488 keeps its real dates (indexed 2026-04, published 2026-09): before the cutoff. The others look indexed yesterday.
+    works = [[work("W7221010631"), work("W7155628488", createdDaysAgo=None)], [work("W7204137749"), work("W7221344554")],
+             [work("W7221344554")]]
+    oldBotTitles = set([fp.normalizeTitle("TARGETED DEPLETION of rRNAs and tobamoviruses enhances viral")])  # not a full match
+    oldBotTitles.add(fp.normalizeTitle(worksByID["W7221344554"]["display_name"].upper()))
+    baseline, alreadyPosted = fp.buildReindexBaseline(researchers, works, "2026-11-05", oldBotTitles, monitoredIDToName, today)
+    assert set(baseline.keys()) == set(["A5042633786", "A5063583896", "A5029134801", "A5128958200"])  # every monitored id
+    assert list(baseline["A5042633786"]["publications"].keys()) == ["W7155628488"]
+    assert list(baseline["A5063583896"]["publications"].keys()) == ["W7221344554"]  # the old bot posted it
+    assert alreadyPosted == set(["W7221344554"]), alreadyPosted  # counted once although two researchers have it
+    allPubs, newItems, _, skipped = fp.buildStateAndFindNew(researchers, works, baseline, monitoredIDToName, today)
+    assert sorted((i["Name"], i["pubID"]) for i in newItems) == [("Michael Parkins", "W7204137749"), ("Tim McAllister", "W7221010631")]
+    assert skipped == []
+
+
+def testCatchUpPipeline():
+    available = {"Tim McAllister": [work("W7221010631"), work("W7155628488", createdDaysAgo=None)],
+                 "Michael Parkins": [work("W7204137749"), work("W7221344554")], "Casey Hubert": [work("W7221344554")]}
+    saved = fp.maxNewPerRun
+    with pipelineSandbox(fetchFrom(available)):
+        try:
+            fp.maxNewPerRun = 0  # a normal run would send everything to review
+            # The test-period state already has everything, so a normal run would announce nothing.
+            devState = {}
+            for researcher, works in zip(researchers, [available[r["Name"]] for r in researchers]):
+                for authorID in researcher["OpenAlexIDs"].split("|"):
+                    devState[authorID] = {"Name": researcher["Name"], "total_publications": str(len(works)),
+                                          "publications": dict((fp.shortID(w["id"]), fp.mapWorkToRecord(w, authorID)) for w in works)}
+            fp.saveJson(devState, "allpubs.json")
+            fp.saveJson({"X": {"Name": "Old bot", "publications": {"0": {"title": worksByID["W7221344554"]["display_name"]}}}},
+                        "allpubsScholar.json")
+            fp.saveText("20261105\n", "reindexSince.txt")
+            result = fp.runPipeline(today)
+            assert result["reindexSince"] == "2026-11-05"
+            delta = fp.loadJson("delta.json")
+            assert dict((k, list(v["publications"].keys())) for k, v in delta.items()) == {
+                "A5042633786": ["W7221010631"], "A5063583896": ["W7204137749"]}, delta
+            msg = readText("msg.md")
+            assert msg.startswith("Catching up on publications indexed since 2026-11-05, while the bot moved from Google Scholar "
+                                  "to OpenAlex.\n\nTim McAllister has a new publication: \n  * Draft genome sequences"), msg
+            assert "Targeted Depletion" not in msg and readText("review.md") == ""
+            summary = readText("summary.md")
+            assert "; 2 new, 0 need review." in summary and "Flood breaker" not in summary, summary
+            assert "[INFO] Catch-up run from 2026-11-05: the stored state was rebuilt from OpenAlex, 1 item(s) the old bot" in summary
+            assert not os.path.exists("reindexSince.txt")  # one-time
+            state = fp.loadJson("allpubs.json")
+            assert set(state["A5042633786"]["publications"].keys()) == set(["W7221010631", "W7155628488"])
+            # next run is a normal one: nothing new, no header
+            fp.maxNewPerRun = saved
+            fp.runPipeline(today)
+            assert readText("msg.md") == "[INFO]\nNo new publication found." and "Catch-up" not in readText("summary.md")
+        finally:
+            fp.maxNewPerRun = saved
+
+
+def testCatchUpFailureKeepsMarker():
+    def failingFetch(researcher, fromDate):
+        raise RuntimeError("[ERROR] OpenAlex request to /works failed after 6 attempts: HTTP 503")
+    with pipelineSandbox(failingFetch):
+        fp.saveText("2026-11-05", "reindexSince.txt")
+        try:
+            fp.runPipeline(today)
+            assert False, "expected the fetch error to propagate"
+        except RuntimeError as e:
+            assert "HTTP 503" in str(e)
+        assert readText("reindexSince.txt") == "2026-11-05"  # kept, so the next run retries the catch-up
+        for name in outputFiles:
+            assert not os.path.exists(name), name + " should not be written"
+        fp.saveText("yesterday", "reindexSince.txt")
+        try:
+            fp.runPipeline(today)
+            assert False, "expected a bad date to stop the run"
+        except RuntimeError as e:
+            assert "must hold one date" in str(e), str(e)
 
 
 def testFetchWorksForResearcherFilter():

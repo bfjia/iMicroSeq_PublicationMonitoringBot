@@ -37,7 +37,9 @@ GitHub Actions runs all of this daily and commits state/allpubs.json and state/d
 6. Each new item is judged confident or needs review (see below).
 7. Confident items go to `output/msg.md` and `state/delta.json`. Items needing review go to `output/review.md`.
 8. `publii.sh` posts to Slack and, if there was something new, adds Google Sheet rows.
-9. If `state/allpubs.json` or `state/delta.json` changed, the workflow commits "Update YYYYMMDD".
+9. If anything in `state/` changed, the workflow commits "Update YYYYMMDD".
+
+If `state/reindexSince.txt` exists, step 5 is different: the run is a one-time catch-up ([Catch-up re-index](#catch-up-re-index)).
 
 ## Files
 
@@ -54,6 +56,7 @@ The two files people edit are at the top of the repository. Everything else is i
 | `src/slackConnector.py`, `src/GoogleSheetAPIConnector.py`, `src/openAlexClient.py`, `src/researcherRoster.py`, `src/paths.py` | Helpers for Slack, the Sheet, OpenAlex, reading `researchers.tsv`, and where files live. |
 | `state/allpubs.json` | The bot's memory: every paper seen, per OpenAlex id. Committed by the bot. Never edit by hand. |
 | `state/delta.json` | The confident new papers from the latest run. Feeds the Google Sheet step. |
+| `state/reindexSince.txt` | Only present when a catch-up is pending: one date. The catch-up run deletes it ([Catch-up re-index](#catch-up-re-index)). |
 | `output/` | Made fresh by each run and not committed: the three Slack messages (`msg.md`, `review.md`, `summary.md`), `publii.log`, `last_allpubs.json` (the memory before this run) and reports. |
 | `.github/workflows/` | `publii.yml` (daily run) and `addResearcher.yml` (the "Add researcher candidate" button). |
 | `tests/` | Offline tests. Run by the workflow before every daily run. |
@@ -93,13 +96,25 @@ An item is announced, sent to review or skipped once only. After that it is stor
 
 ## Test mode and live mode
 
-The switch is `isLive` in `config.py`. It is currently `False`.
+The switch is `isLive` in `config.py`. It has been `True` (live) since 2026-11-24.
 
 | | `isLive = False` (test mode) | `isLive = True` (live) |
 |---|---|---|
 | New publications message | Debug channel `C09D86E4T5H` | Production channel `C097CKA5U4X` |
 | Needs review, summary, failure alerts | Debug channel | Debug channel |
 | Google Sheet rows | TEST copy of the sheet | PRODUCTION sheet |
+
+## Catch-up re-index
+
+A one-time run that announces everything indexed or published since a date, even if the bot has already seen it. It was used at go-live (2026-11-24) to post to production everything since the old Scholar bot's last run (2026-11-05). The papers found while testing had gone only to the debug channel.
+
+To start one, commit a file `state/reindexSince.txt` holding one date, such as `2026-11-05`. The next run, scheduled or by hand, then:
+1. ignores `state/allpubs.json` and asks OpenAlex for the last 365 days as usual;
+2. treats as already seen every work that OpenAlex indexed **and** published before that date, plus any work whose title is in the old bot's final state (`legacy/allpubsScholar.json`), because the old bot already posted it;
+3. announces everything else, with the `reindexMessageHeader` line from `config.py` on top, and adds it to the Sheet. The flood breaker is off for this run; the confident / needs-review check still applies;
+4. saves the rebuilt state and deletes `state/reindexSince.txt`, so the run after it is a normal one.
+
+The date must be within the last 90 days (`lateIndexDays`). If the run fails, the file stays and the next run tries again. A catch-up re-announces things already posted since that date, so use it only when they really did not reach the production channel.
 
 ## When a run fails
 
@@ -117,7 +132,7 @@ In a back-test (11 Nov 2026) the old Scholar bot had posted 217 in-range items b
 In practice: roughly 1 in 5 of what Scholar showed will not appear. What you can do: add them to the Sheet by hand ([SOP-3](SOP-3-Daily-Operations.md#items-the-bot-cannot-see)).
 
 ### Extra items and noise
-10 items Scholar announced as "new" were really published in 2024 or early 2025. The new bot ignores them correctly (365-day window). It also finds 64 items Scholar never showed: about 22 preprints, 15 articles, 12 datasets, 3 software, 2 peer-review reports, 5 "other", and a few chapters and conference papers. Some are noise, for example Figshare parts such as "Cell Counts" listed as datasets. What you can do: drop whole types with `ignoredTypes` ([SOP-3](SOP-3-Daily-Operations.md#changing-which-types-are-announced)).
+10 items Scholar announced as "new" were really published in 2024 or early 2025. The new bot ignores them correctly (365-day window). It also finds 64 items Scholar never showed: about 22 preprints, 15 articles, 12 datasets, 3 software, 2 peer-review reports, 5 "other", and a few chapters and conference papers. Some are noise, for example Figshare parts such as "Cell Counts" listed as datasets. The bot now drops `other`, `supplementary-materials`, `erratum`, `peer-review` and `retraction`. What you can do: drop more whole types with `ignoredTypes` ([SOP-3](SOP-3-Daily-Operations.md#changing-which-types-are-announced)).
 
 ### Duplicates
 A preprint and its journal version are separate records, so both get announced. Each non-article is tagged, for example `[preprint]`. What you can do: nothing needed. Ignore the second one, or delete the extra Sheet row.

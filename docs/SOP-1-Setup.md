@@ -60,15 +60,16 @@ python tests/RunOfflineTests.py
 ```
 
 ### 7. Do a local test run
+The bot is live (`isLive = True` in `config.py`), so a local `publii.sh` run would post to the production channel and write to the production sheet. First set `isLive = False` in your local `config.py` (do not commit that change), then:
 ```bash
 PYTHON=python3 ./publii.sh
 ```
-While `isLive = False` in `config.py`, this posts only to the debug channel and writes only to the TEST sheet. It never touches the production channel or sheet.
+With `isLive = False` it posts only to the debug channel and writes only to the TEST sheet. To see what would be found without posting anything, run only `python src/FindPublications.py` and read `output/`.
 
 ## Check it worked
 - The offline tests finish without errors.
 - The debug channel receives an "[INFO] Run summary ..." message, plus "No new publication found." or a list.
-- `git status` shows `state/allpubs.json` and `state/delta.json` possibly changed. Do not commit them from a test run: run `git checkout state/` to undo. The messages it posted are also in `output/`.
+- `git status` shows `state/allpubs.json` and `state/delta.json` possibly changed. Do not commit them from a test run: run `git checkout state/` to undo, and `git checkout config.py` to restore `isLive`. The messages it posted are also in `output/`.
 
 ## If something goes wrong
 | You see | Fix |
