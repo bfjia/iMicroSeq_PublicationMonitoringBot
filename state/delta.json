@@ -1,1 +1,566 @@
-{}
+{
+  "A5085386037": {
+    "Name": "Robert Delatolla",
+    "total_new": "1",
+    "publications": {
+      "W7225425038": {
+        "title": "Bayesian Spatio-temporal Modeling of Multi-Site Wastewater Surveillance Data",
+        "year": "2026-11-05",
+        "publisher": "arXiv",
+        "author": "K. Ken Peng, Chengqian Xian, Charmaine B. Dean, Robert Delatolla, X. Joan Hu, Elizabeth M. Renouf",
+        "url": "https://doi.org/10.48550/arxiv.2611.07602",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.48550/arxiv.2611.07602",
+        "created": "2026-11-07"
+      }
+    }
+  },
+  "A5021286386": {
+    "Name": "Lawrence Goodridge",
+    "total_new": "2",
+    "publications": {
+      "W7225876949": {
+        "title": "Faire progresser la surveillance des eaux us\u00e9es gr\u00e2ce \u00e0 la collaboration transfrontali\u00e8re : un r\u00e9sum\u00e9 d'atelier",
+        "year": "2026-11-12",
+        "publisher": "Relev\u00e9 des maladies transmissibles au Canada",
+        "author": "R\u00e9seau int\u00e9gr\u00e9 de surveillance des pathog\u00e8nes (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06f",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.14745/ccdr.v52i11a06f",
+        "created": "2026-11-13"
+      },
+      "W7225918029": {
+        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
+        "year": "2026-11-12",
+        "publisher": "Canada Communicable Disease Report",
+        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.14745/ccdr.v52i11a06",
+        "created": "2026-11-13"
+      }
+    }
+  },
+  "A5079694314": {
+    "Name": "Natalie C Knox",
+    "total_new": "1",
+    "publications": {
+      "W7225918029": {
+        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
+        "year": "2026-11-12",
+        "publisher": "Canada Communicable Disease Report",
+        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.14745/ccdr.v52i11a06",
+        "created": "2026-11-13"
+      }
+    }
+  },
+  "A5042633786": {
+    "Name": "Tim A. McAllister",
+    "total_new": "1",
+    "publications": {
+      "W7235961528": {
+        "title": "Culture-enriched metagenomics recovers a novel, high-quality genome catalogue and a host-linked virome of the cultivable bovine rumen microbiome",
+        "year": "2026-11-18",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "A S M Zisanur Rahman, Larissa Scott, Arezoo Alizadeh, Robert J. Gruninger, Tim Angus McAllister, Le Lou Guan, Hooman Derakhshani",
+        "url": "https://doi.org/10.5281/zenodo.24350669",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.5281/zenodo.24350669",
+        "created": "2026-11-19"
+      }
+    }
+  },
+  "A5082440634": {
+    "Name": "Caren Helbing",
+    "total_new": "1",
+    "publications": {
+      "W7236010545": {
+        "title": "Evaluating the Sensitivity of Airborne eDNA for Detecting Myotis Bats: Recommendations for Sampling Design",
+        "year": "2026-11-01",
+        "publisher": "Environmental DNA",
+        "author": "Samantha E. Gidora, Ghassen Chaieb, Caren C. Helbing, Mark Louie D. Lopez, Anna H. Dema, Sarah L. Trilesky, Faith M. Walker, Daniel E. Sanchez, Elizabeth L. Clare, Lauchlan Hugh Fraser, Cori L. Lausen",
+        "url": "https://doi.org/10.1002/edn3.70393",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1002/edn3.70393",
+        "created": "2026-11-19"
+      }
+    }
+  },
+  "A5068552988": {
+    "Name": "Amina Stoddart",
+    "total_new": "2",
+    "publications": {
+      "W7208795247": {
+        "title": "Revised Methodology for Fluence Determination and Sample Loss Correction in Near-Field, Long-Exposure Bench-Scale UV LED Experiments",
+        "year": "2026-11-20",
+        "publisher": "Research Square",
+        "author": "Rania Elsebai, Jessica L. Bennett, Sean A. MacIsaac, Rich M. Simons, Amina K. Stoddart, Graham A. Gagnon",
+        "url": "https://doi.org/10.21203/rs.3.rs-11623515/v1",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.21203/rs.3.rs-11623515/v1",
+        "created": "2026-09-05"
+      },
+      "W7237075957": {
+        "title": "Evaluating Passive Sampling as a Lower-Cost Alternative to Large-Volume Electropositive Filtration for Viral Monitoring in a Freshwater River",
+        "year": "2026-01-01",
+        "publisher": "Environmental Science Water Research & Technology",
+        "author": "Taylor Prest, Emalie K. Hayes, Madison Gouthro, Amina K. Stoddart, Graham Gagnon",
+        "url": "https://doi.org/10.1039/d6ew00628k",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1039/d6ew00628k",
+        "created": "2026-11-21"
+      }
+    }
+  },
+  "A5047911076": {
+    "Name": "Guillaume Bourque",
+    "total_new": "1",
+    "publications": {
+      "W7225647596": {
+        "title": "Integrated genotyping, annotation and epigenetic characterization of transposable elements with GraffiTE",
+        "year": "2026-11-09",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "Cl\u00e9ment Goubert, Rose Laflamme, Robert J. M. Eveleigh, Jiannis Ragoussis, Travis J. Wheeler, Guillaume Lettre, Guillaume Bourque, Cristian Groza",
+        "url": "https://doi.org/10.64898/2026.11.06.764993",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.06.764993",
+        "created": "2026-11-10"
+      }
+    }
+  },
+  "A5054521581": {
+    "Name": "R. Eric Collins",
+    "total_new": "9",
+    "publications": {
+      "W7237345655": {
+        "title": "GTDB R232 BBSketch database (k=32,24) with GTDB taxonomy tree",
+        "year": "2026-11-21",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "R. Eric Collins",
+        "url": "https://doi.org/10.5281/zenodo.24409942",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.5281/zenodo.24409942",
+        "created": "2026-11-22"
+      },
+      "W7225377459": {
+        "title": "Marine Group II Archaea: A Review with a Focus on the Arctic Ocean",
+        "year": "2026-11-06",
+        "publisher": "EcoEvoRxiv",
+        "author": "\u6e0b\u6c5f \u601c, R. Eric Collins",
+        "url": "https://doi.org/10.32942/x2zt43",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.32942/x2zt43",
+        "created": "2026-11-07"
+      },
+      "W7225232255": {
+        "title": "Factors affecting microbial community composition in Split Lake, MB, Canada",
+        "year": "2026-11-04",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "Thamali Vidanage, Tataskweyak Environmental Monitoring Agency, R. Eric Collins",
+        "url": "https://doi.org/10.64898/2026.11.02.763575",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.02.763575",
+        "created": "2026-11-05"
+      },
+      "W7225248476": {
+        "title": "Particle-Associated Prokaryotic Community Structures in the Bering and Chukchi Seas",
+        "year": "2026-11-04",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "\u6e0b\u6c5f \u601c, R. Eric Collins",
+        "url": "https://doi.org/10.64898/2026.11.02.763581",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.02.763581",
+        "created": "2026-11-05"
+      },
+      "W7225252930": {
+        "title": "EarthDNA reference database: SILVA 144 SSU globe and amplicon placement models",
+        "year": "2026-11-04",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "R. Eric Collins",
+        "url": "https://doi.org/10.5281/zenodo.23936866",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.5281/zenodo.23936866",
+        "created": "2026-11-05"
+      },
+      "W7225266164": {
+        "title": "rec3141/fastsne: v0.3.1",
+        "year": "2026-11-04",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "R. Eric Collins",
+        "url": "https://doi.org/10.5281/zenodo.23936969",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "software",
+        "doi": "10.5281/zenodo.23936969",
+        "created": "2026-11-05"
+      },
+      "W7225245464": {
+        "title": "Oil biodegradation and marine oil snow formation in Arctic seawater microcosms at 4 \u00b0C",
+        "year": "2026-11-03",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "Thamali Vidanage, Durell Desmond, Dustin Isleifson, Gary A. Stern, R. Eric Collins",
+        "url": "https://doi.org/10.64898/2026.11.02.763557",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.02.763557",
+        "created": "2026-11-05"
+      },
+      "W7225265478": {
+        "title": "Prokaryotic Community Structures in the Bering and Chukchi Seas",
+        "year": "2026-11-03",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "\u6e0b\u6c5f \u601c, R. Eric Collins",
+        "url": "https://doi.org/10.64898/2026.11.02.763580",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.02.763580",
+        "created": "2026-11-05"
+      },
+      "W7225275126": {
+        "title": "Marine oil snow formation in microcosm incubations of artificial seawater at 4 \u00b0C",
+        "year": "2026-11-03",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "Thamali Vidanage, R. Eric Collins",
+        "url": "https://doi.org/10.64898/2026.11.02.763553",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.02.763553",
+        "created": "2026-11-05"
+      }
+    }
+  },
+  "A5051428361": {
+    "Name": "Thea Van Rossum",
+    "total_new": "4",
+    "publications": {
+      "W7237347794": {
+        "title": "Identification of eukaryotes as a bycatch in global microbiome data. Table S3",
+        "year": "2026-11-23",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "Oleksandr M. Maistrenko, Chan Yeong Kim, Suguru Nishijima, Anthony Fullam, Pamela Ferretti, Christian Schudoma, Marisa Isabell Keller, Shahriyar Mahdi Robbani, Ece Kartal, Wasiu A. Akanni, Renato Alves, Thea Van Rossum, Supriya Khedkar, Daniel Podlesny, Yasushi Kojima, Takashi Hamabata, Naomi Uemura, Naoyoshi Nagata, Anja Spang, Anna Heintz\u2010Buschart, Thomas Schmidt, Michael Kuhn, Peer Bork",
+        "url": "https://doi.org/10.5281/zenodo.24104692",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.5281/zenodo.24104692",
+        "created": "2026-11-22"
+      },
+      "W7238870820": {
+        "title": "Identification of eukaryotes as a bycatch in global microbiome data",
+        "year": "2026-11-23",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "Oleksandr M. Maistrenko, Chan Yeong Kim, Suguru Nishijima, Anthony Fullam, Pamela Ferretti, Christian Schudoma, Marisa Isabell Keller, Shahriyar Mahdi Robbani, Ece Kartal, Wasiu A. Akanni, Renato Alves, Thea Van Rossum, Supriya Khedkar, Daniel Podlesny, Yasushi Kojima, Takashi Hamabata, Naomi Uemura, Naoyoshi Nagata, Anja Spang, Anna Heintz\u2010Buschart, Thomas Schmidt, Michael Kuhn, Peer Bork",
+        "url": "https://doi.org/10.64898/2026.11.21.765608",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.21.765608",
+        "created": "2026-11-24"
+      },
+      "W7225989474": {
+        "title": "grp-bork/meta_eukaryome_detect: metaEukaryome 1.0.0",
+        "year": "2026-11-13",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "Oleksandr M. Maistrenko, Chan Yeong Kim, Suguru Nishijima, Anthony Fullam, Pamela Ferretti, Christian Schudoma, Marisa Isabell Keller, Shahriyar Mahdi Robbani, Ece Kartal, Wasiu A. Akanni, Renato Alves, Thea Van Rossum, Supriya Khedkar, Daniel Podlesny, Yasushi Kojima, Takashi Hamabata, Naomi Uemura, Naoyoshi Nagata, Anja Spang, Anna Heintz\u2010Buschart, Thomas Schmidt, Michael Kuhn, Peer Bork",
+        "url": "https://doi.org/10.5281/zenodo.24199946",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "software",
+        "doi": "10.5281/zenodo.24199946",
+        "created": "2026-11-14"
+      },
+      "W7226040599": {
+        "title": "metaEukaryome database",
+        "year": "2026-11-13",
+        "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+        "author": "Oleksandr M. Maistrenko, Chan Yeong Kim, Suguru Nishijima, Anthony Fullam, Pamela Ferretti, Christian Schudoma, Marisa Isabell Keller, Shahriyar Mahdi Robbani, Ece Kartal, Wasiu A. Akanni, Renato Alves, Thea Van Rossum, Supriya Khedkar, Daniel Podlesny, Yasushi Kojima, Takashi Hamabata, Naomi Uemura, Naoyoshi Nagata, Anja Spang, Anna Heintz\u2010Buschart, Thomas Schmidt, Michael Kuhn, Peer Bork",
+        "url": "https://doi.org/10.5281/zenodo.24198235",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.5281/zenodo.24198235",
+        "created": "2026-11-14"
+      }
+    }
+  },
+  "A5050508415": {
+    "Name": "Graham Gagnon",
+    "total_new": "1",
+    "publications": {
+      "W7208795247": {
+        "title": "Revised Methodology for Fluence Determination and Sample Loss Correction in Near-Field, Long-Exposure Bench-Scale UV LED Experiments",
+        "year": "2026-11-20",
+        "publisher": "Research Square",
+        "author": "Rania Elsebai, Jessica L. Bennett, Sean A. MacIsaac, Rich M. Simons, Amina K. Stoddart, Graham A. Gagnon",
+        "url": "https://doi.org/10.21203/rs.3.rs-11623515/v1",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.21203/rs.3.rs-11623515/v1",
+        "created": "2026-09-05"
+      }
+    }
+  },
+  "A5044801271": {
+    "Name": "Robert Michael McKay",
+    "total_new": "1",
+    "publications": {
+      "W7225269528": {
+        "title": "Vanishing Winters and Shrinking Ice: Ecosystem Services and Societal Impacts in the Laurentian Great Lakes",
+        "year": "2026-11-01",
+        "publisher": "Earth s Future",
+        "author": "Marguerite A. Xenopoulos, Claire M. Stevens, Most Shirina Begum, Vedanti Ghatwala, Panditha V. S. L. Gunawardana, James D. Kelley, Carolina N. Koebel, Jessica Livingstone, Sherryann A. Prowell, Yue Zheng, John F. Bratton, Matthew Child, Ian Harding, Robert Michael L. McKay, Ted Ozersky, Samir Qadir, Sapna Sharma, Michael R. Twiss, Mathew Graeme Wells",
+        "url": "https://doi.org/10.1029/2026ef009213",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1029/2026ef009213",
+        "created": "2026-11-05"
+      }
+    }
+  },
+  "A5062115118": {
+    "Name": "Herman W. Barkema",
+    "total_new": "1",
+    "publications": {
+      "W7232350726": {
+        "title": "Knowledge, attitudes, and practices regarding food safety and zoonoses among female farmers in rural Punjab, Pakistan",
+        "year": "2026-11-14",
+        "publisher": "Preventive Veterinary Medicine",
+        "author": "Chanda Liaqat, Muhammad Hassan Mushtaq, Aamir Ghafoor, Waseem Shaukat, Fatima Mariam, Beatriz Mart\u00ednez\u2010L\u00f3pez, Herman Wildrik Barkema, Abdul Rehman",
+        "url": "https://doi.org/10.1016/j.prevetmed.2026.107079",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1016/j.prevetmed.2026.107079",
+        "created": "2026-11-15"
+      }
+    }
+  },
+  "A5078973829": {
+    "Name": "S\u00e9bastien P. Faucher",
+    "total_new": "1",
+    "publications": {
+      "W7238803597": {
+        "title": "Integrating citizen observations and microbial sequencing to characterize seasonal cyanobacterial dynamics in a shallow temperate lake.",
+        "year": "2026-11-23",
+        "publisher": "Canadian Journal of Microbiology",
+        "author": "Zineb Bazza, Elliston Vallarino Reyes, S\u00e9bastien P. Faucher",
+        "url": "https://doi.org/10.1139/cjm-2026-0095",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1139/cjm-2026-0095",
+        "created": "2026-11-24"
+      }
+    }
+  },
+  "A5034701753": {
+    "Name": "Doug Manuel",
+    "total_new": "1",
+    "publications": {
+      "W7238739022": {
+        "title": "Daily cannabis, alcohol, and cigarette use in the Canadian provinces: results from the 2023 to 2024 Canadian Community Health Survey",
+        "year": "2026-11-22",
+        "publisher": "Canadian Medical Association Journal",
+        "author": "Andr\u00e9 J. McDonald, Marco Solmi, Ian Colman, Rachael MacDonald\u2010Spracklin, Marc Carrier, Douglas G. Manuel, Jillian E. Halladay, James M. MacKillop, Daniel Thomas Myran",
+        "url": "https://doi.org/10.1503/cmaj.260962",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1503/cmaj.260962",
+        "created": "2026-11-24"
+      }
+    }
+  },
+  "A5044600248": {
+    "Name": "Jiannis Ragoussis",
+    "total_new": "1",
+    "publications": {
+      "W7225647596": {
+        "title": "Integrated genotyping, annotation and epigenetic characterization of transposable elements with GraffiTE",
+        "year": "2026-11-09",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "Cl\u00e9ment Goubert, Rose Laflamme, Robert J. M. Eveleigh, Jiannis Ragoussis, Travis J. Wheeler, Guillaume Lettre, Guillaume Bourque, Cristian Groza",
+        "url": "https://doi.org/10.64898/2026.11.06.764993",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.06.764993",
+        "created": "2026-11-10"
+      }
+    }
+  },
+  "A5066530115": {
+    "Name": "Robert E. W. Hancock",
+    "total_new": "1",
+    "publications": {
+      "W7225695205": {
+        "title": "Codelivery of Methicillin and a TLR-9 Agonist Promotes Bacterial Clearance and Establishes Reinfection Protection in a Model of Methicillin-Resistant Staphylococcus aureus Renal Infection",
+        "year": "2026-11-10",
+        "publisher": "ACS Infectious Diseases",
+        "author": "Noah Y Brittain, Vanessa Chan, Tien Do, Lucas J. Andrew, Alaleh Yourdkhani, Robert E. W. Hancock, Shyh\u2010Dar Li, Joel A. Finbloom",
+        "url": "https://doi.org/10.1021/acsinfecdis.6c01001",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1021/acsinfecdis.6c01001",
+        "created": "2026-11-11"
+      }
+    }
+  },
+  "A5015660108": {
+    "Name": "Catherine Carrillo",
+    "total_new": "1",
+    "publications": {
+      "W7225799759": {
+        "title": "Complete genome sequences of nine novel Enterococcus species recovered from dairy, swine, and imported foods in Canada",
+        "year": "2026-11-11",
+        "publisher": "Microbiology Resource Announcements",
+        "author": "Shawn J. Hoogstra, Chloe Anastasiadis, Bridgette Kelly, Ashley L. Cooper, Mathu Malar C, Yilin Dong, Jillaine Kuelker, Karoline Lauzon, Alexandra Langlois, Dominic Poulin\u2010Laprade, Dongyun Jung, Joseph Elliot Rubin, Catherine D. Carrillo, Rhiannon L. Wallace",
+        "url": "https://doi.org/10.1128/mra.01097-26",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1128/mra.01097-26",
+        "created": "2026-11-12"
+      }
+    }
+  },
+  "A5078008559": {
+    "Name": "Trevor Charles",
+    "total_new": "1",
+    "publications": {
+      "W7225918029": {
+        "title": "Advancing wastewater surveillance through cross-border collaboration: A workshop summary",
+        "year": "2026-11-12",
+        "publisher": "Canada Communicable Disease Report",
+        "author": "Integrated Network for the Surveillance of Pathogens (INSPIRE), Jackie Fong, Paul Kilgore, Mehdi Aloosh, Matthew Seeger, Trevor C. Charles, Lawrence D. Goodridge, Marc Habash, Amanda Bidwell, Natalie Knox, Abigail Paulos, R Michael McKay",
+        "url": "https://doi.org/10.14745/ccdr.v52i11a06",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.14745/ccdr.v52i11a06",
+        "created": "2026-11-13"
+      }
+    }
+  },
+  "A5020213915": {
+    "Name": "Hugo Asselin",
+    "total_new": "1",
+    "publications": {
+      "W7236313496": {
+        "title": "Participatory mapping to identify offsetting and banking measures to compensate for alterations to fish habitats due to industrial activities in Eeyou Istchee",
+        "year": "2026-01-01",
+        "publisher": "Canadian Journal of Fisheries and Aquatic Sciences",
+        "author": "Adriana R. Aguilar\u2010Melo, Kathleen Church, Anna Krupa, Graeme Morin, Thomas Stevens, Katrine Turgeon, Hugo Asselin",
+        "url": "https://doi.org/10.1139/cjfas-2026-0027",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1139/cjfas-2026-0027",
+        "created": "2026-11-19"
+      }
+    }
+  },
+  "A5002629392": {
+    "Name": "Jeffrey R Brook",
+    "total_new": "1",
+    "publications": {
+      "W7225891850": {
+        "title": "Understanding the exposome across the life course to promote healthy aging: consensus recommendations from the Gateway Exposome Coordinating Center",
+        "year": "2026-11-12",
+        "publisher": "Nature Aging",
+        "author": "Jinkook Lee, Emma Nichols, Sara Dubowsky Adar, David Knapp, Samer Atshan, Mauricio Avenda\u00f1o, Ava Bindas, Michael D Brauer, Jeffrey Robert Brook, Howard H. Chang, Yao\u2010Yi Chiang, HwaJung Choi, Dany Doiron, Sarah Flood, Maya M. Fransz-Myers, Alden L. Gross, Eleanor Hayes\u2010Larson, Birgit Claus Henn, Margaret Hicken, Kayleigh P. Keller, Katrina Kezios, Cl\u00e9mence Kieny, Kevin Lane, Thomas J. Luben, Erik Meijer, Shrikanth Shri Narayanan, Regina A. Shih, Adam A. Szpiro, Lorna E. Thorpe, David C. Van Riper, Bas Weerman, Jordan Weiss, Gregory A. Wellenius, Jennifer Weuve",
+        "url": "https://doi.org/10.1038/s43587-026-01212-0",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1038/s43587-026-01212-0",
+        "created": "2026-11-13"
+      }
+    }
+  },
+  "A5079514639": {
+    "Name": "Sarah Otto",
+    "total_new": "2",
+    "publications": {
+      "W7226158541": {
+        "title": "Appendix from Sexually antagonistic selection: a review of the theory and its implications",
+        "year": "2026-11-14",
+        "publisher": "Figshare",
+        "author": "Ewan Flintham, Thomas Lesaffre, Sarah Perin Otto, Charles Mullon",
+        "url": "https://doi.org/10.6084/m9.figshare.35010678",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.6084/m9.figshare.35010678",
+        "created": "2026-11-15"
+      },
+      "W7229797795": {
+        "title": "Slim Code from Sexually antagonistic selection: a review of the theory and its implications",
+        "year": "2026-11-14",
+        "publisher": "Figshare",
+        "author": "Ewan Flintham, Thomas Lesaffre, Sarah Perin Otto, Charles Mullon",
+        "url": "https://doi.org/10.6084/m9.figshare.35010675",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "dataset",
+        "doi": "10.6084/m9.figshare.35010675",
+        "created": "2026-11-15"
+      }
+    }
+  },
+  "A5048473115": {
+    "Name": "Elizabeth M. Renouf",
+    "total_new": "1",
+    "publications": {
+      "W7225425038": {
+        "title": "Bayesian Spatio-temporal Modeling of Multi-Site Wastewater Surveillance Data",
+        "year": "2026-11-05",
+        "publisher": "arXiv",
+        "author": "K. Ken Peng, Chengqian Xian, Charmaine B. Dean, Robert Delatolla, X. Joan Hu, Elizabeth M. Renouf",
+        "url": "https://doi.org/10.48550/arxiv.2611.07602",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.48550/arxiv.2611.07602",
+        "created": "2026-11-07"
+      }
+    }
+  }
+}
