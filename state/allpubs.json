@@ -2317,7 +2317,7 @@
   },
   "A5047911076": {
     "Name": "Guillaume Bourque",
-    "total_publications": "19",
+    "total_publications": "20",
     "publications": {
       "W4415023122": {
         "title": "Long-read sequencing reveals telomere inheritance patterns from human trios",
@@ -2546,6 +2546,18 @@
         "type": "preprint",
         "doi": "10.64898/2026.11.06.764993",
         "created": "2026-11-10"
+      },
+      "W7133601638": {
+        "title": "Distinct mechanisms of CNV formation at the human 15q13.3 locus",
+        "year": "2026-11-24",
+        "publisher": "Nature Communications",
+        "author": "Wolfram H\u00f6ps, David Porubsk\u1ef3, DongAhn Yoo, Michelle de Groot, Amber den Ouden, Ronny C. Derks, Kendra Hoekzema, Kornelia Neveling, Alexander Hoischen, Helger G. Yntema, Derek Albracht, Ivan A. Alexandrov, Jamie Allen, Alawi A.A. Alsheikh-Ali, Nicolas Altemose, Casey Andrews, Dmitry Antipov, Lucinda Antonacci-Fulton, Mobin Asri, Marcelo Ayllon, Jennifer R. Balacco, Floris P Barthel, Edward A. Belter, Halle D. Bender, Andrew P. Blair, Davide Bolognini, Katherine E. Bonini, Christina Boucher, Guillaume Bourque, Silvia Buonaiuto, Shuo Cao, Andrew Carroll, Ann M. Mc Cartney, Monika \u010cechov\u00e1, Mark Chaisson, Pi-Chuan Chang, Xian Chang, Jitender Cheema, Haoyu Cheng, Cla\u00fadio Ciofi, Hiram Clawson, Sarah Cody, Vincenza Colonna, Holland C. Conwell, Robert Cook-Deegan, Mark Diekhans, Maria Angela Diroma, Daniel Doerr, Zheng Dong, Danilo Dubocanin, Richard Durbin, Jana Ebler, Jordan M. Eizenga, Parsa Eskandar, Eddie Ferro, Anna-Sophie Fiston-Lavier, Sarah M. Ford, Willard W. Ford, Giulio Formenti, Adam Frankish, Mallory A. Freeberg, Qichen Fu, Stephanie M. Fullerton, Robert S. Fulton, Yan Gao, Gage H. Garcia, Obed A. Garcia, Joshua M. V. Gardner, Shilpa Garg, Erik Garrison, Nanibaa\u2019 A. Garrison, John E. Garza, Margarita Geleta, Mohammadmersad Ghorbani, Tina A. Graves-Lindsay, Richard E. Green, Cristian Groza, Bida Gu, Andrea Guarracino, Melissa Gymrek, Maximilian Haeussler, Leanne Haggerty, Ira M. Hall, Nancy Fisher Hansen, Yue Hao, Mohammad Amiruddin Hashmi, David Haussler, Prajna Hebbar, Peter Heringer, Glenn Hickey, Todd L. Hillaker, S. Nakib Hossain, Neng Huang, Sarah E. Hunt, Toby Hunt, Alexander G Ioannidis, Nafiseh Jafarzadeh, Nivesh Jain, Erich D. Jarvis, Maryam Jehangir",
+        "url": "https://doi.org/10.1038/s41467-026-79333-8",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1038/s41467-026-79333-8",
+        "created": "2026-03-06"
       }
     }
   },
@@ -5376,7 +5388,7 @@
   },
   "A5044600248": {
     "Name": "Jiannis Ragoussis",
-    "total_publications": "18",
+    "total_publications": "19",
     "publications": {
       "W7214607018": {
         "title": "Immunophenotyping of CD8+ T Cells in Classical Hodgkin Lymphoma Reveals a Shift toward Intermediate Exhaustion Following PD-1 Blockade",
@@ -5593,6 +5605,18 @@
         "type": "preprint",
         "doi": "10.64898/2026.11.06.764993",
         "created": "2026-11-10"
+      },
+      "W7239444061": {
+        "title": "SingloCell: an open and accessible web platform for multimodal single-cell data exploration",
+        "year": "2026-11-24",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "Alexis Allot, Hayden Wu, Elia Afanasiev, Moein Yaqubi, Sherilyn Junelle Recinto, Cameron Oram, Souren Farimani, Yue Zhang, Finn Creeggan, Josh Gertsvolf, Jiannis Ragoussis, Corina Nagy, Jun Ding, Sali M.K. Farhan, Jean\u2010Fran\u00e7ois Poulin, Jo Anne Stratton",
+        "url": "https://doi.org/10.64898/2026.11.23.767908",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.23.767908",
+        "created": "2026-11-25"
       }
     }
   },
