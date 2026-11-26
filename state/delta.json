@@ -1,37 +1,145 @@
 {
+  "A5050197558": {
+    "Name": "Fiona Brinkman",
+    "total_new": "1",
+    "publications": {
+      "W7239743273": {
+        "title": "Understanding paediatric vaccine hesitancy through child, parent and family perspectives: Evidence from the CHILD cohort study and COVID-19 pandemic",
+        "year": "2026-11-25",
+        "publisher": "Paediatrics & Child Health",
+        "author": "Maria Medeleanu, Erin E. Gill, Geoffrey L. Winsor, Larisa C. Lotoski, David M. Patrick, Robin M. Humble, Elinor Simons, Piush J. Mandhane, Stuart E. Turvey, Theo J. Moraes, Padmaja Subbarao, Fiona S. L. Brinkman, Meghan B. Azad",
+        "url": "https://doi.org/10.1093/pch/pxag119.069",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1093/pch/pxag119.069",
+        "created": "2026-11-26"
+      }
+    }
+  },
+  "A5088561520": {
+    "Name": "Erin E. Gill",
+    "total_new": "1",
+    "publications": {
+      "W7239743273": {
+        "title": "Understanding paediatric vaccine hesitancy through child, parent and family perspectives: Evidence from the CHILD cohort study and COVID-19 pandemic",
+        "year": "2026-11-25",
+        "publisher": "Paediatrics & Child Health",
+        "author": "Maria Medeleanu, Erin E. Gill, Geoffrey L. Winsor, Larisa C. Lotoski, David M. Patrick, Robin M. Humble, Elinor Simons, Piush J. Mandhane, Stuart E. Turvey, Theo J. Moraes, Padmaja Subbarao, Fiona S. L. Brinkman, Meghan B. Azad",
+        "url": "https://doi.org/10.1093/pch/pxag119.069",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1093/pch/pxag119.069",
+        "created": "2026-11-26"
+      }
+    }
+  },
+  "A5063583896": {
+    "Name": "Michael Parkins",
+    "total_new": "1",
+    "publications": {
+      "W7239784425": {
+        "title": "Antibiotic potentiators from microbiota that permeate the Pseudomonas aeruginosa cell envelope",
+        "year": "2026-11-25",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "Rahgavi Poopalarajah, Andrew Joseph Flewelling, Shirin Afroj, Noah Bryce Toppings, Ben Rowley, Kevin Charles Sule, Nathan Kirk McCartney, Andrew Geppert, Vanessa Eve Adams, Yanqi Li, Carina Thomas, Shannon Pyke, Emma Jane Griffiths, Nithu Sara John, Charlotte Barclay, Rhiannon Cameron, Damion Dooley, Barbara Jean M. Waddell, Craig Brideau, Zajeba Tabashsum, Jaime Debra Liu, Michelle Angeles-Solano, Michael D. Parkins, John Maynard Conly, Ayush Kumar, Pina Colarusso, Elmar J. Prenner, William Hsiao, Kathy D. McCoy, Douglas J. Mahoney, Sarah E. Rowe, Darren Jason Derksen, Joe Jonathan Harrison",
+        "url": "https://doi.org/10.64898/2026.11.23.768654",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.23.768654",
+        "created": "2026-11-26"
+      }
+    }
+  },
+  "A5028360618": {
+    "Name": "Ayush Kumar",
+    "total_new": "1",
+    "publications": {
+      "W7239784425": {
+        "title": "Antibiotic potentiators from microbiota that permeate the Pseudomonas aeruginosa cell envelope",
+        "year": "2026-11-25",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "Rahgavi Poopalarajah, Andrew Joseph Flewelling, Shirin Afroj, Noah Bryce Toppings, Ben Rowley, Kevin Charles Sule, Nathan Kirk McCartney, Andrew Geppert, Vanessa Eve Adams, Yanqi Li, Carina Thomas, Shannon Pyke, Emma Jane Griffiths, Nithu Sara John, Charlotte Barclay, Rhiannon Cameron, Damion Dooley, Barbara Jean M. Waddell, Craig Brideau, Zajeba Tabashsum, Jaime Debra Liu, Michelle Angeles-Solano, Michael D. Parkins, John Maynard Conly, Ayush Kumar, Pina Colarusso, Elmar J. Prenner, William Hsiao, Kathy D. McCoy, Douglas J. Mahoney, Sarah E. Rowe, Darren Jason Derksen, Joe Jonathan Harrison",
+        "url": "https://doi.org/10.64898/2026.11.23.768654",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.23.768654",
+        "created": "2026-11-26"
+      }
+    }
+  },
   "A5047911076": {
     "Name": "Guillaume Bourque",
     "total_new": "1",
     "publications": {
-      "W7133601638": {
-        "title": "Distinct mechanisms of CNV formation at the human 15q13.3 locus",
-        "year": "2026-11-24",
-        "publisher": "Nature Communications",
-        "author": "Wolfram H\u00f6ps, David Porubsk\u1ef3, DongAhn Yoo, Michelle de Groot, Amber den Ouden, Ronny C. Derks, Kendra Hoekzema, Kornelia Neveling, Alexander Hoischen, Helger G. Yntema, Derek Albracht, Ivan A. Alexandrov, Jamie Allen, Alawi A.A. Alsheikh-Ali, Nicolas Altemose, Casey Andrews, Dmitry Antipov, Lucinda Antonacci-Fulton, Mobin Asri, Marcelo Ayllon, Jennifer R. Balacco, Floris P Barthel, Edward A. Belter, Halle D. Bender, Andrew P. Blair, Davide Bolognini, Katherine E. Bonini, Christina Boucher, Guillaume Bourque, Silvia Buonaiuto, Shuo Cao, Andrew Carroll, Ann M. Mc Cartney, Monika \u010cechov\u00e1, Mark Chaisson, Pi-Chuan Chang, Xian Chang, Jitender Cheema, Haoyu Cheng, Cla\u00fadio Ciofi, Hiram Clawson, Sarah Cody, Vincenza Colonna, Holland C. Conwell, Robert Cook-Deegan, Mark Diekhans, Maria Angela Diroma, Daniel Doerr, Zheng Dong, Danilo Dubocanin, Richard Durbin, Jana Ebler, Jordan M. Eizenga, Parsa Eskandar, Eddie Ferro, Anna-Sophie Fiston-Lavier, Sarah M. Ford, Willard W. Ford, Giulio Formenti, Adam Frankish, Mallory A. Freeberg, Qichen Fu, Stephanie M. Fullerton, Robert S. Fulton, Yan Gao, Gage H. Garcia, Obed A. Garcia, Joshua M. V. Gardner, Shilpa Garg, Erik Garrison, Nanibaa\u2019 A. Garrison, John E. Garza, Margarita Geleta, Mohammadmersad Ghorbani, Tina A. Graves-Lindsay, Richard E. Green, Cristian Groza, Bida Gu, Andrea Guarracino, Melissa Gymrek, Maximilian Haeussler, Leanne Haggerty, Ira M. Hall, Nancy Fisher Hansen, Yue Hao, Mohammad Amiruddin Hashmi, David Haussler, Prajna Hebbar, Peter Heringer, Glenn Hickey, Todd L. Hillaker, S. Nakib Hossain, Neng Huang, Sarah E. Hunt, Toby Hunt, Alexander G Ioannidis, Nafiseh Jafarzadeh, Nivesh Jain, Erich D. Jarvis, Maryam Jehangir",
-        "url": "https://doi.org/10.1038/s41467-026-79333-8",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "article",
-        "doi": "10.1038/s41467-026-79333-8",
-        "created": "2026-03-06"
-      }
-    }
-  },
-  "A5044600248": {
-    "Name": "Jiannis Ragoussis",
-    "total_new": "1",
-    "publications": {
-      "W7239444061": {
-        "title": "SingloCell: an open and accessible web platform for multimodal single-cell data exploration",
-        "year": "2026-11-24",
+      "W7239851462": {
+        "title": "A pangenomic approach identifies new structural variants associated with gene expression in the CARTaGENE cohort",
+        "year": "2026-11-25",
         "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
-        "author": "Alexis Allot, Hayden Wu, Elia Afanasiev, Moein Yaqubi, Sherilyn Junelle Recinto, Cameron Oram, Souren Farimani, Yue Zhang, Finn Creeggan, Josh Gertsvolf, Jiannis Ragoussis, Corina Nagy, Jun Ding, Sali M.K. Farhan, Jean\u2010Fran\u00e7ois Poulin, Jo Anne Stratton",
-        "url": "https://doi.org/10.64898/2026.11.23.767908",
+        "author": "Rose Laflamme, Cristian Groza, Guillaume Bourque, Guillaume Lettre",
+        "url": "https://doi.org/10.64898/2026.11.24.768960",
         "firstOrLast": false,
         "datasource": "OpenAlex",
         "type": "preprint",
-        "doi": "10.64898/2026.11.23.767908",
-        "created": "2026-11-25"
+        "doi": "10.64898/2026.11.24.768960",
+        "created": "2026-11-26"
+      }
+    }
+  },
+  "A5019488638": {
+    "Name": "William Hsiao",
+    "total_new": "1",
+    "publications": {
+      "W7239784425": {
+        "title": "Antibiotic potentiators from microbiota that permeate the Pseudomonas aeruginosa cell envelope",
+        "year": "2026-11-25",
+        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "author": "Rahgavi Poopalarajah, Andrew Joseph Flewelling, Shirin Afroj, Noah Bryce Toppings, Ben Rowley, Kevin Charles Sule, Nathan Kirk McCartney, Andrew Geppert, Vanessa Eve Adams, Yanqi Li, Carina Thomas, Shannon Pyke, Emma Jane Griffiths, Nithu Sara John, Charlotte Barclay, Rhiannon Cameron, Damion Dooley, Barbara Jean M. Waddell, Craig Brideau, Zajeba Tabashsum, Jaime Debra Liu, Michelle Angeles-Solano, Michael D. Parkins, John Maynard Conly, Ayush Kumar, Pina Colarusso, Elmar J. Prenner, William Hsiao, Kathy D. McCoy, Douglas J. Mahoney, Sarah E. Rowe, Darren Jason Derksen, Joe Jonathan Harrison",
+        "url": "https://doi.org/10.64898/2026.11.23.768654",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "preprint",
+        "doi": "10.64898/2026.11.23.768654",
+        "created": "2026-11-26"
+      }
+    }
+  },
+  "A5008793716": {
+    "Name": "Gary Van Domselaar",
+    "total_new": "1",
+    "publications": {
+      "W7223672801": {
+        "title": "Gut microbiome and physical activity in paediatric-onset multiple sclerosis",
+        "year": "2026-10-26",
+        "publisher": "Multiple Sclerosis and Related Disorders",
+        "author": "Sheida M. Stephens, T. Da Silva, Feng Zhu, Douglas Lorne Arnold, Brenda Banwell, A Bar-Or, C N Bernstein, Christine Bonner, M Graham, Natalie Knox, Julia O\u2019Mahony, RA Marrie, AI Mirza, Gary Van Domselaar, E Waubant, Y Zhao, H Tremlett, EA Yeh",
+        "url": "https://doi.org/10.1016/j.msard.2026.108023",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1016/j.msard.2026.108023",
+        "created": "2026-10-27"
+      }
+    }
+  },
+  "A5002629392": {
+    "Name": "Jeffrey R Brook",
+    "total_new": "1",
+    "publications": {
+      "W7239861392": {
+        "title": "The joint effect of long-term exposure to PM2.5and gaseous pollutants on cause-specific mortality: A longitudinal cohort study",
+        "year": "2026-10-01",
+        "publisher": "Environmental Epidemiology",
+        "author": "Wei Yi Chen, Shailesh Kumar Kharol, Jeffrey Robert Brook, Xiang Qian Lao",
+        "url": "https://doi.org/10.1097/01.ee9.0001296264.38605.de",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1097/01.ee9.0001296264.38605.de",
+        "created": "2026-11-26"
       }
     }
   }
