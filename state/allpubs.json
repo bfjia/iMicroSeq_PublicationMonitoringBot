@@ -5040,7 +5040,7 @@
   },
   "A5144325192": {
     "Name": "Rita Isabel Henderson",
-    "total_publications": "3",
+    "total_publications": "4",
     "publications": {
       "W7221768829": {
         "title": "Understanding Indigenous Diabetes Self-Management Decision-Making Through a Macrocognitive Lens",
@@ -5077,6 +5077,18 @@
         "type": "preprint",
         "doi": "10.17605/osf.io/c4svx",
         "created": "2026-04-03"
+      },
+      "W7240105902": {
+        "title": "Advancing Health Equity through Indigenous-Governed Primary Healthcare Infrastructure",
+        "year": "2026-09-30",
+        "publisher": "A Nudge Too Far? A Nudge at All? On Paying People to Be Healthy",
+        "author": "Stephanie Rose Montesanti, LYNDEN (LINDSAY) CROWSHOE, Rita Henderson",
+        "url": "https://doi.org/10.12927/hcpap.2026.27988",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.12927/hcpap.2026.27988",
+        "created": "2026-11-27"
       }
     }
   },
@@ -6054,7 +6066,7 @@
   },
   "A5011981202": {
     "Name": "Marc-Andr\u00e9 Langlois",
-    "total_publications": "10",
+    "total_publications": "11",
     "publications": {
       "W7140357130": {
         "title": "The human gut microbiome primes fever after vaccination",
@@ -6175,6 +6187,18 @@
         "type": "review",
         "doi": "10.1016/j.ebiom.2026.106204",
         "created": "2026-03-12"
+      },
+      "W7240043630": {
+        "title": "SARS-CoV-2 humoral immunity among people living with HIV in Ontario, Canada: a cross-sectional sub-study of the Ontario HIV Treatment Network Cohort Study",
+        "year": "2026-11-26",
+        "publisher": "Vaccine",
+        "author": "Cassandra Freitas, Marc\u2010Andr\u00e9 Langlois, Curtis L. Cooper, Abigail E. Kroch, Sarah A. Buchan, Rahim Moineddin, Nisha Andany, Gordon Arbess, Corey Arnold, Anita C. Benoit, Catharine Chambers, Phillippe El-Helou, Muluba Habanyama, Claire Kendall, David Knox, Jeffrey C. Kwong, Mona Rafik Loutfy, Ashley Mah, Lawrence Mbuagbaw, John McCullagh, Nasheed Moqueet, Devan Nambiar, Sergio Rueda, Michael Silverman, Vanessa Tran, Sharon Lynn Walmsley, Anna Yeung, Ann N. Burchell",
+        "url": "https://doi.org/10.1016/j.vaccine.2026.129361",
+        "firstOrLast": false,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.1016/j.vaccine.2026.129361",
+        "created": "2026-11-27"
       }
     }
   },

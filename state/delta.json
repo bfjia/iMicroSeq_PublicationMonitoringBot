@@ -1,145 +1,37 @@
 {
-  "A5050197558": {
-    "Name": "Fiona Brinkman",
+  "A5144325192": {
+    "Name": "Rita Isabel Henderson",
     "total_new": "1",
     "publications": {
-      "W7239743273": {
-        "title": "Understanding paediatric vaccine hesitancy through child, parent and family perspectives: Evidence from the CHILD cohort study and COVID-19 pandemic",
-        "year": "2026-11-25",
-        "publisher": "Paediatrics & Child Health",
-        "author": "Maria Medeleanu, Erin E. Gill, Geoffrey L. Winsor, Larisa C. Lotoski, David M. Patrick, Robin M. Humble, Elinor Simons, Piush J. Mandhane, Stuart E. Turvey, Theo J. Moraes, Padmaja Subbarao, Fiona S. L. Brinkman, Meghan B. Azad",
-        "url": "https://doi.org/10.1093/pch/pxag119.069",
+      "W7240105902": {
+        "title": "Advancing Health Equity through Indigenous-Governed Primary Healthcare Infrastructure",
+        "year": "2026-09-30",
+        "publisher": "A Nudge Too Far? A Nudge at All? On Paying People to Be Healthy",
+        "author": "Stephanie Rose Montesanti, LYNDEN (LINDSAY) CROWSHOE, Rita Henderson",
+        "url": "https://doi.org/10.12927/hcpap.2026.27988",
+        "firstOrLast": true,
+        "datasource": "OpenAlex",
+        "type": "article",
+        "doi": "10.12927/hcpap.2026.27988",
+        "created": "2026-11-27"
+      }
+    }
+  },
+  "A5011981202": {
+    "Name": "Marc-Andr\u00e9 Langlois",
+    "total_new": "1",
+    "publications": {
+      "W7240043630": {
+        "title": "SARS-CoV-2 humoral immunity among people living with HIV in Ontario, Canada: a cross-sectional sub-study of the Ontario HIV Treatment Network Cohort Study",
+        "year": "2026-11-26",
+        "publisher": "Vaccine",
+        "author": "Cassandra Freitas, Marc\u2010Andr\u00e9 Langlois, Curtis L. Cooper, Abigail E. Kroch, Sarah A. Buchan, Rahim Moineddin, Nisha Andany, Gordon Arbess, Corey Arnold, Anita C. Benoit, Catharine Chambers, Phillippe El-Helou, Muluba Habanyama, Claire Kendall, David Knox, Jeffrey C. Kwong, Mona Rafik Loutfy, Ashley Mah, Lawrence Mbuagbaw, John McCullagh, Nasheed Moqueet, Devan Nambiar, Sergio Rueda, Michael Silverman, Vanessa Tran, Sharon Lynn Walmsley, Anna Yeung, Ann N. Burchell",
+        "url": "https://doi.org/10.1016/j.vaccine.2026.129361",
         "firstOrLast": false,
         "datasource": "OpenAlex",
         "type": "article",
-        "doi": "10.1093/pch/pxag119.069",
-        "created": "2026-11-26"
-      }
-    }
-  },
-  "A5088561520": {
-    "Name": "Erin E. Gill",
-    "total_new": "1",
-    "publications": {
-      "W7239743273": {
-        "title": "Understanding paediatric vaccine hesitancy through child, parent and family perspectives: Evidence from the CHILD cohort study and COVID-19 pandemic",
-        "year": "2026-11-25",
-        "publisher": "Paediatrics & Child Health",
-        "author": "Maria Medeleanu, Erin E. Gill, Geoffrey L. Winsor, Larisa C. Lotoski, David M. Patrick, Robin M. Humble, Elinor Simons, Piush J. Mandhane, Stuart E. Turvey, Theo J. Moraes, Padmaja Subbarao, Fiona S. L. Brinkman, Meghan B. Azad",
-        "url": "https://doi.org/10.1093/pch/pxag119.069",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "article",
-        "doi": "10.1093/pch/pxag119.069",
-        "created": "2026-11-26"
-      }
-    }
-  },
-  "A5063583896": {
-    "Name": "Michael Parkins",
-    "total_new": "1",
-    "publications": {
-      "W7239784425": {
-        "title": "Antibiotic potentiators from microbiota that permeate the Pseudomonas aeruginosa cell envelope",
-        "year": "2026-11-25",
-        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
-        "author": "Rahgavi Poopalarajah, Andrew Joseph Flewelling, Shirin Afroj, Noah Bryce Toppings, Ben Rowley, Kevin Charles Sule, Nathan Kirk McCartney, Andrew Geppert, Vanessa Eve Adams, Yanqi Li, Carina Thomas, Shannon Pyke, Emma Jane Griffiths, Nithu Sara John, Charlotte Barclay, Rhiannon Cameron, Damion Dooley, Barbara Jean M. Waddell, Craig Brideau, Zajeba Tabashsum, Jaime Debra Liu, Michelle Angeles-Solano, Michael D. Parkins, John Maynard Conly, Ayush Kumar, Pina Colarusso, Elmar J. Prenner, William Hsiao, Kathy D. McCoy, Douglas J. Mahoney, Sarah E. Rowe, Darren Jason Derksen, Joe Jonathan Harrison",
-        "url": "https://doi.org/10.64898/2026.11.23.768654",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "preprint",
-        "doi": "10.64898/2026.11.23.768654",
-        "created": "2026-11-26"
-      }
-    }
-  },
-  "A5028360618": {
-    "Name": "Ayush Kumar",
-    "total_new": "1",
-    "publications": {
-      "W7239784425": {
-        "title": "Antibiotic potentiators from microbiota that permeate the Pseudomonas aeruginosa cell envelope",
-        "year": "2026-11-25",
-        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
-        "author": "Rahgavi Poopalarajah, Andrew Joseph Flewelling, Shirin Afroj, Noah Bryce Toppings, Ben Rowley, Kevin Charles Sule, Nathan Kirk McCartney, Andrew Geppert, Vanessa Eve Adams, Yanqi Li, Carina Thomas, Shannon Pyke, Emma Jane Griffiths, Nithu Sara John, Charlotte Barclay, Rhiannon Cameron, Damion Dooley, Barbara Jean M. Waddell, Craig Brideau, Zajeba Tabashsum, Jaime Debra Liu, Michelle Angeles-Solano, Michael D. Parkins, John Maynard Conly, Ayush Kumar, Pina Colarusso, Elmar J. Prenner, William Hsiao, Kathy D. McCoy, Douglas J. Mahoney, Sarah E. Rowe, Darren Jason Derksen, Joe Jonathan Harrison",
-        "url": "https://doi.org/10.64898/2026.11.23.768654",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "preprint",
-        "doi": "10.64898/2026.11.23.768654",
-        "created": "2026-11-26"
-      }
-    }
-  },
-  "A5047911076": {
-    "Name": "Guillaume Bourque",
-    "total_new": "1",
-    "publications": {
-      "W7239851462": {
-        "title": "A pangenomic approach identifies new structural variants associated with gene expression in the CARTaGENE cohort",
-        "year": "2026-11-25",
-        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
-        "author": "Rose Laflamme, Cristian Groza, Guillaume Bourque, Guillaume Lettre",
-        "url": "https://doi.org/10.64898/2026.11.24.768960",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "preprint",
-        "doi": "10.64898/2026.11.24.768960",
-        "created": "2026-11-26"
-      }
-    }
-  },
-  "A5019488638": {
-    "Name": "William Hsiao",
-    "total_new": "1",
-    "publications": {
-      "W7239784425": {
-        "title": "Antibiotic potentiators from microbiota that permeate the Pseudomonas aeruginosa cell envelope",
-        "year": "2026-11-25",
-        "publisher": "bioRxiv (Cold Spring Harbor Laboratory)",
-        "author": "Rahgavi Poopalarajah, Andrew Joseph Flewelling, Shirin Afroj, Noah Bryce Toppings, Ben Rowley, Kevin Charles Sule, Nathan Kirk McCartney, Andrew Geppert, Vanessa Eve Adams, Yanqi Li, Carina Thomas, Shannon Pyke, Emma Jane Griffiths, Nithu Sara John, Charlotte Barclay, Rhiannon Cameron, Damion Dooley, Barbara Jean M. Waddell, Craig Brideau, Zajeba Tabashsum, Jaime Debra Liu, Michelle Angeles-Solano, Michael D. Parkins, John Maynard Conly, Ayush Kumar, Pina Colarusso, Elmar J. Prenner, William Hsiao, Kathy D. McCoy, Douglas J. Mahoney, Sarah E. Rowe, Darren Jason Derksen, Joe Jonathan Harrison",
-        "url": "https://doi.org/10.64898/2026.11.23.768654",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "preprint",
-        "doi": "10.64898/2026.11.23.768654",
-        "created": "2026-11-26"
-      }
-    }
-  },
-  "A5008793716": {
-    "Name": "Gary Van Domselaar",
-    "total_new": "1",
-    "publications": {
-      "W7223672801": {
-        "title": "Gut microbiome and physical activity in paediatric-onset multiple sclerosis",
-        "year": "2026-10-26",
-        "publisher": "Multiple Sclerosis and Related Disorders",
-        "author": "Sheida M. Stephens, T. Da Silva, Feng Zhu, Douglas Lorne Arnold, Brenda Banwell, A Bar-Or, C N Bernstein, Christine Bonner, M Graham, Natalie Knox, Julia O\u2019Mahony, RA Marrie, AI Mirza, Gary Van Domselaar, E Waubant, Y Zhao, H Tremlett, EA Yeh",
-        "url": "https://doi.org/10.1016/j.msard.2026.108023",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "article",
-        "doi": "10.1016/j.msard.2026.108023",
-        "created": "2026-10-27"
-      }
-    }
-  },
-  "A5002629392": {
-    "Name": "Jeffrey R Brook",
-    "total_new": "1",
-    "publications": {
-      "W7239861392": {
-        "title": "The joint effect of long-term exposure to PM2.5and gaseous pollutants on cause-specific mortality: A longitudinal cohort study",
-        "year": "2026-10-01",
-        "publisher": "Environmental Epidemiology",
-        "author": "Wei Yi Chen, Shailesh Kumar Kharol, Jeffrey Robert Brook, Xiang Qian Lao",
-        "url": "https://doi.org/10.1097/01.ee9.0001296264.38605.de",
-        "firstOrLast": false,
-        "datasource": "OpenAlex",
-        "type": "article",
-        "doi": "10.1097/01.ee9.0001296264.38605.de",
-        "created": "2026-11-26"
+        "doi": "10.1016/j.vaccine.2026.129361",
+        "created": "2026-11-27"
       }
     }
   }
